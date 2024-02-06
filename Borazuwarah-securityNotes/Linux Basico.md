@@ -48,7 +48,7 @@
 Descargamos  el fichero  .deb
 una vez descargado
 Instalacion
-`dpkg -i {nombre de paquete.deb}`
+`dpkag -i {nombre de paquete.deb}`
 al hacerlo de esta forma se incorparan los repos al sistema y se actualizxará en futuros updates
 
 ## desisntalar aplicacion

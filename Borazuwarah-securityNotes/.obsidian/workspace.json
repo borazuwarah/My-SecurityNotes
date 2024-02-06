@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux Basico.md",
+                "file": "Ciberseguridad/METADATA.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux Basico.md",
+                "file": "Ciberseguridad/METADATA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux Basico.md",
+                "file": "Ciberseguridad/METADATA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux Basico.md"
+                "file": "Ciberseguridad/METADATA.md"
               }
             }
           }
@@ -171,9 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "617f5c576bf86476",
+  "active": "23fbb9f9a468fdae",
   "lastOpenFiles": [
     "Shell y Bash y MAN y NANO.md",
+    "Ciberseguridad/METADATA.md",
+    "Ciberseguridad",
     "Linux Basico.md",
     "¡Markdown Sintaxis!!!!.md",
     "Pantallazosn de  Obsidian/Pasted image 20240205005438.png",
