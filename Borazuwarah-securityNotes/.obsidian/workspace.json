@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "55b1286e573b12b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "86ed1e0a8572ff61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d48c1160b8e8fd15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "¡Markdown Sintaxis!!!!.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ba8eeeb3734ac573",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d520a7fff18512a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "617f5c576bf86476",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3bf1f43900647b52",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ac176dc9f8c803bf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "051125b8ec64e4d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d86e125106b31cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d220a684cfd7e86",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "¡Markdown Sintaxis!!!!.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "32468955dc05e872",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "¡Markdown Sintaxis!!!!.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b0280806d3160b0e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2d5dbfb8b91d2153",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "¡Markdown Sintaxis!!!!.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "d48c1160b8e8fd15",
+  "lastOpenFiles": [
+    "Pantallazosn de  Obsidian/Pasted image 20240205005438.png",
+    "Pantallazosn de  Obsidian/Pasted image 20240205005449.png",
+    "¡Markdown Sintaxis!!!!.md",
+    "Pantallazosn de  Obsidian",
+    "Pantallazosn de  Obsidian/Pasted image 20240205005414.png",
+    "Pantallazosn de  Obsidian/Pasted image 20240205005350.png",
+    "Pantallazosn de  Obsidian/Pasted image 20240205005318.png",
+    "Welcome.md"
+  ]
+}
