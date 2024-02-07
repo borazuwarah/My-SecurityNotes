@@ -10,11 +10,13 @@ primero debemos conocer cual es nuestra interfaz:
 
 `arp-scan -I {interfaz de red} --localnet` {eth0}
 >  `arp-scan -I etho --localnet` 
+>  ![[arp-scan.png]]
 
 ## nediscover
 primero debemos conocer la IP local con ifconfig
 `netdiscover -i {interfaz de red} -r ip.0/24`
 > netdiscover -i eth0 -r 192.168.1.0/24
+> ![[netdiscord.png]]
 
 
 
@@ -23,6 +25,7 @@ primero debemos conocer la IP local con ifconfig
 hacer un escaneo de la red con nmap
 `nmap -sn ip.0/24`
 >nmap -sn 192.168.1.0/24
+>![[nmap netdiscover.png]]
 
 para exportar la salida a un fichero
 > 'nmap -sn 192.168.1.0/24 -.N nombrefichero.txt'
@@ -30,11 +33,14 @@ para exportar la salida a un fichero
 
 # Reconocimiento
 
-LAS Direcciones MAC que empiezan por 08:00 ..... --> es una maquina virtual
+Las Direcciones MAC que empiezan por 08:00 ..... --> es una maquina virtual
+> ![[maquina virtual en reconocimiento.png]]
 
 # reconocer el Sistema Operativo
-ping -c IP
+ping -c1  IP
 
 
 ttl = 128 --> Windows
+> ![[ping ttl128 windows.png]]
 ttl = 64 --> Linux
+> ![[ping ttl64 Linux.png]]
