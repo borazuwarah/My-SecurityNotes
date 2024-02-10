@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "76c388d7abbd61d2",
+        "id": "e2e4dbeeccf020cf",
         "type": "tabs",
         "children": [
           {
-            "id": "0e4c84bc5fba3f5a",
+            "id": "ff360bf29f735fd5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Reconocimiento de la red.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86a44b675a5e9f21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciberseguridad/NMAP basicos.md",
+                "file": "Ciberseguridad/NMAP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "udp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/NMAP basicos.md",
+                "file": "Ciberseguridad/NMAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/NMAP basicos.md",
+                "file": "Ciberseguridad/NMAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/NMAP basicos.md"
+                "file": "Ciberseguridad/NMAP.md"
               }
             }
           }
@@ -159,8 +147,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "617f5c576bf86476",
+  "active": "ff360bf29f735fd5",
   "lastOpenFiles": [
+    "Ciberseguridad/NMAP.md",
+    "Ciberseguridad/Pantallazos/nmap en UDP.png",
+    "Ciberseguridad/Pantallazos/nmap Get CVE with script.png",
+    "Ciberseguridad/Pantallazos/nmap script vulen.png",
+    "Ciberseguridad/Reconocimiento de la red.md",
     "Ciberseguridad/Pantallazos/Reconocimiento/nmap a fichero -oN nombrefichero.png",
     "Pasted image 20240207010101.png",
     "Ciberseguridad/Pantallazos/Reconocimiento/nmap con -vvv.png",
@@ -168,12 +161,6 @@
     "Ciberseguridad/Pantallazos/Reconocimiento/nmap con -n.png",
     "Ciberseguridad/Pantallazos/Reconocimiento/nmap con -min-rate 5000.png",
     "Ciberseguridad/Pantallazos/Reconocimiento/nmap con -sV.png",
-    "Ciberseguridad/Pantallazos/Reconocimiento/nmap con -sC.png",
-    "Ciberseguridad/Pantallazos/Reconocimiento/nmap -sS.png",
-    "Ciberseguridad/Pantallazos/Reconocimiento/nmap --open puertos abiertos.png",
-    "Ciberseguridad/Pantallazos/Reconocimiento/nmap -p-.png",
-    "Ciberseguridad/Reconocimiento de la red.md",
-    "Ciberseguridad/NMAP basicos.md",
     "Linux Basico.md",
     "Obsidian/¡Markdown Sintaxis!!!!.md",
     "Ciberseguridad/Pantallazos/Reconocimiento",
