@@ -40,3 +40,21 @@ Para examenes oficiales min-rate 2000 / 1500  (para evitar saturar la red)
 
 -oN {nombreFichero} para exportar todo el escaneo a un fichero
 > ![[nmap a fichero -oN nombrefichero.png]]
+
+
+--script "vuln" --p{puerto encontrado} {ipobjetivo}
+Lanza un Script para saber si la Maquina victima tiene alguna vulnerabilidad conocida en ese puerto
+![[nmap script vulen.png]]
+
+Get the CVE
+![[nmap Get CVE with script.png]]
+
+
+
+----
+# NMAP en UDP
+
+nmap -sU enumeracion de puertos en UDP
+
+nmap -sU --top-ports 200 enumera los 200 puertos mas importantes en UDP
+![[nmap en UDP.png]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Reconocimiento de la red.md",
+                "file": "Ciberseguridad/METADATA.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Reconocimiento de la red.md",
+                "file": "Ciberseguridad/METADATA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Reconocimiento de la red.md",
+                "file": "Ciberseguridad/METADATA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Reconocimiento de la red.md"
+                "file": "Ciberseguridad/METADATA.md"
               }
             }
           }
@@ -148,10 +148,14 @@
   },
   "active": "de7a00636aaa9a64",
   "lastOpenFiles": [
-    "Ciberseguridad/NMAP basicos.md",
-    "Ciberseguridad/Reconocimiento de la red.md",
-    "Ciberseguridad/METADATA.md",
+    "Ciberseguridad/NMAP.md",
     "Shell y Bash y MAN y NANO.md",
+    "Ciberseguridad/Reconocimiento de la red.md",
+    "Ciberseguridad/Pantallazos/nmap script vulen.png",
+    "Ciberseguridad/Pantallazos/nmap en UDP.png",
+    "Ciberseguridad/Pantallazos/nmap Get CVE with script.png",
+    "Ciberseguridad/NMAP basicos.md",
+    "Ciberseguridad/METADATA.md",
     "Ciberseguridad",
     "Linux Basico.md",
     "¡Markdown Sintaxis!!!!.md",
