@@ -151,3 +151,18 @@ $$$$ x = \frac{-b \pm \sqrt{b^2 - 4ab}}{2a} $$
  ![[Pasted image 20240205005414.png]]
  ![[Pasted image 20240205005438.png]]
  ![[Pasted image 20240205005449.png]]
+ 
+---
+
+
+![[Pasted image 20240213224319.png]]
+
+
+![[Pasted image 20240213224413.png]]
+
+![[Pasted image 20240213224430.png]]
+
+![[Pasted image 20240213224444.png]]
+
+![[Pasted image 20240213224504.png]]
+

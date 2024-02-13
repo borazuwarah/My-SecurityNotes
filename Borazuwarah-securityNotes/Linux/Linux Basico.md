@@ -64,6 +64,14 @@ Actualizar los repositorios
 actualizar nuestro sistema a la ultima version tambien las aplicaciones
 `apt upgrade`
 
+# Cat
+cat sirve para ver el contenido de un fichero
+Cat nombre fichero muestra el fichero 
+![[cat fichero.png]]
+
+cat * muestra el contenido de todos los fiheros de la ruta donde estes
+![[cat multiples ficheros.png]]
+
 
 
 

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Webs Interesantes.md",
+                "file": "Obsidian/¡Markdown Sintaxis!!!!.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Webs Interesantes.md",
+                "file": "Obsidian/¡Markdown Sintaxis!!!!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Webs Interesantes.md",
+                "file": "Obsidian/¡Markdown Sintaxis!!!!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Webs Interesantes.md"
+                "file": "Obsidian/¡Markdown Sintaxis!!!!.md"
               }
             }
           }
@@ -161,24 +161,29 @@
   },
   "active": "7fbf77eb1fb5a7a0",
   "lastOpenFiles": [
-    "Ciberseguridad/METADATA.md",
+    "Pasted image 20240213224504.png",
+    "Pasted image 20240213224444.png",
+    "Pasted image 20240213224430.png",
+    "Pasted image 20240213224413.png",
+    "Obsidian/Pantallazosn de  Obsidian/Pasted image 20240213224319.png",
+    "Linux/Linux Basico.md",
+    "Linux/Imagenes/cat fichero.png",
+    "Linux/Imagenes/cat multiples ficheros.png",
+    "Linux/Shell y Bash y MAN y NANO.md",
+    "Linux/Imagenes",
+    "Linux",
     "Ciberseguridad/Webs Interesantes.md",
+    "Ciberseguridad/METADATA.md",
     "Ciberseguridad/NMAP.md",
-    "Shell y Bash y MAN y NANO.md",
     "Ciberseguridad/Reconocimiento de la red.md",
     "Ciberseguridad/Pantallazos/nmap script vulen.png",
     "Ciberseguridad/Pantallazos/nmap en UDP.png",
     "Ciberseguridad/Pantallazos/nmap Get CVE with script.png",
     "Ciberseguridad/NMAP basicos.md",
     "Ciberseguridad",
-    "Linux Basico.md",
     "¡Markdown Sintaxis!!!!.md",
     "Pantallazosn de  Obsidian/Pasted image 20240205005438.png",
-    "Pantallazosn de  Obsidian/Pasted image 20240205005449.png",
     "Pantallazosn de  Obsidian",
-    "Pantallazosn de  Obsidian/Pasted image 20240205005414.png",
-    "Pantallazosn de  Obsidian/Pasted image 20240205005350.png",
-    "Pantallazosn de  Obsidian/Pasted image 20240205005318.png",
     "Welcome.md"
   ]
 }
