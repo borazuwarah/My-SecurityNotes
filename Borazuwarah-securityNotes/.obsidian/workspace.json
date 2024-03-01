@@ -11,15 +11,26 @@
             "id": "ff360bf29f735fd5",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Ciberseguridad/CTFs/CHE/Pantallazos/GobusterData.png"
+              }
+            }
+          },
+          {
+            "id": "927d0ef5024ef6a7",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/NMAP.md",
+                "file": "Ciberseguridad/CTFs/CHE/Reto 2 PEPE FROG.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,8 +76,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/NMAP.md",
+                "file": "Ciberseguridad/CTFs/CHE/Reto 2 PEPE FROG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/NMAP.md",
+                "file": "Ciberseguridad/CTFs/CHE/Reto 2 PEPE FROG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/NMAP.md"
+                "file": "Ciberseguridad/CTFs/CHE/Reto 2 PEPE FROG.md"
               }
             }
           }
@@ -147,27 +157,36 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "ff360bf29f735fd5",
+  "active": "617f5c576bf86476",
   "lastOpenFiles": [
-    "Ciberseguridad/NMAP.md",
-    "Ciberseguridad/Pantallazos/nmap en UDP.png",
-    "Ciberseguridad/Pantallazos/nmap Get CVE with script.png",
-    "Ciberseguridad/Pantallazos/nmap script vulen.png",
-    "Ciberseguridad/Reconocimiento de la red.md",
-    "Ciberseguridad/Pantallazos/Reconocimiento/nmap a fichero -oN nombrefichero.png",
-    "Pasted image 20240207010101.png",
-    "Ciberseguridad/Pantallazos/Reconocimiento/nmap con -vvv.png",
-    "Ciberseguridad/Pantallazos/Reconocimiento/nmap -Pn.png",
-    "Ciberseguridad/Pantallazos/Reconocimiento/nmap con -n.png",
-    "Ciberseguridad/Pantallazos/Reconocimiento/nmap con -min-rate 5000.png",
-    "Ciberseguridad/Pantallazos/Reconocimiento/nmap con -sV.png",
+    "Ciberseguridad/CTFs/CHE/Pantallazos/userFlag.png",
+    "Ciberseguridad/CTFs/CHE/Pantallazos/root flag.png",
+    "Ciberseguridad/CTFs/CHE/Pantallazos/SSH User Connection.png",
+    "Ciberseguridad/CTFs/CHE/Pantallazos/steghide.png",
+    "Ciberseguridad/CTFs/CHE/Pantallazos/pepefrogweb.png",
+    "Ciberseguridad/Herramientas/Esteganografia.md",
+    "Ciberseguridad/CTFs/CHE/Reto 2 PEPE FROG.md",
+    "Ciberseguridad/CTFs/CHE/Pantallazos/DecodeSalvaconductoBase64.png",
+    "Ciberseguridad/CTFs/CHE/Pantallazos/imagenes encontradas.png",
+    "Ciberseguridad/CTFs/CHE/Pantallazos/gobuster.png",
+    "Ciberseguridad/CTFs/CHE/Pantallazos/GobusterData.png",
+    "Ciberseguridad/Herramientas/Gobuster.md",
+    "Ciberseguridad/Herramientas",
+    "Ciberseguridad/CTFs/CHE/Pantallazos/CodigoFuente.png",
+    "Ciberseguridad/CTFs/CHE/Pantallazos/pepefrogNmap.png",
     "Linux Basico.md",
+    "Ciberseguridad/CTFs/CHE/Pantallazos",
+    "Ciberseguridad/NMAP.md",
+    "Ciberseguridad/Reconocimiento de la red.md",
+    "Ciberseguridad/CTFs/CHE/OKLAT.md",
+    "Ciberseguridad/METADATA.md",
+    "Ciberseguridad/CTFs/CHE",
+    "Ciberseguridad/CTFs",
     "Obsidian/¡Markdown Sintaxis!!!!.md",
     "Ciberseguridad/Pantallazos/Reconocimiento",
     "Ciberseguridad/Pantallazos",
     "Shell y Bash y MAN y NANO.md",
     "Obsidian",
-    "Ciberseguridad/METADATA.md",
     "Ciberseguridad",
     "Obsidian/Pantallazosn de  Obsidian",
     "Welcome.md"

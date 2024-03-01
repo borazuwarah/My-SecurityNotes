@@ -30,7 +30,7 @@ Para examenes oficiales min-rate 2000 / 1500  (para evitar saturar la red)
 
 
 -n es para evitar hacer resolucion DNS
-> ![[nmap con -n.png]]
+> D]]
 
 -Pn "no ping" por si la maquina objetivo esta limintando el ping icmp
 >![[nmap -Pn.png]]
