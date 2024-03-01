@@ -145,6 +145,7 @@ $$$$ x = \frac{-b \pm \sqrt{b^2 - 4ab}}{2a} $$
 >DSFDFDFDF
 
 
+
  ![screenshot](./imágenes/2024-01-25_escritorio.jpg)#### Sea la sintaxis ![screenshot](./imágenes/2024-01-25_escritorio.jpg)# Examen markdonw
  ![[Pasted image 20240205005318.png]]
  ![[Pasted image 20240205005350.png]]
@@ -166,3 +167,20 @@ $$$$ x = \frac{-b \pm \sqrt{b^2 - 4ab}}{2a} $$
 
 ![[Pasted image 20240213224504.png]]
 
+
+
+
+---
+# ULTIMA
+
+![[Pasted image 20240219162623.png]]
+
+
+![[Pasted image 20240219162655.png]]
+
+![[Pasted image 20240219162706.png]]
+
+![[Pasted image 20240219162715.png]]
+
+
+![[Pasted image 20240219162726.png]]

@@ -11,9 +11,39 @@
             "id": "de7a00636aaa9a64",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Obsidian/Pantallazosn de  Obsidian/Pasted image 20240213224504.png"
+              }
+            }
+          },
+          {
+            "id": "1e5a20475ef4335b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Obsidian/Pantallazosn de  Obsidian/Pasted image 20240213224444.png"
+              }
+            }
+          },
+          {
+            "id": "c6ad203baf7258bf",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Obsidian/Pantallazosn de  Obsidian/Pasted image 20240213224430.png"
+              }
+            }
+          },
+          {
+            "id": "b65f04c5ecb583bf",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/METADATA.md",
+                "file": "Ciberseguridad/Webs Interesantes.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +55,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/¡Markdown Sintaxis!!!!.md",
+                "file": "Ciberseguridad/Webs Interesantes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/¡Markdown Sintaxis!!!!.md",
+                "file": "Ciberseguridad/Webs Interesantes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/¡Markdown Sintaxis!!!!.md",
+                "file": "Ciberseguridad/Webs Interesantes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/¡Markdown Sintaxis!!!!.md"
+                "file": "Ciberseguridad/Webs Interesantes.md"
               }
             }
           }
@@ -146,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,30 +188,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7fbf77eb1fb5a7a0",
+  "active": "b65f04c5ecb583bf",
   "lastOpenFiles": [
-    "Pasted image 20240213224504.png",
-    "Pasted image 20240213224444.png",
-    "Pasted image 20240213224430.png",
-    "Pasted image 20240213224413.png",
+    "Ciberseguridad/METADATA.md",
+    "Obsidian/¡Markdown Sintaxis!!!!.md",
+    "Pasted image 20240219162726.png",
+    "Pasted image 20240219162715.png",
+    "Pasted image 20240219162706.png",
+    "Pasted image 20240219162655.png",
+    "Pasted image 20240219162623.png",
+    "Obsidian/Pantallazosn de  Obsidian/Pasted image 20240213224413.png",
+    "Obsidian/Pantallazosn de  Obsidian/Pasted image 20240213224430.png",
+    "Obsidian/Pantallazosn de  Obsidian/Pasted image 20240213224444.png",
+    "Obsidian/Pantallazosn de  Obsidian/Pasted image 20240213224504.png",
+    "Ciberseguridad/Webs Interesantes.md",
     "Obsidian/Pantallazosn de  Obsidian/Pasted image 20240213224319.png",
     "Linux/Linux Basico.md",
-    "Linux/Imagenes/cat fichero.png",
-    "Linux/Imagenes/cat multiples ficheros.png",
     "Linux/Shell y Bash y MAN y NANO.md",
     "Linux/Imagenes",
     "Linux",
-    "Ciberseguridad/Webs Interesantes.md",
-    "Ciberseguridad/METADATA.md",
     "Ciberseguridad/NMAP.md",
     "Ciberseguridad/Reconocimiento de la red.md",
-    "Ciberseguridad/Pantallazos/nmap script vulen.png",
-    "Ciberseguridad/Pantallazos/nmap en UDP.png",
-    "Ciberseguridad/Pantallazos/nmap Get CVE with script.png",
     "Ciberseguridad/NMAP basicos.md",
     "Ciberseguridad",
     "¡Markdown Sintaxis!!!!.md",
-    "Pantallazosn de  Obsidian/Pasted image 20240205005438.png",
     "Pantallazosn de  Obsidian",
     "Welcome.md"
   ]
