@@ -11,3 +11,15 @@ Test Linux Distro online in your browser:
 
 
 
+# Web dedicada al hacking ético:
+https://rinku.tech/
+
+## Curso de KALI
+
+https://rinku.tech/curso-kali-linux/
+
+# la web de ciberseguridad de Jackie
+https://j4ckie0x17.gitbook.io/notes-pentesting/
+
+
+

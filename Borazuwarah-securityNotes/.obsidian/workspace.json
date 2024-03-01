@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/CTFs/CHE/Reto 2 PEPE FROG.md",
+                "file": "Ciberseguridad/Webs Interesantes.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/CTFs/CHE/Reto 2 PEPE FROG.md",
+                "file": "Ciberseguridad/Webs Interesantes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/CTFs/CHE/Reto 2 PEPE FROG.md",
+                "file": "Ciberseguridad/Webs Interesantes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/CTFs/CHE/Reto 2 PEPE FROG.md"
+                "file": "Ciberseguridad/Webs Interesantes.md"
               }
             }
           }
@@ -157,8 +157,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "617f5c576bf86476",
+  "active": "927d0ef5024ef6a7",
   "lastOpenFiles": [
+    "Ciberseguridad/CTFs/CHE/Reto 2 PEPE FROG.md",
     "Pasted image 20240219162726.png",
     "Pasted image 20240219162715.png",
     "Pasted image 20240219162706.png",
@@ -169,14 +170,12 @@
     "Obsidian/Pantallazosn de  Obsidian/Pasted image 20240213224430.png",
     "Obsidian/Pantallazosn de  Obsidian/Pasted image 20240213224413.png",
     "Obsidian/Pantallazosn de  Obsidian/Pasted image 20240213224319.png",
-    "Linux/Imagenes/cat multiples ficheros.png",
     "Linux/Shell y Bash y MAN y NANO.md",
     "Linux/Linux Basico.md",
     "Linux/Imagenes",
     "Linux",
     "Ciberseguridad/Webs Interesantes.md",
     "Ciberseguridad/Herramientas/Esteganografia.md",
-    "Ciberseguridad/CTFs/CHE/Reto 2 PEPE FROG.md",
     "Ciberseguridad/Herramientas/Gobuster.md",
     "Ciberseguridad/Herramientas",
     "Linux Basico.md",
