@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Webs Interesantes.md",
+                "file": "Ciberseguridad/Reconocimiento de la red.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Webs Interesantes.md",
+                "file": "Ciberseguridad/Reconocimiento de la red.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Webs Interesantes.md",
+                "file": "Ciberseguridad/Reconocimiento de la red.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Webs Interesantes.md"
+                "file": "Ciberseguridad/Reconocimiento de la red.md"
               }
             }
           }
@@ -188,8 +188,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "617f5c576bf86476",
+  "active": "b65f04c5ecb583bf",
   "lastOpenFiles": [
+    "Ciberseguridad/METADATA.md",
+    "Ciberseguridad/NMAP.md",
+    "Ciberseguridad/Webs Interesantes.md",
     "Ciberseguridad/Herramientas/Gobuster.md",
     "Ciberseguridad/Herramientas/Esteganografia.md",
     "Ciberseguridad/Herramientas",
@@ -208,14 +211,11 @@
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/OKLAT.md",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)",
     "Ciberseguridad/CTFs",
-    "Ciberseguridad/METADATA.md",
     "Obsidian/¡Markdown Sintaxis!!!!.md",
-    "Ciberseguridad/Webs Interesantes.md",
     "Linux/Linux Basico.md",
     "Linux/Shell y Bash y MAN y NANO.md",
     "Linux/Imagenes",
     "Linux",
-    "Ciberseguridad/NMAP.md",
     "Ciberseguridad/Reconocimiento de la red.md",
     "Ciberseguridad/NMAP basicos.md",
     "Ciberseguridad",
