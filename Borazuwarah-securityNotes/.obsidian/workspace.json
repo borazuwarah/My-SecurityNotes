@@ -11,8 +11,12 @@
             "id": "0c3c75a1586b96a5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/Obsidian examen imagenes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -27,6 +31,7 @@
       {
         "id": "4d520a7fff18512a",
         "type": "tabs",
+        "dimension": 63.559322033898304,
         "children": [
           {
             "id": "617f5c576bf86476",
@@ -66,13 +71,16 @@
       {
         "id": "3b2ee955ca88fa91",
         "type": "tabs",
+        "dimension": 36.440677966101696,
         "children": [
           {
             "id": "2d5dbfb8b91d2153",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Obsidian/Obsidian examen imagenes.md"
+              }
             }
           }
         ]
@@ -95,6 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Obsidian/Obsidian examen imagenes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -129,6 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Obsidian/Obsidian examen imagenes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Obsidian/Obsidian examen imagenes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,33 +192,36 @@
       "random-note:Abrir nota al azar": false
     }
   },
-  "active": "0c3c75a1586b96a5",
+  "active": "617f5c576bf86476",
   "lastOpenFiles": [
+    "Obsidian/Pantallazosn de  Obsidian/examen2 pregunta 10.png",
+    "Obsidian/Pantallazosn de  Obsidian/examen 2 pregunta 9.png",
+    "Obsidian/Pantallazosn de  Obsidian/examen2 pregunta 8.png",
+    "Obsidian/Pantallazosn de  Obsidian/examen 2 pregunta 7.png",
+    "Obsidian/Pantallazosn de  Obsidian/examen 2 pregunta 6.png",
+    "Obsidian/Obsidian Esta es una nueva Nota para pruebas.md",
+    "Obsidian/Pantallazosn de  Obsidian/examen2 pregunta 5.png",
+    "Obsidian/Pantallazosn de  Obsidian/exam2pregunta1.png",
+    "Obsidian/Obsidian examen imagenes.md",
+    "Obsidian/Pantallazosn de  Obsidian/Examen2 pregunta 4.png",
+    "Obsidian/Pantallazosn de  Obsidian/Examen2pregunta3.png",
+    "Obsidian/Pantallazosn de  Obsidian/Examen2pregunta2.png",
+    "Obsidian/Canvas 1 prueba.canvas",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF RETO 1 OKLAT.md",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG.md",
     "Ciberseguridad/NMAP.md",
-    "Obsidian Esta es una nueva Nota para pruebas.md",
     "Obsidian/Obsidian ¡Markdown Sintaxis!!!!.md",
     "Obsidian/Pantallazosn de  Obsidian/Pasted image 20240213224504.png",
     "Ciberseguridad/Reconocimiento de la red.md",
-    "Obsidian/Pantallazosn de  Obsidian/Pasted image 20240213224444.png",
     "Obsidian/Configuracion Obsidian.md",
     "Obsidian/Pantallazosn de  Obsidian/primeraNotaDeaudio.webm",
     "Recording 20240305111143.webm",
     "Linux/Shell y Bash y MAN y NANO.md",
-    "Obsidian/Pantallazosn de  Obsidian/Pasted image 20240213224430.png",
-    "Obsidian/Pantallazosn de  Obsidian/Obsi configuration.png",
-    "Pasted image 20240219162655.png",
-    "Pasted image 20240219162706.png",
-    "Pasted image 20240219162715.png",
-    "Pasted image 20240219162726.png",
-    "Pasted image 20240219162623.png",
     "Ciberseguridad/METADATA.md",
     "Ciberseguridad/Webs Interesantes.md",
     "Ciberseguridad/Herramientas/Gobuster.md",
     "Ciberseguridad/Herramientas/Esteganografia.md",
     "Ciberseguridad/Herramientas",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/userFlag.png",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)",
     "Ciberseguridad/CTFs",

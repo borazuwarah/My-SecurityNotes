@@ -5,7 +5,7 @@ Fragmento de codigo pequeñito de CSS que permite cambiar la apariuencia de algo
 
 
 ## plugings
-Son funcionalidades que están escritos en Javascript 
+Son funcionalidades que están escritos en Javascript  ^da3238
 
 ## Archivos y Carpetas
 Obsidian lo maneja en formato Markdow es importante que siempre que se mueva un archivo  siempre se haga desde dentro de obsidian para que actualice las rutas relativas a todos los ficheros que hagan referencia a ese fichero
