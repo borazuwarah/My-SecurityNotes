@@ -1,6 +1,6 @@
 Con el reconocimiento de la red vemos los equipos que están conectados a nuestra red
 
-Enumerar Ips disponibles en nuestra red:
+Enumerar y encontrar  Ips disponibles en nuestra red:
 Las maquinas virtuales empiezan por 00:0
 
 ## Tools
@@ -34,7 +34,7 @@ para exportar la salida a un fichero
 
 # Reconocimiento
 
-Las Direcciones MAC que empiezan por 08:00 ..... --> es una maquina virtual
+Las Direcciones MAC que empiezan por :00:XXXX ..... --> es una maquina virtual
 > ![[maquina virtual en reconocimiento.png]]
 
 # reconocer el Sistema Operativo

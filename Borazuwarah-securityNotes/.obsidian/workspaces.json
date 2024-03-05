@@ -1,0 +1,395 @@
+{
+  "workspaces": {
+    "disposicion inicial": {
+      "main": {
+        "id": "55b1286e573b12b9",
+        "type": "split",
+        "children": [
+          {
+            "id": "f1be32c19448cf5b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "de7a00636aaa9a64",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Obsidian/Pantallazosn de  Obsidian/Pasted image 20240213224504.png"
+                  }
+                }
+              },
+              {
+                "id": "1e5a20475ef4335b",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Obsidian/Pantallazosn de  Obsidian/Pasted image 20240213224444.png"
+                  }
+                }
+              },
+              {
+                "id": "c6ad203baf7258bf",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ciberseguridad/Reconocimiento de la red.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "b65f04c5ecb583bf",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              },
+              {
+                "id": "7fbf77eb1fb5a7a0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Ciberseguridad/Webs Interesantes.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "ba8eeeb3734ac573",
+        "type": "split",
+        "children": [
+          {
+            "id": "4d520a7fff18512a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "617f5c576bf86476",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "ac176dc9f8c803bf",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "a20a1149c93a55f5",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "disponibles",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "051125b8ec64e4d2",
+        "type": "split",
+        "children": [
+          {
+            "id": "8d86e125106b31cd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8d220a684cfd7e86",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Ciberseguridad/Reconocimiento de la red.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "32468955dc05e872",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Ciberseguridad/Reconocimiento de la red.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "b0280806d3160b0e",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "2d5dbfb8b91d2153",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Ciberseguridad/Reconocimiento de la red.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "graph:Abrir vista gráfica": false,
+          "switcher:Abrir selector rápido": false,
+          "daily-notes:Abrir la nota de hoy": false,
+          "templates:Insertar plantilla": false,
+          "command-palette:Abrir paleta de comandos": false,
+          "canvas:Crear nuevo canvas": false,
+          "audio-recorder:Empezar/Parar de grabar": false,
+          "workspaces:Gestionar disposiciones de espacio de trabajo": false,
+          "markdown-importer:Abrir el importador de Markdown": false,
+          "random-note:Abrir nota al azar": false
+        }
+      },
+      "active": "a20a1149c93a55f5"
+    },
+    "Galán": {
+      "main": {
+        "id": "55b1286e573b12b9",
+        "type": "split",
+        "children": [
+          {
+            "id": "c40dc8ae45f3153a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0c3c75a1586b96a5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Obsidian/¡Markdown Sintaxis!!!!.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "ba8eeeb3734ac573",
+        "type": "split",
+        "children": [
+          {
+            "id": "4d520a7fff18512a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "617f5c576bf86476",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "ac176dc9f8c803bf",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              },
+              {
+                "id": "a20a1149c93a55f5",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "disponibles",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "3b2ee955ca88fa91",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2d5dbfb8b91d2153",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Obsidian/¡Markdown Sintaxis!!!!.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "051125b8ec64e4d2",
+        "type": "split",
+        "children": [
+          {
+            "id": "8d86e125106b31cd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7758485111efe45e",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Obsidian/¡Markdown Sintaxis!!!!.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": false
+                    }
+                  }
+                }
+              },
+              {
+                "id": "8d220a684cfd7e86",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Obsidian/¡Markdown Sintaxis!!!!.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "32468955dc05e872",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Obsidian/¡Markdown Sintaxis!!!!.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "b0280806d3160b0e",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "graph:Abrir vista gráfica": false,
+          "switcher:Abrir selector rápido": false,
+          "daily-notes:Abrir la nota de hoy": false,
+          "templates:Insertar plantilla": false,
+          "command-palette:Abrir paleta de comandos": false,
+          "canvas:Crear nuevo canvas": false,
+          "audio-recorder:Empezar/Parar de grabar": false,
+          "workspaces:Gestionar disposiciones de espacio de trabajo": false,
+          "markdown-importer:Abrir el importador de Markdown": false,
+          "random-note:Abrir nota al azar": false
+        }
+      },
+      "active": "0c3c75a1586b96a5"
+    }
+  },
+  "active": "Galán"
+}
