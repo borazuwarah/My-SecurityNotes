@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Obsidian examen imagenes.md",
+                "file": "Ciberseguridad/Herramientas/Capturar la pantalla.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,7 +79,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Obsidian examen imagenes.md"
+                "file": "Ciberseguridad/Herramientas/Capturar la pantalla.md"
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Obsidian/Obsidian examen imagenes.md",
+                "file": "Ciberseguridad/Herramientas/Capturar la pantalla.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Obsidian examen imagenes.md",
+                "file": "Ciberseguridad/Herramientas/Capturar la pantalla.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Obsidian examen imagenes.md",
+                "file": "Ciberseguridad/Herramientas/Capturar la pantalla.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,20 +180,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Crear nuevo lienzo": false,
       "graph:Abrir vista gráfica": false,
       "switcher:Abrir selector rápido": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "canvas:Crear nuevo canvas": false,
       "audio-recorder:Empezar/Parar de grabar": false,
       "workspaces:Gestionar disposiciones de espacio de trabajo": false,
       "markdown-importer:Abrir el importador de Markdown": false,
       "random-note:Abrir nota al azar": false
     }
   },
-  "active": "617f5c576bf86476",
+  "active": "0c3c75a1586b96a5",
   "lastOpenFiles": [
+    "Obsidian/Obsidian examen imagenes.md",
+    "Ciberseguridad/Herramientas/Capturar la pantalla.md",
     "Obsidian/Pantallazosn de  Obsidian/examen2 pregunta 10.png",
     "Obsidian/Pantallazosn de  Obsidian/examen 2 pregunta 9.png",
     "Obsidian/Pantallazosn de  Obsidian/examen2 pregunta 8.png",
@@ -202,7 +204,6 @@
     "Obsidian/Obsidian Esta es una nueva Nota para pruebas.md",
     "Obsidian/Pantallazosn de  Obsidian/examen2 pregunta 5.png",
     "Obsidian/Pantallazosn de  Obsidian/exam2pregunta1.png",
-    "Obsidian/Obsidian examen imagenes.md",
     "Obsidian/Pantallazosn de  Obsidian/Examen2 pregunta 4.png",
     "Obsidian/Pantallazosn de  Obsidian/Examen2pregunta3.png",
     "Obsidian/Pantallazosn de  Obsidian/Examen2pregunta2.png",
@@ -211,7 +212,6 @@
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG.md",
     "Ciberseguridad/NMAP.md",
     "Obsidian/Obsidian ¡Markdown Sintaxis!!!!.md",
-    "Obsidian/Pantallazosn de  Obsidian/Pasted image 20240213224504.png",
     "Ciberseguridad/Reconocimiento de la red.md",
     "Obsidian/Configuracion Obsidian.md",
     "Obsidian/Pantallazosn de  Obsidian/primeraNotaDeaudio.webm",
