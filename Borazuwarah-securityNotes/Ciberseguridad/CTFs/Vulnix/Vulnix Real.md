@@ -29,7 +29,10 @@ Vemos la web que encontramos:
 Web es la web de apache 2 por defecto
 Hacemos Gobuster para intentar encontrar  diferentes rutas de la web (por si existe algo fuera del index)
 
-sudo gobuster dir -u http://192.168.1.140/ -w /usr/share/wordlists/seclists/Discovery/Web-Content/directory-list-lowercase-2.3-medium.txt
+
+![[VulnixReal goobuster.png]]
+Pero no encontramos nada
+podemos seguir intentando fuzz y gobuster subdomains
 
 De la web no sacamos nada
 Pasamos al siguiente puerto 6667

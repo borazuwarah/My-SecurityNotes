@@ -65,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,10 +149,12 @@
       "random-note:Abrir nota al azar": false
     }
   },
-  "active": "8d220a684cfd7e86",
+  "active": "b65f04c5ecb583bf",
   "lastOpenFiles": [
-    "Pasted image 20240307000337.png",
+    "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/VulnixReal goobuster.png",
     "Ciberseguridad/CTFs/Vulnix/Vulnix Real.md",
+    "Ciberseguridad/Reconocimiento de la red.md",
+    "Pasted image 20240307000337.png",
     "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/Reconocimiento VulnixReal.png",
     "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/Pasted image 20240306235939.png",
     "Ciberseguridad/CTFs/Vulnix/Pantallazos",
@@ -168,14 +169,12 @@
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/CodigoFuente.png",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/DecodeSalvaconductoBase64.png",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/gobuster.png",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/root flag.png",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Sin título.md",
     "Ciberseguridad/Herramientas/Gobuster.md",
     "Ciberseguridad/NMAP.md",
     "Ciberseguridad/METADATA.md",
     "Ciberseguridad/Herramientas/Esteganografia.md",
-    "Ciberseguridad/Reconocimiento de la red.md",
     "Obsidian/Obsidian examen imagenes.md",
     "Obsidian/Obsidian Esta es una nueva Nota para pruebas.md",
     "Obsidian/Canvas 1 prueba.canvas",
