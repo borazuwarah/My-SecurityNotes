@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/CTFs/Vulnix/Vulnix Real.md",
+                "file": "Ciberseguridad/Webs Interesantes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/CTFs/Vulnix/Vulnix Real.md",
+                "file": "Ciberseguridad/Webs Interesantes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/CTFs/Vulnix/Vulnix Real.md",
+                "file": "Ciberseguridad/Webs Interesantes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/CTFs/Vulnix/Vulnix Real.md"
+                "file": "Ciberseguridad/Webs Interesantes.md"
               }
             }
           }
@@ -151,8 +151,8 @@
   },
   "active": "b65f04c5ecb583bf",
   "lastOpenFiles": [
-    "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/VulnixReal goobuster.png",
     "Ciberseguridad/CTFs/Vulnix/Vulnix Real.md",
+    "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/VulnixReal goobuster.png",
     "Ciberseguridad/Reconocimiento de la red.md",
     "Pasted image 20240307000337.png",
     "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/Reconocimiento VulnixReal.png",
