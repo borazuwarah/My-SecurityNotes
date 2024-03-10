@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/CTFs/Vulnix/Vulnix Real.md",
+                "file": "Ciberseguridad/Herramientas/SQLMAP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/CTFs/Vulnix/Vulnix Real.md",
+                "file": "Ciberseguridad/Herramientas/SQLMAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/CTFs/Vulnix/Vulnix Real.md",
+                "file": "Ciberseguridad/Herramientas/SQLMAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/CTFs/Vulnix/Vulnix Real.md"
+                "file": "Ciberseguridad/Herramientas/SQLMAP.md"
               }
             }
           }
@@ -149,13 +149,14 @@
       "random-note:Abrir nota al azar": false
     }
   },
-  "active": "617f5c576bf86476",
+  "active": "b65f04c5ecb583bf",
   "lastOpenFiles": [
+    "Ciberseguridad/CTFs/Vulnix/Vulnix Real.md",
+    "Ciberseguridad/Herramientas/SQLMAP.md",
     "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/vulnyx - real pspy64.png",
     "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/vulnix - real linpeas.png",
     "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/vulnix- real -passwd.png",
     "Ciberseguridad/Webs Interesantes.md",
-    "Ciberseguridad/CTFs/Vulnix/Vulnix Real.md",
     "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/vulknix real -comando id para ver el usuario.png",
     "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/vulnix real - user server flag.png",
     "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/acceso con user serve vulnix real.png",
@@ -163,7 +164,6 @@
     "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/vulnix - real connection reverse proxy.png",
     "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/vulnix - real send exploit.png",
     "Pasted image 20240310190629.png",
-    "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/vulnix real reverse shell en escucha.png",
     "Ciberseguridad/Reconocimiento de la red.md",
     "Ciberseguridad/CTFs/Vulnix/Pantallazos",
     "Ciberseguridad/CTFs/Vulnix",
