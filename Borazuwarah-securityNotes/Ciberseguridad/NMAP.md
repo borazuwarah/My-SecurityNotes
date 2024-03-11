@@ -1,4 +1,4 @@
-Escaneos basicos con Nmap
+	sudo  Escaneos basicos con Nmap
 Reconocimiento de puertos
 
 `nmap {ip maquina}` hace un reconocimiento de puertos

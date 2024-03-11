@@ -4,6 +4,7 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "d93dc521c51f3c71",
         "type": "tabs",
         "children": [
@@ -13,6 +14,21 @@
             "state": {
               "type": "empty",
               "state": {}
+=======
+        "id": "f1be32c19448cf5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b65f04c5ecb583bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciberseguridad/Herramientas/SQLMAP.md",
+                "mode": "source",
+                "source": false
+              }
+>>>>>>> 31360865d5839e3ead8070e793f89ed051daa6c9
             }
           }
         ]
@@ -27,7 +43,6 @@
       {
         "id": "4d520a7fff18512a",
         "type": "tabs",
-        "dimension": 63.559322033898304,
         "children": [
           {
             "id": "617f5c576bf86476",
@@ -53,29 +68,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "disponibles",
+                "query": "tag:#reverseshellpython",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "3b2ee955ca88fa91",
-        "type": "tabs",
-        "dimension": 36.440677966101696,
-        "children": [
-          {
-            "id": "2d5dbfb8b91d2153",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Obsidian/Obsidian examen imagenes.md"
               }
             }
           }
@@ -94,47 +92,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7758485111efe45e",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Obsidian/Obsidian examen imagenes.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            }
-          },
-          {
             "id": "8d220a684cfd7e86",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Obsidian examen imagenes.md",
+                "file": "Ciberseguridad/Herramientas/SQLMAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Obsidian examen imagenes.md",
+                "file": "Ciberseguridad/Herramientas/SQLMAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +127,17 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "2d5dbfb8b91d2153",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ciberseguridad/Herramientas/SQLMAP.md"
               }
             }
           }
@@ -188,8 +161,9 @@
       "random-note:Abrir nota al azar": false
     }
   },
-  "active": "617f5c576bf86476",
+  "active": "b65f04c5ecb583bf",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Obsidian/Pantallazosn de  Obsidian/respuestamal.png",
     "Obsidian/Pantallazosn de  Obsidian/examen2 pregunta 10.png",
     "Obsidian/Pantallazosn de  Obsidian/examen 2 pregunta 9.png",
@@ -199,35 +173,53 @@
     "Obsidian/Obsidian Esta es una nueva Nota para pruebas.md",
     "Obsidian/Pantallazosn de  Obsidian/examen2 pregunta 5.png",
     "Obsidian/Pantallazosn de  Obsidian/exam2pregunta1.png",
+=======
+    "Ciberseguridad/CTFs/Vulnix/Vulnix Real.md",
+    "Ciberseguridad/Herramientas/SQLMAP.md",
+    "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/vulnyx - real pspy64.png",
+    "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/vulnix - real linpeas.png",
+    "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/vulnix- real -passwd.png",
+    "Ciberseguridad/Webs Interesantes.md",
+    "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/vulknix real -comando id para ver el usuario.png",
+    "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/vulnix real - user server flag.png",
+    "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/acceso con user serve vulnix real.png",
+    "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/use2 vulnix real.png",
+    "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/vulnix - real connection reverse proxy.png",
+    "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/vulnix - real send exploit.png",
+    "Pasted image 20240310190629.png",
+    "Ciberseguridad/Reconocimiento de la red.md",
+    "Ciberseguridad/CTFs/Vulnix/Pantallazos",
+    "Ciberseguridad/CTFs/Vulnix",
+    "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG.md",
+    "Ciberseguridad/Herramientas/Capturar la pantalla.md",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Sin título.md",
+    "Ciberseguridad/Herramientas/Gobuster.md",
+    "Ciberseguridad/NMAP.md",
+    "Ciberseguridad/METADATA.md",
+    "Ciberseguridad/Herramientas/Esteganografia.md",
+>>>>>>> 31360865d5839e3ead8070e793f89ed051daa6c9
     "Obsidian/Obsidian examen imagenes.md",
-    "Obsidian/Pantallazosn de  Obsidian/Examen2 pregunta 4.png",
-    "Obsidian/Pantallazosn de  Obsidian/Examen2pregunta3.png",
-    "Obsidian/Pantallazosn de  Obsidian/Examen2pregunta2.png",
+    "Obsidian/Obsidian Esta es una nueva Nota para pruebas.md",
     "Obsidian/Canvas 1 prueba.canvas",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF RETO 1 OKLAT.md",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG.md",
-    "Ciberseguridad/NMAP.md",
     "Obsidian/Obsidian ¡Markdown Sintaxis!!!!.md",
+<<<<<<< HEAD
     "Ciberseguridad/Reconocimiento de la red.md",
+=======
+>>>>>>> 31360865d5839e3ead8070e793f89ed051daa6c9
     "Obsidian/Configuracion Obsidian.md",
     "Obsidian/Pantallazosn de  Obsidian/primeraNotaDeaudio.webm",
     "Recording 20240305111143.webm",
     "Linux/Shell y Bash y MAN y NANO.md",
-    "Ciberseguridad/METADATA.md",
-    "Ciberseguridad/Webs Interesantes.md",
-    "Ciberseguridad/Herramientas/Gobuster.md",
-    "Ciberseguridad/Herramientas/Esteganografia.md",
     "Ciberseguridad/Herramientas",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)",
     "Ciberseguridad/CTFs",
     "Linux/Linux Basico.md",
-    "Linux/Imagenes",
-    "Linux",
     "Ciberseguridad/NMAP basicos.md",
-    "Ciberseguridad",
     "¡Markdown Sintaxis!!!!.md",
-    "Pantallazosn de  Obsidian",
     "Welcome.md"
   ]
 }

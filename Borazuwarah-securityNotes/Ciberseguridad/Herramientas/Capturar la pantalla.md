@@ -1,0 +1,2 @@
+Flameshot
+https://flameshot.org
