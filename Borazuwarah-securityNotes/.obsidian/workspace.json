@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c40dc8ae45f3153a",
+        "id": "d93dc521c51f3c71",
         "type": "tabs",
         "children": [
           {
-            "id": "0c3c75a1586b96a5",
+            "id": "f9e516f8a9c56749",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/Obsidian examen imagenes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -180,12 +176,12 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Crear nuevo lienzo": false,
       "graph:Abrir vista gráfica": false,
       "switcher:Abrir selector rápido": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "canvas:Crear nuevo canvas": false,
       "audio-recorder:Empezar/Parar de grabar": false,
       "workspaces:Gestionar disposiciones de espacio de trabajo": false,
       "markdown-importer:Abrir el importador de Markdown": false,
@@ -194,6 +190,7 @@
   },
   "active": "617f5c576bf86476",
   "lastOpenFiles": [
+    "Obsidian/Pantallazosn de  Obsidian/respuestamal.png",
     "Obsidian/Pantallazosn de  Obsidian/examen2 pregunta 10.png",
     "Obsidian/Pantallazosn de  Obsidian/examen 2 pregunta 9.png",
     "Obsidian/Pantallazosn de  Obsidian/examen2 pregunta 8.png",
@@ -211,7 +208,6 @@
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG.md",
     "Ciberseguridad/NMAP.md",
     "Obsidian/Obsidian ¡Markdown Sintaxis!!!!.md",
-    "Obsidian/Pantallazosn de  Obsidian/Pasted image 20240213224504.png",
     "Ciberseguridad/Reconocimiento de la red.md",
     "Obsidian/Configuracion Obsidian.md",
     "Obsidian/Pantallazosn de  Obsidian/primeraNotaDeaudio.webm",
