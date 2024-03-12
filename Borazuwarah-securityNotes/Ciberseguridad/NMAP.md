@@ -2,14 +2,30 @@
 Reconocimiento de puertos
 
 `nmap {ip maquina}` hace un reconocimiento de puertos
+
+```sh fold:"nmap directo sin parametros"
+sudo  nmap 192.168.1.X
+```
 > nmap 192.168.1.137
 > ![[nmap basico.png]]
 
 ## Parametros
+
 -p- mirará todos los puertos que pueda tener  esa maquina 
+
+
+```sh fold:"nmap para ver los puertos en la máquina"
+sudo  -p- nmap 192.168.1.X
+```
+
 > ![[nmap -p-.png]]
 
 --open muestra los puertos abiertos que pueda tener esa maquina
+
+
+```sh fold:"nmap directo sin parametros"
+sudo  nmap 192.168.1.X
+```
 > ![[nmap --open puertos abiertos.png]]
 
 -sS para que sea rapido el scaneo "simple scan"
