@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Herramientas/SQLMAP.md",
+                "file": "Ciberseguridad/Webs Interesantes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3ac3a40c9ec5f0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciberseguridad/Escalada de privilegios en LINUX.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Herramientas/SQLMAP.md",
+                "file": "Ciberseguridad/Escalada de privilegios en LINUX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Herramientas/SQLMAP.md",
+                "file": "Ciberseguridad/Escalada de privilegios en LINUX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Herramientas/SQLMAP.md"
+                "file": "Ciberseguridad/Escalada de privilegios en LINUX.md"
               }
             }
           }
@@ -149,14 +162,15 @@
       "random-note:Abrir nota al azar": false
     }
   },
-  "active": "b65f04c5ecb583bf",
+  "active": "e3ac3a40c9ec5f0b",
   "lastOpenFiles": [
-    "Ciberseguridad/CTFs/Vulnix/Vulnix Real.md",
+    "Ciberseguridad/Webs Interesantes.md",
+    "Ciberseguridad/Escalada de privilegios en LINUX.md",
     "Ciberseguridad/Herramientas/SQLMAP.md",
+    "Ciberseguridad/CTFs/Vulnix/Vulnix Real.md",
     "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/vulnyx - real pspy64.png",
     "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/vulnix - real linpeas.png",
     "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/vulnix- real -passwd.png",
-    "Ciberseguridad/Webs Interesantes.md",
     "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/vulknix real -comando id para ver el usuario.png",
     "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/vulnix real - user server flag.png",
     "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/acceso con user serve vulnix real.png",
