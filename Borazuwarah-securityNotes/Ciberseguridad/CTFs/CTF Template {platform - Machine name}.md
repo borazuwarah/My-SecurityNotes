@@ -88,3 +88,19 @@ Herramienta que extrae informacion de una web  (Reconocimiento)
 
 # Escalada de privilegios
 ## Enumeracion basica sistema
+
+
+# Flags
+### USER
+
+```sh fold:"User:"
+
+  
+
+```
+### Root
+
+```sh fold:"User:Root"
+
+  
+```
