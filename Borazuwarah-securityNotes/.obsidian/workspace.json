@@ -1,34 +1,52 @@
 {
   "main": {
-    "id": "55b1286e573b12b9",
+    "id": "d3f2e02f076cb59d",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "d93dc521c51f3c71",
+        "id": "6d6e109f0794fe9b",
         "type": "tabs",
         "children": [
           {
-            "id": "f9e516f8a9c56749",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-=======
-        "id": "f1be32c19448cf5b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b65f04c5ecb583bf",
+            "id": "a220e4d67b70ed27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Herramientas/SQLMAP.md",
+                "file": "Ciberseguridad/Herramientas/Webs.md",
                 "mode": "source",
                 "source": false
               }
->>>>>>> 31360865d5839e3ead8070e793f89ed051daa6c9
+            }
+          }
+        ]
+      },
+      {
+        "id": "025f2a797cdcc127",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf3a8b2737670171",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciberseguridad/CTFs/CTF Template {platform - Machine name}.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c482b1fa3b33be10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciberseguridad/Reconocimiento de la red.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -37,15 +55,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ba8eeeb3734ac573",
+    "id": "e54215a88d5dc53b",
     "type": "split",
     "children": [
       {
-        "id": "4d520a7fff18512a",
+        "id": "e3ad3e3a55010066",
         "type": "tabs",
         "children": [
           {
-            "id": "617f5c576bf86476",
+            "id": "e76b76c2330257f4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -55,20 +73,12 @@
             }
           },
           {
-            "id": "ac176dc9f8c803bf",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "a20a1149c93a55f5",
+            "id": "0919dc7673ff0f21",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#reverseshellpython",
+                "query": "escala",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,28 +86,37 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "14a502cc6ff431ad",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "051125b8ec64e4d2",
+    "id": "9c0cb042e8ee7009",
     "type": "split",
     "children": [
       {
-        "id": "8d86e125106b31cd",
+        "id": "c199625e1fbd90ec",
         "type": "tabs",
         "children": [
           {
-            "id": "8d220a684cfd7e86",
+            "id": "f1c86b641b3ad941",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Herramientas/SQLMAP.md",
+                "file": "Ciberseguridad/CTFs/CTF Template {platform - Machine name}.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,35 +128,35 @@
             }
           },
           {
-            "id": "32468955dc05e872",
+            "id": "e94ecf660e098864",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Herramientas/SQLMAP.md",
+                "file": "Ciberseguridad/CTFs/CTF Template {platform - Machine name}.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "b0280806d3160b0e",
+            "id": "930319ee32d556f3",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "2d5dbfb8b91d2153",
+            "id": "05ff33b102d9b7d6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Herramientas/SQLMAP.md"
+                "file": "Ciberseguridad/CTFs/CTF Template {platform - Machine name}.md"
               }
             }
           }
@@ -145,81 +164,40 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:Crear nuevo lienzo": false,
-      "graph:Abrir vista gráfica": false,
       "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "audio-recorder:Empezar/Parar de grabar": false,
-      "workspaces:Gestionar disposiciones de espacio de trabajo": false,
       "markdown-importer:Abrir el importador de Markdown": false,
-      "random-note:Abrir nota al azar": false
+      "random-note:Abrir nota al azar": false,
+      "audio-recorder:Empezar/Parar de grabar": false,
+      "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "b65f04c5ecb583bf",
+  "active": "0919dc7673ff0f21",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Obsidian/Pantallazosn de  Obsidian/respuestamal.png",
-    "Obsidian/Pantallazosn de  Obsidian/examen2 pregunta 10.png",
-    "Obsidian/Pantallazosn de  Obsidian/examen 2 pregunta 9.png",
-    "Obsidian/Pantallazosn de  Obsidian/examen2 pregunta 8.png",
-    "Obsidian/Pantallazosn de  Obsidian/examen 2 pregunta 7.png",
-    "Obsidian/Pantallazosn de  Obsidian/examen 2 pregunta 6.png",
-    "Obsidian/Obsidian Esta es una nueva Nota para pruebas.md",
-    "Obsidian/Pantallazosn de  Obsidian/examen2 pregunta 5.png",
-    "Obsidian/Pantallazosn de  Obsidian/exam2pregunta1.png",
-=======
-    "Ciberseguridad/CTFs/Vulnix/Vulnix Real.md",
-    "Ciberseguridad/Herramientas/SQLMAP.md",
-    "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/vulnyx - real pspy64.png",
-    "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/vulnix - real linpeas.png",
-    "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/vulnix- real -passwd.png",
-    "Ciberseguridad/Webs Interesantes.md",
-    "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/vulknix real -comando id para ver el usuario.png",
-    "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/vulnix real - user server flag.png",
-    "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/acceso con user serve vulnix real.png",
-    "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/use2 vulnix real.png",
-    "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/vulnix - real connection reverse proxy.png",
-    "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/vulnix - real send exploit.png",
-    "Pasted image 20240310190629.png",
+    "Ciberseguridad/Herramientas/Webs.md",
+    "Ciberseguridad/CTFs/CTF Template {platform - Machine name}.md",
     "Ciberseguridad/Reconocimiento de la red.md",
-    "Ciberseguridad/CTFs/Vulnix/Pantallazos",
-    "Ciberseguridad/CTFs/Vulnix",
-    "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG.md",
-    "Ciberseguridad/Herramientas/Capturar la pantalla.md",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Sin título.md",
-    "Ciberseguridad/Herramientas/Gobuster.md",
-    "Ciberseguridad/NMAP.md",
-    "Ciberseguridad/METADATA.md",
-    "Ciberseguridad/Herramientas/Esteganografia.md",
->>>>>>> 31360865d5839e3ead8070e793f89ed051daa6c9
-    "Obsidian/Obsidian examen imagenes.md",
-    "Obsidian/Obsidian Esta es una nueva Nota para pruebas.md",
-    "Obsidian/Canvas 1 prueba.canvas",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF RETO 1 OKLAT.md",
-    "Obsidian/Obsidian ¡Markdown Sintaxis!!!!.md",
-<<<<<<< HEAD
-    "Ciberseguridad/Reconocimiento de la red.md",
-=======
->>>>>>> 31360865d5839e3ead8070e793f89ed051daa6c9
     "Obsidian/Configuracion Obsidian.md",
-    "Obsidian/Pantallazosn de  Obsidian/primeraNotaDeaudio.webm",
-    "Recording 20240305111143.webm",
+    "Ciberseguridad/Herramientas/SQLMAP.md",
+    "Obsidian/Obsidian ¡Markdown Sintaxis!!!!.md",
+    "Ciberseguridad/Webs Interesantes.md",
+    "Obsidian/Obsidian examen imagenes.md",
+    "Ciberseguridad/NMAP.md",
+    "Obsidian/Canvas 1 prueba.canvas",
+    "Obsidian/Obsidian Esta es una nueva Nota para pruebas.md",
+    "Ciberseguridad/METADATA.md",
+    "Linux/Imagenes/cat fichero.png",
     "Linux/Shell y Bash y MAN y NANO.md",
-    "Ciberseguridad/Herramientas",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)",
-    "Ciberseguridad/CTFs",
     "Linux/Linux Basico.md",
-    "Ciberseguridad/NMAP basicos.md",
-    "¡Markdown Sintaxis!!!!.md",
-    "Welcome.md"
+    "Linux/Imagenes/cat multiples ficheros.png"
   ]
 }
