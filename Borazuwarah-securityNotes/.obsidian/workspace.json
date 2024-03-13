@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Herramientas/Webs.md",
+                "file": "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy).md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Webs Interesantes.md",
+                "file": "Ciberseguridad/CTFs/Vulnix/Vulnix Real (easy).md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Webs Interesantes.md",
+                "file": "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Webs Interesantes.md",
+                "file": "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Webs Interesantes.md"
+                "file": "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy).md"
               }
             }
           }
@@ -168,16 +168,22 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "c482b1fa3b33be10",
+  "active": "a220e4d67b70ed27",
   "lastOpenFiles": [
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF RETO 1 OKLAT (easy).md",
+    "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy).md",
     "Ciberseguridad/Herramientas/Webs.md",
+    "Ciberseguridad/CTFs/VULNHUB/Capturas",
+    "Ciberseguridad/CTFs/Vulnix/Vulnix Real (easy).md",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy).md",
+    "Ciberseguridad/Webs Interesantes.md",
+    "Ciberseguridad/CTFs/VULNHUB",
     "Ciberseguridad/CTFs/CTF Template {platform - Machine name}.md",
     "Ciberseguridad/Reconocimiento de la red.md",
     "Ciberseguridad/Escalada de privilegios en LINUX.md",
     "Obsidian/Configuracion Obsidian.md",
     "Ciberseguridad/Herramientas/SQLMAP.md",
     "Obsidian/Obsidian ¡Markdown Sintaxis!!!!.md",
-    "Ciberseguridad/Webs Interesantes.md",
     "Obsidian/Obsidian examen imagenes.md",
     "Ciberseguridad/NMAP.md",
     "Obsidian/Canvas 1 prueba.canvas",
