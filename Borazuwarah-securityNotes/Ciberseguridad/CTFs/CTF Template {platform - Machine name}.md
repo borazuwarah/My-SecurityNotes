@@ -6,6 +6,8 @@
 ## arp-scan
 ### commando
 
+[[Reconocimiento de la red#arp-scan]]
+
 ```sh title:"comando arp scan en shell"
 sudo arp-scan -I eth0 --localnet
 ```
@@ -86,3 +88,19 @@ Herramienta que extrae informacion de una web  (Reconocimiento)
 
 # Escalada de privilegios
 ## Enumeracion basica sistema
+
+
+# Flags
+### USER
+
+```sh fold:"User:"
+
+  
+
+```
+### Root
+
+```sh fold:"User:Root"
+
+  
+```

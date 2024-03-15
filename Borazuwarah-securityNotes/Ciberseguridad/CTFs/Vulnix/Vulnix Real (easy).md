@@ -172,5 +172,5 @@ lo ejecutamos
 
 nos encontramos un fichero que se ejecuta como admisnitrador en /opt/Task
 vemos ese fichero:
-cat
+cat /opt/Task
 

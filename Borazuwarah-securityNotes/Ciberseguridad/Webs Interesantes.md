@@ -23,4 +23,8 @@ https://j4ckie0x17.gitbook.io/notes-pentesting/
 
 # WEBS para hacer CTFs
 https://vulnyx.com/ -->
+[TryHackMe | Cyber Security Training](https://tryhackme.com/) --> plataforma recomendada para [Vulnerable By Design ~ VulnHub](https://www.vulnhub.com/)  --> SIGUIENTE MAQUINA COLDDBOX DE VULNHUB
+hackthebox.com
+
+
 
