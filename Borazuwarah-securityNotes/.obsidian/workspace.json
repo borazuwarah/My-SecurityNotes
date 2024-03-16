@@ -1,45 +1,19 @@
 {
   "main": {
-    "id": "4c744052bc39922b",
+    "id": "5d4c24d59974208c",
     "type": "split",
     "children": [
       {
-        "id": "f11394106638fc79",
+        "id": "85e17e21b4270f4d",
         "type": "tabs",
         "children": [
           {
-<<<<<<< HEAD
-            "id": "66adf73d8515ca43",
-=======
-            "id": "a220e4d67b70ed27",
->>>>>>> 94dd8ed460518f594eaaa58a23dc0854e66c573c
+            "id": "2c9e39a27887a206",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Ciberseguridad/CTFs/CTF Template {platform - Machine name}.md",
-=======
-                "file": "Ciberseguridad/Certificaciones.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "025f2a797cdcc127",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c482b1fa3b33be10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciberseguridad/CTFs/Vulnix/Vulnix Real (easy).md",
->>>>>>> 94dd8ed460518f594eaaa58a23dc0854e66c573c
+                "file": "Ciberseguridad/Herramientas/Webs.md",
                 "mode": "source",
                 "source": false
               }
@@ -51,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "591117c6cace6591",
+    "id": "a61e9344aaa95bef",
     "type": "split",
     "children": [
       {
-        "id": "1fe0a5b590f57805",
+        "id": "e35be7cb6679a7c0",
         "type": "tabs",
         "children": [
           {
-            "id": "12a9914f97fa18dd",
+            "id": "176f8a56aac37539",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -69,12 +43,12 @@
             }
           },
           {
-            "id": "90cb4444422b8063",
+            "id": "faa12bc516302e42",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "wf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,38 +58,35 @@
             }
           },
           {
-            "id": "ae420e67db4cf9b2",
+            "id": "7891d51c5ba531ce",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "d0ea3635e3d73928",
+    "id": "9b4078cd280e96fa",
     "type": "split",
     "children": [
       {
-        "id": "28b75a027fb9f946",
+        "id": "296cf559c18c7344",
         "type": "tabs",
         "children": [
           {
-            "id": "978fbbbacaa95f85",
+            "id": "399223224ef901b5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Ciberseguridad/CTFs/CTF Template {platform - Machine name}.md",
-=======
-                "file": "Ciberseguridad/Certificaciones.md",
->>>>>>> 94dd8ed460518f594eaaa58a23dc0854e66c573c
+                "file": "Ciberseguridad/Herramientas/Webs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,23 +98,19 @@
             }
           },
           {
-            "id": "74be76b5cecad6b7",
+            "id": "075b60d1ad36ede2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Ciberseguridad/CTFs/CTF Template {platform - Machine name}.md",
-=======
-                "file": "Ciberseguridad/Certificaciones.md",
->>>>>>> 94dd8ed460518f594eaaa58a23dc0854e66c573c
+                "file": "Ciberseguridad/Herramientas/Webs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ba93c683d185a13f",
+            "id": "eff9339105b8bfb6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -154,16 +121,12 @@
             }
           },
           {
-            "id": "e688ce0348d58add",
+            "id": "18f9c09c30434aa8",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Ciberseguridad/CTFs/CTF Template {platform - Machine name}.md"
-=======
-                "file": "Ciberseguridad/Certificaciones.md"
->>>>>>> 94dd8ed460518f594eaaa58a23dc0854e66c573c
+                "file": "Ciberseguridad/Herramientas/Webs.md"
               }
             }
           }
@@ -188,36 +151,6 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-<<<<<<< HEAD
-  "active": "66adf73d8515ca43",
+  "active": "2c9e39a27887a206",
   "lastOpenFiles": []
-=======
-  "active": "a220e4d67b70ed27",
-  "lastOpenFiles": [
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy).md",
-    "Ciberseguridad/Certificaciones.md",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF RETO 1 OKLAT (easy).md",
-    "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy).md",
-    "Ciberseguridad/Herramientas/Webs.md",
-    "Ciberseguridad/CTFs/VULNHUB/Capturas",
-    "Ciberseguridad/CTFs/Vulnix/Vulnix Real (easy).md",
-    "Ciberseguridad/Webs Interesantes.md",
-    "Ciberseguridad/CTFs/VULNHUB",
-    "Ciberseguridad/CTFs/CTF Template {platform - Machine name}.md",
-    "Ciberseguridad/Reconocimiento de la red.md",
-    "Ciberseguridad/Escalada de privilegios en LINUX.md",
-    "Obsidian/Configuracion Obsidian.md",
-    "Ciberseguridad/Herramientas/SQLMAP.md",
-    "Obsidian/Obsidian ¡Markdown Sintaxis!!!!.md",
-    "Obsidian/Obsidian examen imagenes.md",
-    "Ciberseguridad/NMAP.md",
-    "Obsidian/Canvas 1 prueba.canvas",
-    "Obsidian/Obsidian Esta es una nueva Nota para pruebas.md",
-    "Ciberseguridad/METADATA.md",
-    "Linux/Imagenes/cat fichero.png",
-    "Linux/Shell y Bash y MAN y NANO.md",
-    "Linux/Linux Basico.md",
-    "Linux/Imagenes/cat multiples ficheros.png"
-  ]
->>>>>>> 94dd8ed460518f594eaaa58a23dc0854e66c573c
 }
