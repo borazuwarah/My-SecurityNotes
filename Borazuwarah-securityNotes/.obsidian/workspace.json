@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "85e17e21b4270f4d",
+        "id": "264d61833c2c03a1",
         "type": "tabs",
         "children": [
           {
-            "id": "2c9e39a27887a206",
+            "id": "1f41c0fa4a9201bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Herramientas/Webs.md",
+                "file": "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy) Complete.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,12 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 597.5
   },
   "right": {
     "id": "9b4078cd280e96fa",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Herramientas/Webs.md",
+                "file": "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy) Complete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Herramientas/Webs.md",
+                "file": "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy) Complete.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Herramientas/Webs.md"
+                "file": "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy) Complete.md"
               }
             }
           }
@@ -151,6 +150,25 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "2c9e39a27887a206",
-  "lastOpenFiles": []
+  "active": "1f41c0fa4a9201bf",
+  "lastOpenFiles": [
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub - coldbox decode user flag.png",
+    "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy) Complete.md",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub coldbox - escalada de privilegios sudo -l.png",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub coldbox root flag.png",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub- codbox decode sudo flag.png",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub - coldmod sudo acces.png",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulhub - coldbox - abusando de FTP sudo.png",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub coldmod - abuso de FTP.png",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulhub -coldbox abuso de chmod.png",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub coldbox - intento de abusar de vim.png",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub coldBox-escalada de privilegios vim.png",
+    "Ciberseguridad/Escalada de privilegios en LINUX.md",
+    "Ciberseguridad/CTFs/CTF Template {platform - Machine name}.md",
+    "Ciberseguridad/NMAP.md",
+    "Ciberseguridad/Herramientas/Capturar la pantalla.md",
+    "Ciberseguridad/Herramientas/Webs.md",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos"
+  ]
 }

@@ -1,1 +1,0 @@
-[ColddBox: Easy ~ VulnHub](https://www.vulnhub.com/entry/colddbox-easy,586/)
