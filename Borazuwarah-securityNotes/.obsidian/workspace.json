@@ -1,19 +1,37 @@
 {
   "main": {
-    "id": "5d4c24d59974208c",
+    "id": "d3f2e02f076cb59d",
     "type": "split",
     "children": [
       {
-        "id": "264d61833c2c03a1",
+        "id": "6d6e109f0794fe9b",
         "type": "tabs",
         "children": [
           {
-            "id": "1f41c0fa4a9201bf",
+            "id": "a220e4d67b70ed27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Webs Interesantes.md",
+                "file": "Ciberseguridad/Certificaciones.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "025f2a797cdcc127",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c482b1fa3b33be10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciberseguridad/CTFs/Vulnix/Vulnix Real (easy).md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +43,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a61e9344aaa95bef",
+    "id": "e54215a88d5dc53b",
     "type": "split",
     "children": [
       {
-        "id": "e35be7cb6679a7c0",
+        "id": "e3ad3e3a55010066",
         "type": "tabs",
         "children": [
           {
-            "id": "176f8a56aac37539",
+            "id": "e76b76c2330257f4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +61,12 @@
             }
           },
           {
-            "id": "faa12bc516302e42",
+            "id": "0919dc7673ff0f21",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "wf",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +76,7 @@
             }
           },
           {
-            "id": "7891d51c5ba531ce",
+            "id": "14a502cc6ff431ad",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +87,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 597.5
+    "width": 300
   },
   "right": {
-    "id": "9b4078cd280e96fa",
+    "id": "9c0cb042e8ee7009",
     "type": "split",
     "children": [
       {
-        "id": "296cf559c18c7344",
+        "id": "c199625e1fbd90ec",
         "type": "tabs",
         "children": [
           {
-            "id": "399223224ef901b5",
+            "id": "f1c86b641b3ad941",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Webs Interesantes.md",
+                "file": "Ciberseguridad/Certificaciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +115,19 @@
             }
           },
           {
-            "id": "075b60d1ad36ede2",
+            "id": "e94ecf660e098864",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Webs Interesantes.md",
+                "file": "Ciberseguridad/Certificaciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "eff9339105b8bfb6",
+            "id": "930319ee32d556f3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +138,12 @@
             }
           },
           {
-            "id": "18f9c09c30434aa8",
+            "id": "05ff33b102d9b7d6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Webs Interesantes.md"
+                "file": "Ciberseguridad/Certificaciones.md"
               }
             }
           }
@@ -150,27 +168,43 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "1f41c0fa4a9201bf",
+  "active": "a220e4d67b70ed27",
   "lastOpenFiles": [
-    "Ciberseguridad/NMAP.md",
-    "Ciberseguridad/Reconocimiento de la red.md",
-    "Ciberseguridad/Webs Interesantes.md",
-    "Ciberseguridad/Herramientas/Webs.md",
-    "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy) Complete.md",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub - coldbox - abusnado del vim para escalada de privilegios.png",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub - coldbox decode user flag.png",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub coldbox - escalada de privilegios sudo -l.png",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub coldbox root flag.png",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub-coldbox wordpress access.png",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub-coldbox -enumeracion usuarios wordpress.png",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub-coldBox -Editar tema de wordrepss.png",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub- doldbox intento de acceso a usuario c0ld.png",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub coldbox - ver el fichero wp-config.php.png",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub- coldbox emensaje error.png",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub coldBox-escalada de privilegios vim.png",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub- codbox decode sudo flag.png",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub - coldmod sudo acces.png",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulhub - coldbox - abusando de FTP sudo.png",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub coldmod - abuso de FTP.png",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulhub -coldbox abuso de chmod.png",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub coldbox - intento de abusar de vim.png",
-    "Ciberseguridad/Escalada de privilegios en LINUX.md",
-    "Ciberseguridad/CTFs/CTF Template {platform - Machine name}.md",
-    "Ciberseguridad/Herramientas/Capturar la pantalla.md",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub coldbox root flag.png",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub coldbox -revershesell obtenida.png",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos"
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos",
+    "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy) Complete.md",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy).md",
+    "Ciberseguridad/Certificaciones.md",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF RETO 1 OKLAT (easy).md",
+    "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy).md",
+    "Ciberseguridad/Herramientas/Webs.md",
+    "Ciberseguridad/CTFs/VULNHUB/Capturas",
+    "Ciberseguridad/CTFs/Vulnix/Vulnix Real (easy).md",
+    "Ciberseguridad/Webs Interesantes.md",
+    "Ciberseguridad/CTFs/VULNHUB",
+    "Ciberseguridad/CTFs/CTF Template {platform - Machine name}.md",
+    "Ciberseguridad/Reconocimiento de la red.md",
+    "Ciberseguridad/Escalada de privilegios en LINUX.md",
+    "Obsidian/Configuracion Obsidian.md",
+    "Ciberseguridad/Herramientas/SQLMAP.md",
+    "Obsidian/Obsidian ¡Markdown Sintaxis!!!!.md",
+    "Obsidian/Obsidian examen imagenes.md",
+    "Ciberseguridad/NMAP.md",
+    "Obsidian/Canvas 1 prueba.canvas",
+    "Obsidian/Obsidian Esta es una nueva Nota para pruebas.md",
+    "Ciberseguridad/METADATA.md",
+    "Linux/Shell y Bash y MAN y NANO.md",
+    "Linux/Linux Basico.md"
   ]
 }
