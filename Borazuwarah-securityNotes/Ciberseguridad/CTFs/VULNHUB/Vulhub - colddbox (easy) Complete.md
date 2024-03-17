@@ -177,3 +177,10 @@ wqFGZWxpY2lkYWRlcywgbcOhcXVpbmEgY29tcGxldGFkYSE=
 ![[vulnhub- codbox decode sudo flag.png]]
 
 sudo flag: ¡Felicidades, máquina completada! 
+
+
+
+
+[vim | GTFOBins](https://gtfobins.github.io/gtfobins/vim/)
+abusando del vim:
+![[vulnhub - coldbox - abusnado del vim para escalada de privilegios.png]]

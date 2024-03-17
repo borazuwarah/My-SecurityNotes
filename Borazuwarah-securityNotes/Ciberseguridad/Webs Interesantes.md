@@ -25,6 +25,14 @@ https://j4ckie0x17.gitbook.io/notes-pentesting/
 https://vulnyx.com/ -->
 [TryHackMe | Cyber Security Training](https://tryhackme.com/) --> plataforma recomendada para [Vulnerable By Design ~ VulnHub](https://www.vulnhub.com/)  --> SIGUIENTE MAQUINA COLDDBOX DE VULNHUB
 hackthebox.com
+https://www.vulnhub.com/
 
 
+
+Generate reverse shell:
+https://www.revshells.com/
+
+
+Base  Encode / decode
+https://www.base64decode.org/
 

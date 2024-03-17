@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy) Complete.md",
+                "file": "Ciberseguridad/Webs Interesantes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy) Complete.md",
+                "file": "Ciberseguridad/Webs Interesantes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy) Complete.md",
+                "file": "Ciberseguridad/Webs Interesantes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy) Complete.md"
+                "file": "Ciberseguridad/Webs Interesantes.md"
               }
             }
           }
@@ -152,8 +152,13 @@
   },
   "active": "1f41c0fa4a9201bf",
   "lastOpenFiles": [
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub - coldbox decode user flag.png",
+    "Ciberseguridad/NMAP.md",
+    "Ciberseguridad/Reconocimiento de la red.md",
+    "Ciberseguridad/Webs Interesantes.md",
+    "Ciberseguridad/Herramientas/Webs.md",
     "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy) Complete.md",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub - coldbox - abusnado del vim para escalada de privilegios.png",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub - coldbox decode user flag.png",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub coldbox - escalada de privilegios sudo -l.png",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub coldbox root flag.png",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub- codbox decode sudo flag.png",
@@ -162,12 +167,9 @@
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub coldmod - abuso de FTP.png",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulhub -coldbox abuso de chmod.png",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub coldbox - intento de abusar de vim.png",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub coldBox-escalada de privilegios vim.png",
     "Ciberseguridad/Escalada de privilegios en LINUX.md",
     "Ciberseguridad/CTFs/CTF Template {platform - Machine name}.md",
-    "Ciberseguridad/NMAP.md",
     "Ciberseguridad/Herramientas/Capturar la pantalla.md",
-    "Ciberseguridad/Herramientas/Webs.md",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos"
   ]
