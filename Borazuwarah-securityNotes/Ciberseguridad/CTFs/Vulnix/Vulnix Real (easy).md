@@ -86,7 +86,7 @@ https://github.com/Ranger11Danger/UnrealIRCd-3.2.8.1-Backdoor
 descargamos el exploit .py
 wget https://github.com/Ranger11Danger/UnrealIRCd-3.2.8.1-Backdoor/blob/master/exploit.py
 
-![[descargar exploit del repo de github.png]]
+![[Vulnix - Real - Descargar exploit del repo de github.png]]
 
 Editamos el script en python para poner nuestra IP y el puerto con el que vamos a hacer el reverse proxy:
 ![[real vulnix script original.png]]
@@ -112,7 +112,7 @@ y en la terminal que estamos a la escucha por el puerto 6666 recibimos la conexi
 ![[vulnix - real connection reverse proxy.png]]
 
 Entramos con el usuario serve
-![[acceso con user serve vulnix real.png]]
+![[Vulnix - Real - Acceso con user serve vulnix real.png]]
 
 
 intentamos movernos hasta home/serve  para ver si está la flag del usuario

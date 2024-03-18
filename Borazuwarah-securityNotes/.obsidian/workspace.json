@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox  - Abusnado del vim para escalada de privilegios.png"
+                "file": "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/Vulnix - Real - Descargar exploit del repo de github.png"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox  - Abusnado del vim para escalada de privilegios.png",
+                "file": "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/Vulnix - Real - Descargar exploit del repo de github.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox  - Abusnado del vim para escalada de privilegios.png",
+                "file": "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/Vulnix - Real - Descargar exploit del repo de github.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox  - Abusnado del vim para escalada de privilegios.png"
+                "file": "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/Vulnix - Real - Descargar exploit del repo de github.png"
               }
             }
           }
@@ -150,6 +150,8 @@
   },
   "active": "e76b76c2330257f4",
   "lastOpenFiles": [
+    "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/Vulnix - Real - Acceso con user serve vulnix real.png",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox  - Abusnado del vim para escalada de privilegios.png",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox  - Aceso ssh usuario c0ldd.png",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox  - Form add comment.png",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox  - Wordpress access.png",
@@ -159,8 +161,6 @@
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox  - Login wordpress.png",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox  - Ping ttl = 64.png",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox  - Abusando de FTP sudo.png",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox  - Abuso de chmod.png",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox  - Decode sudo flag.png",
     "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy) Complete.md",
     "Ciberseguridad/CTFs/Vulnix/Vulnix Real (easy).md",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy).md",
