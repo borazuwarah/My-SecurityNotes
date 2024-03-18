@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/Vulnix - Real - Descargar exploit del repo de github.png"
+                "file": "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/CHE - PEPETHEFORG - User Flag.png"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/Vulnix - Real - Descargar exploit del repo de github.png",
+                "file": "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/CHE - PEPETHEFORG - User Flag.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/Vulnix - Real - Descargar exploit del repo de github.png",
+                "file": "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/CHE - PEPETHEFORG - User Flag.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/Vulnix - Real - Descargar exploit del repo de github.png"
+                "file": "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/CHE - PEPETHEFORG - User Flag.png"
               }
             }
           }
@@ -150,17 +150,17 @@
   },
   "active": "e76b76c2330257f4",
   "lastOpenFiles": [
-    "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/Vulnix - Real - Acceso con user serve vulnix real.png",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox  - Abusnado del vim para escalada de privilegios.png",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox  - Aceso ssh usuario c0ldd.png",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox  - Form add comment.png",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox  - Wordpress access.png",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox  - Whatweb.png",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox  - Intento de acceso a usuario c0ld.png",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox  - Listado de usuarios.png",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox  - Login wordpress.png",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox  - Ping ttl = 64.png",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox  - Abusando de FTP sudo.png",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/CHE - PEPETHEFORG - Steghide.png",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/CHE - PEPETHEFORG - SSH User Connection.png",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/CHE - PEPETHEFORG - Root flag.png",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/CHE - PEPETHEFORG - Web.png",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/CHE - PEPETHEFORG - Nmap.png",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/CHE - PEPETHEFORG - Imagenes encontradas.png",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/CHE - PEPETHEFORG - Gobuster Data.png",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/CHE - PEPETHEFORG - Discover the network.png",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/CHE - PEPETHEFORG - Gobuster.png",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/CHE - PEPETHEFORG - Decode Salvaconducto Base64.png",
+    "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/Vulnix - Real - Connection reverse proxy.png",
     "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy) Complete.md",
     "Ciberseguridad/CTFs/Vulnix/Vulnix Real (easy).md",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy).md",
