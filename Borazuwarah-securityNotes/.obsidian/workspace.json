@@ -11,29 +11,9 @@
             "id": "a220e4d67b70ed27",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Ciberseguridad/Certificaciones.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "025f2a797cdcc127",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c482b1fa3b33be10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciberseguridad/CTFs/Vulnix/Vulnix Real (easy).md",
-                "mode": "source",
-                "source": false
+                "file": "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox  - Abusnado del vim para escalada de privilegios.png"
               }
             }
           }
@@ -87,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 571.5
   },
   "right": {
     "id": "9c0cb042e8ee7009",
@@ -103,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Certificaciones.md",
+                "file": "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox  - Abusnado del vim para escalada de privilegios.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Certificaciones.md",
+                "file": "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox  - Abusnado del vim para escalada de privilegios.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Certificaciones.md"
+                "file": "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox  - Abusnado del vim para escalada de privilegios.png"
               }
             }
           }
@@ -168,29 +148,29 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "a220e4d67b70ed27",
+  "active": "e76b76c2330257f4",
   "lastOpenFiles": [
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub-coldbox wordpress access.png",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub-coldbox -enumeracion usuarios wordpress.png",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub-coldBox -Editar tema de wordrepss.png",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub- doldbox intento de acceso a usuario c0ld.png",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub coldbox - ver el fichero wp-config.php.png",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub- coldbox emensaje error.png",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub coldBox-escalada de privilegios vim.png",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub- codbox decode sudo flag.png",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub coldmod - abuso de FTP.png",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub coldbox root flag.png",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhub coldbox -revershesell obtenida.png",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox  - Aceso ssh usuario c0ldd.png",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox  - Form add comment.png",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox  - Wordpress access.png",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox  - Whatweb.png",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox  - Intento de acceso a usuario c0ld.png",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox  - Listado de usuarios.png",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox  - Login wordpress.png",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox  - Ping ttl = 64.png",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox  - Abusando de FTP sudo.png",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox  - Abuso de chmod.png",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox  - Decode sudo flag.png",
+    "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy) Complete.md",
+    "Ciberseguridad/CTFs/Vulnix/Vulnix Real (easy).md",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy).md",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF RETO 1 OKLAT (easy).md",
+    "Ciberseguridad/Certificaciones.md",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos",
-    "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy) Complete.md",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy).md",
-    "Ciberseguridad/Certificaciones.md",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF RETO 1 OKLAT (easy).md",
     "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy).md",
     "Ciberseguridad/Herramientas/Webs.md",
     "Ciberseguridad/CTFs/VULNHUB/Capturas",
-    "Ciberseguridad/CTFs/Vulnix/Vulnix Real (easy).md",
     "Ciberseguridad/Webs Interesantes.md",
     "Ciberseguridad/CTFs/VULNHUB",
     "Ciberseguridad/CTFs/CTF Template {platform - Machine name}.md",
