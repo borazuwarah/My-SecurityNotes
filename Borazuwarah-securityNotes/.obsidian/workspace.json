@@ -13,7 +13,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/CHE - PEPETHEFORG - User Flag.png"
+                "file": "Ciberseguridad/Pantallazos/nmap en UDP.png"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/CHE - PEPETHEFORG - User Flag.png",
+                "file": "Ciberseguridad/Pantallazos/nmap en UDP.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/CHE - PEPETHEFORG - User Flag.png",
+                "file": "Ciberseguridad/Pantallazos/nmap en UDP.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/CHE - PEPETHEFORG - User Flag.png"
+                "file": "Ciberseguridad/Pantallazos/nmap en UDP.png"
               }
             }
           }
@@ -148,8 +148,13 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "e76b76c2330257f4",
+  "active": "a220e4d67b70ed27",
   "lastOpenFiles": [
+    "Ciberseguridad/Herramientas/Capturar la pantalla.md",
+    "Ciberseguridad/Webs Interesantes.md",
+    "Ciberseguridad/NMAP.md",
+    "Ciberseguridad/Pantallazos/nmap script vulen.png",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/CHE - PEPETHEFORG - User Flag.png",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/CHE - PEPETHEFORG - Steghide.png",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/CHE - PEPETHEFORG - SSH User Connection.png",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/CHE - PEPETHEFORG - Root flag.png",
@@ -158,9 +163,6 @@
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/CHE - PEPETHEFORG - Imagenes encontradas.png",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/CHE - PEPETHEFORG - Gobuster Data.png",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/CHE - PEPETHEFORG - Discover the network.png",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/CHE - PEPETHEFORG - Gobuster.png",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/CHE - PEPETHEFORG - Decode Salvaconducto Base64.png",
-    "Ciberseguridad/CTFs/Vulnix/Pantallazos/Vulnix - Real/Vulnix - Real - Connection reverse proxy.png",
     "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy) Complete.md",
     "Ciberseguridad/CTFs/Vulnix/Vulnix Real (easy).md",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy).md",
@@ -171,7 +173,6 @@
     "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy).md",
     "Ciberseguridad/Herramientas/Webs.md",
     "Ciberseguridad/CTFs/VULNHUB/Capturas",
-    "Ciberseguridad/Webs Interesantes.md",
     "Ciberseguridad/CTFs/VULNHUB",
     "Ciberseguridad/CTFs/CTF Template {platform - Machine name}.md",
     "Ciberseguridad/Reconocimiento de la red.md",
@@ -180,7 +181,6 @@
     "Ciberseguridad/Herramientas/SQLMAP.md",
     "Obsidian/Obsidian ¡Markdown Sintaxis!!!!.md",
     "Obsidian/Obsidian examen imagenes.md",
-    "Ciberseguridad/NMAP.md",
     "Obsidian/Canvas 1 prueba.canvas",
     "Obsidian/Obsidian Esta es una nueva Nota para pruebas.md",
     "Ciberseguridad/METADATA.md",
