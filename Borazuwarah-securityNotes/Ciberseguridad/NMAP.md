@@ -60,10 +60,10 @@ Para examenes oficiales min-rate 2000 / 1500  (para evitar saturar la red)
 
 --script "vuln" --p{puerto encontrado} {ipobjetivo}
 Lanza un Script para saber si la Maquina victima tiene alguna vulnerabilidad conocida en ese puerto
-![[nmap script vulen.png]]
+![[Comando - Nmap script vulen.png]]
 
 Get the CVE
-![[nmap Get CVE with script.png]]
+![[Comando - Nmap Get CVE with script.png]]
 
 
 
@@ -73,4 +73,4 @@ Get the CVE
 nmap -sU enumeracion de puertos en UDP
 
 nmap -sU --top-ports 200 enumera los 200 puertos mas importantes en UDP
-![[nmap en UDP.png]]
+![[Comando - Nmap en UDP.png]]
