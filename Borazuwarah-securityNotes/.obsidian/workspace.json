@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Tuberias Pipe.md",
+                "file": "Linux/Linux Basico.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jack",
+                "query": "actualizar",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Tuberias Pipe.md",
+                "file": "Linux/Linux Basico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Tuberias Pipe.md",
+                "file": "Linux/Linux Basico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Tuberias Pipe.md"
+                "file": "Linux/Linux Basico.md"
               }
             }
           }
@@ -165,9 +166,13 @@
   },
   "active": "4904779fd63a402b",
   "lastOpenFiles": [
-    "Linux/wget.md",
+    "Linux/Scrips/Scrip 1.md",
+    "Linux/Grep.md",
+    "Linux/Scrips",
+    "Linux/Usuarios.md",
+    "Linux/Procesos.md",
     "Linux/Tuberias Pipe.md",
-    "Linux/Imagenes/Usuarios.md",
+    "Linux/wget.md",
     "Ciberseguridad/NMAP.md",
     "Linux/Linux Basico.md",
     "Linux/Editor y creador de fichoers.md",
@@ -203,9 +208,6 @@
     "Ciberseguridad/CTFs/VULNHUB/Capturas",
     "Ciberseguridad/CTFs/VULNHUB",
     "Obsidian/Configuracion Obsidian.md",
-    "Obsidian/Obsidian ¡Markdown Sintaxis!!!!.md",
-    "Obsidian/Obsidian examen imagenes.md",
-    "Obsidian/Canvas 1 prueba.canvas",
-    "Obsidian/Obsidian Esta es una nueva Nota para pruebas.md"
+    "Obsidian/Canvas 1 prueba.canvas"
   ]
 }

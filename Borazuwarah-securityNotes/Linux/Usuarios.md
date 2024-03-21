@@ -27,3 +27,8 @@ whoami
 ```sh fold:"comando para eliminar un usuario"
 deluser --remove-home {nombreusuario}
 ```
+
+# Listar los usuarios del sistema
+```sh fold:"comando para eliminar un usuario"
+cat /etc/passwd
+```
