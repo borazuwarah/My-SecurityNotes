@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4904779fd63a402b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Imagenes/Usuarios.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Webs Interesantes.md",
+                "file": "Linux/Imagenes/Usuarios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Webs Interesantes.md",
+                "file": "Linux/Imagenes/Usuarios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Webs Interesantes.md"
+                "file": "Linux/Imagenes/Usuarios.md"
               }
             }
           }
@@ -150,8 +163,15 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "a220e4d67b70ed27",
+  "active": "4904779fd63a402b",
   "lastOpenFiles": [
+    "Linux/wget.md",
+    "Linux/Imagenes/Usuarios.md",
+    "Ciberseguridad/NMAP.md",
+    "Linux/Linux Basico.md",
+    "Linux/Editor y creador de fichoers.md",
+    "Ciberseguridad/Certificaciones.md",
+    "Ciberseguridad/Reconocimiento de la red.md",
     "Ciberseguridad/Puertos  - Servicios/Puerto 21 - FTP_tcp.md",
     "Ciberseguridad/Puertos  - Servicios/Puerto 80,443 - Http- HttpsServicio Web.md",
     "Ciberseguridad/Webs Interesantes.md",
@@ -168,7 +188,6 @@
     "Ciberseguridad/Pantallazos/Comando - Nmap script vulen.png",
     "Linux/Imagenes/Comando - Cat a fichero.png",
     "Linux/Imagenes/Comando - Cat multiples ficheros.png",
-    "Ciberseguridad/NMAP.md",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/CHE - PEPETHEFORG - User Flag.png",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/CHE - PEPETHEFORG - Steghide.png",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/CHE - PEPETHEFORG - SSH User Connection.png",
@@ -177,20 +196,16 @@
     "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy) Complete.md",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy).md",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF RETO 1 OKLAT (easy).md",
-    "Ciberseguridad/Certificaciones.md",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos",
     "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy).md",
     "Ciberseguridad/CTFs/VULNHUB/Capturas",
     "Ciberseguridad/CTFs/VULNHUB",
-    "Ciberseguridad/Reconocimiento de la red.md",
     "Obsidian/Configuracion Obsidian.md",
     "Obsidian/Obsidian ¡Markdown Sintaxis!!!!.md",
     "Obsidian/Obsidian examen imagenes.md",
     "Obsidian/Canvas 1 prueba.canvas",
     "Obsidian/Obsidian Esta es una nueva Nota para pruebas.md",
-    "Ciberseguridad/METADATA.md",
-    "Linux/Shell y Bash y MAN y NANO.md",
-    "Linux/Linux Basico.md"
+    "Ciberseguridad/METADATA.md"
   ]
 }

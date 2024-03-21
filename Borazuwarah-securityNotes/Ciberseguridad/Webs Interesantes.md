@@ -22,10 +22,13 @@ https://j4ckie0x17.gitbook.io/notes-pentesting/
 
 
 # WEBS para hacer CTFs
+Next CTF--> Ready : Vulnyx
+[Home : - Web CTF de la Comunidad de Hacking Ético (comunidadhackingetico.es)](https://ctf.comunidadhackingetico.es/home)
 https://vulnyx.com/ -->
-[TryHackMe | Cyber Security Training](https://tryhackme.com/) --> plataforma recomendada para [Vulnerable By Design ~ VulnHub](https://www.vulnhub.com/)  --> SIGUIENTE MAQUINA COLDDBOX DE VULNHUB
-hackthebox.com
-https://www.vulnhub.com/
+[TryHackMe | Cyber Security Training](https://tryhackme.com/) --> plataforma recomendada para cuando sea más pro
+[Vulnerable By Design ~ VulnHub](https://www.vulnhub.com/)  
+[hackthebox](hackthebox.com)
+
 
 
 

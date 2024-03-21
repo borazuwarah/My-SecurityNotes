@@ -45,3 +45,40 @@ ttl = 128 --> Windows
 > ![[ping ttl128 windows.png]]
 ttl = 64 --> Linux
 > ![[ping ttl64 Linux.png]]
+
+
+# barrido.sh
+[condor777-bit/barrido: A Bash script for scanning the local network to identify machines, retrieve their IP and MAC addresses, and determine the operating system using TTL values. The script prompts the user to enter the network interface and checks for the presence of `arp-scan`, installing it if necessary. (github.com)](https://github.com/condor777-bit/barrido)
+
+para poder ejecutarlo desde cualquier sitio tenemos que agregar el path del scrip a la shell
+primero le damos permisos de ejecucion
+chmod +x barrido.sh (en la ruta donde queramos almacenarlo para siempre)
+luego agregamos el fichero sh al path
+
+
+2 opciones 
+- pasar la ruta a la carpeta del path:
+- Pasar solo el archivo
+
+pasar el archivo 
+ln -s {path/del/archivo/fichero.sh /usr/bin}
+```sh fold:"agregar fichero a path"
+sudo  ln -s {path/del/fichero/file.sh /path/guardados}
+
+# Para Ver algun Path que tengamos guardado podemos sacarlo con 
+echo $PATH
+``` 
+
+
+Agregar una carpeta entera al Path
+
+hay que hacer un export de la ruta al path
+
+export PATH=$PATH: /ruta/carpeta/ficheros
+
+```sh fold:"agregar carpeta completa al path"
+sudo  export PATH=$PATH: /ruta/carpeta/ficheros
+
+# Para Ver si se ha agregado podemos usar:
+echo $PATH 
+``` 
