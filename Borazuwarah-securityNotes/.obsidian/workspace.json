@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Linux Basico.md",
+                "file": "Linux/Grupos.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,12 +78,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 571.5
+    "width": 253.5
   },
   "right": {
     "id": "9c0cb042e8ee7009",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Linux Basico.md",
+                "file": "Linux/Grupos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Linux Basico.md",
+                "file": "Linux/Grupos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Linux Basico.md"
+                "file": "Linux/Grupos.md"
               }
             }
           }
@@ -166,15 +165,18 @@
   },
   "active": "4904779fd63a402b",
   "lastOpenFiles": [
-    "Linux/Scrips/Scrip 1.md",
+    "Linux/Chmod.md",
+    "Linux/Grupos.md",
     "Linux/Grep.md",
-    "Linux/Scrips",
-    "Linux/Usuarios.md",
     "Linux/Procesos.md",
+    "Linux/Usuarios.md",
+    "Linux/Linux Basico.md",
+    "Sin título.canvas",
+    "Linux/Scrips/Scrip 1.md",
+    "Linux/Scrips",
     "Linux/Tuberias Pipe.md",
     "Linux/wget.md",
     "Ciberseguridad/NMAP.md",
-    "Linux/Linux Basico.md",
     "Linux/Editor y creador de fichoers.md",
     "Ciberseguridad/Certificaciones.md",
     "Ciberseguridad/Reconocimiento de la red.md",
@@ -204,10 +206,8 @@
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF RETO 1 OKLAT (easy).md",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos",
-    "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy).md",
     "Ciberseguridad/CTFs/VULNHUB/Capturas",
     "Ciberseguridad/CTFs/VULNHUB",
-    "Obsidian/Configuracion Obsidian.md",
     "Obsidian/Canvas 1 prueba.canvas"
   ]
 }
