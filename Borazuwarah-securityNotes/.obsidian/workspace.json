@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Find.md",
+                "file": "Linux/STDOUT, STDERR y  STDIN.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Find.md",
+                "file": "Linux/STDOUT, STDERR y  STDIN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Find.md",
+                "file": "Linux/STDOUT, STDERR y  STDIN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Find.md"
+                "file": "Linux/STDOUT, STDERR y  STDIN.md"
               }
             }
           }
@@ -165,8 +165,9 @@
   },
   "active": "4904779fd63a402b",
   "lastOpenFiles": [
-    "Linux/Comprimir y Descomprimir.md",
     "Linux/Find.md",
+    "Linux/STDOUT, STDERR y  STDIN.md",
+    "Linux/Comprimir y Descomprimir.md",
     "Linux/SORT, HEAD, TAIL, WC y UNIQ.md",
     "Linux/Chmod.md",
     "Linux/Grupos.md",
@@ -195,7 +196,6 @@
     "Ciberseguridad/Herramientas/Capturar la pantalla.md",
     "Ciberseguridad/Pantallazos/Comando - Nmap Get CVE with script.png",
     "Ciberseguridad/Pantallazos/Comando - Nmap en UDP.png",
-    "Ciberseguridad/Escalada de privilegios en LINUX.md",
     "Ciberseguridad/Pantallazos/Comando - Nmap script vulen.png",
     "Linux/Imagenes/Comando - Cat a fichero.png",
     "Linux/Imagenes/Comando - Cat multiples ficheros.png",
