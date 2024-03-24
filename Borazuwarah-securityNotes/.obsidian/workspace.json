@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Grupos.md",
+                "file": "Linux/Find.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Grupos.md",
+                "file": "Linux/Find.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Grupos.md",
+                "file": "Linux/Find.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Grupos.md"
+                "file": "Linux/Find.md"
               }
             }
           }
@@ -165,6 +165,9 @@
   },
   "active": "4904779fd63a402b",
   "lastOpenFiles": [
+    "Linux/Comprimir y Descomprimir.md",
+    "Linux/Find.md",
+    "Linux/SORT, HEAD, TAIL, WC y UNIQ.md",
     "Linux/Chmod.md",
     "Linux/Grupos.md",
     "Linux/Grep.md",
@@ -201,9 +204,6 @@
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/CHE - PEPETHEFORG - SSH User Connection.png",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/CHE - PEPETHEFORG - Root flag.png",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/CHE - PEPETHEFORG - Web.png",
-    "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy) Complete.md",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy).md",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF RETO 1 OKLAT (easy).md",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos",
     "Ciberseguridad/CTFs/VULNHUB/Capturas",
