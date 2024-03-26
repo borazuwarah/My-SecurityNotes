@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/STDOUT, STDERR y  STDIN.md",
+                "file": "Linux/Scrips/Variables.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/STDOUT, STDERR y  STDIN.md",
+                "file": "Linux/Scrips/Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/STDOUT, STDERR y  STDIN.md",
+                "file": "Linux/Scrips/Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/STDOUT, STDERR y  STDIN.md"
+                "file": "Linux/Scrips/Variables.md"
               }
             }
           }
@@ -165,8 +165,9 @@
   },
   "active": "4904779fd63a402b",
   "lastOpenFiles": [
-    "Linux/Find.md",
     "Linux/STDOUT, STDERR y  STDIN.md",
+    "Linux/Scrips/Variables.md",
+    "Linux/Find.md",
     "Linux/Comprimir y Descomprimir.md",
     "Linux/SORT, HEAD, TAIL, WC y UNIQ.md",
     "Linux/Chmod.md",
@@ -193,7 +194,6 @@
     "Ciberseguridad/CTFs/CTF Template {platform - Machine name}.md",
     "Ciberseguridad/Herramientas/Webs.md",
     "Ciberseguridad/Herramientas/SQLMAP.md",
-    "Ciberseguridad/Herramientas/Capturar la pantalla.md",
     "Ciberseguridad/Pantallazos/Comando - Nmap Get CVE with script.png",
     "Ciberseguridad/Pantallazos/Comando - Nmap en UDP.png",
     "Ciberseguridad/Pantallazos/Comando - Nmap script vulen.png",
