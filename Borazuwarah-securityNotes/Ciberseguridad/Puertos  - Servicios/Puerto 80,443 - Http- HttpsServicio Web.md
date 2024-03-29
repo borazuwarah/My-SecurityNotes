@@ -16,3 +16,6 @@ Protocolo de transferenjcia de hipertexto es el protocolo de comunicación que p
 	- wfuzz
 	- ffuf
 	- Nikto
+- Woredpress
+	- wpscan
+	- 
