@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Webs Interesantes.md",
+                "file": "Ciberseguridad/Puertos  - Servicios/Puerto 22 SSH - SFTP.md",
                 "mode": "source",
                 "source": false
               }
@@ -30,9 +30,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6fc8272a2890bc40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciberseguridad/Webs Interesantes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Puertos  - Servicios/Puerto 80,443 - Http- HttpsServicio Web.md",
+                "file": "Ciberseguridad/Puertos  - Servicios/Puerto 22 SSH - SFTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Puertos  - Servicios/Puerto 80,443 - Http- HttpsServicio Web.md",
+                "file": "Ciberseguridad/Puertos  - Servicios/Puerto 22 SSH - SFTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Puertos  - Servicios/Puerto 80,443 - Http- HttpsServicio Web.md"
+                "file": "Ciberseguridad/Puertos  - Servicios/Puerto 22 SSH - SFTP.md"
               }
             }
           }
@@ -163,13 +174,16 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "4904779fd63a402b",
+  "active": "a220e4d67b70ed27",
   "lastOpenFiles": [
+    "Ciberseguridad/Puertos  - Servicios/Puerto 80,443 - Http- HttpsServicio Web.md",
+    "Ciberseguridad/Webs Interesantes.md",
+    "Ciberseguridad/Herramientas/Webs.md",
+    "Ciberseguridad/Puertos  - Servicios/Puerto 22 SSH - SFTP.md",
     "Ciberseguridad/Puertos  - Servicios/Puerto 21 - FTP_tcp.md",
     "Linux/Scrips/Scrip 1.md",
     "Linux/Scrips/Variables.md",
     "Ciberseguridad/Certificaciones.md",
-    "Ciberseguridad/Webs Interesantes.md",
     "Linux/STDOUT, STDERR y  STDIN.md",
     "Linux/Find.md",
     "Linux/Comprimir y Descomprimir.md",
@@ -187,13 +201,10 @@
     "Ciberseguridad/NMAP.md",
     "Linux/Editor y creador de fichoers.md",
     "Ciberseguridad/Reconocimiento de la red.md",
-    "Ciberseguridad/Puertos  - Servicios/Puerto 80,443 - Http- HttpsServicio Web.md",
     "Ciberseguridad/CTFs/Vulnix/Vulnix Real (easy).md",
     "Ciberseguridad/Herramientas/Gobuster.md",
     "Ciberseguridad/Puertos  - Servicios",
     "Ciberseguridad/CTFs/CTF Template {platform - Machine name}.md",
-    "Ciberseguridad/Herramientas/Webs.md",
-    "Ciberseguridad/Herramientas/SQLMAP.md",
     "Ciberseguridad/Pantallazos/Comando - Nmap Get CVE with script.png",
     "Ciberseguridad/Pantallazos/Comando - Nmap en UDP.png",
     "Ciberseguridad/Pantallazos/Comando - Nmap script vulen.png",

@@ -1,4 +1,4 @@
-aqui vamos a poner todas las herramientas interesantes para la explotación de webs
+Aquí vamos a poner todas las herramientas interesantes para la explotación de webs
 
 # whatweb
 
