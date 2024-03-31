@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e2174159c0a74c54",
+        "id": "ac224ad641b640fe",
         "type": "tabs",
         "children": [
           {
-            "id": "76fe589e81698269",
+            "id": "6621d2ce01372655",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT/CHE - OKLAT - Mget download from FTP Server.png"
+                "file": "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT/CHE - OKLAT - FTP exit.png"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT/CHE - OKLAT - Mget download from FTP Server.png",
+                "file": "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT/CHE - OKLAT - FTP exit.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT/CHE - OKLAT - Mget download from FTP Server.png",
+                "file": "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT/CHE - OKLAT - FTP exit.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT/CHE - OKLAT - Mget download from FTP Server.png"
+                "file": "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT/CHE - OKLAT - FTP exit.png"
               }
             }
           }
@@ -150,6 +150,8 @@
   },
   "active": "e76b76c2330257f4",
   "lastOpenFiles": [
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF RETO 1 OKLAT (easy).md",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT/CHE - OKLAT - Mget download from FTP Server.png",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT/CHE - OKLAT - Acceso FTP Anonymous.png",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT/CHE - OKLAT - Ping -c1.png",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT/CHE - OKLAT - Nmap.png",
@@ -157,9 +159,7 @@
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT/CHE - OKLAT - Mostrar las flags.png",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT/CHE - OKLAT - Listar ficheros en el servidor FTP.png",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT/CHE - OKLAT - Listado ficheros en local.png",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF RETO 1 OKLAT (easy).md",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/OKLAT - FTP exit.png",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT/CHE - OKLAT - Mget download from FTP Server.png",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT/CHE - OKLAT - FTP exit.png",
     "Ciberseguridad/NMAP.md",
     "Ciberseguridad/Reconocimiento de la red.md",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT",
