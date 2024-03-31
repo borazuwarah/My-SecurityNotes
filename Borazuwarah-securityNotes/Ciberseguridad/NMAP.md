@@ -31,7 +31,7 @@ sudo  nmap 192.168.1.X
 -sS para que sea rapido el scaneo "simple scan"
 >![[nmap -sS.png]]
 
--sC es para hacer un escaneo más exactivo con una serie de scrip con los que cuenta nmap
+-sC es para hacer un escaneo más exhaustivo con una serie de scrip con los que cuenta nmap
 >![[nmap con -sC.png]]
 
 -sV para localizar la version del servicio que está corriendo en cada puerto abierto

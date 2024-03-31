@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ac224ad641b640fe",
+        "id": "810fca682369345b",
         "type": "tabs",
         "children": [
           {
-            "id": "6621d2ce01372655",
+            "id": "c63dfb3ac4201b37",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT/CHE - OKLAT - FTP exit.png"
+                "file": "Ciberseguridad/CTFs/VULNHUB/VulnHub Empire Breakout (easy) completed.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -46,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "trata",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT/CHE - OKLAT - FTP exit.png",
+                "file": "Ciberseguridad/CTFs/VULNHUB/VulnHub Empire Breakout (easy) completed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT/CHE - OKLAT - FTP exit.png",
+                "file": "Ciberseguridad/CTFs/VULNHUB/VulnHub Empire Breakout (easy) completed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT/CHE - OKLAT - FTP exit.png"
+                "file": "Ciberseguridad/CTFs/VULNHUB/VulnHub Empire Breakout (easy) completed.md"
               }
             }
           }
@@ -150,17 +152,26 @@
   },
   "active": "e76b76c2330257f4",
   "lastOpenFiles": [
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF RETO 1 OKLAT (easy).md",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT/CHE - OKLAT - Mget download from FTP Server.png",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT/CHE - OKLAT - Acceso FTP Anonymous.png",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT/CHE - OKLAT - Ping -c1.png",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT/CHE - OKLAT - Nmap.png",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT/CHE - OKLAT - Arp-scan.png",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT/CHE - OKLAT - Mostrar las flags.png",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT/CHE - OKLAT - Listar ficheros en el servidor FTP.png",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT/CHE - OKLAT - Listado ficheros en local.png",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT/CHE - OKLAT - FTP exit.png",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Acceso root.png",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Encontramos fichero backups old.png",
+    "Ciberseguridad/CTFs/VULNHUB/VulnHub Empire Breakout (easy) completed.md",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Root flag.png",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Fichero backup descomprimido.png",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Fichero backup old oculto.png",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Capabilitis del usuario.png",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Escalado sudo -l.png",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Tratamiento de la TTY.png",
+    "Ciberseguridad/CTFs/Vulnix/Vulnix Real (easy) complete.md",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/User cyber.png",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/User Flag from the machine.png",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Obtencion de reverse Shell.png",
+    "Ciberseguridad/CTFs/CTF Template {platform - Machine name}.md",
+    "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy) Complete.md",
+    "Ciberseguridad/Herramientas/Enum4linux.md",
     "Ciberseguridad/NMAP.md",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF RETO 1 OKLAT (easy)complete.md",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy) complete.md",
     "Ciberseguridad/Reconocimiento de la red.md",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT",
     "Linux/Grupos.md",
@@ -179,16 +190,9 @@
     "Linux/Comprimir y Descomprimir.md",
     "Linux/SORT, HEAD, TAIL, WC y UNIQ.md",
     "Linux/Chmod.md",
-    "Linux/Grep.md",
-    "Linux/Procesos.md",
     "Sin título.canvas",
     "Linux/Scrips",
-    "Linux/Tuberias Pipe.md",
-    "Linux/wget.md",
-    "Linux/Editor y creador de fichoers.md",
-    "Ciberseguridad/CTFs/Vulnix/Vulnix Real (easy).md",
     "Ciberseguridad/Puertos  - Servicios",
-    "Ciberseguridad/Pantallazos/Comando - Nmap Get CVE with script.png",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos",
     "Ciberseguridad/CTFs/VULNHUB/Capturas",
