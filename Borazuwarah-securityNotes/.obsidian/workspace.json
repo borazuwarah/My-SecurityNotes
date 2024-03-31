@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/CTFs/VULNHUB/VulnHub Empire Breakout (easy) completed.md",
+                "file": "Ciberseguridad/Herramientas/Enum4linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/CTFs/VULNHUB/VulnHub Empire Breakout (easy) completed.md",
+                "file": "Ciberseguridad/Herramientas/Enum4linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/CTFs/VULNHUB/VulnHub Empire Breakout (easy) completed.md",
+                "file": "Ciberseguridad/Herramientas/Enum4linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/CTFs/VULNHUB/VulnHub Empire Breakout (easy) completed.md"
+                "file": "Ciberseguridad/Herramientas/Enum4linux.md"
               }
             }
           }
@@ -150,11 +150,11 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "e76b76c2330257f4",
+  "active": "c63dfb3ac4201b37",
   "lastOpenFiles": [
+    "Ciberseguridad/CTFs/VULNHUB/VulnHub Empire Breakout (easy) completed.md",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Acceso root.png",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Encontramos fichero backups old.png",
-    "Ciberseguridad/CTFs/VULNHUB/VulnHub Empire Breakout (easy) completed.md",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Root flag.png",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Fichero backup descomprimido.png",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Fichero backup old oculto.png",
@@ -164,7 +164,6 @@
     "Ciberseguridad/CTFs/Vulnix/Vulnix Real (easy) complete.md",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/User cyber.png",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/User Flag from the machine.png",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Obtencion de reverse Shell.png",
     "Ciberseguridad/CTFs/CTF Template {platform - Machine name}.md",
     "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy) Complete.md",
     "Ciberseguridad/Herramientas/Enum4linux.md",

