@@ -4,42 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6d6e109f0794fe9b",
+        "id": "e2174159c0a74c54",
         "type": "tabs",
         "children": [
           {
-            "id": "a220e4d67b70ed27",
+            "id": "76fe589e81698269",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Ciberseguridad/Puertos  - Servicios/Puerto 22 SSH - SFTP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4904779fd63a402b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciberseguridad/Puertos  - Servicios/Puerto 80,443 - Http- HttpsServicio Web.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6fc8272a2890bc40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciberseguridad/Webs Interesantes.md",
-                "mode": "source",
-                "source": false
+                "file": "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT/CHE - OKLAT - Mget download from FTP Server.png"
               }
             }
           }
@@ -72,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "actualizar",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 433.5
   },
   "right": {
     "id": "9c0cb042e8ee7009",
@@ -109,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Puertos  - Servicios/Puerto 22 SSH - SFTP.md",
+                "file": "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT/CHE - OKLAT - Mget download from FTP Server.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Puertos  - Servicios/Puerto 22 SSH - SFTP.md",
+                "file": "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT/CHE - OKLAT - Mget download from FTP Server.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Puertos  - Servicios/Puerto 22 SSH - SFTP.md"
+                "file": "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT/CHE - OKLAT - Mget download from FTP Server.png"
               }
             }
           }
@@ -174,47 +148,47 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "a220e4d67b70ed27",
+  "active": "e76b76c2330257f4",
   "lastOpenFiles": [
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT/CHE - OKLAT - Acceso FTP Anonymous.png",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT/CHE - OKLAT - Ping -c1.png",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT/CHE - OKLAT - Nmap.png",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT/CHE - OKLAT - Arp-scan.png",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT/CHE - OKLAT - Mostrar las flags.png",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT/CHE - OKLAT - Listar ficheros en el servidor FTP.png",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT/CHE - OKLAT - Listado ficheros en local.png",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF RETO 1 OKLAT (easy).md",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/OKLAT - FTP exit.png",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT/CHE - OKLAT - Mget download from FTP Server.png",
+    "Ciberseguridad/NMAP.md",
+    "Ciberseguridad/Reconocimiento de la red.md",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT",
+    "Linux/Grupos.md",
+    "Linux/Usuarios.md",
+    "Linux/Linux Basico.md",
+    "Linux/Scrips/Variables.md",
+    "Ciberseguridad/Puertos  - Servicios/Puerto 22 SSH - SFTP.md",
     "Ciberseguridad/Puertos  - Servicios/Puerto 80,443 - Http- HttpsServicio Web.md",
     "Ciberseguridad/Webs Interesantes.md",
     "Ciberseguridad/Herramientas/Webs.md",
-    "Ciberseguridad/Puertos  - Servicios/Puerto 22 SSH - SFTP.md",
     "Ciberseguridad/Puertos  - Servicios/Puerto 21 - FTP_tcp.md",
     "Linux/Scrips/Scrip 1.md",
-    "Linux/Scrips/Variables.md",
     "Ciberseguridad/Certificaciones.md",
     "Linux/STDOUT, STDERR y  STDIN.md",
     "Linux/Find.md",
     "Linux/Comprimir y Descomprimir.md",
     "Linux/SORT, HEAD, TAIL, WC y UNIQ.md",
     "Linux/Chmod.md",
-    "Linux/Grupos.md",
     "Linux/Grep.md",
     "Linux/Procesos.md",
-    "Linux/Usuarios.md",
-    "Linux/Linux Basico.md",
     "Sin título.canvas",
     "Linux/Scrips",
     "Linux/Tuberias Pipe.md",
     "Linux/wget.md",
-    "Ciberseguridad/NMAP.md",
     "Linux/Editor y creador de fichoers.md",
-    "Ciberseguridad/Reconocimiento de la red.md",
     "Ciberseguridad/CTFs/Vulnix/Vulnix Real (easy).md",
-    "Ciberseguridad/Herramientas/Gobuster.md",
     "Ciberseguridad/Puertos  - Servicios",
-    "Ciberseguridad/CTFs/CTF Template {platform - Machine name}.md",
     "Ciberseguridad/Pantallazos/Comando - Nmap Get CVE with script.png",
-    "Ciberseguridad/Pantallazos/Comando - Nmap en UDP.png",
-    "Ciberseguridad/Pantallazos/Comando - Nmap script vulen.png",
-    "Linux/Imagenes/Comando - Cat a fichero.png",
-    "Linux/Imagenes/Comando - Cat multiples ficheros.png",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/CHE - PEPETHEFORG - User Flag.png",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/CHE - PEPETHEFORG - Steghide.png",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/CHE - PEPETHEFORG - SSH User Connection.png",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/CHE - PEPETHEFORG - Root flag.png",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/Reto 2 PEPE Frog/CHE - PEPETHEFORG - Web.png",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos",
     "Ciberseguridad/CTFs/VULNHUB/Capturas",
