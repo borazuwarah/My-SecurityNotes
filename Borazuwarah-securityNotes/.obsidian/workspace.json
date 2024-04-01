@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/CTFs/VULNHUB/VulnHub - Empire Breakout (easy) completed.md",
+                "file": "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy) Complete.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/CTFs/VULNHUB/VulnHub - Empire Breakout (easy) completed.md",
+                "file": "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy) Complete.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/CTFs/VULNHUB/VulnHub - Empire Breakout (easy) completed.md",
+                "file": "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy) Complete.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/CTFs/VULNHUB/VulnHub - Empire Breakout (easy) completed.md"
+                "file": "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy) Complete.md"
               }
             }
           }
@@ -152,15 +152,22 @@
   },
   "active": "c1b90d886e0f8938",
   "lastOpenFiles": [
-    "vulhab - em.md",
-    "Ciberseguridad/CTFs/VULNHUB/VulnHub - Empire Breakout (easy) completed.md",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox  - Abuso de chmod.png",
     "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy) Complete.md",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox - Machine.png",
+    "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Vulnhub - EMPIRE Breakout - Machine.png",
+    "Ciberseguridad/CTFs/VULNHUB/VulnHub - Empire Breakout (easy) completed.md",
+    "Ciberseguridad/Certificaciones.md",
+    "Ciberseguridad/NMAP.md",
+    "vulhab - em.md",
+    "Ciberseguridad/Herramientas/Gobuster.md",
+    "Ciberseguridad/Herramientas/SQLMAP.md",
+    "Ciberseguridad/Herramientas/Enum4linux.md",
     "Ciberseguridad/Webs Interesantes.md",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Vulnhub - EMPIRE Breakout - Panel de mailbox.png",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Vulnhub - EMPIRE Breakout - Acceso al puerto 20000.png",
     "Ciberseguridad/Puertos  - Servicios/Puerto 80,443 - Http- HttpsServicio Web.md",
     "Ciberseguridad/Puertos  - Servicios/Puerto 22 SSH - SFTP.md",
-    "Ciberseguridad/Herramientas/Enum4linux.md",
     "Ciberseguridad/CTFs/Vulnix/Vulnix Real (easy) complete.md",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Vulnhub - EMPIRE Breakout - Web apache 2 por defecto.png",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Vulnhub - EMPIRE Breakout - User Flag from the machine.png",
@@ -168,8 +175,6 @@
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Vulnhub - EMPIRE Breakout - User cyber.png",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Vulnhub - EMPIRE Breakout - Root flag.png",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Vulnhub - EMPIRE Breakout - Reconocimeinto de la red.png",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Vulnhub - EMPIRE Breakout - Ping y ver TTL.png",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Vulnhub - EMPIRE Breakout - Panel de Login.png",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy) complete.md",
@@ -177,7 +182,6 @@
     "Ciberseguridad/Puertos  - Servicios/Puerto 21 - FTP_tcp.md",
     "Linux/Scrips/Scrip 1.md",
     "Linux/Scrips/Variables.md",
-    "Ciberseguridad/Certificaciones.md",
     "Linux/STDOUT, STDERR y  STDIN.md",
     "Linux/Find.md",
     "Linux/Comprimir y Descomprimir.md",
@@ -186,12 +190,8 @@
     "Linux/Grupos.md",
     "Linux/Grep.md",
     "Linux/Procesos.md",
-    "Linux/Usuarios.md",
-    "Linux/Linux Basico.md",
     "Sin título.canvas",
     "Linux/Scrips",
-    "Linux/Tuberias Pipe.md",
-    "Linux/wget.md",
     "Ciberseguridad/Puertos  - Servicios",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos",

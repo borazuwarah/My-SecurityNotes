@@ -6,6 +6,12 @@ VM:  192.168.1.132
 #wpscan
 #wordpress #usuarioswordpress
 #escaladaPrivilegios 
+machine:
+![[vulnhab - coldbox - Machine.png]]
+
+Download: [https://mega.nz/file/VldHiIgA#4nRI2LPZs_x48_-ryCkPvL6Em2lQTSJEKvoReieDMec](https://mega.nz/file/VldHiIgA#4nRI2LPZs_x48_-ryCkPvL6Em2lQTSJEKvoReieDMec)
+Download (Mirror): [https://download.vulnhub.com/colddbox/ColddBoxEasy_EN.ova](https://download.vulnhub.com/colddbox/ColddBoxEasy_EN.ova)
+
 # Reconocimiento
 
 En el arranque vemos en la Grub que el SSOO es un Linux (Ubuntu)
