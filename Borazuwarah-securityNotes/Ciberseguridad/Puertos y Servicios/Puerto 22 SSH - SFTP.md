@@ -4,3 +4,6 @@ Comando para conectar
 ```sh fold:"comando para conectar por SSH a un servidor"
 ssh {Usuario}@{ip destino} [-p {puerto}]
 ```
+
+Usuarios comunes
+Fuerza bruta

@@ -18,4 +18,4 @@ Protocolo de transferenjcia de hipertexto es el protocolo de comunicación que p
 	- Nikto
 - Woredpress
 	- wpscan
-	- 
+	

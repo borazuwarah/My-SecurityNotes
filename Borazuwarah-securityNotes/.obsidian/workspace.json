@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Certificaciones.md",
+                "file": "Ciberseguridad/Puertos y Servicios/Puerto 80,443 - Http- HttpsServicio Web.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Certificaciones.md",
+                "file": "Ciberseguridad/Puertos y Servicios/Puerto 80,443 - Http- HttpsServicio Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Certificaciones.md",
+                "file": "Ciberseguridad/Puertos y Servicios/Puerto 80,443 - Http- HttpsServicio Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Certificaciones.md"
+                "file": "Ciberseguridad/Puertos y Servicios/Puerto 80,443 - Http- HttpsServicio Web.md"
               }
             }
           }
@@ -152,6 +152,9 @@
   },
   "active": "c1b90d886e0f8938",
   "lastOpenFiles": [
+    "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP.md",
+    "Ciberseguridad/Puertos y Servicios/Puerto 21 - FTP_tcp.md",
+    "Ciberseguridad/Certificaciones.md",
     "Ciberseguridad/METADATA.md",
     "Ciberseguridad/Reconocimiento de la red.md",
     "Ciberseguridad/NMAP.md",
@@ -167,22 +170,19 @@
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox - Machine.png",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Vulnhub - EMPIRE Breakout - Machine.png",
     "Ciberseguridad/CTFs/VULNHUB/VulnHub - Empire Breakout (easy) completed.md",
-    "Ciberseguridad/Certificaciones.md",
     "vulhab - em.md",
     "Ciberseguridad/Herramientas/Gobuster.md",
     "Ciberseguridad/Herramientas/SQLMAP.md",
     "Ciberseguridad/Herramientas/Enum4linux.md",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Vulnhub - EMPIRE Breakout - Panel de mailbox.png",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Vulnhub - EMPIRE Breakout - Acceso al puerto 20000.png",
-    "Ciberseguridad/Puertos  - Servicios/Puerto 80,443 - Http- HttpsServicio Web.md",
-    "Ciberseguridad/Puertos  - Servicios/Puerto 22 SSH - SFTP.md",
+    "Ciberseguridad/Puertos y Servicios/Puerto 80,443 - Http- HttpsServicio Web.md",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Vulnhub - EMPIRE Breakout - Web apache 2 por defecto.png",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Vulnhub - EMPIRE Breakout - User Flag from the machine.png",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy) complete.md",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF RETO 1 OKLAT (easy)complete.md",
-    "Ciberseguridad/Puertos  - Servicios/Puerto 21 - FTP_tcp.md",
     "Linux/Scrips/Scrip 1.md",
     "Linux/Scrips/Variables.md",
     "Linux/STDOUT, STDERR y  STDIN.md",
@@ -191,7 +191,7 @@
     "Linux/Chmod.md",
     "Sin título.canvas",
     "Linux/Scrips",
-    "Ciberseguridad/Puertos  - Servicios",
+    "Ciberseguridad/Puertos y Servicios",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos",
     "Ciberseguridad/CTFs/VULNHUB/Capturas",
