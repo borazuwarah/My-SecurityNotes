@@ -10,8 +10,8 @@ sudo  nmap 192.168.1.X
 > ![[nmap basico.png]]
 
 ## Parametros
-
--p- mirará todos los puertos que pueda tener  esa maquina 
+### -p-
+mirará todos los puertos que pueda tener  esa maquina 
 
 
 ```sh fold:"nmap para ver los puertos en la máquina"
@@ -20,7 +20,8 @@ sudo  -p- nmap 192.168.1.X
 
 > ![[nmap -p-.png]]
 
---open muestra los puertos abiertos que pueda tener esa maquina
+### --open
+ muestra los puertos abiertos que pueda tener esa maquina
 
 
 ```sh fold:"nmap directo sin parametros"
@@ -28,16 +29,22 @@ sudo  nmap 192.168.1.X
 ```
 > ![[nmap --open puertos abiertos.png]]
 
--sS para que sea rapido el scaneo "simple scan"
+### -sS
+para que sea rapido el scaneo "simple scan"
 >![[nmap -sS.png]]
 
--sC es para hacer un escaneo más exhaustivo con una serie de scrip con los que cuenta nmap
+### -sC
+Es para hacer un escaneo más exhaustivo con una serie de scrip con los que cuenta nmap
 >![[nmap con -sC.png]]
 
--sV para localizar la version del servicio que está corriendo en cada puerto abierto
+### -sV
+Para localizar la version del servicio que está corriendo en cada puerto abierto
+
 >![[nmap con -sV.png]]
 
--min-rate 5000 para que la cantidad de paquetes que envia sea minimo de 5000 por segundo
+### --min-rate 5000 
+
+para que la cantidad de paquetes que envia sea minimo de 5000 por segundo
 >![[nmap con -min-rate 5000.png]]
 
 
@@ -46,9 +53,10 @@ Para examenes oficiales min-rate 2000 / 1500  (para evitar saturar la red)
 
 
 -n es para evitar hacer resolucion DNS
-> D]]
+![[nmap con -n.png]]
 
--Pn "no ping" por si la maquina objetivo esta limintando el ping icmp
+### -Pn
+ "no ping" por si la maquina objetivo esta limintando el ping icmp
 >![[nmap -Pn.png]]
 
 -vvv trilple vervose para que reporte cosas conforme las encuentra

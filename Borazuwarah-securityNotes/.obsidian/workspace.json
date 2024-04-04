@@ -11,9 +11,11 @@
             "id": "c1b90d886e0f8938",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Real/Vulnyx - Real - Acceso con user serve vulnix real.png"
+                "file": "Ciberseguridad/Certificaciones.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Real/Vulnyx - Real - Acceso con user serve vulnix real.png",
+                "file": "Ciberseguridad/Certificaciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Real/Vulnyx - Real - Acceso con user serve vulnix real.png",
+                "file": "Ciberseguridad/Certificaciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Real/Vulnyx - Real - Acceso con user serve vulnix real.png"
+                "file": "Ciberseguridad/Certificaciones.md"
               }
             }
           }
@@ -148,8 +150,16 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "e76b76c2330257f4",
+  "active": "c1b90d886e0f8938",
   "lastOpenFiles": [
+    "Ciberseguridad/METADATA.md",
+    "Ciberseguridad/Reconocimiento de la red.md",
+    "Ciberseguridad/NMAP.md",
+    "Ciberseguridad/Pantallazos/Comando - Nmap en UDP.png",
+    "Linux/Find.md",
+    "Ciberseguridad/Escalada de privilegios en LINUX.md",
+    "Ciberseguridad/Webs Interesantes.md",
+    "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Real/Vulnyx - Real - Acceso con user serve vulnix real.png",
     "Ciberseguridad/CTFs/Vulnyx/Vulnyx Real (easy) complete.md",
     "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Real/Vulnyx - Real - Machine.png",
     "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy) Complete.md",
@@ -158,20 +168,16 @@
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Vulnhub - EMPIRE Breakout - Machine.png",
     "Ciberseguridad/CTFs/VULNHUB/VulnHub - Empire Breakout (easy) completed.md",
     "Ciberseguridad/Certificaciones.md",
-    "Ciberseguridad/NMAP.md",
     "vulhab - em.md",
     "Ciberseguridad/Herramientas/Gobuster.md",
     "Ciberseguridad/Herramientas/SQLMAP.md",
     "Ciberseguridad/Herramientas/Enum4linux.md",
-    "Ciberseguridad/Webs Interesantes.md",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Vulnhub - EMPIRE Breakout - Panel de mailbox.png",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Vulnhub - EMPIRE Breakout - Acceso al puerto 20000.png",
     "Ciberseguridad/Puertos  - Servicios/Puerto 80,443 - Http- HttpsServicio Web.md",
     "Ciberseguridad/Puertos  - Servicios/Puerto 22 SSH - SFTP.md",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Vulnhub - EMPIRE Breakout - Web apache 2 por defecto.png",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Vulnhub - EMPIRE Breakout - User Flag from the machine.png",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Vulnhub - EMPIRE Breakout - Tratamiento de la TTY.png",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Vulnhub - EMPIRE Breakout - User cyber.png",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos/CEH - OKLAT",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy) complete.md",
@@ -180,13 +186,9 @@
     "Linux/Scrips/Scrip 1.md",
     "Linux/Scrips/Variables.md",
     "Linux/STDOUT, STDERR y  STDIN.md",
-    "Linux/Find.md",
     "Linux/Comprimir y Descomprimir.md",
     "Linux/SORT, HEAD, TAIL, WC y UNIQ.md",
     "Linux/Chmod.md",
-    "Linux/Grupos.md",
-    "Linux/Grep.md",
-    "Linux/Procesos.md",
     "Sin título.canvas",
     "Linux/Scrips",
     "Ciberseguridad/Puertos  - Servicios",

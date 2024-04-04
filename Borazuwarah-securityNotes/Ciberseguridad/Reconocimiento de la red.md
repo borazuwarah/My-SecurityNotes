@@ -7,7 +7,9 @@ Las maquinas virtuales empiezan por 00:0
 ### arp-scan
 primero debemos conocer cual es nuestra interfaz:
 
-`ifconfig`
+```sh fold:"comando ifconfig"
+ifconfig
+```
 
 `arp-scan -I {interfaz de red} --localnet` {eth0}
 >  `arp-scan -I etho --localnet` 
@@ -15,8 +17,11 @@ primero debemos conocer cual es nuestra interfaz:
 
 ## nediscover
 primero debemos conocer la IP local con ifconfig
-`netdiscover -i {interfaz de red} -r ip.0/24`
-> netdiscover -i eth0 -r 192.168.1.0/24
+```sh fold:"Netdiscover"
+netdiscover -i {interfaz de red} -r {ip.0/24}
+
+# netdiscover -i eth0 -r 192.168.1.0/24
+```
 > ![[netdiscord.png]]
 
 

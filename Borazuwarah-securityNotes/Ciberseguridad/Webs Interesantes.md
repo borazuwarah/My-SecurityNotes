@@ -28,7 +28,7 @@ https://vulnyx.com/ -->
 [TryHackMe | Cyber Security Training](https://tryhackme.com/) --> plataforma recomendada para cuando sea más pro
 [Vulnerable By Design ~ VulnHub](https://www.vulnhub.com/)  
 [hackthebox](hackthebox.com)
-
+[The Hackers Labs](https://thehackerslabs.com/) --> diferentes maquinas con diferentes niveles
 
 
 
