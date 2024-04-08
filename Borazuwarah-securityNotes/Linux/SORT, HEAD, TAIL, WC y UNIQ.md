@@ -1,6 +1,5 @@
-Comandos de linux
 ## SORT
-sirve para poder ordenar informacion dentro de un fichero
+Sirve para poder ordenar informacion dentro de un fichero
 diferentes formas de ordenar un fichero
 
 ```sh fold:"Ordenar con Sort alfabeticamente"
@@ -21,7 +20,7 @@ sort -u {nombre del fichoer}
 
 
 ## HEAD
-el comando head es para mostrar un numero determinado de lineas de un fichero
+El comando head es para mostrar un numero determinado de lineas de un fichero
 
 ```sh fold:"mostrar las 10 primeras lineas de un fichero"
 head {nombre del fichoer}
@@ -41,7 +40,7 @@ head -n 2 {nombre del fichoer} {fichero 2}
 
 
 ## TAIL
-muestra las ultimas lineas de un fichero 
+Muestra las ultimas lineas de un fichero 
 es = que el comando HEAD pero empezando por abajo
 ```sh fold:"mostrar las 5 ultimas lineas de un fichero"
 tail -n 5 {nombre del fichoer}
@@ -66,6 +65,7 @@ cat {nombre del fichoer} | wc -c
 
 ## UNIQ
 Sirve para eliminar salidas repetidas.
+Elimina salidas repetidas.
 ```sh fold:"Eliminar lineas repetidas"
 cat {nombre del fichoer} | uniq
 ```

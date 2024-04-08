@@ -1,6 +1,7 @@
-touch
-nano
-vi
-vim
-pipe
-edit
+Herramientas:
+- touch
+- nano
+- vi
+- vim
+- pipe
+- edit

@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Chmod.md",
+                "file": "Linux/SORT, HEAD, TAIL, WC y UNIQ.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Chmod.md",
+                "file": "Linux/SORT, HEAD, TAIL, WC y UNIQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Chmod.md",
+                "file": "Linux/SORT, HEAD, TAIL, WC y UNIQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Chmod.md"
+                "file": "Linux/SORT, HEAD, TAIL, WC y UNIQ.md"
               }
             }
           }
@@ -165,6 +165,9 @@
   },
   "active": "3874cedbfbbd6ff1",
   "lastOpenFiles": [
+    "Linux/Editor y creador de fichoers.md",
+    "Linux/Comprimir y Descomprimir.md",
+    "Linux/Chmod.md",
     "Linux/Find.md",
     "Linux/Grupos User.md",
     "Linux/Tuberias Pipe.md",
@@ -194,15 +197,12 @@
     "Ciberseguridad/CTFs/VULNHUB/VulnHub - Empire Breakout (easy) completed.md",
     "vulhab - em.md",
     "Ciberseguridad/Herramientas - Tools/Gobuster.md",
-    "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Vulnhub - EMPIRE Breakout - Panel de mailbox.png",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Vulnhub - EMPIRE Breakout - Acceso al puerto 20000.png",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Vulnhub - EMPIRE Breakout - Web apache 2 por defecto.png",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Vulnhub - EMPIRE Breakout - User Flag from the machine.png",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos Capturas/Reto 1 - CEH - OKLAT",
-    "Linux/Scrips/Scrip 1.md",
-    "Linux/Scrips/Variables.md",
     "Sin título.canvas",
     "Linux/Scrips",
     "Ciberseguridad/Puertos y Servicios",
