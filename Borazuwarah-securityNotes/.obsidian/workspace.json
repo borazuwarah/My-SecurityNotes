@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/Enum4linux.md",
+                "file": "Ciberseguridad/CTFs/CTF Template {platform - Machine name} {Status}.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/Enum4linux.md",
+                "file": "Ciberseguridad/CTFs/CTF Template {platform - Machine name} {Status}.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/Enum4linux.md",
+                "file": "Ciberseguridad/CTFs/CTF Template {platform - Machine name} {Status}.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/Enum4linux.md"
+                "file": "Ciberseguridad/CTFs/CTF Template {platform - Machine name} {Status}.md"
               }
             }
           }
@@ -165,9 +165,9 @@
   },
   "active": "3874cedbfbbd6ff1",
   "lastOpenFiles": [
+    "Ciberseguridad/Herramientas - Tools/Enum4linux.md",
     "Ciberseguridad/NMAP.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 80,443 - Http- HttpsServicio Web.md",
-    "Ciberseguridad/Herramientas - Tools/Enum4linux.md",
     "Ciberseguridad/Herramientas - Tools/Webs.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 21 - FTP_tcp.md",
