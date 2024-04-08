@@ -1,6 +1,7 @@
 Pipe --> |
 sirve para aplicar un comando a la salida de otro comando:
 
+por tanto la salida de un comando será la entrada del siguiente.
 Uso
 ```sh fold:"coamndos con tuberias pipe "
 cat escritorio.txt | wc -l

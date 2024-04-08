@@ -6,7 +6,8 @@ Leer los permisos
 RWX
 Usuario Grupos Otros
 Propietario
-.../.../...
+d.../.../... Directorio
+-.../.../... Fichero
 Usuario actual / Permisos grupos/ Otros
 primera letra de los permisos
 	> d --> aparece si es un directorio

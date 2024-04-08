@@ -1,4 +1,4 @@
-sirve para poder hacer busquedas
+sirve para poder hacer busquedas de ficheros, carpetas...
 
 ```sh fold:"encontrar dentro de mi ubicacion un archivo que se llame prueba.txt"
 find . -name prueba.txt

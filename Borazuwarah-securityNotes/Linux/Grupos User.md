@@ -1,4 +1,4 @@
-los grupos son grupos de usuarios dentro del sistema Linux
+Los grupos son grupos de usuarios dentro del sistema Linux
 dentro del ls -la son es el segundo grupo
 
 

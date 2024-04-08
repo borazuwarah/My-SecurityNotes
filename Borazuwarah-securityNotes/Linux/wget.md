@@ -1,4 +1,4 @@
-comando para descargar 
+comando para descargar ficheros de un server 
 por ejemplo, podemos descargar el archivo de un repositorio git ejemplo:
 
 ```sh fold:"coamndo wget"

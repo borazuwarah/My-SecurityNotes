@@ -44,7 +44,6 @@ por el formato vemos que es Base64: S4lv0C0nDuCt0!
 ![[CHE - PEPETHEFORG - Decode Salvaconducto Base64.png]]
 # Estenografia
 
-steghide extract -sf pepe_the_frog.jpg
 ```sh title:"stepghide"
 steghide extract -sf pepe_the_frog.jpg
 ```

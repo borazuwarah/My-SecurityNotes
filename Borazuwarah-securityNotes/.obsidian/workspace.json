@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy) Complete.md",
+                "file": "Linux/Chmod.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy) Complete.md",
+                "file": "Linux/Chmod.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy) Complete.md",
+                "file": "Linux/Chmod.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy) Complete.md"
+                "file": "Linux/Chmod.md"
               }
             }
           }
@@ -165,8 +165,12 @@
   },
   "active": "3874cedbfbbd6ff1",
   "lastOpenFiles": [
-    "Ciberseguridad/CTFs/CTF Template {platform - Machine name} {Status}.md",
+    "Linux/Find.md",
+    "Linux/Grupos User.md",
+    "Linux/Tuberias Pipe.md",
+    "Linux/wget.md",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy) Complete.md",
+    "Ciberseguridad/CTFs/CTF Template {platform - Machine name} {Status}.md",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF RETO 1 OKLAT (easy) Complete.md",
     "Ciberseguridad/Herramientas - Tools/Enum4linux.md",
     "Ciberseguridad/NMAP.md",
@@ -178,7 +182,6 @@
     "Ciberseguridad/METADATA.md",
     "Ciberseguridad/Reconocimiento de la red.md",
     "Ciberseguridad/Pantallazos/Comando - Nmap en UDP.png",
-    "Linux/Find.md",
     "Ciberseguridad/Escalada de privilegios en LINUX.md",
     "Ciberseguridad/Webs Interesantes.md",
     "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Real/Vulnyx - Real - Acceso con user serve vulnix real.png",
@@ -200,9 +203,6 @@
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos Capturas/Reto 1 - CEH - OKLAT",
     "Linux/Scrips/Scrip 1.md",
     "Linux/Scrips/Variables.md",
-    "Linux/STDOUT, STDERR y  STDIN.md",
-    "Linux/Comprimir y Descomprimir.md",
-    "Linux/SORT, HEAD, TAIL, WC y UNIQ.md",
     "Sin título.canvas",
     "Linux/Scrips",
     "Ciberseguridad/Puertos y Servicios",
