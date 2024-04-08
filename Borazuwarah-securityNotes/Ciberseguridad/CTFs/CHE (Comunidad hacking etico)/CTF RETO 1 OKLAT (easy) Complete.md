@@ -32,7 +32,7 @@ con mget descargamos los ficheros
 
 ![[CHE - OKLAT - Mget download from FTP Server.png]]
 ahora salimos del FTP con un exit
-![[CHE - OKLAT - FTP exit.png]]
+![[CHE - OKLAT - FTP Exit.png]]
 una vez en local hacemos un ls e intentamos listar los ficheoros con cat
 lsitado de los ficheors en local:
 ![[CHE - OKLAT - Listado ficheros en local.png]]
