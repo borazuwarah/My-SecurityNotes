@@ -78,13 +78,15 @@ gobuster dir -u {url} -w /usr/share/wordlists/SecLists/Dicosvery/Web-Content/dir
 ```
 
 # dirb
-es una herramienta para encontrar direcotiro de una web
+es una herramienta para encontrar direcotiros de una web
 
 ```sh fold:"dirb sirbe para encontrar directorios en una web"
 dirb {url / IP}
 
 ```
 
+
+# WPScan
 
 # whois
 informacion sobre un dominio
