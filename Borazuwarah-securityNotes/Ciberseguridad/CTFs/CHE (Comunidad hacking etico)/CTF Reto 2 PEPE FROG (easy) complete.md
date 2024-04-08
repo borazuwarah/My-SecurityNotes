@@ -2,10 +2,16 @@ Machine: [Challenges : - Web CTF de la Comunidad de Hacking Ético (comunidadhac
 ## Reconocimiento
 
 Descubrimos la IP: 192.168.1.143:
+```sh title:"Descruburir la IP"
+arp-scan -I eth0 --localnet
+```
 ![[CHE - PEPETHEFORG - Discover the network.png]]
 
-Nmap:
+Nmap
+```sh title:"Nmap"
 sudo nmap -p- --open -sS -sC -sV 192.168.1.141
+```
+
 ![[CHE - PEPETHEFORG - Nmap.png]]
 
 revisamos lo que vemos en el puerto:
@@ -25,8 +31,11 @@ nos encontramos 2 imagenes:
 ![[CHE - PEPETHEFORG - Imagenes encontradas.png]]
 
 Descargamos las imagenes con wget:
-wget wget 192.168.1.141/img/pepe_the_frog.gif
-wget wget 192.168.1.141/img/pepe_the_frog.jpg
+
+```sh title:"Wget"
+wget 192.168.1.141/img/pepe_the_frog.gif
+wget 192.168.1.141/img/pepe_the_frog.jpg
+```
 
 
 Decodigicamos el Salvaconducto encontrado en el codigo fuente: UzRsdjBDMG5EdUN0MCE=
@@ -36,6 +45,9 @@ por el formato vemos que es Base64: S4lv0C0nDuCt0!
 # Estenografia
 
 steghide extract -sf pepe_the_frog.jpg
+```sh title:"stepghide"
+steghide extract -sf pepe_the_frog.jpg
+```
 
 ![[CHE - PEPETHEFORG - Steghide.png]]
 

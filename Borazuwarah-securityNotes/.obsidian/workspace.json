@@ -163,10 +163,11 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "e76b76c2330257f4",
+  "active": "3874cedbfbbd6ff1",
   "lastOpenFiles": [
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF RETO 1 OKLAT (easy) Complete.md",
     "Ciberseguridad/CTFs/CTF Template {platform - Machine name} {Status}.md",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy) Complete.md",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF RETO 1 OKLAT (easy) Complete.md",
     "Ciberseguridad/Herramientas - Tools/Enum4linux.md",
     "Ciberseguridad/NMAP.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 80,443 - Http- HttpsServicio Web.md",
@@ -197,7 +198,6 @@
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Vulnhub - EMPIRE Breakout - User Flag from the machine.png",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos Capturas/Reto 1 - CEH - OKLAT",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy) Complete.md",
     "Linux/Scrips/Scrip 1.md",
     "Linux/Scrips/Variables.md",
     "Linux/STDOUT, STDERR y  STDIN.md",
