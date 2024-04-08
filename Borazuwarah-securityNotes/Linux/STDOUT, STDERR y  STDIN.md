@@ -1,4 +1,4 @@
-Flujos para iormas de interactuar entre los programas
+Flujos para normas de interactuar entre los programas
 
 ## Stdout
 Standoar output, es la salida estandard de un comando

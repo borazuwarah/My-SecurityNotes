@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/SORT, HEAD, TAIL, WC y UNIQ.md",
+                "file": "Linux/STDOUT, STDERR y  STDIN.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/SORT, HEAD, TAIL, WC y UNIQ.md",
+                "file": "Linux/STDOUT, STDERR y  STDIN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/SORT, HEAD, TAIL, WC y UNIQ.md",
+                "file": "Linux/STDOUT, STDERR y  STDIN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/SORT, HEAD, TAIL, WC y UNIQ.md"
+                "file": "Linux/STDOUT, STDERR y  STDIN.md"
               }
             }
           }
@@ -165,6 +165,7 @@
   },
   "active": "3874cedbfbbd6ff1",
   "lastOpenFiles": [
+    "Linux/SORT, HEAD, TAIL, WC y UNIQ.md",
     "Linux/Editor y creador de fichoers.md",
     "Linux/Comprimir y Descomprimir.md",
     "Linux/Chmod.md",
@@ -196,7 +197,6 @@
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Vulnhub - EMPIRE Breakout - Machine.png",
     "Ciberseguridad/CTFs/VULNHUB/VulnHub - Empire Breakout (easy) completed.md",
     "vulhab - em.md",
-    "Ciberseguridad/Herramientas - Tools/Gobuster.md",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Vulnhub - EMPIRE Breakout - Panel de mailbox.png",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Vulnhub - EMPIRE Breakout - Acceso al puerto 20000.png",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Vulnhub - EMPIRE Breakout - Web apache 2 por defecto.png",
