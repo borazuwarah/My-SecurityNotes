@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Projects/Extension de navegador para generar contraseñas Aleatorias.md",
+                "file": "Linux/STDOUT, STDERR y  STDIN.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Projects/Extension de navegador para generar contraseñas Aleatorias.md",
+                "file": "Linux/STDOUT, STDERR y  STDIN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal Projects/Extension de navegador para generar contraseñas Aleatorias.md",
+                "file": "Linux/STDOUT, STDERR y  STDIN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Projects/Extension de navegador para generar contraseñas Aleatorias.md"
+                "file": "Linux/STDOUT, STDERR y  STDIN.md"
               }
             }
           }
@@ -173,12 +173,10 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "7958d1c09198c7ce",
+  "active": "e76b76c2330257f4",
   "lastOpenFiles": [
     "Personal Projects/Freezer manager.md",
     "Personal Projects/Extension de navegador para generar contraseñas Aleatorias.md",
-    "Ciberseguridad/Webs Interesantes.md",
-    "Linux/STDOUT, STDERR y  STDIN.md",
     "Personal Projects",
     "Linux/SORT, HEAD, TAIL, WC y UNIQ.md",
     "Linux/Editor y creador de fichoers.md",
@@ -202,9 +200,11 @@
     "Ciberseguridad/Reconocimiento de la red.md",
     "Ciberseguridad/Pantallazos/Comando - Nmap en UDP.png",
     "Ciberseguridad/Escalada de privilegios en LINUX.md",
+    "Ciberseguridad/Webs Interesantes.md",
     "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Real/Vulnyx - Real - Acceso con user serve vulnix real.png",
     "Ciberseguridad/CTFs/Vulnyx/Vulnyx Real (easy) complete.md",
     "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Real/Vulnyx - Real - Machine.png",
+    "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy) Complete.md",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox  - Abuso de chmod.png",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox - Machine.png",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Vulnhub - EMPIRE Breakout - Machine.png",
