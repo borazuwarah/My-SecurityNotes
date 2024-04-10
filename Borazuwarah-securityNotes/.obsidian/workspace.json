@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7958d1c09198c7ce",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -163,7 +173,7 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "3874cedbfbbd6ff1",
+  "active": "7958d1c09198c7ce",
   "lastOpenFiles": [
     "Linux/SORT, HEAD, TAIL, WC y UNIQ.md",
     "Linux/Editor y creador de fichoers.md",
