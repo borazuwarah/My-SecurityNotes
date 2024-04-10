@@ -35,9 +35,11 @@
             "id": "7958d1c09198c7ce",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "Personal Projects/Freezer manager.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/STDOUT, STDERR y  STDIN.md",
+                "file": "Personal Projects/Freezer manager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/STDOUT, STDERR y  STDIN.md",
+                "file": "Personal Projects/Freezer manager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/STDOUT, STDERR y  STDIN.md"
+                "file": "Personal Projects/Freezer manager.md"
               }
             }
           }
@@ -175,6 +177,8 @@
   },
   "active": "e76b76c2330257f4",
   "lastOpenFiles": [
+    "Libros Interesantes/PowerShell_Lanavajasuizadelosadministradoresdesistemas.pdf",
+    "Libros Interesantes",
     "Personal Projects/Freezer manager.md",
     "Personal Projects/Extension de navegador para generar contraseñas Aleatorias.md",
     "Personal Projects",
@@ -204,7 +208,6 @@
     "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Real/Vulnyx - Real - Acceso con user serve vulnix real.png",
     "Ciberseguridad/CTFs/Vulnyx/Vulnyx Real (easy) complete.md",
     "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Real/Vulnyx - Real - Machine.png",
-    "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy) Complete.md",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox  - Abuso de chmod.png",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox - Machine.png",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Vulnhub - EMPIRE Breakout - Machine.png",
