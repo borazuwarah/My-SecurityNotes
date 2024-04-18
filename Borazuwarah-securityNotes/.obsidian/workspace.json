@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "c307da711bef3c27",
+        "id": "7c7a908af8ed3708",
         "type": "tabs",
         "children": [
           {
-            "id": "c1b90d886e0f8938",
+            "id": "930260a338cda7d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Puertos y Servicios/Puerto 80,443 - Http- HttpsServicio Web.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3874cedbfbbd6ff1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/STDOUT, STDERR y  STDIN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7958d1c09198c7ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/Hydra Ataques de Fuerza Bruta.md",
+                "file": "Ciberseguridad/Herramientas - Tools/Hydra, Ataques de Fuerza Bruta y John the Ripper.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "jack",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/Hydra Ataques de Fuerza Bruta.md",
+                "file": "Ciberseguridad/Herramientas - Tools/Hydra, Ataques de Fuerza Bruta y John the Ripper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/Hydra Ataques de Fuerza Bruta.md",
+                "file": "Ciberseguridad/Herramientas - Tools/Hydra, Ataques de Fuerza Bruta y John the Ripper.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/Hydra Ataques de Fuerza Bruta.md"
+                "file": "Ciberseguridad/Herramientas - Tools/Hydra, Ataques de Fuerza Bruta y John the Ripper.md"
               }
             }
           }
@@ -175,22 +150,25 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "7958d1c09198c7ce",
+  "active": "930260a338cda7d2",
   "lastOpenFiles": [
-    "Ciberseguridad/Webs Interesantes.md",
-    "Ciberseguridad/Herramientas - Tools/Hydra Ataques de Fuerza Bruta.md",
-    "Ciberseguridad/Herramientas - Tools/MSFVENOM.md",
+    "Ciberseguridad/Herramientas - Tools/HashIdentifier.md",
+    "Ciberseguridad/Herramientas - Tools/Hydra, Ataques de Fuerza Bruta y John the Ripper.md",
     "Ciberseguridad/Herramientas - Tools/Metasploit.md",
+    "Ciberseguridad/Puertos y Servicios/3306 Mysql.md",
+    "Linux/SORT, HEAD, TAIL, TAC, TR, WC y UNIQ.md",
+    "Ciberseguridad/Puertos y Servicios/Puerto 80,443 - Http- HttpsServicio Web.md",
+    "Linux/STDOUT, STDERR y  STDIN.md",
+    "Ciberseguridad/Webs Interesantes.md",
+    "Ciberseguridad/Herramientas - Tools/MSFVENOM.md",
     "Ciberseguridad/Herramientas - Tools/Webs.md",
     "Ciberseguridad/Herramientas - Tools/Enum4linux.md",
     "Ciberseguridad/Herramientas - Tools/Gobuster.md",
     "Personal Projects/Freezer manager (gestion del congelador).md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 80,443 - Http- HttpsServicio Web.md",
     "Libros Interesantes/PowerShell_Lanavajasuizadelosadministradoresdesistemas.pdf",
     "Libros Interesantes",
     "Personal Projects/Extension de navegador para generar contraseñas Aleatorias.md",
     "Personal Projects",
-    "Linux/SORT, HEAD, TAIL, WC y UNIQ.md",
     "Linux/Editor y creador de fichoers.md",
     "Linux/Comprimir y Descomprimir.md",
     "Linux/Chmod.md",
@@ -203,9 +181,6 @@
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF RETO 1 OKLAT (easy) Complete.md",
     "Ciberseguridad/NMAP.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP.md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 21 - FTP_tcp.md",
-    "Ciberseguridad/Certificaciones.md",
-    "Ciberseguridad/METADATA.md",
     "Ciberseguridad/Pantallazos/Comando - Nmap en UDP.png",
     "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Real/Vulnyx - Real - Acceso con user serve vulnix real.png",
     "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Real/Vulnyx - Real - Machine.png",
