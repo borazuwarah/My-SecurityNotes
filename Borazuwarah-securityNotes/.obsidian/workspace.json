@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/Hydra, Ataques de Fuerza Bruta y John the Ripper.md",
+                "file": "Personal Projects/Extension de navegador para generar contraseñas Aleatorias.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/Hydra, Ataques de Fuerza Bruta y John the Ripper.md",
+                "file": "Personal Projects/Extension de navegador para generar contraseñas Aleatorias.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/Hydra, Ataques de Fuerza Bruta y John the Ripper.md",
+                "file": "Personal Projects/Extension de navegador para generar contraseñas Aleatorias.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/Hydra, Ataques de Fuerza Bruta y John the Ripper.md"
+                "file": "Personal Projects/Extension de navegador para generar contraseñas Aleatorias.md"
               }
             }
           }
@@ -152,8 +152,8 @@
   },
   "active": "930260a338cda7d2",
   "lastOpenFiles": [
-    "Ciberseguridad/Herramientas - Tools/HashIdentifier.md",
     "Ciberseguridad/Herramientas - Tools/Hydra, Ataques de Fuerza Bruta y John the Ripper.md",
+    "Ciberseguridad/Herramientas - Tools/HashIdentifier.md",
     "Ciberseguridad/Herramientas - Tools/Metasploit.md",
     "Ciberseguridad/Puertos y Servicios/3306 Mysql.md",
     "Linux/SORT, HEAD, TAIL, TAC, TR, WC y UNIQ.md",
