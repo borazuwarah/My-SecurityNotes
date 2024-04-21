@@ -8,7 +8,7 @@
 Mirror donwload: [Download - MEGA](https://mega.nz/file/FOZxHbKB#LLYTQBQLGLYTVdlMMJ27mLc23pGN0XjFlg4vgHvh5Qw)
 
 ![[Vulnyx - Real - Machine.png]]
-## reconocimiento en la red
+## Reconocimiento en la red
 
 ![[Vulnyx - Real - Reconocimiento.png]]
 

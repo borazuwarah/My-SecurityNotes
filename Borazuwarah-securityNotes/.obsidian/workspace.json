@@ -8,43 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c1b90d886e0f8938",
+            "id": "e8added3acc23487",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Puertos y Servicios/Puerto 80,443 - Http- HttpsServicio Web.md",
+                "file": "Ciberseguridad/NMAP.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3874cedbfbbd6ff1",
+            "id": "e5ffc685cd01c034",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/STDOUT, STDERR y  STDIN.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7958d1c09198c7ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal Projects/Freezer manager.md",
+                "file": "Ciberseguridad/CTFs/Vulnyx/Vulnyx - Doctor (easy).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "VulnHub Empire Breakout (easy) completed",
+                "query": "metas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Projects/Freezer manager.md",
+                "file": "Ciberseguridad/CTFs/Vulnyx/Vulnyx - Doctor (easy).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal Projects/Freezer manager.md",
+                "file": "Ciberseguridad/CTFs/Vulnyx/Vulnyx - Doctor (easy).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Projects/Freezer manager.md"
+                "file": "Ciberseguridad/CTFs/Vulnyx/Vulnyx - Doctor (easy).md"
               }
             }
           }
@@ -175,11 +164,25 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "e76b76c2330257f4",
+  "active": "0919dc7673ff0f21",
   "lastOpenFiles": [
+    "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - Nmap script 22.png",
+    "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - Nmap script 80.png",
+    "Ciberseguridad/CTFs/Vulnyx/Vulnyx Real (easy) complete.md",
+    "Ciberseguridad/NMAP.md",
+    "Ciberseguridad/CTFs/Vulnyx/Vulnyx - Doctor (easy).md",
+    "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx Doctor - Nmap.png",
+    "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx- Doctro - Ping.png",
+    "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor arp-scan.png",
+    "Ciberseguridad/CTFs/CTF Template {platform - Machine name} {Status}.md",
+    "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor IP.png",
+    "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor img.png",
+    "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor",
+    "Ciberseguridad/Puertos y Servicios/Puerto 80,443 - Http- HttpsServicio Web.md",
+    "Linux/STDOUT, STDERR y  STDIN.md",
     "Libros Interesantes/PowerShell_Lanavajasuizadelosadministradoresdesistemas.pdf",
-    "Libros Interesantes",
     "Personal Projects/Freezer manager.md",
+    "Libros Interesantes",
     "Personal Projects/Extension de navegador para generar contraseñas Aleatorias.md",
     "Personal Projects",
     "Linux/SORT, HEAD, TAIL, WC y UNIQ.md",
@@ -191,11 +194,8 @@
     "Linux/Tuberias Pipe.md",
     "Linux/wget.md",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy) Complete.md",
-    "Ciberseguridad/CTFs/CTF Template {platform - Machine name} {Status}.md",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF RETO 1 OKLAT (easy) Complete.md",
     "Ciberseguridad/Herramientas - Tools/Enum4linux.md",
-    "Ciberseguridad/NMAP.md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 80,443 - Http- HttpsServicio Web.md",
     "Ciberseguridad/Herramientas - Tools/Webs.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 21 - FTP_tcp.md",
@@ -203,18 +203,9 @@
     "Ciberseguridad/METADATA.md",
     "Ciberseguridad/Reconocimiento de la red.md",
     "Ciberseguridad/Pantallazos/Comando - Nmap en UDP.png",
-    "Ciberseguridad/Escalada de privilegios en LINUX.md",
-    "Ciberseguridad/Webs Interesantes.md",
     "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Real/Vulnyx - Real - Acceso con user serve vulnix real.png",
-    "Ciberseguridad/CTFs/Vulnyx/Vulnyx Real (easy) complete.md",
     "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Real/Vulnyx - Real - Machine.png",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox  - Abuso de chmod.png",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox/vulnhab - coldbox - Machine.png",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Vulnhub - EMPIRE Breakout - Machine.png",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Vulnhub - EMPIRE Breakout - Panel de mailbox.png",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Vulnhub - EMPIRE Breakout - Acceso al puerto 20000.png",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Vulnhub - EMPIRE Breakout - Web apache 2 por defecto.png",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT/Vulnhub - EMPIRE Breakout - User Flag from the machine.png",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos Capturas/Reto 1 - CEH - OKLAT",
     "Sin título.canvas",
@@ -222,8 +213,6 @@
     "Ciberseguridad/Puertos y Servicios",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos",
-    "Ciberseguridad/CTFs/VULNHUB/Capturas",
-    "Ciberseguridad/CTFs/VULNHUB",
     "Obsidian/Canvas 1 prueba.canvas"
   ]
 }
