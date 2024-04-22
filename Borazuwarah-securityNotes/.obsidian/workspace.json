@@ -128,13 +128,21 @@
                 "file": "Ciberseguridad/Herramientas - Tools/RSAcrack.md"
               }
             }
+          },
+          {
+            "id": "802bee378b57ac7c",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
