@@ -46,6 +46,20 @@ es = que el comando HEAD pero empezando por abajo
 tail -n 5 {nombre del fichoer}
 ```
 
+
+# Tac
+Invirte el contenido de un fichero:
+```sh fold:"Invertir contenido de fichero con tac"
+tac {nombre del fichero a invertir} > {nombrenuevofichero}
+```
+
+
+# TR
+Este comando sirve para aplicar expresionesregulares
+```sh fold:"Apliocar expresiones regulares a feciero con tf"
+tr -d '' > quitarlosespacios.txt
+```
+
 ## WC
 word count, cuenta el total de lineas de una salida.
 cuenta lineas

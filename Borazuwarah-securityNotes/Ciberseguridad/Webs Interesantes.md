@@ -40,3 +40,7 @@ https://www.revshells.com/
 # Base  Encode / decode
 https://www.base64decode.org/
 
+
+# Desecargar algunas máquians para hacking:
+[Máquina eJPTv2 - Google Drive](https://drive.google.com/drive/folders/1e9kHBSVjvC41BGX51lE2dY1k9OntqFJn)
+
