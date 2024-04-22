@@ -11,9 +11,11 @@
             "id": "930260a338cda7d2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - Root flag.png"
+                "file": "Ciberseguridad/Herramientas - Tools/RSAcrack.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -46,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Vulnyx",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - Root flag.png",
+                "file": "Ciberseguridad/Herramientas - Tools/RSAcrack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - Root flag.png",
+                "file": "Ciberseguridad/Herramientas - Tools/RSAcrack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - Root flag.png"
+                "file": "Ciberseguridad/Herramientas - Tools/RSAcrack.md"
               }
             }
           }
@@ -148,8 +150,13 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "e76b76c2330257f4",
+  "active": "930260a338cda7d2",
   "lastOpenFiles": [
+    "Ciberseguridad/CTFs/Vulnyx/Vulnyx - Doctor (low) completed.md",
+    "Ciberseguridad/Herramientas - Tools/RSAcrack.md",
+    "Ciberseguridad/CTFs/Vulnyx/Vulnyx - Real (easy) completed.md",
+    "Ciberseguridad/Escalada de privilegios en LINUX.md",
+    "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - Root flag.png",
     "Personal Projects/Extension de navegador para generar contraseñas Aleatorias.md",
     "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - Web URL.png",
     "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - User flag.png",
@@ -158,7 +165,6 @@
     "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - ssh access.png",
     "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - RSACrack.png",
     "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - RSAcrack saca la contraseña.png",
-    "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - Root flag.png",
     "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - Ping.png",
     "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - permissos incorrectos para el fichero.png",
     "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor",
@@ -186,9 +192,6 @@
     "Linux/Tuberias Pipe.md",
     "Linux/wget.md",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy) Complete.md",
-    "Ciberseguridad/CTFs/CTF Template {platform - Machine name} {Status}.md",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF RETO 1 OKLAT (easy) Complete.md",
-    "Ciberseguridad/NMAP.md",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos Capturas/Reto 1 - CEH - OKLAT",
     "Sin título.canvas",

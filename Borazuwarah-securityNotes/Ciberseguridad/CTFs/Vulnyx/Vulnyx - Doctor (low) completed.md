@@ -1,4 +1,16 @@
+#linux
+#Puerto80 
+#puerto22
+#PathTraversal 
+#DirectoryTraversal
+#escaladaPrivilegios 
+#hash
+#RSAcrack
+
+
+
 https://vulnyx.com/
+Mirror: [mega.nz/file/Ie5w0JjJ#uVXwMBWLAQKc04metFBHozlPYfnXfYttuGU_7de_69M](https://mega.nz/file/Ie5w0JjJ#uVXwMBWLAQKc04metFBHozlPYfnXfYttuGU_7de_69M)
 
 Mirror, download:
 ![[Vulnyx - Doctor - img.png]]
@@ -122,6 +134,8 @@ git clone https://github.com/d4t4s3c/RSAcrack.git
 
 ![[Vulnyx - Doctor -  Cambiamos los permisos a RSAcrack.png]]
 Le damos permiso de ejecucion a la herramienta y la ejecutamos
+
+./RSAcrack -w /usr/share/wordlists/rockyou.txt -k {rsafile}
 
 ![[Vulnyx - Doctor - RSACrack.png]]
 y encontramos una contraseña:
