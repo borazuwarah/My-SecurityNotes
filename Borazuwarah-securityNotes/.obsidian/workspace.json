@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "08c1f7a83579b0ca",
+        "id": "7c7a908af8ed3708",
         "type": "tabs",
         "children": [
           {
-            "id": "99953f5dc92a7fb3",
+            "id": "930260a338cda7d2",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - curl + user.png"
+                "file": "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - Root flag.png"
               }
             }
           }
@@ -46,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "diccionari",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 597.5
+    "width": 361.5
   },
   "right": {
     "id": "9c0cb042e8ee7009",
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - curl + user.png",
+                "file": "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - Root flag.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - curl + user.png",
+                "file": "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - Root flag.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - curl + user.png"
+                "file": "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - Root flag.png"
               }
             }
           }
@@ -150,39 +150,34 @@
   },
   "active": "e76b76c2330257f4",
   "lastOpenFiles": [
-    "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - ssh access.png",
-    "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - Arp-scan.png",
-    "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - Id_RSA.png",
-    "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - img.png",
-    "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - Genrate passrod.png",
-    "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - IP.png",
-    "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - Ping.png",
-    "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - Ssh connection key for id_rsa.png",
+    "Personal Projects/Extension de navegador para generar contraseñas Aleatorias.md",
     "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - Web URL.png",
+    "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - User flag.png",
+    "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - Ssh connection key for id_rsa.png",
     "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - Root user.png",
-    "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - Nmap.png",
-    "Ciberseguridad/CTFs/Vulnyx/Vulnyx - Doctor (easy) completed.md",
-    "Ciberseguridad/Escalada de privilegios en LINUX.md",
-    "Ciberseguridad/Herramientas - Tools/Hydra, Ataques de Fuerza Bruta y John the Ripper.md",
-    "Ciberseguridad/Herramientas - Tools/Metasploit.md",
-    "Ciberseguridad/Herramientas - Tools/Gobuster.md",
-    "Ciberseguridad/NMAP.md",
-    "Personal Projects/Freezer manager (gestion del congelador).md",
-    "Linux/SORT, HEAD, TAIL, TAC, TR, WC y UNIQ.md",
-    "Ciberseguridad/Puertos y Servicios/3306 Mysql.md",
-    "Ciberseguridad/Herramientas - Tools/MSFVENOM.md",
-    "Ciberseguridad/Herramientas - Tools/HashIdentifier.md",
-    "Ciberseguridad/CTFs/Vulnyx/Vulnyx Real (easy) complete.md",
-    "Ciberseguridad/CTFs/CTF Template {platform - Machine name} {Status}.md",
+    "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - ssh access.png",
+    "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - RSACrack.png",
+    "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - RSAcrack saca la contraseña.png",
+    "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - Root flag.png",
+    "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - Ping.png",
+    "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - permissos incorrectos para el fichero.png",
     "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor",
+    "Ciberseguridad/Herramientas - Tools/Hydra, Ataques de Fuerza Bruta y John the Ripper.md",
+    "Ciberseguridad/Herramientas - Tools/HashIdentifier.md",
+    "Ciberseguridad/Herramientas - Tools/Metasploit.md",
+    "Ciberseguridad/Puertos y Servicios/3306 Mysql.md",
+    "Linux/SORT, HEAD, TAIL, TAC, TR, WC y UNIQ.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 80,443 - Http- HttpsServicio Web.md",
     "Linux/STDOUT, STDERR y  STDIN.md",
+    "Ciberseguridad/Webs Interesantes.md",
+    "Ciberseguridad/Herramientas - Tools/MSFVENOM.md",
+    "Ciberseguridad/Herramientas - Tools/Webs.md",
+    "Ciberseguridad/Herramientas - Tools/Enum4linux.md",
+    "Ciberseguridad/Herramientas - Tools/Gobuster.md",
+    "Personal Projects/Freezer manager (gestion del congelador).md",
     "Libros Interesantes/PowerShell_Lanavajasuizadelosadministradoresdesistemas.pdf",
-    "Personal Projects/Freezer manager.md",
     "Libros Interesantes",
-    "Personal Projects/Extension de navegador para generar contraseñas Aleatorias.md",
     "Personal Projects",
-    "Linux/SORT, HEAD, TAIL, WC y UNIQ.md",
     "Linux/Editor y creador de fichoers.md",
     "Linux/Comprimir y Descomprimir.md",
     "Linux/Chmod.md",
@@ -190,6 +185,10 @@
     "Linux/Grupos User.md",
     "Linux/Tuberias Pipe.md",
     "Linux/wget.md",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy) Complete.md",
+    "Ciberseguridad/CTFs/CTF Template {platform - Machine name} {Status}.md",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF RETO 1 OKLAT (easy) Complete.md",
+    "Ciberseguridad/NMAP.md",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos Capturas/Reto 1 - CEH - OKLAT",
     "Sin título.canvas",
