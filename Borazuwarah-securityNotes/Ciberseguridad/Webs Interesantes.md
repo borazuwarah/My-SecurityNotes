@@ -11,14 +11,22 @@ Test Linux Distro online in your browser:
 
 
 # Web dedicada al hacking ético:
-https://rinku.tech/
+https://rinku.tech/ --> web de rinku
+https://j4ckie0x17.gitbook.io/notes-pentesting/ La web de Jackie
+[Índice | Securiters Wiki](https://wiki.securiters.com/securiters-wiki) wiki de securiters
+
+| https://rinku.tech/                                                                 | Web de Rinku       |
+| ----------------------------------------------------------------------------------- | ------------------ |
+| [whoami \| J4ckie0x17 (gitbook.io)](https://j4ckie0x17.gitbook.io/notes-pentesting) | La web de Jackie   |
+| [Índice \| Securiters Wiki](https://wiki.securiters.com/securiters-wiki)            | wiki de securiters |
+
 
 ## Curso de KALI
 
 https://rinku.tech/curso-kali-linux/
 
-# la web de ciberseguridad de Jackie
-https://j4ckie0x17.gitbook.io/notes-pentesting/
+
+
 
 
 # WEBS para hacer CTFs
