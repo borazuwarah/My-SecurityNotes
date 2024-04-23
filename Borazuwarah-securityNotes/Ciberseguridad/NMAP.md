@@ -51,7 +51,7 @@ para que la cantidad de paquetes que envia sea minimo de 5000 por segundo
 Ojo para maquinas locales de CTFs min-rate 5000
 Para examenes oficiales min-rate 2000 / 1500  (para evitar saturar la red)
 
-
+## -n
 -n es para evitar hacer resolucion DNS
 ![[nmap con -n.png]]
 
@@ -59,14 +59,16 @@ Para examenes oficiales min-rate 2000 / 1500  (para evitar saturar la red)
  "no ping" por si la maquina objetivo esta limintando el ping icmp
 >![[nmap -Pn.png]]
 
--vvv trilple vervose para que reporte cosas conforme las encuentra
+## -vvv 
+trilple vervose para que reporte cosas conforme las encuentra
 > ![[nmap con -vvv.png]]
 
--oN {nombreFichero} para exportar todo el escaneo a un fichero
+## -oN {nombreFichero} 
+para exportar todo el escaneo a un fichero
 > ![[nmap a fichero -oN nombrefichero.png]]
 
 
---script "vuln" --p{puerto encontrado} {ipobjetivo}
+## --script "vuln" --p{puerto encontrado} {ipobjetivo}
 Lanza un Script para saber si la Maquina victima tiene alguna vulnerabilidad conocida en ese puerto
 ![[Comando - Nmap script vulen.png]]
 

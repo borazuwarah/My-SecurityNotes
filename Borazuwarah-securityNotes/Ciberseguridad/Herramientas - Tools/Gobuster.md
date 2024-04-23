@@ -1,6 +1,15 @@
 
 Gobuster es una herramienta para detectar subdominios y rutas de una web conocida
 
+## Dirbuster (diccionarios)
+Para  escanear webs se suele usar los diccionarios de dirbuster
+
+```sh title:"Instalacion de diccionarios para escaneos web"
+sudo apt install dirbuster
+```
+
+
+
 ## instalacion
 
 ```sh title:"Instalacion de GOBUSTER"

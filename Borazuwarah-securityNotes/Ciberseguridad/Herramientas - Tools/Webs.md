@@ -37,6 +37,8 @@ sudo wfuzz -c --hc 404 -t 200 -w /usr/share/wordlists/dirbuster/directory-list-l
 ```
 
 
+## subdominios con wfuzz
+buscar subdominios
 ```sh fold:"encontrar subdominios en una web"
 sudo wfuzz -c --hc 404 -t 200 -w /usr/share/wordlists/dirbuster/directory-list-low-ercase-2.3-medium.txt -u {dominioweb} -H "Host: FUZZ.{dominio}"
 
