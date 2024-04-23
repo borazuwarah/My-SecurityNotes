@@ -11,5 +11,4 @@ dig axfr  {dominioConocido}@{IPMaquina}
 
 
 
-bora
-D}4h`CdUq!Wp-L
+bora --> D}4h`CdUq!Wp-L
