@@ -26,15 +26,22 @@ https://j4ckie0x17.gitbook.io/notes-pentesting/ La web de Jackie
 https://rinku.tech/curso-kali-linux/
 
 
+# Webs con curtsos de formación
+Udemy
+Hack4you
+formulahacking
+thehackerway
+
+
 
 
 
 # WEBS para hacer CTFs
 Next CTF--> Ready : Vulnyx
 [Home : - Web CTF de la Comunidad de Hacking Ético (comunidadhackingetico.es)](https://ctf.comunidadhackingetico.es/home)
-https://vulnyx.com/ -->
+https://vulnyx.com/ 
 [TryHackMe | Cyber Security Training](https://tryhackme.com/) --> plataforma recomendada para cuando sea más pro
-[Vulnerable By Design ~ VulnHub](https://www.vulnhub.com/)  
+[Vulnerable By Design ~ VulnHub](https://www.vulnhub.com/)  --> plataforma con muchas maquinas pero hace tiempo que no suben maquinas nuevas
 [hackthebox](hackthebox.com)
 [The Hackers Labs](https://thehackerslabs.com/) --> diferentes maquinas con diferentes niveles
 [Dockerlabs](https://dockerlabs.es/#/) --> Webs enfocada a maquinas de seguridad en Docker
