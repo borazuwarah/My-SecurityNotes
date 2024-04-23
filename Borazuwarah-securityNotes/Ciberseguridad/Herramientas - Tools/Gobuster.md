@@ -18,6 +18,9 @@ sudo apt-get install seclists
 gobuster dir -u {direccion} -w {diccionario}
 sudo gobuster dir -u http://192.168.1.141/ -w /usr/share/wordlists/seclists/Discovery/Web-Content/directory-list-lowercase-2.3-medium.txt 
 
+```sh title:"uso de gobuster para directorios"
+gobuster dir -w /usr/share/dirbuster/wordlists/directory-list-2.3-medium.txt -u http://{ip} --add-slash
+```
 ![[CHE - PEPETHEFORG - Gobuster Data.png]]
 
 ### para sacar subdominios

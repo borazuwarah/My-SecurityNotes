@@ -1,4 +1,8 @@
 
+# Webs muy interesantes de hacking
+[HackTricks | HackTricks | HackTricks](https://book.hacktricks.xyz/) --> Base de datos de multitud de vulnerabilidades
+
+
 # Check Mail powned of filtered
  [exposed.lol]( exposed.lol)
 

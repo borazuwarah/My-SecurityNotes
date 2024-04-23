@@ -11,5 +11,12 @@ si se encuntra algun software que se pueda explotar lo revisamos en la web grfob
 
 
 Revisar si tenemos permiso de escritura en /etc/passwd:
+
+
 find / -writable -type f 2>/dev/null |grep '/etc/passwd' && ls -lah /etc/passwd
-find
+
+
+binarios que se pueden explotar
+find  / -perm -4000 2>/dev/null  
+
+

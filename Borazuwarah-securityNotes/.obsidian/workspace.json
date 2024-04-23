@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP.md",
+                "file": "Ciberseguridad/Escalada de privilegios en LINUX.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Puerto80",
+                "query": "gobuster",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP.md",
+                "file": "Ciberseguridad/Escalada de privilegios en LINUX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP.md",
+                "file": "Ciberseguridad/Escalada de privilegios en LINUX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP.md"
+                "file": "Ciberseguridad/Escalada de privilegios en LINUX.md"
               }
             }
           },
@@ -161,6 +161,9 @@
   "active": "0c3e7b37320361f0",
   "lastOpenFiles": [
     "Ciberseguridad/Webs Interesantes.md",
+    "Sin título.md",
+    "Ciberseguridad/Herramientas - Tools/Gobuster.md",
+    "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP.md",
     "Ciberseguridad/Herramientas - Tools/RSAcrack.md",
     "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
     "Ciberseguridad/CTFs/Vulnyx/Vulnyx - Doctor (low) completed.md",
@@ -188,7 +191,6 @@
     "Ciberseguridad/Herramientas - Tools/MSFVENOM.md",
     "Ciberseguridad/Herramientas - Tools/Webs.md",
     "Ciberseguridad/Herramientas - Tools/Enum4linux.md",
-    "Ciberseguridad/Herramientas - Tools/Gobuster.md",
     "Personal Projects/Freezer manager (gestion del congelador).md",
     "Libros Interesantes/PowerShell_Lanavajasuizadelosadministradoresdesistemas.pdf",
     "Libros Interesantes",
@@ -198,8 +200,6 @@
     "Linux/Chmod.md",
     "Linux/Find.md",
     "Linux/Grupos User.md",
-    "Linux/Tuberias Pipe.md",
-    "Linux/wget.md",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos Capturas/Reto 1 - CEH - OKLAT",
     "Sin título.canvas",
