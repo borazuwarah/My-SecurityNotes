@@ -88,6 +88,28 @@ dirb {url / IP}
 ```
 
 
+
+
+# Dirsearch
+### instalacion dirserarch
+
+```sh fold:"Instalacion dirsearch"
+sudo apt install dirsearch
+
+```
+
+### Uso de dirsearch
+es una herramienta para encontrar directorios de una web
+```sh fold:"dirsearch"
+dirsearch -u {url/ip}
+
+# usar un diccionario especifico
+dirsearch -u {url/ip} -w /usr/share/wordlists/Discovery/Web-Content/directoryu-list-lowercase-2.3-medium.txt
+```
+
+
+
+
 # WPScan
 
 # whois

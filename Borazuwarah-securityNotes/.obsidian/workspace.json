@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Puertos y Servicios/Puerto 53 - DNS.md",
+                "file": "Ciberseguridad/Herramientas - Tools/Webs.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dirbus",
+                "query": "dirse",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Puertos y Servicios/Puerto 53 - DNS.md",
+                "file": "Ciberseguridad/Herramientas - Tools/Webs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Puertos y Servicios/Puerto 53 - DNS.md",
+                "file": "Ciberseguridad/Herramientas - Tools/Webs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Puertos y Servicios/Puerto 53 - DNS.md"
+                "file": "Ciberseguridad/Herramientas - Tools/Webs.md"
               }
             }
           },
@@ -160,12 +161,14 @@
   },
   "active": "12ded2fe8cafbb28",
   "lastOpenFiles": [
-    "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP.md",
+    "Ciberseguridad/Puertos y Servicios/Puerto 80,443 - Http- HttpsServicio Web.md",
+    "Ciberseguridad/Herramientas - Tools/Webs.md",
+    "Ciberseguridad/CTFs/CTF Template {platform - Machine name} {Status}.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 53 - DNS.md",
+    "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP.md",
     "Ciberseguridad/Certificaciones.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 3306  - Mysql.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 21 - FTP_tcp.md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 80,443 - Http- HttpsServicio Web.md",
     "Ciberseguridad/Webs Interesantes.md",
     "Ciberseguridad/Reconocimiento de la red.md",
     "Ciberseguridad/NMAP.md",
@@ -175,7 +178,6 @@
     "Ciberseguridad/Herramientas - Tools/MSFVENOM.md",
     "Ciberseguridad/Herramientas - Tools/Gobuster.md",
     "Ciberseguridad/Herramientas - Tools/Hydra, Ataques de Fuerza Bruta y John the Ripper.md",
-    "Ciberseguridad/Herramientas - Tools/Webs.md",
     "Ciberseguridad/Escalada de privilegios en LINUX.md",
     "Ciberseguridad/CTFs/Vulnyx/Vulnyx - Doctor (low) completed.md",
     "Ciberseguridad/CTFs/Vulnyx/Vulnyx - Real (easy) completed.md",
@@ -196,7 +198,6 @@
     "Linux/SORT, HEAD, TAIL, TAC, TR, WC y UNIQ.md",
     "Linux/STDOUT, STDERR y  STDIN.md",
     "Ciberseguridad/Herramientas - Tools/Enum4linux.md",
-    "Personal Projects/Freezer manager (gestion del congelador).md",
     "Libros Interesantes/PowerShell_Lanavajasuizadelosadministradoresdesistemas.pdf",
     "Libros Interesantes",
     "Personal Projects",
