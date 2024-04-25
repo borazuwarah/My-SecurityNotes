@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/Webs.md",
+                "file": "Ciberseguridad/Explotacion File Upload.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/Webs.md",
+                "file": "Ciberseguridad/Explotacion File Upload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/Webs.md",
+                "file": "Ciberseguridad/Explotacion File Upload.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/Webs.md"
+                "file": "Ciberseguridad/Explotacion File Upload.md"
               }
             }
           },
@@ -161,8 +160,12 @@
   },
   "active": "12ded2fe8cafbb28",
   "lastOpenFiles": [
-    "Ciberseguridad/Puertos y Servicios/Puerto 80,443 - Http- HttpsServicio Web.md",
+    "Ciberseguridad/NMAP.md",
+    "Ciberseguridad/METADATA.md",
+    "Ciberseguridad/Escalada de privilegios en LINUX.md",
+    "Ciberseguridad/Explotacion File Upload.md",
     "Ciberseguridad/Herramientas - Tools/Webs.md",
+    "Ciberseguridad/Puertos y Servicios/Puerto 80,443 - Http- HttpsServicio Web.md",
     "Ciberseguridad/CTFs/CTF Template {platform - Machine name} {Status}.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 53 - DNS.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP.md",
@@ -171,14 +174,12 @@
     "Ciberseguridad/Puertos y Servicios/Puerto 21 - FTP_tcp.md",
     "Ciberseguridad/Webs Interesantes.md",
     "Ciberseguridad/Reconocimiento de la red.md",
-    "Ciberseguridad/NMAP.md",
     "Sin título.md",
     "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
     "Ciberseguridad/Herramientas - Tools/RSAcrack.md",
     "Ciberseguridad/Herramientas - Tools/MSFVENOM.md",
     "Ciberseguridad/Herramientas - Tools/Gobuster.md",
     "Ciberseguridad/Herramientas - Tools/Hydra, Ataques de Fuerza Bruta y John the Ripper.md",
-    "Ciberseguridad/Escalada de privilegios en LINUX.md",
     "Ciberseguridad/CTFs/Vulnyx/Vulnyx - Doctor (low) completed.md",
     "Ciberseguridad/CTFs/Vulnyx/Vulnyx - Real (easy) completed.md",
     "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - Root flag.png",
@@ -196,8 +197,6 @@
     "Ciberseguridad/Herramientas - Tools/HashIdentifier.md",
     "Ciberseguridad/Herramientas - Tools/Metasploit.md",
     "Linux/SORT, HEAD, TAIL, TAC, TR, WC y UNIQ.md",
-    "Linux/STDOUT, STDERR y  STDIN.md",
-    "Ciberseguridad/Herramientas - Tools/Enum4linux.md",
     "Libros Interesantes/PowerShell_Lanavajasuizadelosadministradoresdesistemas.pdf",
     "Libros Interesantes",
     "Personal Projects",

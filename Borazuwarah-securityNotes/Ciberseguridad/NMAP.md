@@ -6,6 +6,7 @@ Reconocimiento de puertos
 ```sh fold:"nmap directo sin parametros"
 sudo  nmap 192.168.1.X
 ```
+
 > nmap 192.168.1.137
 > ![[nmap basico.png]]
 
