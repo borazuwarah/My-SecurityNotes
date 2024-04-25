@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Tratamiento de la TTY.md",
+                "file": "Ciberseguridad/Escalada de privilegios en LINUX.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Tratamiento de la TTY.md",
+                "file": "Ciberseguridad/Escalada de privilegios en LINUX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Tratamiento de la TTY.md",
+                "file": "Ciberseguridad/Escalada de privilegios en LINUX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Tratamiento de la TTY.md"
+                "file": "Ciberseguridad/Escalada de privilegios en LINUX.md"
               }
             }
           },
@@ -170,13 +170,14 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "e76b76c2330257f4",
+  "active": "12ded2fe8cafbb28",
   "lastOpenFiles": [
     "Ciberseguridad/Explotacion File Upload.md",
-    "Ciberseguridad/Herramientas - Tools/NMAP.md",
-    "Ciberseguridad/Tratamiento de la TTY.md",
-    "Ciberseguridad/METADATA.md",
     "Ciberseguridad/Escalada de privilegios en LINUX.md",
+    "Ciberseguridad/Webs Interesantes.md",
+    "Ciberseguridad/Tratamiento de la TTY.md",
+    "Ciberseguridad/Herramientas - Tools/NMAP.md",
+    "Ciberseguridad/METADATA.md",
     "Ciberseguridad/Herramientas - Tools/Webs.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 80,443 - Http- HttpsServicio Web.md",
     "Ciberseguridad/CTFs/CTF Template {platform - Machine name} {Status}.md",
@@ -185,7 +186,6 @@
     "Ciberseguridad/Certificaciones.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 3306  - Mysql.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 21 - FTP_tcp.md",
-    "Ciberseguridad/Webs Interesantes.md",
     "Ciberseguridad/Reconocimiento de la red.md",
     "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
     "Ciberseguridad/Herramientas - Tools/RSAcrack.md",
