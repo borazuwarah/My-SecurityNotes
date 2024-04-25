@@ -9,7 +9,7 @@ primer sudo -l
 ```sh fold:"Revisar tenemos permiso de algun programa como root"
 sudo -l
 ```
-si se encuentra algun software que se pueda explotar lo revisamos en la web grfobins
+si se encuentra algún software que se pueda explotar lo revisamos en la web grfobins
 
 
 
