@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Explotacion File Upload.md",
+                "file": "Ciberseguridad/Tratamiento de la TTY.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb050aaa5a83e899",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciberseguridad/Herramientas - Tools/NMAP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Explotacion File Upload.md",
+                "file": "Ciberseguridad/Tratamiento de la TTY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Explotacion File Upload.md",
+                "file": "Ciberseguridad/Tratamiento de la TTY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Explotacion File Upload.md"
+                "file": "Ciberseguridad/Tratamiento de la TTY.md"
               }
             }
           },
@@ -158,12 +170,13 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "12ded2fe8cafbb28",
+  "active": "e76b76c2330257f4",
   "lastOpenFiles": [
-    "Ciberseguridad/NMAP.md",
+    "Ciberseguridad/Explotacion File Upload.md",
+    "Ciberseguridad/Herramientas - Tools/NMAP.md",
+    "Ciberseguridad/Tratamiento de la TTY.md",
     "Ciberseguridad/METADATA.md",
     "Ciberseguridad/Escalada de privilegios en LINUX.md",
-    "Ciberseguridad/Explotacion File Upload.md",
     "Ciberseguridad/Herramientas - Tools/Webs.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 80,443 - Http- HttpsServicio Web.md",
     "Ciberseguridad/CTFs/CTF Template {platform - Machine name} {Status}.md",
@@ -174,7 +187,6 @@
     "Ciberseguridad/Puertos y Servicios/Puerto 21 - FTP_tcp.md",
     "Ciberseguridad/Webs Interesantes.md",
     "Ciberseguridad/Reconocimiento de la red.md",
-    "Sin título.md",
     "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
     "Ciberseguridad/Herramientas - Tools/RSAcrack.md",
     "Ciberseguridad/Herramientas - Tools/MSFVENOM.md",
