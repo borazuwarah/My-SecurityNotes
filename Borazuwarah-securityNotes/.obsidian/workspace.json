@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Escalada de privilegios en LINUX.md",
+                "file": "Ciberseguridad/Wireless.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Escalada de privilegios en LINUX.md",
+                "file": "Ciberseguridad/Wireless.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Escalada de privilegios en LINUX.md",
+                "file": "Ciberseguridad/Wireless.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Escalada de privilegios en LINUX.md"
+                "file": "Ciberseguridad/Wireless.md"
               }
             }
           },
@@ -170,12 +170,15 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "12ded2fe8cafbb28",
+  "active": "e76b76c2330257f4",
   "lastOpenFiles": [
-    "Ciberseguridad/Explotacion File Upload.md",
-    "Ciberseguridad/Escalada de privilegios en LINUX.md",
-    "Ciberseguridad/Webs Interesantes.md",
+    "Ciberseguridad/Pantallazos/Wireless",
+    "Ciberseguridad/Pantallazos/Wireless/Wifite - primera pantalla.png",
     "Ciberseguridad/Tratamiento de la TTY.md",
+    "Ciberseguridad/Webs Interesantes.md",
+    "Ciberseguridad/Wireless.md",
+    "Ciberseguridad/Escalada de privilegios en LINUX.md",
+    "Ciberseguridad/Explotacion File Upload.md",
     "Ciberseguridad/Herramientas - Tools/NMAP.md",
     "Ciberseguridad/METADATA.md",
     "Ciberseguridad/Herramientas - Tools/Webs.md",
@@ -204,11 +207,8 @@
     "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - RSACrack.png",
     "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - RSAcrack saca la contraseña.png",
     "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - Ping.png",
-    "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - permissos incorrectos para el fichero.png",
     "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor",
     "Ciberseguridad/Herramientas - Tools/HashIdentifier.md",
-    "Ciberseguridad/Herramientas - Tools/Metasploit.md",
-    "Linux/SORT, HEAD, TAIL, TAC, TR, WC y UNIQ.md",
     "Libros Interesantes/PowerShell_Lanavajasuizadelosadministradoresdesistemas.pdf",
     "Libros Interesantes",
     "Personal Projects",
