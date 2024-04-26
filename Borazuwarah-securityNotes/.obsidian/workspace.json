@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Ciberseguridad/Webshell.md",
+=======
+                "file": "Ciberseguridad/Wireless.md",
+>>>>>>> 6e41870d714f0323210b773e9e5449a4253f8b44
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +101,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Ciberseguridad/Webshell.md",
+=======
+                "file": "Ciberseguridad/Wireless.md",
+>>>>>>> 6e41870d714f0323210b773e9e5449a4253f8b44
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +122,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Ciberseguridad/Webshell.md",
+=======
+                "file": "Ciberseguridad/Wireless.md",
+>>>>>>> 6e41870d714f0323210b773e9e5449a4253f8b44
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +149,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Ciberseguridad/Webshell.md"
+=======
+                "file": "Ciberseguridad/Wireless.md"
+>>>>>>> 6e41870d714f0323210b773e9e5449a4253f8b44
               }
             }
           },
@@ -172,12 +188,25 @@
   },
   "active": "12ded2fe8cafbb28",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Ciberseguridad/Tratamiento de la TTY.md",
     "Ciberseguridad/METADATA.md",
     "Ciberseguridad/Webshell.md",
     "Ciberseguridad/Explotacion File Upload.md",
     "Ciberseguridad/Herramientas - Tools/NMAP.md",
     "Ciberseguridad/Escalada de privilegios en LINUX.md",
+=======
+    "Ciberseguridad/Pantallazos/Wireless/Wifite result 1.png",
+    "Ciberseguridad/Pantallazos/Wireless",
+    "Ciberseguridad/Pantallazos/Wireless/Wifite - primera pantalla.png",
+    "Ciberseguridad/Tratamiento de la TTY.md",
+    "Ciberseguridad/Webs Interesantes.md",
+    "Ciberseguridad/Wireless.md",
+    "Ciberseguridad/Escalada de privilegios en LINUX.md",
+    "Ciberseguridad/Explotacion File Upload.md",
+    "Ciberseguridad/Herramientas - Tools/NMAP.md",
+    "Ciberseguridad/METADATA.md",
+>>>>>>> 6e41870d714f0323210b773e9e5449a4253f8b44
     "Ciberseguridad/Herramientas - Tools/Webs.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 80,443 - Http- HttpsServicio Web.md",
     "Ciberseguridad/CTFs/CTF Template {platform - Machine name} {Status}.md",
@@ -186,7 +215,6 @@
     "Ciberseguridad/Certificaciones.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 3306  - Mysql.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 21 - FTP_tcp.md",
-    "Ciberseguridad/Webs Interesantes.md",
     "Ciberseguridad/Reconocimiento de la red.md",
     "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
     "Ciberseguridad/Herramientas - Tools/RSAcrack.md",
@@ -205,10 +233,12 @@
     "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - RSACrack.png",
     "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - RSAcrack saca la contraseña.png",
     "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - Ping.png",
-    "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - permissos incorrectos para el fichero.png",
     "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor",
     "Ciberseguridad/Herramientas - Tools/HashIdentifier.md",
+<<<<<<< HEAD
     "Ciberseguridad/Herramientas - Tools/Metasploit.md",
+=======
+>>>>>>> 6e41870d714f0323210b773e9e5449a4253f8b44
     "Libros Interesantes/PowerShell_Lanavajasuizadelosadministradoresdesistemas.pdf",
     "Libros Interesantes",
     "Personal Projects",
@@ -218,7 +248,6 @@
     "Linux/Scrips",
     "Ciberseguridad/Puertos y Servicios",
     "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos",
     "Obsidian/Canvas 1 prueba.canvas"
   ]
 }
