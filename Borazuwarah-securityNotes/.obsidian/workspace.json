@@ -1,38 +1,18 @@
 {
   "main": {
-    "id": "d3f2e02f076cb59d",
+    "id": "6a47ba7ab4c60fe9",
     "type": "split",
     "children": [
       {
-        "id": "c221c3925af1204d",
+        "id": "33499e8100adddc2",
         "type": "tabs",
         "children": [
           {
-            "id": "12ded2fe8cafbb28",
+            "id": "722553bc292852df",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "Ciberseguridad/Webshell.md",
-=======
-                "file": "Ciberseguridad/Wireless.md",
->>>>>>> 6e41870d714f0323210b773e9e5449a4253f8b44
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb050aaa5a83e899",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/NMAP.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -41,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e54215a88d5dc53b",
+    "id": "305ed80fb89c382a",
     "type": "split",
     "children": [
       {
-        "id": "e3ad3e3a55010066",
+        "id": "fd775f0285f36f93",
         "type": "tabs",
         "children": [
           {
-            "id": "e76b76c2330257f4",
+            "id": "f346d92f9f76337a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -59,12 +39,12 @@
             }
           },
           {
-            "id": "0919dc7673ff0f21",
+            "id": "32c6ae55f8212564",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "dirse",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +54,7 @@
             }
           },
           {
-            "id": "14a502cc6ff431ad",
+            "id": "8850634ce334bb37",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,27 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 374.5
   },
   "right": {
-    "id": "9c0cb042e8ee7009",
+    "id": "0e37c2c69e7da69e",
     "type": "split",
     "children": [
       {
-        "id": "c199625e1fbd90ec",
+        "id": "3614a4b795efb713",
         "type": "tabs",
         "children": [
           {
-            "id": "f1c86b641b3ad941",
+            "id": "a6061b7c2c879100",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Ciberseguridad/Webshell.md",
-=======
-                "file": "Ciberseguridad/Wireless.md",
->>>>>>> 6e41870d714f0323210b773e9e5449a4253f8b44
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,23 +92,18 @@
             }
           },
           {
-            "id": "e94ecf660e098864",
+            "id": "81c26b8d53d444e9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Ciberseguridad/Webshell.md",
-=======
-                "file": "Ciberseguridad/Wireless.md",
->>>>>>> 6e41870d714f0323210b773e9e5449a4253f8b44
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "930319ee32d556f3",
+            "id": "4cad1bb867440698",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -144,33 +114,19 @@
             }
           },
           {
-            "id": "05ff33b102d9b7d6",
+            "id": "3cdf873f2d7ad9f3",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-<<<<<<< HEAD
-                "file": "Ciberseguridad/Webshell.md"
-=======
-                "file": "Ciberseguridad/Wireless.md"
->>>>>>> 6e41870d714f0323210b773e9e5449a4253f8b44
-              }
-            }
-          },
-          {
-            "id": "802bee378b57ac7c",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,68 +142,25 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "12ded2fe8cafbb28",
+  "active": "722553bc292852df",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Ciberseguridad/Tratamiento de la TTY.md",
-    "Ciberseguridad/METADATA.md",
-    "Ciberseguridad/Webshell.md",
-    "Ciberseguridad/Explotacion File Upload.md",
-    "Ciberseguridad/Herramientas - Tools/NMAP.md",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Vacaciones (Muy fácil) completed.md",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Vacaciones/Dockerlabs - Vacacioens - Nmap result.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Vacaciones/Dockerlabs - Vacacioens -  Gtfobbins ruby sudo access.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Vacaciones/Dockerlabs - Vacaciones - Despliegue me maquina.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Vacaciones/Dockerlabs - Vacacioens -  Contenido fichero correo.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Vacaciones/Dockerlabs - Vacacioens -  Script vbuln p 80.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Vacaciones/Dockerlabs - Vacaciones - Codigo Fuente.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Vacaciones/Dockerlabs - Vacacioens -  Eliminar la maquina.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Vacaciones/Dockerlabs - Vacacioens -  Script Vulnerabilidad P22.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Vacaciones/Dockerlabs - Vacacioens -  Vacaciones web.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Vacaciones/Dockerlabs - Vacaciones - Root access.png",
     "Ciberseguridad/Escalada de privilegios en LINUX.md",
-=======
-    "Ciberseguridad/Pantallazos/Wireless/Wifite result 1.png",
-    "Ciberseguridad/Pantallazos/Wireless",
-    "Ciberseguridad/Pantallazos/Wireless/Wifite - primera pantalla.png",
-    "Ciberseguridad/Tratamiento de la TTY.md",
-    "Ciberseguridad/Webs Interesantes.md",
-    "Ciberseguridad/Wireless.md",
-    "Ciberseguridad/Escalada de privilegios en LINUX.md",
-    "Ciberseguridad/Explotacion File Upload.md",
-    "Ciberseguridad/Herramientas - Tools/NMAP.md",
-    "Ciberseguridad/METADATA.md",
->>>>>>> 6e41870d714f0323210b773e9e5449a4253f8b44
-    "Ciberseguridad/Herramientas - Tools/Webs.md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 80,443 - Http- HttpsServicio Web.md",
-    "Ciberseguridad/CTFs/CTF Template {platform - Machine name} {Status}.md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 53 - DNS.md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP.md",
-    "Ciberseguridad/Certificaciones.md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 3306  - Mysql.md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 21 - FTP_tcp.md",
-    "Ciberseguridad/Reconocimiento de la red.md",
-    "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
-    "Ciberseguridad/Herramientas - Tools/RSAcrack.md",
-    "Ciberseguridad/Herramientas - Tools/MSFVENOM.md",
-    "Ciberseguridad/Herramientas - Tools/Gobuster.md",
     "Ciberseguridad/Herramientas - Tools/Hydra, Ataques de Fuerza Bruta y John the Ripper.md",
-    "Ciberseguridad/CTFs/Vulnyx/Vulnyx - Doctor (low) completed.md",
-    "Ciberseguridad/CTFs/Vulnyx/Vulnyx - Real (easy) completed.md",
-    "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - Root flag.png",
-    "Personal Projects/Extension de navegador para generar contraseñas Aleatorias.md",
-    "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - Web URL.png",
-    "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - User flag.png",
-    "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - Ssh connection key for id_rsa.png",
-    "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - Root user.png",
-    "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - ssh access.png",
-    "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - RSACrack.png",
-    "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - RSAcrack saca la contraseña.png",
-    "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor/Vulnyx - Doctor - Ping.png",
-    "Ciberseguridad/CTFs/Vulnyx/Pantallazos/Vulnyx - Doctor",
-    "Ciberseguridad/Herramientas - Tools/HashIdentifier.md",
-<<<<<<< HEAD
-    "Ciberseguridad/Herramientas - Tools/Metasploit.md",
-=======
->>>>>>> 6e41870d714f0323210b773e9e5449a4253f8b44
-    "Libros Interesantes/PowerShell_Lanavajasuizadelosadministradoresdesistemas.pdf",
-    "Libros Interesantes",
-    "Personal Projects",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/EMPIRE BREAKOUT",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/Pantallazos Capturas/Reto 1 - CEH - OKLAT",
-    "Sin título.canvas",
-    "Linux/Scrips",
-    "Ciberseguridad/Puertos y Servicios",
-    "Ciberseguridad/CTFs/VULNHUB/pantallazos/Colddbox",
-    "Obsidian/Canvas 1 prueba.canvas"
+    "Ciberseguridad/Herramientas - Tools/NMAP.md",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Vacaciones",
+    "Ciberseguridad/METADATA.md",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos",
+    "Ciberseguridad/CTFs/Dockerlabs.es"
   ]
 }
