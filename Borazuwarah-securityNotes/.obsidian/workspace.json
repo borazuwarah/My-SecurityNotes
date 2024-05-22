@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Explotacion File Upload.md",
+                "file": "Linux/SSH - Git connection.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Explotacion File Upload.md",
+                "file": "Linux/SSH - Git connection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Explotacion File Upload.md",
+                "file": "Linux/SSH - Git connection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Explotacion File Upload.md"
+                "file": "Linux/SSH - Git connection.md"
               }
             }
           },
@@ -161,11 +160,13 @@
   },
   "active": "6993025b1b140c24",
   "lastOpenFiles": [
+    "Linux/Procesos.md",
+    "Linux/SSH - Git connection.md",
+    "Ciberseguridad/Explotacion File Upload.md",
     "Ciberseguridad/Herramientas - Tools/MSFVENOM.md",
     "Ciberseguridad/Herramientas - Tools/NMAP.md",
     "Ciberseguridad/Herramientas - Tools/RSAcrack.md",
     "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
-    "Ciberseguridad/Explotacion File Upload.md",
     "Ciberseguridad/Herramientas - Tools/Capturar la pantalla.md",
     "Ciberseguridad/Herramientas - Tools/HashIdentifier.md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Vacaciones (Muy fácil) completed.md",
