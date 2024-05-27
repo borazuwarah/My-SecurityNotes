@@ -23,3 +23,8 @@ ln -s /dev/null /root/.bash_history
 
 User Flag: WqQrm1xGe2JMxw39DdNAHt6At820o
 root flag: z]5mNv3__o\n`Q+h=azC#ZR;T<q^|FC3Y
+
+
+
+
+url: https://mega.nz/file/3d02UBwC#5jrwgTvgcBDgSTVbbuaDJ0DTv3tkBPl4WIQc8_VVQHg
