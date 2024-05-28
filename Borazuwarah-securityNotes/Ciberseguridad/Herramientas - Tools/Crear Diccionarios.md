@@ -9,3 +9,4 @@ repository: [GitHub - Mebus/cupp: Common User Passwords Profiler (CUPP)](https:/
 Execution:
 cupp -i
 Completar el formulario.
+P
