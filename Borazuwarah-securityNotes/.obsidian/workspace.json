@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0fceaf5be7eb1277",
+        "id": "2268ab7e218c9be5",
         "type": "tabs",
         "children": [
           {
-            "id": "6993025b1b140c24",
+            "id": "cfb8767b87f7d73e",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Libros Interesantes/Aprendiendo_Ciberseguridad_paso_a_paso_Volumen1_Internet.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Libros Interesantes/Aprendiendo_Ciberseguridad_paso_a_paso_Volumen1_Internet.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Libros Interesantes/Aprendiendo_Ciberseguridad_paso_a_paso_Volumen1_Internet.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Libros Interesantes/Aprendiendo_Ciberseguridad_paso_a_paso_Volumen1_Internet.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -156,10 +150,11 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "6993025b1b140c24",
+  "active": "cfb8767b87f7d73e",
   "lastOpenFiles": [
-    "Ciberseguridad/Puertos y Servicios/Puerto 80,443 - Http- HttpsServicio Web.md",
+    "Libros Interesantes/OSCP-español.pdf",
     "Libros Interesantes/Aprendiendo_Ciberseguridad_paso_a_paso_Volumen1_Internet.pdf",
+    "Ciberseguridad/Puertos y Servicios/Puerto 80,443 - Http- HttpsServicio Web.md",
     "Libros Interesantes/Aprendiendo_Ciberseguridad_paso_a_paso_Volumen1_Internet.pdf.crdownload",
     "Ciberseguridad/Reconocimiento de la red.md",
     "Ciberseguridad/CTFs/My CTF.md",
