@@ -27,6 +27,18 @@ find / -writable -type f 2>/dev/null |grep '/etc/passwd' && ls -lah /etc/passwd
 find  / -perm -4000 2>/dev/null  
 ```
 
+# conoer  version de linux y distribucion
+
+```sh fold:"conocer version de linux"
+lsb_release -a
+```
+
+Busqueda en google
+exploit db {distibucion}  {version}
+Descargamos el exploit
+
+enviamos el exploit a la maquina victima
 
 
-
+# compilar archivos en c
+gcc -o{archivo reultante} {archivo fuente en C}

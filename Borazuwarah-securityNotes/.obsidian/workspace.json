@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2268ab7e218c9be5",
+        "id": "9f8197521ccb6a09",
         "type": "tabs",
         "children": [
           {
-            "id": "cfb8767b87f7d73e",
+            "id": "6fba29c5f778a6c5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ciberseguridad/Escalada de privilegios en LINUX.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Ciberseguridad/Escalada de privilegios en LINUX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Ciberseguridad/Escalada de privilegios en LINUX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Ciberseguridad/Escalada de privilegios en LINUX.md"
+              }
             }
           },
           {
@@ -150,8 +158,9 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "cfb8767b87f7d73e",
+  "active": "6fba29c5f778a6c5",
   "lastOpenFiles": [
+    "Linux/Variables.md",
     "Libros Interesantes/OSCP-español.pdf",
     "Libros Interesantes/Aprendiendo_Ciberseguridad_paso_a_paso_Volumen1_Internet.pdf",
     "Ciberseguridad/Puertos y Servicios/Puerto 80,443 - Http- HttpsServicio Web.md",
