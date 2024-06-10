@@ -25,12 +25,15 @@ https://j4ckie0x17.gitbook.io/notes-pentesting/ La web de Jackie
 | [Índice \| Securiters Wiki](https://wiki.securiters.com/securiters-wiki)            | wiki de securiters |
 
 
-## Curso de KALI
+## Cursos y academias
 
-https://rinku.tech/curso-kali-linux/
+https://rinku.tech/curso-kali-linux/ -->  de KALI
+[Just a moment... (hack4u.io)](https://hack4u.io/) --> Savitar academy
 
 
-# Webs con curtsos de formación
+
+
+# Webs con cursos de formación
 Udemy
 Hack4you
 formulahacking
@@ -64,3 +67,7 @@ https://www.base64decode.org/
 # Desecargar algunas máquians para hacking:
 [Máquina eJPTv2 - Google Drive](https://drive.google.com/drive/folders/1e9kHBSVjvC41BGX51lE2dY1k9OntqFJn)
 
+
+
+# WriteUps
+[Machines - Search engine (infosecmachines.io)](https://infosecmachines.io/)

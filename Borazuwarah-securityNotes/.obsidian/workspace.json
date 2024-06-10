@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Escalada de privilegios en LINUX.md",
+                "file": "Ciberseguridad/Webs Interesantes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Escalada de privilegios en LINUX.md",
+                "file": "Ciberseguridad/Webs Interesantes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Escalada de privilegios en LINUX.md",
+                "file": "Ciberseguridad/Webs Interesantes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Escalada de privilegios en LINUX.md"
+                "file": "Ciberseguridad/Webs Interesantes.md"
               }
             }
           },
@@ -160,8 +160,11 @@
   },
   "active": "6fba29c5f778a6c5",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Ciberseguridad/Explotacion SQL - Injection.md",
+    "Ciberseguridad/Reconocimiento de la red.md",
+    "Ciberseguridad/METADATA.md",
     "Ciberseguridad/Escalada de privilegios en LINUX.md",
+    "conflict-files-obsidian-git.md",
     "Ciberseguridad/CTFs/CTFs by Borazuwarah/CTF_Borazuwarah2 (Docker).md",
     "Ciberseguridad/CTFs/CTFs by Borazuwarah/My CTF  -- CTFBorazuwarah1 (VM).md",
     "Ciberseguridad/CTFs/CTFs by Borazuwarah",
@@ -170,7 +173,6 @@
     "Libros Interesantes/Aprendiendo_Ciberseguridad_paso_a_paso_Volumen1_Internet.pdf",
     "Ciberseguridad/Puertos y Servicios/Puerto 80,443 - Http- HttpsServicio Web.md",
     "Libros Interesantes/Aprendiendo_Ciberseguridad_paso_a_paso_Volumen1_Internet.pdf.crdownload",
-    "Ciberseguridad/Reconocimiento de la red.md",
     "Ciberseguridad/CTFs/My CTF.md",
     "Ciberseguridad/Herramientas - Tools/Crear Diccionarios.md",
     "Linux/SSH - Git connection.md",
@@ -195,7 +197,6 @@
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Vacaciones/Dockerlabs - Vacaciones - Root access.png",
     "Ciberseguridad/Herramientas - Tools/Hydra, Ataques de Fuerza Bruta y John the Ripper.md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Vacaciones",
-    "Ciberseguridad/METADATA.md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos",
     "Ciberseguridad/CTFs/Dockerlabs.es"
   ]
