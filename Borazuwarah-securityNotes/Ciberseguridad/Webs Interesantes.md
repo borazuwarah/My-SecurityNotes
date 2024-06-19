@@ -33,11 +33,12 @@ https://rinku.tech/curso-kali-linux/ -->  de KALI
 
 
 
-# Webs con cursos de formación
-Udemy
-Hack4you
-formulahacking
-thehackerway
+# Webs con cursos de formación (pago/gratis)
+Udemy --> pago
+Hack4you --> pago
+formulahacking -->pago
+thehackerway --> pago
+elrincondelhacker.es --> pago
 
 
 
