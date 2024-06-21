@@ -25,12 +25,6 @@ https://j4ckie0x17.gitbook.io/notes-pentesting/ La web de Jackie
 | [Índice \| Securiters Wiki](https://wiki.securiters.com/securiters-wiki)            | wiki de securiters |
 
 
-## Cursos y academias
-
-https://rinku.tech/curso-kali-linux/ -->  de KALI
-[Just a moment... (hack4u.io)](https://hack4u.io/) --> Savitar academy
-
-
 
 
 # Webs con cursos de formación (pago/gratis)
@@ -39,6 +33,8 @@ Hack4you --> pago
 formulahacking -->pago
 thehackerway --> pago
 elrincondelhacker.es --> pago
+https://rinku.tech/curso-kali-linux/ -->  de KALI
+[Just a moment... (hack4u.io)](https://hack4u.io/) --> Savitar academy
 
 
 

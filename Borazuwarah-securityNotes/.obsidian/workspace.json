@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Webs Interesantes.md",
+                "file": "Docker/Imagenes en Docker y contenedores.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Webs Interesantes.md",
+                "file": "Docker/Imagenes en Docker y contenedores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Webs Interesantes.md",
+                "file": "Docker/Imagenes en Docker y contenedores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Webs Interesantes.md"
+                "file": "Docker/Imagenes en Docker y contenedores.md"
               }
             }
           },
@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 233.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,16 +160,25 @@
   },
   "active": "6fba29c5f778a6c5",
   "lastOpenFiles": [
+    "Docker/Instalacion.md",
+    "Docker/Imagenes en Docker y contenedores.md",
+    "Linux/SSH - Git connection.md",
+    "Personal Projects/Extension de navegador para generar contraseñas Aleatorias.md",
+    "Docker",
+    "Ciberseguridad/Explotacion File Upload.md",
+    "Ciberseguridad/Puertos y Servicios/Puerto 3306  - Mysql.md",
+    "Ciberseguridad/Escalada de privilegios en LINUX.md",
+    "Ciberseguridad/Webshell.md",
+    "Sin título.canvas",
+    "Ciberseguridad/Webs Interesantes.md",
     "Ciberseguridad/Herramientas - Tools/NMAP.md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Vacaciones (Muy fácil) completed.md",
     "Ciberseguridad/Herramientas - Tools/Burpsuite.md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Vacaciones/Dockerlabs - Vacacioens -  Script vbuln p 80.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Vacaciones/Dockerlabs - Vacaciones - Root access.png",
-    "Ciberseguridad/Webs Interesantes.md",
     "Ciberseguridad/Explotacion SQL - Injection.md",
     "Ciberseguridad/Reconocimiento de la red.md",
     "Ciberseguridad/METADATA.md",
-    "Ciberseguridad/Escalada de privilegios en LINUX.md",
     "conflict-files-obsidian-git.md",
     "Ciberseguridad/CTFs/CTFs by Borazuwarah/CTF_Borazuwarah2 (Docker).md",
     "Ciberseguridad/CTFs/CTFs by Borazuwarah/My CTF  -- CTFBorazuwarah1 (VM).md",
@@ -181,14 +190,10 @@
     "Libros Interesantes/Aprendiendo_Ciberseguridad_paso_a_paso_Volumen1_Internet.pdf.crdownload",
     "Ciberseguridad/CTFs/My CTF.md",
     "Ciberseguridad/Herramientas - Tools/Crear Diccionarios.md",
-    "Linux/SSH - Git connection.md",
     "Linux/Procesos.md",
-    "Ciberseguridad/Explotacion File Upload.md",
     "Ciberseguridad/Herramientas - Tools/MSFVENOM.md",
     "Ciberseguridad/Herramientas - Tools/RSAcrack.md",
     "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
-    "Ciberseguridad/Herramientas - Tools/Capturar la pantalla.md",
-    "Ciberseguridad/Herramientas - Tools/HashIdentifier.md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Vacaciones/Dockerlabs - Vacacioens - Nmap result.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Vacaciones/Dockerlabs - Vacacioens -  Gtfobbins ruby sudo access.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Vacaciones/Dockerlabs - Vacaciones - Despliegue me maquina.png",
@@ -197,7 +202,6 @@
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Vacaciones/Dockerlabs - Vacacioens -  Eliminar la maquina.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Vacaciones/Dockerlabs - Vacacioens -  Script Vulnerabilidad P22.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Vacaciones/Dockerlabs - Vacacioens -  Vacaciones web.png",
-    "Ciberseguridad/Herramientas - Tools/Hydra, Ataques de Fuerza Bruta y John the Ripper.md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Vacaciones",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos",
     "Ciberseguridad/CTFs/Dockerlabs.es"

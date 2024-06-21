@@ -4,7 +4,7 @@ https://www.youtube.com/watch?v=ginzuvA22Nw
 explotando los binarios
 https://gtfobins.github.io/
 
-primer sudo -l
+primero sudo -l
 
 ```sh fold:"Revisar tenemos permiso de algun programa como root"
 sudo -l
