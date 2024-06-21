@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.5
+    "width": 284.5
   },
   "right": {
     "id": "0e37c2c69e7da69e",
@@ -158,7 +158,7 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "6fba29c5f778a6c5",
+  "active": "f346d92f9f76337a",
   "lastOpenFiles": [
     "Docker/Instalacion.md",
     "Docker/Imagenes en Docker y contenedores.md",
