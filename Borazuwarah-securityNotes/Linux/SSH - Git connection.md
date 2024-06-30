@@ -18,3 +18,6 @@ add ssh:
 ssh-add ../.ssh/newid_rsa
 ```
 
+
+Servicio en windows
+Open SSH Authentication Agent

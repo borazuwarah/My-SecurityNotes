@@ -146,6 +146,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "audio-recorder:Iniciar/Detener la grabación": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -154,11 +155,10 @@
       "command-palette:Abrir paleta de comandos": false,
       "markdown-importer:Abrir el importador de Markdown": false,
       "random-note:Abrir nota al azar": false,
-      "audio-recorder:Empezar/Parar de grabar": false,
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "f346d92f9f76337a",
+  "active": "6993025b1b140c24",
   "lastOpenFiles": [
     "Docker/Instalacion.md",
     "Docker/Imagenes en Docker y contenedores.md",
