@@ -3,6 +3,12 @@ Herramienta para el reconocimiento de puertos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XLGrMpbH8GU?si=XjsinX2VwuI0Yg71" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Instalacion de NMAP
+
+```sh fold:"Instalacion de Nmap"
+sudo apt install nmap # instalación
+```
+
 
 `nmap {ip maquina}` hace un reconocimiento de puertos
 
@@ -25,6 +31,15 @@ Información de algunos parámetros:
 - **-n** –> No hace resolución DNS
 - **-Pn** –> No hace ping
 - **-vvv** –> Muestra en pantalla a medida que encuentra puertos (Verbose)
+- -p  --> "puerto1,puerto2,puerto3,..." "dirección_IP" # escaneo de puertos seleccionados
+-  -O --> Obtención del sistema operativo
+	-  **Ajustes de tiempos**
+	-  -T0 <dirección_IP> # Paranoid (Paranoico, más lento) 
+	- -T1 <dirección_IP> # Sneaky (Sigiloso) 
+	- -T2 <dirección_IP> # Polite (Cortés) 
+	- -T3 <dirección_IP> # Normal (Normal) 
+	- -T4 <dirección_IP> # Aggressive (Agresivo)  
+	- -T5 <dirección_IP> # Insane (Insano, más rápido)
 ### -p-
 mirará todos los puertos que pueda tener  esa maquina 
 

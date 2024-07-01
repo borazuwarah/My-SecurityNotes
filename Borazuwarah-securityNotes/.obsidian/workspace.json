@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/SSH - Git connection.md",
+                "file": "Ciberseguridad/Herramientas - Tools/NMAP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/SSH - Git connection.md",
+                "file": "Ciberseguridad/Herramientas - Tools/NMAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/SSH - Git connection.md",
+                "file": "Ciberseguridad/Herramientas - Tools/NMAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/SSH - Git connection.md"
+                "file": "Ciberseguridad/Herramientas - Tools/NMAP.md"
               }
             }
           },
@@ -146,7 +146,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "audio-recorder:Iniciar/Detener la grabación": false,
+      "audio-recorder:Empezar/Parar de grabar": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -160,13 +160,13 @@
   },
   "active": "6993025b1b140c24",
   "lastOpenFiles": [
+    "Linux/SSH - Git connection.md",
     "Docker/Instalacion.md",
     "Docker/Imagenes en Docker y contenedores.md",
     "Docker",
     "Libros Interesantes/Guia-NMAP.pdf",
     "Libros Interesantes/Guia-NMAP.pdf.crdownload",
     "Ciberseguridad/Herramientas - Tools/Hydra, Ataques de Fuerza Bruta y John the Ripper.md",
-    "Linux/SSH - Git connection.md",
     "Ciberseguridad/Herramientas - Tools/NMAP.md",
     "Ciberseguridad/Herramientas - Tools/Burpsuite.md",
     "Ciberseguridad/Explotacion SQL - Injection.md",
