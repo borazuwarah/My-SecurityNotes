@@ -33,3 +33,47 @@ docker build --tag {nombre de la image} .
 docker build --targ {nombre de imagen} .
 # no olvidar el . esto es la ruta donde está el fichero Dockerfile
 ```
+
+buld está deprecado y se actualizará con buildx
+
+
+para usarlo usaremos lo siguiente
+instalación:
+```sh fold:"Instalacion docker-buildx"
+apt install docker-buildx
+```
+
+comprobar si está instalado y la version
+```sh fold:"Comprobar version de DockerBuildx"
+docker buidx version
+```
+
+Uso
+```sh fold:"Crear una imagen con buildx"
+docker buildx build --tag {nombre de la image} .
+# no olvidar el . esto es la ruta donde está el fichero Dockerfile
+
+```
+
+Para lanzar el contenedor se hace de la misma forma
+docker run -it {3 primeros caracteres de imagen Id}
+
+
+
+
+
+
+
+
+## Ejercicio Practico crear una imagen de Kali con algunas herramientas de Pentesting
+
+
+Imagen de Kali en DockerHub: [kalilinux/kali-rolling - Docker Image | Docker Hub](https://hub.docker.com/r/kalilinux/kali-rolling)
+```sh fold:"Ejercicio Practico Dockerfile"
+
+FROM Kalilinux/kali-rolling
+
+RUN apt update && apt install nmap hydra -y
+
+```
+
