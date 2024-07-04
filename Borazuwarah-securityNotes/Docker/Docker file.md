@@ -77,3 +77,66 @@ RUN apt update && apt install nmap hydra -y
 
 ```
 
+
+
+# Instrucciones FROM, RUN y COPY (fichero Dockerfile)
+## FROM (docker)
+Es la isntruccion para asignar la base del sistema
+ejemplos:
+
+FROM ubuntu
+
+## RUN (docker)
+
+Es la instruccion para ejecutar comandos a la hora de arrancar nuestra imagen
+ehemplos:
+
+RUN apt update && apt upgrade -y
+
+
+## COPY
+
+Es la instruccion que nos sirve para copiar archivos dentro del contenedor
+ejemplos:
+
+COPY prueba.txt  /home/ --> va a coppiar  el fichero prueba.txt dentro del fichero /home/
+
+# Instrucciones ENV, LABEL y USER (fichero Dockerfile)
+
+## Env
+Sirve para declarar variables de entorno dentro de una variable
+
+ejemplo:
+From Ubuntu
+ENV VARIABLE="Soy un dato en una variable de entorno"
+
+CMD echo $VARIABLE
+
+# LABEL
+sirve para generar metadatos dentro de la imagen
+
+
+ejemplo:
+LALBEL author="Pablo"
+LABEL version="1.0"
+LABEL descripcion="Descripcion de la imagen de Docker"
+
+
+Para comprobar los metadatos se puede usar el siguiente coimando :
+despues de hacer :
+docker run -it  {imageId}
+docker inspect {imageId}
+
+## USER
+Insturcciones para crear grupos y/o grupos
+
+Despues del ponmer el USER {usuario}
+topdos los comandos que se ejecuten despues  serán con el usuario nuevo.
+
+ejemplos:
+RUN adduser pablo
+RUN addgroup grupoTrabajo
+RUN usermod -aG grupoTrabajo pablo
+
+USER pablo
+CMD whami (pablo)
