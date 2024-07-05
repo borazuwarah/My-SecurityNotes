@@ -140,3 +140,21 @@ RUN usermod -aG grupoTrabajo pablo
 
 USER pablo
 CMD whami (pablo)
+
+
+## Dockerizando una aplicacion Python
+en python creamos una calculadora y la vamos a dockerizar.
+
+Imaginando que ya tenemos: la calculadora en el ficheor calculadora.py
+
+cremaos un Dockerfile
+
+
+FROM ubuntu
+RUN apt update && apt install python3 -y 
+
+WORKDIR /home
+COPY calculadora.py /home/
+
+CMD pyhon3 calculadora.py
+
