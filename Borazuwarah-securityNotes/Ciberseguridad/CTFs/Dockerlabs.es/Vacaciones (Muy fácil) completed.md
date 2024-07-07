@@ -20,7 +20,6 @@ Ahora levantamos la maquina:
 
 ```sh fold:"Levantamos la maquina en docker"
 sudo bash auto_deploy.sh vacaciones.tar 
-
 ```
 
 
