@@ -1,4 +1,4 @@
-# Comandos basicos
+# Comandos básicos
 
 ### Movernos entre directorios
 `cd {nombre carpeta}` nos movemos a la carpeta

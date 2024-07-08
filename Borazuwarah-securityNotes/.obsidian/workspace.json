@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/CTFs/Dockerlabs.es/Borazuwara CTF1.md",
+                "file": "Ciberseguridad/Explotacion File Upload.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.5
+    "width": 297.5
   },
   "right": {
     "id": "0e37c2c69e7da69e",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/CTFs/Dockerlabs.es/Borazuwara CTF1.md",
+                "file": "Ciberseguridad/Explotacion File Upload.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/CTFs/Dockerlabs.es/Borazuwara CTF1.md",
+                "file": "Ciberseguridad/Explotacion File Upload.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/CTFs/Dockerlabs.es/Borazuwara CTF1.md"
+                "file": "Ciberseguridad/Explotacion File Upload.md"
               }
             }
           },
@@ -146,7 +146,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "audio-recorder:Empezar/Parar de grabar": false,
+      "audio-recorder:Iniciar/Detener la grabación": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -160,45 +160,45 @@
   },
   "active": "6993025b1b140c24",
   "lastOpenFiles": [
-    "Ciberseguridad/CTFs/CTFs by Borazuwarah/My CTF  -- CTFBorazuwarah1 (VM).md",
+    "Ciberseguridad/Explotacion SQL - Injection.md",
+    "Ciberseguridad/METADATA.md",
+    "Ciberseguridad/Reconocimiento de la red.md",
+    "Ciberseguridad/Tratamiento de la TTY.md",
+    "Ciberseguridad/Webs Interesantes.md",
     "Ciberseguridad/Webshell.md",
-    "Docker/Docker file.md",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Ping.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/web - source code.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Web.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/nmap.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Depliegue de máquina.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Borazuwara CTF1.md",
-    "Sin título",
-    "Docker/Imagenes en Docker y contenedores.md",
+    "Ciberseguridad/Wireless.md",
+    "Linux/Editor y creador de fichoers.md",
+    "Linux/Linux Basico.md",
+    "Linux/Procesos.md",
+    "Linux/Grupos User.md",
+    "Linux/Grep.md",
+    "Personal Projects/Freezer manager (gestion del congelador).md",
+    "google,es.md",
+    "Ciberseguridad/CTFs/CTF Template {platform - Machine name} {Status}.md",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy) Complete.md",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF RETO 1 OKLAT (easy) Complete.md",
+    "Ciberseguridad/CTFs/CTFs by Borazuwarah/My CTF  -- CTFBorazuwarah1 (VM).md",
+    "Ciberseguridad/CTFs/CTFs by Borazuwarah/CTF_Borazuwarah2 (Docker).md",
+    "Ciberseguridad/Puertos y Servicios/Puerto 21 - FTP_tcp.md",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Borazuwarah - CTF1.md",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Vacaciones (Muy fácil) completed.md",
+    "Linux/STDOUT, STDERR y  STDIN.md",
+    "Linux/SORT, HEAD, TAIL, TAC, TR, WC y UNIQ.md",
     "Linux/SSH - Git connection.md",
-    "Ciberseguridad/Herramientas - Tools/NMAP.md",
-    "Docker/Instalacion.md",
+    "Obsidian/Obsidian ¡Markdown Sintaxis!!!!.md",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Web - source code.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Ping.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Nmap.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Depliegue de máquina.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Web.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1",
+    "Sin título",
     "Docker",
     "Libros Interesantes/Guia-NMAP.pdf",
     "Libros Interesantes/Guia-NMAP.pdf.crdownload",
-    "Ciberseguridad/Herramientas - Tools/Hydra, Ataques de Fuerza Bruta y John the Ripper.md",
-    "Ciberseguridad/Herramientas - Tools/Burpsuite.md",
-    "Ciberseguridad/Explotacion SQL - Injection.md",
-    "Linux/Variables.md",
-    "Ciberseguridad/CTFs/CTFs by Borazuwarah/CTF_Borazuwarah2 (Docker).md",
     "Libros Interesantes/OSCP-español.pdf",
     "Libros Interesantes/Aprendiendo_Ciberseguridad_paso_a_paso_Volumen1_Internet.pdf",
-    "Ciberseguridad/Herramientas - Tools/MSFVENOM.md",
     "Ciberseguridad/CTFs/CTFs by Borazuwarah",
-    "Ciberseguridad/Wireless.md",
-    "Ciberseguridad/Herramientas - Tools/Gobuster.md",
-    "Ciberseguridad/Herramientas - Tools/Crear Diccionarios.md",
-    "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy) Complete.md",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy) complete.md",
-    "Ciberseguridad/METADATA.md",
-    "Obsidian/Configuracion Obsidian.md",
-    "Linux/Procesos.md",
-    "Ciberseguridad/Explotacion File Upload.md",
-    "Ciberseguridad/Herramientas - Tools/RSAcrack.md",
-    "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
-    "Ciberseguridad/Herramientas - Tools/Capturar la pantalla.md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Vacaciones/Dockerlabs - Vacacioens - Nmap result.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Vacaciones/Dockerlabs - Vacacioens -  Gtfobbins ruby sudo access.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Vacaciones/Dockerlabs - Vacaciones - Despliegue me maquina.png",

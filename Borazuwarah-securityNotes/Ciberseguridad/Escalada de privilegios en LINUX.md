@@ -33,7 +33,7 @@ find  / -perm -4000 2>/dev/null
 lsb_release -a
 ```
 
-Busqueda en google
+Búsqueda en google
 exploit db {distibucion}  {version}
 Descargamos el exploit
 

@@ -1,7 +1,7 @@
 En Linux
 
 
-Antes de la instalacion se recomienda  hacer:
+Antes de la instalación se recomienda  hacer:
 Actualizar los repositorios
 
 ```sh fold:"Actualizar repositorios"

@@ -81,15 +81,15 @@ RUN apt update && apt install nmap hydra -y
 
 # Instrucciones FROM, RUN y COPY (fichero Dockerfile)
 ## FROM (docker)
-Es la isntruccion para asignar la base del sistema
+Es la instrucción para asignar la base del sistema
 ejemplos:
 
 FROM ubuntu
 
 ## RUN (docker)
 
-Es la instruccion para ejecutar comandos a la hora de arrancar nuestra imagen
-ehemplos:
+Es la instrucción para ejecutar comandos a la hora de arrancar nuestra imagen
+ejemplos:
 
 RUN apt update && apt upgrade -y
 

@@ -55,7 +55,7 @@ tac {nombre del fichero a invertir} > {nombrenuevofichero}
 
 
 # TR
-Este comando sirve para aplicar expresionesregulares
+Este comando sirve para aplicar expresiones regulares
 ```sh fold:"Apliocar expresiones regulares a feciero con tf"
 tr -d '' > quitarlosespacios.txt
 ```
