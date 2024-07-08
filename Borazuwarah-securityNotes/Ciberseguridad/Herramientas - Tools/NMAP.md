@@ -19,7 +19,7 @@ sudo  nmap 192.168.1.X
 > nmap 192.168.1.137
 > ![[nmap basico.png]]
 
-## Parametros
+## Parámetros
 
 Información de algunos parámetros:
 - **-p-** –> Busqueda de puertos abiertos

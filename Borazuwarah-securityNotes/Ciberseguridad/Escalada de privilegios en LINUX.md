@@ -41,4 +41,4 @@ enviamos el exploit a la maquina victima
 
 
 # compilar archivos en c
-gcc -o{archivo reultante} {archivo fuente en C}
+gcc -o {archivo resultante} {archivo fuente en C}
