@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy) Complete.md",
+                "file": "Ciberseguridad/Escalada de privilegios en LINUX.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy) Complete.md",
+                "file": "Ciberseguridad/Escalada de privilegios en LINUX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy) Complete.md",
+                "file": "Ciberseguridad/Escalada de privilegios en LINUX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy) Complete.md"
+                "file": "Ciberseguridad/Escalada de privilegios en LINUX.md"
               }
             }
           },
@@ -158,10 +158,11 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "6993025b1b140c24",
+  "active": "f346d92f9f76337a",
   "lastOpenFiles": [
-    "Ciberseguridad/CTFs/VULNHUB/VulnHub - Empire Breakout (easy) completed.md",
+    "Ciberseguridad/Intrusion",
     "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy) Complete.md",
+    "Ciberseguridad/CTFs/VULNHUB/VulnHub - Empire Breakout (easy) completed.md",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy) Complete.md",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF RETO 1 OKLAT (easy) Complete.md",
     "Ciberseguridad/Herramientas - Tools/NMAP.md",
@@ -178,17 +179,16 @@
     "Ciberseguridad/Pantallazos/Nmap",
     "Ciberseguridad/Certificaciones.md",
     "Ciberseguridad/Escalada de privilegios en LINUX.md",
-    "Ciberseguridad/Explotacion File Upload.md",
-    "Ciberseguridad/Explotacion SQL - Injection.md",
+    "Ciberseguridad/Intrusion/Explotacion File Upload.md",
+    "Ciberseguridad/Intrusion/Explotacion SQL - Injection.md",
     "Ciberseguridad/METADATA.md",
     "Ciberseguridad/Reconocimiento de la red.md",
     "Ciberseguridad/Tratamiento de la TTY.md",
     "Ciberseguridad/Webs Interesantes.md",
-    "Ciberseguridad/Webshell.md",
+    "Ciberseguridad/Intrusion/Webshell.md",
     "Ciberseguridad/Wireless.md",
     "Linux/Editor y creador de fichoers.md",
     "Linux/Linux Basico.md",
-    "Linux/Procesos.md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Web - source code.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Ping.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Nmap.png",
