@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Escalada de privilegios en LINUX.md",
+                "file": "Ciberseguridad/Intrusion/LFI.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Escalada de privilegios en LINUX.md",
+                "file": "Ciberseguridad/Intrusion/LFI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Escalada de privilegios en LINUX.md",
+                "file": "Ciberseguridad/Intrusion/LFI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Escalada de privilegios en LINUX.md"
+                "file": "Ciberseguridad/Intrusion/LFI.md"
               }
             }
           },
@@ -158,8 +158,10 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "f346d92f9f76337a",
+  "active": "6993025b1b140c24",
   "lastOpenFiles": [
+    "Ciberseguridad/Escalada de privilegios en LINUX.md",
+    "Ciberseguridad/Intrusion/LFI.md",
     "Ciberseguridad/Intrusion",
     "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy) Complete.md",
     "Ciberseguridad/CTFs/VULNHUB/VulnHub - Empire Breakout (easy) completed.md",
@@ -178,7 +180,6 @@
     "Ciberseguridad/Pantallazos/Nmap/Comando - Nmap Get CVE with script.png",
     "Ciberseguridad/Pantallazos/Nmap",
     "Ciberseguridad/Certificaciones.md",
-    "Ciberseguridad/Escalada de privilegios en LINUX.md",
     "Ciberseguridad/Intrusion/Explotacion File Upload.md",
     "Ciberseguridad/Intrusion/Explotacion SQL - Injection.md",
     "Ciberseguridad/METADATA.md",
@@ -204,7 +205,6 @@
     "Ciberseguridad/CTFs/CTFs by Borazuwarah",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Vacaciones/Dockerlabs - Vacacioens - Nmap result.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Vacaciones/Dockerlabs - Vacacioens -  Gtfobbins ruby sudo access.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Vacaciones/Dockerlabs - Vacaciones - Despliegue me maquina.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Vacaciones"
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Vacaciones/Dockerlabs - Vacaciones - Despliegue me maquina.png"
   ]
 }
