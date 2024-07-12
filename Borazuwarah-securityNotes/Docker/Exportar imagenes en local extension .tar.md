@@ -35,4 +35,21 @@ docker save -o {nombre_del_ficero.tar} mi_script:latest
 Esto nos genera un archivo con el nombre que le hayamos puesto al fichero .tar
 
 
-para importarlo usaremos el siguiente comandosudo coker load -i {nombredelficheor.tar}
+para importarlo usaremos el siguiente comando 
+sudo docker load -i {nombredelficheor.tar}
+
+
+
+Exportar imagenes en DockerHub
+
+Entramos en DockerHub, y nos cremos un usuario para que se asocien nuestras imágenes.
+
+comandos:
+docker login 
+para hacer login en dockerHub
+
+## renombrar imagenes
+docker tag {inombreImagen_Actual} {NombreUsuaroDockerHubs}/{nombreImagenActual}:latest
+
+subir:
+docker push {NombreUsuaroDockerHubs}/{nombreImagenActual}:latest
