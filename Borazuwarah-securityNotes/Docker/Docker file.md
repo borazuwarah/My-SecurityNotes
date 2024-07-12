@@ -158,3 +158,15 @@ COPY calculadora.py /home/
 
 CMD pyhon3 calculadora.py
 
+# Cambiar el nombre al fichero Dockerfile
+también se puede crear un build con un fichero que no se llame Dockerfile
+por defecto docker busca ese nombre de fichero
+
+para ello lo que tenemos que hacer es lo siguiente
+docker builx  --tag XXX -f {nombre del fichero} .
+
+```sh fold:"Crear un contenedo rocn un fichoero con nombre diferente a Dockerfile"
+
+docker builx  --tag XXX -f {nombre del fichero} .
+```
+

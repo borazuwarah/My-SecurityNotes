@@ -32,4 +32,17 @@ docker rm {container ID}
 
 eliminar la imagen docker rmi {image ID}
 
+# Eliminar imágenes y contenedores
+comando docker prune
+Docker prune lo que hace es eliminar
+NOTA> Es importante revisar que todas las imagenes no tengan ningun contenedor running
+
+```sh fold:"Docker - Eliminar todos los contenedores"
+docker container prune --force
+```
+
+
+```sh fold:"Docker - Eliminar todas las imagenes"
+docker image prune --all --force
+```
 

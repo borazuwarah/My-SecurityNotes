@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Intrusion/LFI.md",
+                "file": "Docker/Imagenes en Docker y contenedores.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Intrusion/LFI.md",
+                "file": "Docker/Imagenes en Docker y contenedores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Intrusion/LFI.md",
+                "file": "Docker/Imagenes en Docker y contenedores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Intrusion/LFI.md"
+                "file": "Docker/Imagenes en Docker y contenedores.md"
               }
             }
           },
@@ -160,8 +160,11 @@
   },
   "active": "6993025b1b140c24",
   "lastOpenFiles": [
-    "Ciberseguridad/Escalada de privilegios en LINUX.md",
+    "Docker/Docker file.md",
     "Ciberseguridad/Intrusion/LFI.md",
+    "Desarrollo - Programacion/Python",
+    "Desarrollo - Programacion",
+    "Ciberseguridad/Escalada de privilegios en LINUX.md",
     "Ciberseguridad/Intrusion",
     "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy) Complete.md",
     "Ciberseguridad/CTFs/VULNHUB/VulnHub - Empire Breakout (easy) completed.md",
@@ -189,7 +192,6 @@
     "Ciberseguridad/Intrusion/Webshell.md",
     "Ciberseguridad/Wireless.md",
     "Linux/Editor y creador de fichoers.md",
-    "Linux/Linux Basico.md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Web - source code.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Ping.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Nmap.png",
@@ -201,8 +203,6 @@
     "Libros Interesantes/Guia-NMAP.pdf",
     "Libros Interesantes/Guia-NMAP.pdf.crdownload",
     "Libros Interesantes/OSCP-español.pdf",
-    "Libros Interesantes/Aprendiendo_Ciberseguridad_paso_a_paso_Volumen1_Internet.pdf",
-    "Ciberseguridad/CTFs/CTFs by Borazuwarah",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Vacaciones/Dockerlabs - Vacacioens - Nmap result.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Vacaciones/Dockerlabs - Vacacioens -  Gtfobbins ruby sudo access.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Vacaciones/Dockerlabs - Vacaciones - Despliegue me maquina.png"
