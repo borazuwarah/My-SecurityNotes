@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Imagenes en Docker y contenedores.md",
+                "file": "Docker/Exportar imagenes en local extension .tar.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Imagenes en Docker y contenedores.md",
+                "file": "Docker/Exportar imagenes en local extension .tar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Imagenes en Docker y contenedores.md",
+                "file": "Docker/Exportar imagenes en local extension .tar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Imagenes en Docker y contenedores.md"
+                "file": "Docker/Exportar imagenes en local extension .tar.md"
               }
             }
           },
@@ -161,6 +161,8 @@
   "active": "6993025b1b140c24",
   "lastOpenFiles": [
     "Docker/Docker file.md",
+    "Docker/Exportar imagenes en local extension .tar.md",
+    "Docker/Imagenes en Docker y contenedores.md",
     "Ciberseguridad/Intrusion/LFI.md",
     "Desarrollo - Programacion/Python",
     "Desarrollo - Programacion",
@@ -190,8 +192,6 @@
     "Ciberseguridad/Tratamiento de la TTY.md",
     "Ciberseguridad/Webs Interesantes.md",
     "Ciberseguridad/Intrusion/Webshell.md",
-    "Ciberseguridad/Wireless.md",
-    "Linux/Editor y creador de fichoers.md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Web - source code.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Ping.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Nmap.png",

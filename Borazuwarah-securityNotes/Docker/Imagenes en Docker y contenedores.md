@@ -46,3 +46,4 @@ docker container prune --force
 docker image prune --all --force
 ```
 
+para borrar 1 a1 ser'ia con el rm y el identificador de la image.
