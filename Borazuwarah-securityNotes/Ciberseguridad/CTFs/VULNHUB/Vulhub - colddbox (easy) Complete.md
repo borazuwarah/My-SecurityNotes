@@ -6,6 +6,15 @@ Platform: Vulnhub
 Kali:  192.168.1.144
 VM:  192.168.1.132
 
+Herramientas:
+[[NMAP]]
+[[Ping]]
+[[WhatWeb]]
+[[WPScan]]
+[[Nc]]
+[[Base64]]
+
+
 #wpscan
 #wordpress #usuarioswordpress
 #escaladaPrivilegios 

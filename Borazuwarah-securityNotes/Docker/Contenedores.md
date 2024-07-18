@@ -56,14 +56,14 @@ docker restart {identificador  del contenedor}
 docker rm {identificador  del contenedor}
 ```
 
-## Entrar en un contendoedor
+## Entrar en un contenedor
 Para entrar en un contenddor que está en estado UP (levantado)
 ```sh fold:"docker, Entrar contendodr"
 
 docker attacht {containerId}
 ```
 
-## Salir del contenedor (dehjandolo en ejecucion
+## Salir del contenedor (dejandolo en ejecucion
 
 
 atajo de teclado

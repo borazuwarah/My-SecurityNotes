@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0fceaf5be7eb1277",
+        "id": "8a2c5613406c3068",
         "type": "tabs",
         "children": [
           {
-            "id": "6993025b1b140c24",
+            "id": "751bc7971aa922b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Contenedores.md",
+                "file": "Ciberseguridad/Herramientas - Tools/ARP-Scan.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Contenedores.md",
+                "file": "Ciberseguridad/Herramientas - Tools/ARP-Scan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Contenedores.md",
+                "file": "Ciberseguridad/Herramientas - Tools/ARP-Scan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Contenedores.md"
+                "file": "Ciberseguridad/Herramientas - Tools/ARP-Scan.md"
               }
             }
           },
@@ -158,10 +158,22 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "6993025b1b140c24",
+  "active": "751bc7971aa922b9",
   "lastOpenFiles": [
-    "Docker/Docker file.md",
+    "Ciberseguridad/Herramientas - Tools/Base64.md",
+    "Ciberseguridad/Herramientas - Tools/ARP-Scan.md",
+    "Ciberseguridad/Reconocimiento de la red.md",
+    "Ciberseguridad/CTFs/VULNHUB/VulnHub - Empire Breakout (easy) completed.md",
+    "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy) Complete.md",
+    "Ciberseguridad/Herramientas - Tools/Nc.md",
+    "Ciberseguridad/Herramientas - Tools/WPScan.md",
+    "Ciberseguridad/Herramientas - Tools/WhatWeb.md",
+    "Ciberseguridad/Herramientas - Tools/Ping.md",
+    "[Obsidian ¡Markdown Sintaxis!!!!.md",
+    "Obsidian/Obsidian Esta es una nueva Nota para pruebas.md",
+    "Ciberseguridad/Intrusion/XSS.md",
     "Docker/Contenedores.md",
+    "Docker/Docker file.md",
     "Desarrollo - Programacion/C Sharp.md",
     "Docker/Exportar imagenes en local extension .tar.md",
     "Docker/Imagenes en Docker y contenedores.md",
@@ -170,8 +182,6 @@
     "Desarrollo - Programacion",
     "Ciberseguridad/Escalada de privilegios en LINUX.md",
     "Ciberseguridad/Intrusion",
-    "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy) Complete.md",
-    "Ciberseguridad/CTFs/VULNHUB/VulnHub - Empire Breakout (easy) completed.md",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy) Complete.md",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF RETO 1 OKLAT (easy) Complete.md",
     "Ciberseguridad/Herramientas - Tools/NMAP.md",
@@ -179,19 +189,9 @@
     "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
     "Ciberseguridad/Herramientas - Tools/Webs.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 21 - FTP_tcp.md",
-    "Ciberseguridad/Herramientas - Tools/Burpsuite.md",
-    "Ciberseguridad/Herramientas - Tools/Capturar la pantalla.md",
-    "Ciberseguridad/Herramientas - Tools/Crear Diccionarios.md",
-    "Ciberseguridad/Herramientas - Tools/Enum4linux.md",
     "Ciberseguridad/Pantallazos/Nmap/Comando - Nmap script vulen.png",
     "Ciberseguridad/Pantallazos/Nmap/Comando - Nmap Get CVE with script.png",
     "Ciberseguridad/Pantallazos/Nmap",
-    "Ciberseguridad/Certificaciones.md",
-    "Ciberseguridad/Intrusion/Explotacion File Upload.md",
-    "Ciberseguridad/Intrusion/Explotacion SQL - Injection.md",
-    "Ciberseguridad/METADATA.md",
-    "Ciberseguridad/Reconocimiento de la red.md",
-    "Ciberseguridad/Tratamiento de la TTY.md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Web - source code.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Ping.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Nmap.png",
