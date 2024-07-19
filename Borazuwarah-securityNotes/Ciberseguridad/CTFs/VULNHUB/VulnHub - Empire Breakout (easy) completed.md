@@ -8,6 +8,7 @@ Herramientas:
 [[NMAP]]
 [[Enum4linux]]
 [[Nc]]
+[[Tratamiento de la TTY]]
 
 ![[Vulnhub - EMPIRE Breakout - Machine.png]]
 Herramientas:

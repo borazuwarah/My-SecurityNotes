@@ -1,6 +1,6 @@
 Creacion y eliminacion de usuarios en Linux
-
-Crear un usuario
+Gestion de grupos [[Grupos User]]
+## Crear un usuario
 
 ## useradd - Crear un usuario
 

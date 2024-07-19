@@ -1,7 +1,7 @@
 Los grupos son grupos de usuarios dentro del sistema Linux
 dentro del ls -la son es el segundo grupo
 
-
+Gestión de Usuarios [[Usuarios]]
 ## crear grupo
 
 ```sh fold:"Crea un grupo de usuarios"

@@ -5,6 +5,12 @@
 #reverseshellpython
 #escaladaPrivilegios
 
+Herramients
+[[ping]]
+[[NMAP]]
+[[Gobuster]]
+[[Tratamiento de la TTY]]
+
 Mirror donwload: [Download - MEGA](https://mega.nz/file/FOZxHbKB#LLYTQBQLGLYTVdlMMJ27mLc23pGN0XjFlg4vgHvh5Qw)
 
 ![[Vulnyx - Real - Machine.png]]
