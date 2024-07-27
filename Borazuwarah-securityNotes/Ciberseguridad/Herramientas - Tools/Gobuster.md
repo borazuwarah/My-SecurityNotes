@@ -22,7 +22,7 @@ sudo apt-get install gobuster
 sudo apt-get install seclists
 ```
 
-## utilizacion
+## utilización
 ### para sacar rutas post dominio
 gobuster dir -u {direccion} -w {diccionario}
 sudo gobuster dir -u http://192.168.1.141/ -w /usr/share/wordlists/seclists/Discovery/Web-Content/directory-list-lowercase-2.3-medium.txt 

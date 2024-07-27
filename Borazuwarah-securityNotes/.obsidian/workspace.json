@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/SSH - Git connection.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3008e4e1d128321b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Otros/Curriculum.md",
+                "file": "Ciberseguridad/CTFs/Dockerlabs.es/Borazuwarah - CTF1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "steg",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Otros/Curriculum.md",
+                "file": "Ciberseguridad/CTFs/Dockerlabs.es/Borazuwarah - CTF1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Otros/Curriculum.md",
+                "file": "Ciberseguridad/CTFs/Dockerlabs.es/Borazuwarah - CTF1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Otros/Curriculum.md"
+                "file": "Ciberseguridad/CTFs/Dockerlabs.es/Borazuwarah - CTF1.md"
               }
             }
           },
@@ -171,9 +158,20 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "3008e4e1d128321b",
+  "active": "09c39be0877d4a57",
   "lastOpenFiles": [
+    "Ciberseguridad/CTFs/CTFs by Borazuwarah/My CTF  -- CTFBorazuwarah1 (VM).md",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Borazuwarah - CTF1.md",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Salida exiftool.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Secreto.txt.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Steghide.png",
+    "Ciberseguridad/Herramientas - Tools/Esteganografia.md",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Wget.png",
+    "Ciberseguridad/Herramientas - Tools/Wget.md",
     "Linux/SSH - Git connection.md",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Gobuster.png",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy) complete.md",
+    "Ciberseguridad/Herramientas - Tools/Gobuster.md",
     "Otros/Curriculum.md",
     "Sin nombre",
     "Otros",
@@ -198,24 +196,12 @@
     "Ciberseguridad/Herramientas - Tools/ARP-Scan.md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Web.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Web - source code.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Ping.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Nmap.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Borazuwarah - CTF1.md",
     "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
     "Ciberseguridad/Herramientas - Tools/Webs.md",
     "Ciberseguridad/Herramientas - Tools/HashIdentifier.md",
     "Ciberseguridad/Escalada de privilegios en LINUX.md",
-    "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy) Complete.md",
-    "Ciberseguridad/CTFs/CTF Template {platform - Machine name} {Status}.md",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Borazuwara CTF1.md",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/web - source code.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Web.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/nmap.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Vacaciones (Muy fácil) completed.md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1",
     "Libros Interesantes/Aprendiendo_Ciberseguridad_paso_a_paso_Volumen1_Internet.pdf",
-    "Docker/Docker file.md",
-    "Docker/Instalacion.md",
     "Docker",
     "Libros Interesantes/Guia-NMAP.pdf",
     "Libros Interesantes/Guia-NMAP.pdf.crdownload"

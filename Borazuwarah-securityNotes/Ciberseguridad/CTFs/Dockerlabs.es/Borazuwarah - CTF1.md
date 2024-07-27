@@ -40,3 +40,47 @@ vamos a visitar la web a ver que nos encontramos:
 Vamos a ver el codigo fuente por si encontramos algo:
 ![[Dockerlabs - BorazuwarTF1 - Web - source code.png]]
 No parece que podamos encontrar nada interesante en el código.
+
+vamos a hacer un poco de fuzzing
+
+sudo gobuster dir -u http://172.17.0.2 -w /usr/share/wordlists/seclists/Discovery/Web-Content/directory-list-2.3-medium.txt 
+
+pero no encoramos nada
+![[Gobuster.png]]
+
+Al no encontrar nada vamos a descargar la imagen de la web ara ver si encontramos algo en la imagen:
+Descargamos la imagen con wget
+wget http://172.17.0.2/imagen.jpeg
+
+![[Wget.png]]
+
+Primero vamos a investigar con stenografia si la imagen esconde algo
+para ello usamos la herramienta:
+Steghide
+steghide extrat -sf imagen.jpeg
+
+
+![[Steghide.png]]
+
+
+nos pidió una password pero probamos con un intro (sin contralseña) y nos ha detectado un fichero secreto .txt
+![[Secreto.txt.png]]
+
+Mensaje: 
+
+Sigue buscando, aquí no está to solución
+aunque te dejo una pista....
+sigue buscando en la imagen!!!
+
+
+Este mensaje nos hace pensar que vamos por el buen camino aunque lo que queremos encontrar no está en este fichero
+
+vamos a  buscar en los metadatos de este documento
+para eso usaremos la herramienta: exiftool
+exiftool imagen.jpeg
+![[Salida exiftool.png]]
+
+Usuario: borazuwarah
+
+vamos a hacer fuerza bruta con este usuario al protocolo ssh
+

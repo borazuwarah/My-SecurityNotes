@@ -11,7 +11,7 @@ eval `ssh-agent`
 ```
 
 
-
+agregar la clave SSH
 add ssh:
 
 ```sh fold:"Agregar el id_rsa "
