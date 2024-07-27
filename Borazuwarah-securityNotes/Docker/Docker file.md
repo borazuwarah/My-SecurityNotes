@@ -81,15 +81,15 @@ RUN apt update && apt install nmap hydra -y
 
 # Instrucciones FROM, RUN y COPY (fichero Dockerfile)
 ## FROM (docker)
-Es la isntruccion para asignar la base del sistema
+Es la instrucción para asignar la base del sistema
 ejemplos:
 
 FROM ubuntu
 
 ## RUN (docker)
 
-Es la instruccion para ejecutar comandos a la hora de arrancar nuestra imagen
-ehemplos:
+Es la instrucción para ejecutar comandos a la hora de arrancar nuestra imagen
+ejemplos:
 
 RUN apt update && apt upgrade -y
 
@@ -157,4 +157,16 @@ WORKDIR /home
 COPY calculadora.py /home/
 
 CMD pyhon3 calculadora.py
+
+# Cambiar el nombre al fichero Dockerfile
+también se puede crear un build con un fichero que no se llame Dockerfile
+por defecto docker busca ese nombre de fichero
+
+para ello lo que tenemos que hacer es lo siguiente
+docker builx  --tag XXX -f {nombre del fichero} .
+
+```sh fold:"Crear un contenedo rocn un fichoero con nombre diferente a Dockerfile"
+
+docker builx  --tag XXX -f {nombre del fichero} .
+```
 

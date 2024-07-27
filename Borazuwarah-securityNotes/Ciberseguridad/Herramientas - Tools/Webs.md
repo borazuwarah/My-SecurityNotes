@@ -2,7 +2,7 @@ Aquí vamos a poner todas las herramientas interesantes para la explotación de 
 
 # whatweb
 
-Herramienta que extrae informacion de una web (plugings instalados versiones, tecnología, versiones de la tecnología...)
+Herramienta que extrae información de una web (plugings instalados versiones, tecnología, versiones de la tecnología...)
 
 ## forma de usar:
 
@@ -80,7 +80,7 @@ gobuster dir -u {url} -w /usr/share/wordlists/SecLists/Dicosvery/Web-Content/dir
 ```
 
 # dirb
-es una herramienta para encontrar direcotiros de una web
+es una herramienta para encontrar carpetas de una web
 
 ```sh fold:"dirb sirbe para encontrar directorios en una web"
 dirb {url / IP}

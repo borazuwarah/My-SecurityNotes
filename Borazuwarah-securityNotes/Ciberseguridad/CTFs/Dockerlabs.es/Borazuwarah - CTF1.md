@@ -3,6 +3,7 @@ Mirror: https://mega.nz/file/gWNQlaZD#CgYMb_EEBL0jcypTg0xZZUaIqhO47ueX6pPU6utLy1
 Nombre: BorazuwarahCTF1
 Dificultad: muy fácil
 Formato: Docker
+Autor: Borazuwarah
 
 
 Descargamos y descomprimimos la máquina
@@ -18,23 +19,24 @@ Comprobamos que está levantada:
 a vez la máquina se despliegua vemos que tenemos la IP: 172.17.0.2
 hacemos un ping para comprobar la conexión y el sistema operativo:
 
-![[Ping.png]]
+![[Dockerlabs - BorazuwarTF1 - Ping.png]]
 
 Sistema operativo Linux y conectividad correcta
-Ahora hacemos un scaneode puerto spara comprobar que nos encontramos:
+Ahora hacemos un escaneo de puertos para comprobar que nos encontramos:
 
 ```sh fold:"Nmap"
 sudo nmap -sS -p- -sC -sV -Pn 172.17.0.2
 ```
 
 
-![[nmap.png]]
+![[Dockerlabs - BorazuwarTF1 - Nmap.png]]
 os encontramos:
 puerto 80 
 puerto 22
 
 vamos a visitar la web a ver que nos encontramos:
-![[Web.png]]
+![[Dockerlabs - BorazuwarTF1 - Web.png]]
 
-Vams a ver elcodigo fuente por siencontramos algo:
-![[web - source code.png]]
+Vamos a ver el codigo fuente por si encontramos algo:
+![[Dockerlabs - BorazuwarTF1 - Web - source code.png]]
+No parece que podamos encontrar nada interesante en el código.

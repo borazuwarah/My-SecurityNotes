@@ -1,5 +1,14 @@
+Platform: Vulnhub
 machine: [Empire: Breakout ~ VulnHub](https://www.vulnhub.com/entry/empire-breakout,751/)
 Download (Mirror)**: [https://download.vulnhub.com/empire/02-Breakout.zip](https://download.vulnhub.com/empire/02-Breakout.zip)
+
+Herramientas:
+[[ARP-Scan]]
+[[Ping]]
+[[NMAP]]
+[[Enum4linux]]
+[[Nc]]
+[[Tratamiento de la TTY]]
 
 ![[Vulnhub - EMPIRE Breakout - Machine.png]]
 Herramientas:

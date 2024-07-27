@@ -3,3 +3,6 @@ como extraerlos
 
 herramientas para extraer metadatos:
 exiftool
+
+## instalacion exiftool
+

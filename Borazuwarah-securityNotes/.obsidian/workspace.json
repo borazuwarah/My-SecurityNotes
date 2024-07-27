@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3008e4e1d128321b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Otros/Curriculum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/SSH - Git connection.md",
+                "file": "Otros/Curriculum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/SSH - Git connection.md",
+                "file": "Otros/Curriculum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/SSH - Git connection.md"
+                "file": "Otros/Curriculum.md"
               }
             }
           },
@@ -159,53 +171,53 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "09c39be0877d4a57",
+  "active": "3008e4e1d128321b",
   "lastOpenFiles": [
+    "Linux/SSH - Git connection.md",
+    "Otros/Curriculum.md",
+    "Sin nombre",
+    "Otros",
+    "Desarrollo - Programacion/C Sharp.md",
+    "Desarrollo - Programacion",
+    "Ciberseguridad/Pantallazos/Nmap/Comando - Nmap script vulen.png",
+    "Ciberseguridad/Pantallazos/Nmap/Comando - Nmap Get CVE with script.png",
+    "Ciberseguridad/Pantallazos/Nmap/Comando - Nmap en UDP.png",
+    "Ciberseguridad/Pantallazos/Nmap",
+    "Ciberseguridad/Puertos y Servicios/Puerto 80,443 - Http- Https Servicio Web.md",
+    "Ciberseguridad/Intrusion/XSS.md",
+    "Ciberseguridad/Intrusion/Webshell.md",
+    "Ciberseguridad/Intrusion/LFI.md",
+    "Ciberseguridad/Intrusion/Explotacion SQL - Injection.md",
+    "Ciberseguridad/Intrusion/Explotacion File Upload.md",
+    "Ciberseguridad/Intrusion",
+    "Ciberseguridad/Herramientas - Tools/WhatWeb.md",
+    "Ciberseguridad/Herramientas - Tools/WPScan.md",
+    "Ciberseguridad/Herramientas - Tools/Ping.md",
+    "Ciberseguridad/Herramientas - Tools/Nc.md",
+    "Ciberseguridad/Herramientas - Tools/Base64.md",
+    "Ciberseguridad/Herramientas - Tools/ARP-Scan.md",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Web.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Web - source code.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Ping.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Nmap.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Borazuwarah - CTF1.md",
     "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
     "Ciberseguridad/Herramientas - Tools/Webs.md",
     "Ciberseguridad/Herramientas - Tools/HashIdentifier.md",
     "Ciberseguridad/Escalada de privilegios en LINUX.md",
     "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy) Complete.md",
     "Ciberseguridad/CTFs/CTF Template {platform - Machine name} {Status}.md",
-    "Linux/SSH - Git connection.md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Borazuwara CTF1.md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/web - source code.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Web.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/nmap.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Vacaciones (Muy fácil) completed.md",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Ping.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Depliegue de máquina.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1",
     "Libros Interesantes/Aprendiendo_Ciberseguridad_paso_a_paso_Volumen1_Internet.pdf",
     "Docker/Docker file.md",
     "Docker/Instalacion.md",
-    "Docker/Imagenes en Docker y contenedores.md",
     "Docker",
     "Libros Interesantes/Guia-NMAP.pdf",
-    "Libros Interesantes/Guia-NMAP.pdf.crdownload",
-    "Ciberseguridad/Herramientas - Tools/Hydra, Ataques de Fuerza Bruta y John the Ripper.md",
-    "Ciberseguridad/Herramientas - Tools/NMAP.md",
-    "Ciberseguridad/Herramientas - Tools/Burpsuite.md",
-    "Ciberseguridad/Explotacion SQL - Injection.md",
-    "Linux/Variables.md",
-    "Ciberseguridad/CTFs/CTFs by Borazuwarah/CTF_Borazuwarah2 (Docker).md",
-    "Libros Interesantes/OSCP-español.pdf",
-    "Ciberseguridad/Herramientas - Tools/MSFVENOM.md",
-    "Ciberseguridad/CTFs/CTFs by Borazuwarah/My CTF  -- CTFBorazuwarah1 (VM).md",
-    "Ciberseguridad/CTFs/CTFs by Borazuwarah",
-    "Ciberseguridad/Wireless.md",
-    "Ciberseguridad/Herramientas - Tools/Gobuster.md",
-    "Ciberseguridad/Herramientas - Tools/Crear Diccionarios.md",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy) complete.md",
-    "Ciberseguridad/METADATA.md",
-    "Obsidian/Configuracion Obsidian.md",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Vacaciones/Dockerlabs - Vacacioens - Nmap result.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Vacaciones/Dockerlabs - Vacacioens -  Gtfobbins ruby sudo access.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Vacaciones/Dockerlabs - Vacaciones - Despliegue me maquina.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Vacaciones/Dockerlabs - Vacacioens -  Contenido fichero correo.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Vacaciones/Dockerlabs - Vacacioens -  Script vbuln p 80.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Vacaciones",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos",
-    "Ciberseguridad/CTFs/Dockerlabs.es"
+    "Libros Interesantes/Guia-NMAP.pdf.crdownload"
   ]
 }

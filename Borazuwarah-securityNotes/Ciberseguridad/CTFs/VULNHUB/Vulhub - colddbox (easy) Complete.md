@@ -1,7 +1,19 @@
+Platform: Vulnhub
+**machine:** [ColddBox: Easy ~ VulnHub](https://www.vulnhub.com/entry/colddbox-easy,586/)
+**Download (Mirror):** [mega.nz/file/VldHiIgA#4nRI2LPZs_x48_-ryCkPvL6Em2lQTSJEKvoReieDMec](https://mega.nz/file/VldHiIgA#4nRI2LPZs_x48_-ryCkPvL6Em2lQTSJEKvoReieDMec)
 [ColddBox: Easy ~ VulnHub](https://www.vulnhub.com/entry/colddbox-easy,586/)
 
 Kali:  192.168.1.144
 VM:  192.168.1.132
+
+Herramientas:
+[[NMAP]]
+[[Ping]]
+[[WhatWeb]]
+[[WPScan]]
+[[Nc]]
+[[Base64]]
+
 
 #wpscan
 #wordpress #usuarioswordpress

@@ -5,6 +5,7 @@ explotando los binarios
 https://gtfobins.github.io/
 
 primero sudo -l
+con este comando podemos ver que programas podemos ejecutar con  permisos elevados
 
 ```sh fold:"Revisar tenemos permiso de algun programa como root"
 sudo -l
@@ -27,18 +28,18 @@ find / -writable -type f 2>/dev/null |grep '/etc/passwd' && ls -lah /etc/passwd
 find  / -perm -4000 2>/dev/null  
 ```
 
-# conoer  version de linux y distribucion
+# conocer  versión de Linux y distribución
 
 ```sh fold:"conocer version de linux"
 lsb_release -a
 ```
 
-Busqueda en google
-exploit db {distibucion}  {version}
+Búsqueda en google
+exploit  {distibucion}  {version}
 Descargamos el exploit
 
 enviamos el exploit a la maquina victima
 
 
 # compilar archivos en c
-gcc -o{archivo reultante} {archivo fuente en C}
+gcc -o {archivo resultante} {archivo fuente en C}
