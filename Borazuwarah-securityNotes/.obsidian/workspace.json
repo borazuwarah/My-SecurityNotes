@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/CTFs/Dockerlabs.es/Borazuwarah - CTF1.md",
+                "file": "Ciberseguridad/Herramientas - Tools/Burpsuite.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "steg",
+                "query": "agent",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/CTFs/Dockerlabs.es/Borazuwarah - CTF1.md",
+                "file": "Ciberseguridad/Herramientas - Tools/Burpsuite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/CTFs/Dockerlabs.es/Borazuwarah - CTF1.md",
+                "file": "Ciberseguridad/Herramientas - Tools/Burpsuite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/CTFs/Dockerlabs.es/Borazuwarah - CTF1.md"
+                "file": "Ciberseguridad/Herramientas - Tools/Burpsuite.md"
               }
             }
           },
@@ -160,12 +160,18 @@
   },
   "active": "c1a1302f1ce2d74a",
   "lastOpenFiles": [
+    "Ciberseguridad/Intrusion/Explotacion File Upload.md",
+    "Ciberseguridad/Intrusion/Explotacion SQL - Injection.md",
+    "Ciberseguridad/Intrusion/LFI.md",
+    "Ciberseguridad/Intrusion/Webshell.md",
+    "Ciberseguridad/Intrusion/XSS.md",
+    "Linux/SSH - Git connection.md",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Borazuwarah - CTF1.md",
     "Ciberseguridad/Escalada de privilegios en LINUX.md",
     "Ciberseguridad/Certificaciones.md",
     "Ciberseguridad/Wireless.md",
     "Personal Projects/Freezer manager (gestion del congelador).md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Sudo -l.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Borazuwarah - CTF1.md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Escalada de privilegios.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - SSH connection.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Web - source code.png",
@@ -184,7 +190,6 @@
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Secreto.txt.png",
     "Ciberseguridad/Herramientas - Tools/Esteganografia.md",
     "Ciberseguridad/Herramientas - Tools/Wget.md",
-    "Linux/SSH - Git connection.md",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy) complete.md",
     "Ciberseguridad/Herramientas - Tools/Gobuster.md",
     "Otros/Curriculum.md",
@@ -193,11 +198,6 @@
     "Desarrollo - Programacion",
     "Ciberseguridad/Pantallazos/Nmap",
     "Ciberseguridad/Puertos y Servicios/Puerto 80,443 - Http- Https Servicio Web.md",
-    "Ciberseguridad/Intrusion/XSS.md",
-    "Ciberseguridad/Intrusion/Webshell.md",
-    "Ciberseguridad/Intrusion/LFI.md",
-    "Ciberseguridad/Intrusion/Explotacion SQL - Injection.md",
-    "Ciberseguridad/Intrusion/Explotacion File Upload.md",
     "Ciberseguridad/Intrusion",
     "Ciberseguridad/Herramientas - Tools/WhatWeb.md",
     "Ciberseguridad/Herramientas - Tools/WPScan.md",
