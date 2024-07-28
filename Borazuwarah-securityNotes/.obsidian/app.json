@@ -1,5 +1,6 @@
 {
   "readableLineLength": false,
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "Recursos"
+  "attachmentFolderPath": "Recursos",
+  "promptDelete": false
 }

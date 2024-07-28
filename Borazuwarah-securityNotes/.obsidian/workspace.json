@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5f0ef38179b0dc73",
+        "id": "a52ecec44ca82c1c",
         "type": "tabs",
         "children": [
           {
-            "id": "09c39be0877d4a57",
+            "id": "c1a1302f1ce2d74a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.5
+    "width": 323.5
   },
   "right": {
     "id": "0e37c2c69e7da69e",
@@ -158,28 +158,39 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "09c39be0877d4a57",
+  "active": "c1a1302f1ce2d74a",
   "lastOpenFiles": [
-    "Ciberseguridad/CTFs/CTFs by Borazuwarah/My CTF  -- CTFBorazuwarah1 (VM).md",
+    "Ciberseguridad/Escalada de privilegios en LINUX.md",
+    "Ciberseguridad/Certificaciones.md",
+    "Ciberseguridad/Wireless.md",
+    "Personal Projects/Freezer manager (gestion del congelador).md",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Sudo -l.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Borazuwarah - CTF1.md",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Salida exiftool.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Secreto.txt.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Steghide.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Escalada de privilegios.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - SSH connection.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Web - source code.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Gobuster.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Ping.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Hydra borazuwara see password.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Hydra borazuwarah not see password.png",
+    "Ciberseguridad/Herramientas - Tools/Hydra, Ataques de Fuerza Bruta y John the Ripper.md",
+    "[Obsidian ¡Markdown Sintaxis!!!!.md",
+    "Desarrollo - Programacion/Python/Formación.md",
+    "Desarrollo - Programacion/C Sharp/C Sharp.md",
+    "Desarrollo - Programacion/C Sharp",
+    "Desarrollo - Programacion/Python",
+    "Ciberseguridad/CTFs/CTFs by Borazuwarah/My CTF  -- CTFBorazuwarah1 (VM).md",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Salida exiftool.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Secreto.txt.png",
     "Ciberseguridad/Herramientas - Tools/Esteganografia.md",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Wget.png",
     "Ciberseguridad/Herramientas - Tools/Wget.md",
     "Linux/SSH - Git connection.md",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Gobuster.png",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy) complete.md",
     "Ciberseguridad/Herramientas - Tools/Gobuster.md",
     "Otros/Curriculum.md",
     "Sin nombre",
     "Otros",
-    "Desarrollo - Programacion/C Sharp.md",
     "Desarrollo - Programacion",
-    "Ciberseguridad/Pantallazos/Nmap/Comando - Nmap script vulen.png",
-    "Ciberseguridad/Pantallazos/Nmap/Comando - Nmap Get CVE with script.png",
-    "Ciberseguridad/Pantallazos/Nmap/Comando - Nmap en UDP.png",
     "Ciberseguridad/Pantallazos/Nmap",
     "Ciberseguridad/Puertos y Servicios/Puerto 80,443 - Http- Https Servicio Web.md",
     "Ciberseguridad/Intrusion/XSS.md",
@@ -192,18 +203,8 @@
     "Ciberseguridad/Herramientas - Tools/WPScan.md",
     "Ciberseguridad/Herramientas - Tools/Ping.md",
     "Ciberseguridad/Herramientas - Tools/Nc.md",
-    "Ciberseguridad/Herramientas - Tools/Base64.md",
-    "Ciberseguridad/Herramientas - Tools/ARP-Scan.md",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Web.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Web - source code.png",
-    "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
-    "Ciberseguridad/Herramientas - Tools/Webs.md",
-    "Ciberseguridad/Herramientas - Tools/HashIdentifier.md",
-    "Ciberseguridad/Escalada de privilegios en LINUX.md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1",
     "Libros Interesantes/Aprendiendo_Ciberseguridad_paso_a_paso_Volumen1_Internet.pdf",
-    "Docker",
-    "Libros Interesantes/Guia-NMAP.pdf",
-    "Libros Interesantes/Guia-NMAP.pdf.crdownload"
+    "Docker"
   ]
 }
