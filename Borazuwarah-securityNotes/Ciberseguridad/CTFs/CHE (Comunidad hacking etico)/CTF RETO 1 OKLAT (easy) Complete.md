@@ -1,4 +1,9 @@
 machine: [Challenges : - Web CTF de la Comunidad de Hacking Ético (comunidadhackingetico.es)](https://ctf.comunidadhackingetico.es/challenges)
+Herramientas utilizadas:
+[[ARP-Scan]]
+[[Ping]]
+[[NMAP]]
+[[Puerto 21 - FTP_tcp]]
 # escaneo de la red
 ![[CHE - OKLAT - Arp-scan.png]]
 encontramos la maquina virtual en la IP: 192.168.1.130

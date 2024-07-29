@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/SSH - Git connection.md",
+                "file": "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy) complete.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c32c3afab3e04007",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciberseguridad/Tratamiento de la TTY.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "eval",
+                "query": "doctor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +78,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 374.5
   },
   "right": {
     "id": "0e37c2c69e7da69e",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/SSH - Git connection.md",
+                "file": "Ciberseguridad/Tratamiento de la TTY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/SSH - Git connection.md",
+                "file": "Ciberseguridad/Tratamiento de la TTY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/SSH - Git connection.md"
+                "file": "Ciberseguridad/Tratamiento de la TTY.md"
               }
             }
           },
@@ -159,8 +171,36 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "c1a1302f1ce2d74a",
+  "active": "c32c3afab3e04007",
   "lastOpenFiles": [
+    "Ciberseguridad/Herramientas - Tools/Burpsuite.md",
+    "Linux/Grupos User.md",
+    "Linux/Variables.md",
+    "Linux/SSH - Git connection.md",
+    "Ciberseguridad/Herramientas - Tools/Enum4linux.md",
+    "Ciberseguridad/Herramientas - Tools/ARP-Scan.md",
+    "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP.md",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF RETO 1 OKLAT (easy) Complete.md",
+    "Vulnyx - Doctor - root falg.png.md",
+    "Ciberseguridad/CTFs/Vulnyx/Vulnyx - Doctor (low) completed.md",
+    "Ciberseguridad/Herramientas - Tools/Curl.md",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Vacaciones (Muy fácil) completed.md",
+    "Ciberseguridad/Herramientas - Tools/Steghide.md",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy) complete.md",
+    "Ciberseguridad/Intrusion/apache Tomcat.md",
+    "Ciberseguridad/Pantallazos/Tomcat/Tomcat - pagina cancel default credentials.png",
+    "Ciberseguridad/Tratamiento de la TTY.md",
+    "Ciberseguridad/Pantallazos/Tomcat/Tomcat - Files uploaded.png",
+    "Ciberseguridad/Pantallazos/Tomcat/Tomcat - Conexion.png",
+    "Ciberseguridad/Pantallazos/Tomcat/Tomcat - payloads generate.png",
+    "Ciberseguridad/Herramientas - Tools/WPScan.md",
+    "Ciberseguridad/Herramientas - Tools/WhatWeb.md",
+    "Ciberseguridad/Herramientas - Tools/Webs.md",
+    "Ciberseguridad/Pantallazos/Tomcat/Tomcat - WAR file to deploy.png",
+    "Ciberseguridad/Pantallazos/Tomcat",
+    "Ciberseguridad/Pantallazos/Tomcat/Tomcat - Web por defecto manager de Tomcat.png",
+    "Ciberseguridad/Pantallazos/Tomcat/Tomcat - Web por defecto de Tomcat.png",
+    "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
     "Otros/Curriculum/FotoPajaros.png",
     "Otros/Curriculum/FotoPajaros-WandB.png",
     "Otros/Curriculum/Curriculum.md",
@@ -168,44 +208,16 @@
     "Otros/Curriculum/CV PR 2024-Actualizado.docx",
     "Otros/Curriculum/CV Nueva Plantilla.docx",
     "Otros/Curriculum",
-    "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
     "Ciberseguridad/Intrusion/Explotacion SQL - Injection.md",
-    "Linux/SSH - Git connection.md",
-    "Ciberseguridad/Herramientas - Tools/Burpsuite.md",
     "Ciberseguridad/Intrusion/Explotacion File Upload.md",
     "Ciberseguridad/Intrusion/LFI.md",
     "Ciberseguridad/Intrusion/Webshell.md",
     "Ciberseguridad/Intrusion/XSS.md",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Borazuwarah - CTF1.md",
-    "Ciberseguridad/Escalada de privilegios en LINUX.md",
-    "Ciberseguridad/Certificaciones.md",
-    "Ciberseguridad/Wireless.md",
-    "Personal Projects/Freezer manager (gestion del congelador).md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Sudo -l.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Escalada de privilegios.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - SSH connection.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Web - source code.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Gobuster.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Ping.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Hydra borazuwara see password.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Hydra borazuwarah not see password.png",
-    "Ciberseguridad/Herramientas - Tools/Hydra, Ataques de Fuerza Bruta y John the Ripper.md",
-    "[Obsidian ¡Markdown Sintaxis!!!!.md",
-    "Desarrollo - Programacion/Python/Formación.md",
-    "Desarrollo - Programacion/C Sharp/C Sharp.md",
     "Desarrollo - Programacion/C Sharp",
     "Desarrollo - Programacion/Python",
-    "Ciberseguridad/CTFs/CTFs by Borazuwarah/My CTF  -- CTFBorazuwarah1 (VM).md",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Salida exiftool.png",
-    "Ciberseguridad/Herramientas - Tools/Esteganografia.md",
-    "Ciberseguridad/Herramientas - Tools/Wget.md",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy) complete.md",
-    "Ciberseguridad/Herramientas - Tools/Gobuster.md",
-    "Otros/Curriculum.md",
     "Sin nombre",
     "Otros",
-    "Desarrollo - Programacion",
-    "Ciberseguridad/Pantallazos/Nmap",
-    "Ciberseguridad/Puertos y Servicios/Puerto 80,443 - Http- Https Servicio Web.md"
+    "Desarrollo - Programacion"
   ]
 }

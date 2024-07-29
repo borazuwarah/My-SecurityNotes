@@ -1,11 +1,12 @@
-#linux
-#Puerto80 
-#puerto22
-#PathTraversal 
-#DirectoryTraversal
-#escaladaPrivilegios 
-#hash
-#RSAcrack
+
+
+Herramientas usadas:
+[[ARP-Scan]]
+[[Ping]]
+[[NMAP]]
+[[RSAcrack]]
+[[Curl]]
+[[Chmod]]
 
 
 

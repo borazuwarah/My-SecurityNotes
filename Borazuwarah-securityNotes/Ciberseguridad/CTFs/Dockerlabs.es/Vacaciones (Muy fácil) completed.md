@@ -3,6 +3,12 @@ plataforma: https://dockerlabs.es/#/
 Mirror: https://mega.nz/file/YCEGAISD#y6iWUG_auH4vUApClb9ix7H6JmOCKm4vAYS2TjQn59g
 Nombre: Vacaciones
 Dificultad: muy fácil
+Herramientas:
+
+- [[Ping]]
+- [[NMAP]]
+- [[Hydra, Ataques de Fuerza Bruta y John the Ripper]]
+- [[Find]]
 
 
 
@@ -147,10 +153,10 @@ Me voy de vacaciones y no he terminado el trabajo que me dio el jefe. Por si aca
 Obtenemos una contraseña vamos a probarla con el usuario root:
 ![[Dockerlabs - Vacaciones - Intento acceso rrot.png]]
 
-Pero hno accedemos
+Pero no accedemos
 también tenemos el usuario Juan vamos a probar con este usuario:
 
-Ahora is tenemos acceso con el usuario Junan:
+Ahora si tenemos acceso con el usuario Junan:
 ![[Dockerlabs - Vacaciones - Acceso usuario Juan.png]]
 
 

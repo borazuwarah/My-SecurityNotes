@@ -5,7 +5,7 @@ Comando para conectar
 ssh {Usuario}@{ip destino} [-p {puerto}]
 ```
 
-Usuarios comunes
-Fuerza bruta
+## Usuarios comunes
+## Fuerza bruta
 
-Versiones anteriores a 7.7 son vulnerables a enumeracion de usuarios
+Versiones anteriores a 7.7 son vulnerables a enumeración de usuarios

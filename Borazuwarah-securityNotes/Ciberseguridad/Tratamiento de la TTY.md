@@ -16,7 +16,7 @@ CTRL + z
 ### paso 3
 
 ```sh fold:"Tratamiento de la TTY 3"
-stty raw -echo fg
+stty raw -echo; fg
 ```
 
 
@@ -36,4 +36,4 @@ export SHELL=bash
 ```
 
 se puede probar si funciona usando el comando clear
-y con CTRL+C no se pierde la conexion
+y con CTRL+C no se pierde la conexión
