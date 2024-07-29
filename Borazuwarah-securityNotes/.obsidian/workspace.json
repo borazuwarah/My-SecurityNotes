@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Tratamiento de la TTY.md",
+                "file": "Ciberseguridad/Intrusion/LFI (Local file intrusion).md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "doctor",
+                "query": "webs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Tratamiento de la TTY.md",
+                "file": "Ciberseguridad/Intrusion/LFI (Local file intrusion).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Tratamiento de la TTY.md",
+                "file": "Ciberseguridad/Intrusion/LFI (Local file intrusion).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Tratamiento de la TTY.md"
+                "file": "Ciberseguridad/Intrusion/LFI (Local file intrusion).md"
               }
             }
           },
@@ -173,6 +173,10 @@
   },
   "active": "c32c3afab3e04007",
   "lastOpenFiles": [
+    "Ciberseguridad/Herramientas - Tools/Wireshark.md",
+    "Ciberseguridad/Intrusion/LFI (Local file intrusion).md",
+    "Ciberseguridad/Webs Interesantes.md",
+    "Ciberseguridad/Tratamiento de la TTY.md",
     "Ciberseguridad/Herramientas - Tools/Burpsuite.md",
     "Linux/Grupos User.md",
     "Linux/Variables.md",
@@ -189,7 +193,6 @@
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy) complete.md",
     "Ciberseguridad/Intrusion/apache Tomcat.md",
     "Ciberseguridad/Pantallazos/Tomcat/Tomcat - pagina cancel default credentials.png",
-    "Ciberseguridad/Tratamiento de la TTY.md",
     "Ciberseguridad/Pantallazos/Tomcat/Tomcat - Files uploaded.png",
     "Ciberseguridad/Pantallazos/Tomcat/Tomcat - Conexion.png",
     "Ciberseguridad/Pantallazos/Tomcat/Tomcat - payloads generate.png",
@@ -210,9 +213,6 @@
     "Otros/Curriculum",
     "Ciberseguridad/Intrusion/Explotacion SQL - Injection.md",
     "Ciberseguridad/Intrusion/Explotacion File Upload.md",
-    "Ciberseguridad/Intrusion/LFI.md",
-    "Ciberseguridad/Intrusion/Webshell.md",
-    "Ciberseguridad/Intrusion/XSS.md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Sudo -l.png",
     "Desarrollo - Programacion/C Sharp",
     "Desarrollo - Programacion/Python",
