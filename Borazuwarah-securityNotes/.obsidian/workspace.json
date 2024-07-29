@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
+                "file": "Otros/Curriculum/Curriculum.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
+                "file": "Otros/Curriculum/Curriculum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
+                "file": "Otros/Curriculum/Curriculum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/SQLMAP.md"
+                "file": "Otros/Curriculum/Curriculum.md"
               }
             }
           },
@@ -161,9 +160,20 @@
   },
   "active": "751bc7971aa922b9",
   "lastOpenFiles": [
+    "Otros/Curriculum/CV PR 2024-Actualizado.docx.sh",
+    "Otros/Curriculum/CV PR 2024-Actualizado.docx.txt",
+    "Otros/Curriculum/CV PR 2024-Actualizado 1.docx",
+    "Otros/Curriculum/CV Nueva Plantilla 1.docx",
+    "Otros/Curriculum/CV PR 2024-Actualizado.pdf",
+    "Otros/Curriculum/FotoPajaros.png",
+    "Otros/Curriculum/FotoPajaros-WandB.png",
+    "Otros/Curriculum/Curriculum.md",
+    "Otros/Curriculum/CV PR 2024-Actualizado.docx",
+    "Otros/Curriculum/CV Nueva Plantilla.docx",
+    "Otros/Curriculum",
+    "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
     "Ciberseguridad/CTFs/CTFs by Borazuwarah/My CTF  -- CTFBorazuwarah1 (VM).md",
     "Docker/Instalacion.md",
-    "Otros/Curriculum.md",
     "Otros",
     "Desarrollo - Programacion/Python/Formación.md",
     "Desarrollo - Programacion/C Sharp/C Sharp.md",
@@ -177,8 +187,6 @@
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - SSH connection.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Hydra borazuwarah not see password.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Hydra borazuwara see password.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Gobuster.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Escalada de privilegios.png",
     "Ciberseguridad/CTFs/Vulnyx/Vulnyx - Real (easy) completed.md",
     "Ciberseguridad/CTFs/VULNHUB/VulnHub - Empire Breakout (easy) completed.md",
     "Ciberseguridad/Tratamiento de la TTY.md",
@@ -197,15 +205,6 @@
     "Ciberseguridad/Intrusion/XSS.md",
     "Docker/Contenedores.md",
     "Docker/Docker file.md",
-    "Desarrollo - Programacion/C Sharp.md",
-    "Docker/Exportar imagenes en local extension .tar.md",
-    "Desarrollo - Programacion/Python",
-    "Desarrollo - Programacion",
-    "Ciberseguridad/Intrusion",
-    "Ciberseguridad/Pantallazos/Nmap",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1",
-    "Sin título",
-    "Docker",
-    "Libros Interesantes/Guia-NMAP.pdf"
+    "Desarrollo - Programacion/Python"
   ]
 }
