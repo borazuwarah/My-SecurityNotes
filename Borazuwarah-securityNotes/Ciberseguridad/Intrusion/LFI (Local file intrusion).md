@@ -1,4 +1,4 @@
-Cuando en una url se llama a un parametro, es facil que encontremos un LFI
+.k9jCuando en una url se llama a un parametro, es facil que encontremos un LFI
 ../../../../../../../../../../
 intentaremos sacar el passwd (donde se encuentran los usuarios registrados del sistema)
 la ruta de passwd /etc/passwd

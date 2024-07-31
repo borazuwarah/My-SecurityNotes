@@ -11,7 +11,7 @@ zip -r {nombreNuevoFichero.zip} *.jpg
 
 comprimir todos los archivos de una ruta
 ```sh fold:"comprimir todos los archivos de una ruta"
-ziop -r {nombreficheronuevo.zip} *
+zip -r {nombreficheronuevo.zip} *
 ```
 
 
