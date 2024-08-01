@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/SMBCLIENT.md",
+                "file": "Ciberseguridad/Herramientas - Tools/Metasploit.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "webs",
+                "query": "rpcclient",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/SMBCLIENT.md",
+                "file": "Ciberseguridad/Herramientas - Tools/Metasploit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/SMBCLIENT.md",
+                "file": "Ciberseguridad/Herramientas - Tools/Metasploit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/SMBCLIENT.md"
+                "file": "Ciberseguridad/Herramientas - Tools/Metasploit.md"
               }
             }
           },
@@ -171,13 +172,23 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "aeb89eab8122075b",
+  "active": "32c6ae55f8212564",
   "lastOpenFiles": [
+    "Ciberseguridad/Herramientas - Tools/Crear Diccionarios.md",
+    "Ciberseguridad/Herramientas - Tools/Enum4linux.md",
+    "Ciberseguridad/Herramientas - Tools/Curl.md",
+    "Ciberseguridad/Herramientas - Tools/HashIdentifier.md",
+    "Ciberseguridad/Herramientas - Tools/NMAP.md",
+    "Ciberseguridad/Herramientas - Tools/Nc.md",
+    "Ciberseguridad/Herramientas - Tools/Ping.md",
+    "Ciberseguridad/Herramientas - Tools/Steghide.md",
+    "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
+    "Ciberseguridad/Herramientas - Tools/Metasploit.md",
     "Ciberseguridad/Herramientas - Tools/SMBMAP.md",
+    "Ciberseguridad/Puertos y Servicios/Puerto 445 SMB.md",
+    "Ciberseguridad/Herramientas - Tools/SMBCLIENT.md",
     "Ciberseguridad/Pantallazos/SmbMap",
     "Ciberseguridad/Pantallazos/SmbMap/SMBMAP salida.png",
-    "Ciberseguridad/Herramientas - Tools/SMBCLIENT.md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 445 SMB.md",
     "Ciberseguridad/Herramientas - Tools/RSAcrack.md",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy) complete.md",
     "Personal Projects/Personal EDR.md",
@@ -199,16 +210,7 @@
     "Personal Projects/Extension de navegador para generar contraseñas Aleatorias.md",
     "Ciberseguridad/Herramientas - Tools/Wget.md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Borazuwarah - CTF1.md",
-    "Ciberseguridad/Herramientas - Tools/HashIdentifier.md",
     "Ciberseguridad/Tratamiento de la TTY.md",
-    "Linux/Comprimir y Descomprimir.md",
-    "Ciberseguridad/Intrusion/LFI (Local file intrusion).md",
-    "Ciberseguridad/Webs Interesantes.md",
-    "Ciberseguridad/Herramientas - Tools/Burpsuite.md",
-    "Linux/Grupos User.md",
-    "Linux/Variables.md",
-    "Linux/SSH - Git connection.md",
-    "Ciberseguridad/Herramientas - Tools/Enum4linux.md",
     "Ciberseguridad/Pantallazos/Tomcat/Tomcat - pagina cancel default credentials.png",
     "Ciberseguridad/Pantallazos/Tomcat/Tomcat - Files uploaded.png",
     "Ciberseguridad/Pantallazos/Tomcat/Tomcat - Conexion.png",
