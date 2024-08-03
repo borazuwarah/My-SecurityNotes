@@ -10,7 +10,7 @@ Herramientas:
 [[NMAP]]
 [[Ping]]
 [[WhatWeb]]
-[[WPScan]]
+[[WPScan (wordpress)]]
 [[Nc]]
 [[Base64]]
 
