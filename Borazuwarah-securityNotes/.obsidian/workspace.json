@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/WPScan (wordpress).md",
+                "file": "Ciberseguridad/Puertos y Servicios/Puerto 80 Web/CMS Hub.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/WPScan (wordpress).md",
+                "file": "Ciberseguridad/Puertos y Servicios/Puerto 80 Web/CMS Hub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/WPScan (wordpress).md",
+                "file": "Ciberseguridad/Puertos y Servicios/Puerto 80 Web/CMS Hub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/WPScan (wordpress).md"
+                "file": "Ciberseguridad/Puertos y Servicios/Puerto 80 Web/CMS Hub.md"
               }
             }
           },
@@ -184,12 +183,18 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "32c6ae55f8212564",
+  "active": "e3e1331c9daf97a8",
   "lastOpenFiles": [
+    "Ciberseguridad/Puertos y Servicios/Puerto 80 Web/Prestashop.md",
+    "Ciberseguridad/Puertos y Servicios/Puerto 80 Web/CMS Hub.md",
+    "Ciberseguridad/Puertos y Servicios/Puerto 80 Web/Joomla.md",
+    "Ciberseguridad/Puertos y Servicios/Puerto 80 Web/Drupal.md",
+    "Ciberseguridad/Puertos y Servicios/Puerto 80 Web/Wordpress.md",
+    "Ciberseguridad/Herramientas - Tools/WPScan (wordpress).md",
+    "Ciberseguridad/Puertos y Servicios/Puerto 80 Web",
     "Ciberseguridad/Herramientas - Tools/Wireshark.md",
     "Ciberseguridad/Herramientas - Tools/WhatWeb.md",
     "Ciberseguridad/Herramientas - Tools/Webs.md",
-    "Ciberseguridad/Herramientas - Tools/WPScan (wordpress).md",
     "Ciberseguridad/Herramientas - Tools/snmpwalk  (SNMP).md",
     "Ciberseguridad/Puertos y Servicios/puerto 161 - SNMP (UDP).md",
     "Ciberseguridad/Herramientas - Tools/Herramientas profesionales SOC/wfuzz.md",
@@ -207,13 +212,8 @@
     "Ciberseguridad/Herramientas - Tools/HashIdentifier.md",
     "Ciberseguridad/Herramientas - Tools/Nc.md",
     "Ciberseguridad/Herramientas - Tools/Steghide.md",
-    "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
-    "Ciberseguridad/Herramientas - Tools/Metasploit.md",
-    "Ciberseguridad/Herramientas - Tools/SMBCLIENT.md",
     "Ciberseguridad/Pantallazos/SmbMap",
     "Ciberseguridad/Pantallazos/SmbMap/SMBMAP salida.png",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy) complete.md",
-    "Personal Projects/Personal EDR.md",
     "Personal Projects/My_Edr/main.py",
     "Personal Projects/My_Edr/__pycache__/db_configuration.cpython-311.pyc",
     "Personal Projects/My_Edr/__pycache__",
@@ -222,7 +222,6 @@
     "Personal Projects/My_Edr/main2.py.py",
     "Personal Projects/My_Edr/system_monitor.db-journal",
     "Personal Projects/My_Edr/system_monitor.db",
-    "Personal Projects/My_Edr",
     "Ciberseguridad/Pantallazos/Tomcat/Tomcat - pagina cancel default credentials.png",
     "Ciberseguridad/Pantallazos/Tomcat/Tomcat - Files uploaded.png",
     "Ciberseguridad/Pantallazos/Tomcat/Tomcat - Conexion.png",
