@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/Metasploit.md",
+                "file": "Ciberseguridad/Puertos y Servicios/puerto 161 - SNMP (UDP).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3e1331c9daf97a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciberseguridad/Herramientas - Tools/snmpwalk  (SNMP).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/Metasploit.md",
+                "file": "Ciberseguridad/Herramientas - Tools/snmpwalk  (SNMP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/Metasploit.md",
+                "file": "Ciberseguridad/Herramientas - Tools/snmpwalk  (SNMP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/Metasploit.md"
+                "file": "Ciberseguridad/Herramientas - Tools/snmpwalk  (SNMP).md"
               }
             }
           },
@@ -172,24 +183,30 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "32c6ae55f8212564",
+  "active": "e3e1331c9daf97a8",
   "lastOpenFiles": [
+    "Ciberseguridad/Puertos y Servicios/puerto 161 - SNMP (UDP).md",
+    "Ciberseguridad/Herramientas - Tools/snmpwalk  (SNMP).md",
+    "Ciberseguridad/Herramientas - Tools/Herramientas profesionales SOC/wfuzz.md",
+    "Ciberseguridad/Herramientas - Tools/SMBMAP.md",
+    "Ciberseguridad/Herramientas - Tools/snmp wolk.md",
+    "Ciberseguridad/Herramientas - Tools/RPCCLIENT.md",
+    "Ciberseguridad/Herramientas - Tools/Onesixtyone (UDP).md",
+    "Ciberseguridad/Herramientas - Tools/Ping.md",
+    "Ciberseguridad/Puertos y Servicios/Puerto 445 SMB - SAMBA.md",
+    "Ciberseguridad/Herramientas - Tools/NMAP.md",
+    "Ciberseguridad/Herramientas - Tools/RSAcrack.md",
     "Ciberseguridad/Herramientas - Tools/Crear Diccionarios.md",
     "Ciberseguridad/Herramientas - Tools/Enum4linux.md",
     "Ciberseguridad/Herramientas - Tools/Curl.md",
     "Ciberseguridad/Herramientas - Tools/HashIdentifier.md",
-    "Ciberseguridad/Herramientas - Tools/NMAP.md",
     "Ciberseguridad/Herramientas - Tools/Nc.md",
-    "Ciberseguridad/Herramientas - Tools/Ping.md",
     "Ciberseguridad/Herramientas - Tools/Steghide.md",
     "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
     "Ciberseguridad/Herramientas - Tools/Metasploit.md",
-    "Ciberseguridad/Herramientas - Tools/SMBMAP.md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 445 SMB.md",
     "Ciberseguridad/Herramientas - Tools/SMBCLIENT.md",
     "Ciberseguridad/Pantallazos/SmbMap",
     "Ciberseguridad/Pantallazos/SmbMap/SMBMAP salida.png",
-    "Ciberseguridad/Herramientas - Tools/RSAcrack.md",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy) complete.md",
     "Personal Projects/Personal EDR.md",
     "Personal Projects/My_Edr/main.py",
@@ -205,12 +222,6 @@
     "Docker/Docker file.md",
     "Ciberseguridad/Intrusion/XSS.md",
     "Linux/Find.md",
-    "Ciberseguridad/Wireless.md",
-    "Ciberseguridad/Herramientas - Tools/Wireshark.md",
-    "Personal Projects/Extension de navegador para generar contraseñas Aleatorias.md",
-    "Ciberseguridad/Herramientas - Tools/Wget.md",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Borazuwarah - CTF1.md",
-    "Ciberseguridad/Tratamiento de la TTY.md",
     "Ciberseguridad/Pantallazos/Tomcat/Tomcat - pagina cancel default credentials.png",
     "Ciberseguridad/Pantallazos/Tomcat/Tomcat - Files uploaded.png",
     "Ciberseguridad/Pantallazos/Tomcat/Tomcat - Conexion.png",
