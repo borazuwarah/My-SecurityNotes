@@ -59,8 +59,7 @@ docker rm {identificador  del contenedor}
 ## Entrar en un contenedor
 Para entrar en un contenddor que está en estado UP (levantado)
 ```sh fold:"docker, Entrar contendodr"
-
-docker attacht {containerId}
+docker attach {containerId}
 ```
 
 ## Salir del contenedor (dejandolo en ejecucion

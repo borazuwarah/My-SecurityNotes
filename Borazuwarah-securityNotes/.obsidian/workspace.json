@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Puertos y Servicios/Puerto 80 Web/CMS Hub.md",
+                "file": "Ciberseguridad/CTFs/CTFs by Borazuwarah/CTF_Guadix.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Puertos y Servicios/Puerto 80 Web/CMS Hub.md",
+                "file": "Ciberseguridad/CTFs/CTFs by Borazuwarah/CTF_Guadix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Puertos y Servicios/Puerto 80 Web/CMS Hub.md",
+                "file": "Ciberseguridad/CTFs/CTFs by Borazuwarah/CTF_Guadix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Puertos y Servicios/Puerto 80 Web/CMS Hub.md"
+                "file": "Ciberseguridad/CTFs/CTFs by Borazuwarah/CTF_Guadix.md"
               }
             }
           },
@@ -185,8 +185,12 @@
   },
   "active": "e3e1331c9daf97a8",
   "lastOpenFiles": [
-    "Ciberseguridad/Puertos y Servicios/Puerto 80 Web/Prestashop.md",
+    "Docker/Imagenes en Docker y contenedores.md",
+    "Ciberseguridad/CTFs/CTFs by Borazuwarah/CTF_Guadix.md",
+    "Docker/Contenedores.md",
+    "Docker/Docker file.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 80 Web/CMS Hub.md",
+    "Ciberseguridad/Puertos y Servicios/Puerto 80 Web/Prestashop.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 80 Web/Joomla.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 80 Web/Drupal.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 80 Web/Wordpress.md",
@@ -208,10 +212,6 @@
     "Ciberseguridad/Herramientas - Tools/RSAcrack.md",
     "Ciberseguridad/Herramientas - Tools/Crear Diccionarios.md",
     "Ciberseguridad/Herramientas - Tools/Enum4linux.md",
-    "Ciberseguridad/Herramientas - Tools/Curl.md",
-    "Ciberseguridad/Herramientas - Tools/HashIdentifier.md",
-    "Ciberseguridad/Herramientas - Tools/Nc.md",
-    "Ciberseguridad/Herramientas - Tools/Steghide.md",
     "Ciberseguridad/Pantallazos/SmbMap",
     "Ciberseguridad/Pantallazos/SmbMap/SMBMAP salida.png",
     "Personal Projects/My_Edr/main.py",
