@@ -114,3 +114,7 @@ nmap -sU enumeracion de puertos en UDP
 
 nmap -sU --top-ports 200 enumera los 200 puertos mas importantes en UDP
 ![[Comando - Nmap en UDP.png]]
+
+
+## -sU
+hace escaneo por el protocolo UDP
