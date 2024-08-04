@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a52ecec44ca82c1c",
+        "id": "8a2c5613406c3068",
         "type": "tabs",
         "children": [
           {
-            "id": "c1a1302f1ce2d74a",
+            "id": "751bc7971aa922b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy) complete.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c32c3afab3e04007",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciberseguridad/Intrusion/LFI (Local file intrusion).md",
+                "file": "Desarrollo - Programacion/Python/Formación.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "webs",
+                "query": "sqlm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.5
+    "width": 297.5
   },
   "right": {
     "id": "0e37c2c69e7da69e",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Intrusion/LFI (Local file intrusion).md",
+                "file": "Desarrollo - Programacion/Python/Formación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Intrusion/LFI (Local file intrusion).md",
+                "file": "Desarrollo - Programacion/Python/Formación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Intrusion/LFI (Local file intrusion).md"
+                "file": "Desarrollo - Programacion/Python/Formación.md"
               }
             }
           },
@@ -171,53 +158,52 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "c32c3afab3e04007",
+  "active": "751bc7971aa922b9",
   "lastOpenFiles": [
-    "Ciberseguridad/Herramientas - Tools/Wireshark.md",
-    "Ciberseguridad/Intrusion/LFI (Local file intrusion).md",
-    "Ciberseguridad/Webs Interesantes.md",
-    "Ciberseguridad/Tratamiento de la TTY.md",
-    "Ciberseguridad/Herramientas - Tools/Burpsuite.md",
-    "Linux/Grupos User.md",
-    "Linux/Variables.md",
-    "Linux/SSH - Git connection.md",
-    "Ciberseguridad/Herramientas - Tools/Enum4linux.md",
-    "Ciberseguridad/Herramientas - Tools/ARP-Scan.md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP.md",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF RETO 1 OKLAT (easy) Complete.md",
-    "Vulnyx - Doctor - root falg.png.md",
-    "Ciberseguridad/CTFs/Vulnyx/Vulnyx - Doctor (low) completed.md",
-    "Ciberseguridad/Herramientas - Tools/Curl.md",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Vacaciones (Muy fácil) completed.md",
-    "Ciberseguridad/Herramientas - Tools/Steghide.md",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy) complete.md",
-    "Ciberseguridad/Intrusion/apache Tomcat.md",
-    "Ciberseguridad/Pantallazos/Tomcat/Tomcat - pagina cancel default credentials.png",
-    "Ciberseguridad/Pantallazos/Tomcat/Tomcat - Files uploaded.png",
-    "Ciberseguridad/Pantallazos/Tomcat/Tomcat - Conexion.png",
-    "Ciberseguridad/Pantallazos/Tomcat/Tomcat - payloads generate.png",
-    "Ciberseguridad/Herramientas - Tools/WPScan.md",
-    "Ciberseguridad/Herramientas - Tools/WhatWeb.md",
-    "Ciberseguridad/Herramientas - Tools/Webs.md",
-    "Ciberseguridad/Pantallazos/Tomcat/Tomcat - WAR file to deploy.png",
-    "Ciberseguridad/Pantallazos/Tomcat",
+    "Desarrollo - Programacion/C Sharp/C Sharp.md",
+    "Otros/Curriculum/Curriculum.md",
     "Ciberseguridad/Pantallazos/Tomcat/Tomcat - Web por defecto manager de Tomcat.png",
     "Ciberseguridad/Pantallazos/Tomcat/Tomcat - Web por defecto de Tomcat.png",
-    "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
+    "Ciberseguridad/Pantallazos/Tomcat/Tomcat - WAR file to deploy.png",
+    "Ciberseguridad/Pantallazos/Tomcat/Tomcat - payloads generate.png",
+    "Ciberseguridad/Pantallazos/Tomcat/Tomcat - Files uploaded.png",
+    "Ciberseguridad/Pantallazos/Tomcat/Tomcat - pagina cancel default credentials.png",
+    "Ciberseguridad/Pantallazos/Tomcat/Tomcat - Conexion.png",
+    "Ciberseguridad/Pantallazos/Tomcat",
+    "Ciberseguridad/Intrusion/apache Tomcat.md",
+    "Ciberseguridad/Intrusion/LFI (Local file intrusion).md",
+    "Ciberseguridad/Herramientas - Tools/Wireshark.md",
+    "Ciberseguridad/Herramientas - Tools/Steghide.md",
+    "Ciberseguridad/Herramientas - Tools/Curl.md",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy) complete.md",
+    "Otros/Curriculum/CV PR 2024-Actualizado.docx.sh",
+    "Otros/Curriculum/CV PR 2024-Actualizado.docx.txt",
+    "Otros/Curriculum/CV PR 2024-Actualizado 1.docx",
+    "Otros/Curriculum/CV Nueva Plantilla 1.docx",
+    "Otros/Curriculum/CV PR 2024-Actualizado.pdf",
     "Otros/Curriculum/FotoPajaros.png",
     "Otros/Curriculum/FotoPajaros-WandB.png",
-    "Otros/Curriculum/Curriculum.md",
-    "Otros/Curriculum/CV PR 2024-Actualizado.pdf",
     "Otros/Curriculum/CV PR 2024-Actualizado.docx",
     "Otros/Curriculum/CV Nueva Plantilla.docx",
     "Otros/Curriculum",
-    "Ciberseguridad/Intrusion/Explotacion SQL - Injection.md",
-    "Ciberseguridad/Intrusion/Explotacion File Upload.md",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Sudo -l.png",
-    "Desarrollo - Programacion/C Sharp",
-    "Desarrollo - Programacion/Python",
-    "Sin nombre",
+    "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
+    "Ciberseguridad/CTFs/CTFs by Borazuwarah/My CTF  -- CTFBorazuwarah1 (VM).md",
+    "Docker/Instalacion.md",
     "Otros",
-    "Desarrollo - Programacion"
+    "Desarrollo - Programacion/Python/Formación.md",
+    "Ciberseguridad/Herramientas - Tools/Wget.md",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Borazuwra - CTF1/Dockerlabs - BorazuwarTF1 - Wget.png",
+    "Ciberseguridad/CTFs/Vulnyx/Vulnyx - Real (easy) completed.md",
+    "Ciberseguridad/CTFs/VULNHUB/VulnHub - Empire Breakout (easy) completed.md",
+    "Ciberseguridad/Tratamiento de la TTY.md",
+    "Linux/Usuarios.md",
+    "Linux/Grupos User.md",
+    "Ciberseguridad/Herramientas - Tools/ARP-Scan.md",
+    "Ciberseguridad/Herramientas - Tools/Base64.md",
+    "Ciberseguridad/Reconocimiento de la red.md",
+    "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy) Complete.md",
+    "Ciberseguridad/Herramientas - Tools/Nc.md",
+    "Ciberseguridad/Herramientas - Tools/WPScan.md",
+    "Ciberseguridad/Herramientas - Tools/WhatWeb.md"
   ]
 }
