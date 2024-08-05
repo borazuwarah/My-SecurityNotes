@@ -7,7 +7,7 @@ Herramientas:
 [[Ping]]
 [[NMAP]]
 [[Enum4linux]]
-[[Nc]]
+[[Nc Netcat]]
 [[Tratamiento de la TTY]]
 
 ![[Vulnhub - EMPIRE Breakout - Machine.png]]

@@ -35,7 +35,7 @@ lsb_release -a
 ```
 
 Búsqueda en google
-exploit  {distibucion}  {version}
+exploit  {distribución}  {version}
 Descargamos el exploit
 
 enviamos el exploit a la maquina victima

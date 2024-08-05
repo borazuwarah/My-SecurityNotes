@@ -46,14 +46,14 @@ podemos seguir intentando fuzz y gobuster subdomains
 De la web no sacamos nada
 Pasamos al siguiente puerto 6667
 
- instantamos explotarlo con metaexploit:
+ intentamos explotarlo con metaexploit:
  comandos 
  msfconsole
 ![[Vulnyx - Real - Msfconsole.png]]
 
 y buscando un poco por internet vemos que es vulnerable con metaexploit: 
 https://docs.rapid7.com/metasploit/metasploitable-2-exploitability-guide/
-vamos a intentar explotarlo segun lo encontrado
+vamos a intentar explotarlo según lo encontrado
 
 ![[Vulnyx - Real - Search Unreal.png]]
 
