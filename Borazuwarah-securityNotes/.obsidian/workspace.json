@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/CTFs/CTFs by Borazuwarah/GGDDXX.md",
+                "file": "Linux/Apropos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/CTFs/CTFs by Borazuwarah/GGDDXX.md",
+                "file": "Linux/Apropos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/CTFs/CTFs by Borazuwarah/GGDDXX.md",
+                "file": "Linux/Apropos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/CTFs/CTFs by Borazuwarah/GGDDXX.md"
+                "file": "Linux/Apropos.md"
               }
             }
           }
@@ -152,8 +152,10 @@
   },
   "active": "d22fcd38bff59c8f",
   "lastOpenFiles": [
-    "Ciberseguridad/Reconocimiento de la red.md",
+    "Linux/Chmod.md",
+    "Linux/Apropos.md",
     "Ciberseguridad/CTFs/CTFs by Borazuwarah/GGDDXX.md",
+    "Ciberseguridad/Reconocimiento de la red.md",
     "Ciberseguridad/CTFs/CTFs by Borazuwarah/My CTF  -- CTFBorazuwarah1 (VM).md",
     "Ciberseguridad/CTFs/CTF Template {platform - Machine name} {Status}.md",
     "Ciberseguridad/CTFs/Vulnyx/Vulnyx - Real (easy) completed.md",
@@ -170,7 +172,6 @@
     "Linux/Find.md",
     "Linux/Editor y creador de fichoers.md",
     "Linux/Comprimir y Descomprimir.md",
-    "Linux/Chmod.md",
     "Ciberseguridad/Herramientas - Tools/Ping.md",
     "Ciberseguridad/Herramientas - Tools/Onesixtyone (UDP).md",
     "Ciberseguridad/Herramientas - Tools/NMAP.md",
