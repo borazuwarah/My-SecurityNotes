@@ -11,7 +11,7 @@ Herramientas:
 [[Ping]]
 [[WhatWeb]]
 [[WPScan (wordpress)]]
-[[Nc]]
+[[Nc Netcat]]
 [[Base64]]
 
 

@@ -1,7 +1,7 @@
 Con este comando podemos controlar los permisos de un fichero
-con ls -l podemos ver los permisos de un fichoer
+con ls -l podemos ver los permisos de un fichero
 
-## gestion de permisos con letras
+## gestión de permisos con letras
 Leer los permisos
 RWX
 Usuario Grupos Otros
@@ -12,7 +12,7 @@ Usuario actual / Permisos grupos/ Otros
 primera letra de los permisos
 	> d --> aparece si es un directorio
 	> - --> aparece si es un fichero
-## dar permiso de ejecucion
+## dar permiso de ejecución
 
 ```sh fold:"Dar permisos de ejecucion a un fichero"
 chmod +x {nombre del fichoer}
@@ -28,9 +28,9 @@ chmod -r {nombre del fichoer}
 chmod +w {nombre del fichoer}
 ```
 
-## Gestion de permisos con numeros
+## Gestión de permisos con números
 
-numeros : 3 digitos del 1 al 7
+números : 3 digitos del 1 al 7
 Lectura Escritura Ejecucion = 7
 
 4 representa todos los permisos de lectura
