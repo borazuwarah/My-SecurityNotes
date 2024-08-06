@@ -40,9 +40,9 @@
 
 # Instalar Aplicaciones
 
-## Instalar aplicacion que se encuentra en los repos
+## Instalar aplicación que se encuentra en los repos
 `apt install {nombre de apliacion}`
-> ejemplo instalacion audacity  --> `apt install audacity`
+> ejemplo instalación audacity  --> `apt install audacity`
 
 ## Instalar aplicacion que no está en los repos:
 Descargamos  el fichero  .deb
@@ -55,9 +55,9 @@ al hacerlo de esta forma se incorparan los repos al sistema y se actualizxará e
 `apt remove {nombre de paquete}`
 > ejemplo desinstalar audacity --> `apt remove audacity`
 
-## eliminar dependicncias huerfanas
+## eliminar dependencias huerfanas
 `apt autoremove`
-se aconseja pasarlo despues de eliminar una aplicacion o proceso
+se aconseja pasarlo después de eliminar una aplicación o proceso
 
 Actualizar los repositorios
 `apt update`

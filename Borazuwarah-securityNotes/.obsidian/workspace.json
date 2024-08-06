@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wordpress",
+                "query": "ip  -path:",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -185,8 +186,10 @@
   },
   "active": "e3e1331c9daf97a8",
   "lastOpenFiles": [
-    "Docker/Imagenes en Docker y contenedores.md",
+    "Ciberseguridad/Herramientas - Tools/SMBMAP.md",
+    "Linux/Linux Basico.md",
     "Ciberseguridad/CTFs/CTFs by Borazuwarah/CTF_Guadix.md",
+    "Docker/Imagenes en Docker y contenedores.md",
     "Docker/Contenedores.md",
     "Docker/Docker file.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 80 Web/CMS Hub.md",
@@ -202,7 +205,6 @@
     "Ciberseguridad/Herramientas - Tools/snmpwalk  (SNMP).md",
     "Ciberseguridad/Puertos y Servicios/puerto 161 - SNMP (UDP).md",
     "Ciberseguridad/Herramientas - Tools/Herramientas profesionales SOC/wfuzz.md",
-    "Ciberseguridad/Herramientas - Tools/SMBMAP.md",
     "Ciberseguridad/Herramientas - Tools/snmp wolk.md",
     "Ciberseguridad/Herramientas - Tools/RPCCLIENT.md",
     "Ciberseguridad/Herramientas - Tools/Onesixtyone (UDP).md",
@@ -211,7 +213,6 @@
     "Ciberseguridad/Herramientas - Tools/NMAP.md",
     "Ciberseguridad/Herramientas - Tools/RSAcrack.md",
     "Ciberseguridad/Herramientas - Tools/Crear Diccionarios.md",
-    "Ciberseguridad/Herramientas - Tools/Enum4linux.md",
     "Ciberseguridad/Pantallazos/SmbMap",
     "Ciberseguridad/Pantallazos/SmbMap/SMBMAP salida.png",
     "Personal Projects/My_Edr/main.py",
