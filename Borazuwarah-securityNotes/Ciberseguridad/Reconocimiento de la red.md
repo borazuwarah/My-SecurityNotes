@@ -1,6 +1,6 @@
 Con el reconocimiento de la red vemos los equipos que están conectados a nuestra red
 
-Enumerar y encontrar  Ips disponibles en nuestra red:
+Enumerar y encontrar  dispositivos  disponibles en nuestra red:
 Las maquinas virtuales empiezan por 00:0
 
 ## Tools

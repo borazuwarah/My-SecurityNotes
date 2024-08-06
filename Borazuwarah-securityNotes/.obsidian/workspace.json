@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Reconocimiento de la red.md",
+                "file": "Ciberseguridad/CTFs/CTFs by Borazuwarah/GGDDXX.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Reconocimiento de la red.md",
+                "file": "Ciberseguridad/CTFs/CTFs by Borazuwarah/GGDDXX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Reconocimiento de la red.md",
+                "file": "Ciberseguridad/CTFs/CTFs by Borazuwarah/GGDDXX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Reconocimiento de la red.md"
+                "file": "Ciberseguridad/CTFs/CTFs by Borazuwarah/GGDDXX.md"
               }
             }
           }
@@ -152,6 +152,9 @@
   },
   "active": "d22fcd38bff59c8f",
   "lastOpenFiles": [
+    "Ciberseguridad/Reconocimiento de la red.md",
+    "Ciberseguridad/CTFs/CTFs by Borazuwarah/GGDDXX.md",
+    "Ciberseguridad/CTFs/CTFs by Borazuwarah/My CTF  -- CTFBorazuwarah1 (VM).md",
     "Ciberseguridad/CTFs/CTF Template {platform - Machine name} {Status}.md",
     "Ciberseguridad/CTFs/Vulnyx/Vulnyx - Real (easy) completed.md",
     "Ciberseguridad/CTFs/Vulnyx/Vulnyx - Doctor (low) completed.md",
@@ -168,7 +171,6 @@
     "Linux/Editor y creador de fichoers.md",
     "Linux/Comprimir y Descomprimir.md",
     "Linux/Chmod.md",
-    "Ciberseguridad/Reconocimiento de la red.md",
     "Ciberseguridad/Herramientas - Tools/Ping.md",
     "Ciberseguridad/Herramientas - Tools/Onesixtyone (UDP).md",
     "Ciberseguridad/Herramientas - Tools/NMAP.md",
