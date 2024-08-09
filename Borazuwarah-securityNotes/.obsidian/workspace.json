@@ -11,11 +11,14 @@
             "id": "d22fcd38bff59c8f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Ciberseguridad/Escalada de privilegios/Escalada de privilegios en LINUX.md",
-                "mode": "source",
-                "source": false
+                "file": "Ciberseguridad/PIVOTING/Mapa de Red.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 221.2172080489532,
+                  "zoom": -0.5
+                }
               }
             }
           }
@@ -48,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wordpress",
+                "query": "enumeracion de usuarios",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Escalada de privilegios/Escalada de privilegios en LINUX.md",
+                "file": "Ciberseguridad/PIVOTING/Mapa de Red.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Escalada de privilegios/Escalada de privilegios en LINUX.md",
+                "file": "Ciberseguridad/PIVOTING/Mapa de Red.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Escalada de privilegios/Escalada de privilegios en LINUX.md"
+                "file": "Ciberseguridad/PIVOTING/Mapa de Red.canvas"
               }
             }
           }
@@ -152,6 +155,13 @@
   },
   "active": "d22fcd38bff59c8f",
   "lastOpenFiles": [
+    "Ciberseguridad/PIVOTING/Presentacion de la red.md",
+    "Ciberseguridad/PIVOTING/Mapa de Red.canvas",
+    "Ciberseguridad/Escalada de privilegios/windows/Enumeración de usuarios.md",
+    "Ciberseguridad/PIVOTING",
+    "Ciberseguridad/Escalada de privilegios/windows/Escalada de privilegios en Windows.md",
+    "Ciberseguridad/Escalada de privilegios/windows",
+    "Ciberseguridad/Escalada de privilegios/Escalada de privilegios en LINUX.md",
     "Ciberseguridad/Herramientas - Tools/WPScan (wordpress).md",
     "Ciberseguridad/Escalada de privilegios",
     "Ciberseguridad/Esca.md",
@@ -168,16 +178,12 @@
     "Ciberseguridad/CTFs/CTF Template {platform - Machine name} {Status}.md",
     "Ciberseguridad/CTFs/Vulnyx/Vulnyx - Real (easy) completed.md",
     "Ciberseguridad/CTFs/Vulnyx/Vulnyx - Doctor (low) completed.md",
-    "Ciberseguridad/Escalada de privilegios/Escalada de privilegios en LINUX.md",
     "Ciberseguridad/METADATA.md",
     "Ciberseguridad/Tratamiento de la TTY.md",
     "Linux/Imagenes/Comando - Cat a fichero.png",
     "Ciberseguridad/Wireless.md",
     "Ciberseguridad/Webs Interesantes.md",
     "Linux/Grupos User.md",
-    "Linux/Linux Basico.md",
-    "Linux/Grep.md",
-    "Linux/Find.md",
-    "Linux/Editor y creador de fichoers.md"
+    "Linux/Linux Basico.md"
   ]
 }
