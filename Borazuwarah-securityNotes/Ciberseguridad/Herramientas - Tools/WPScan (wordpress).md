@@ -17,3 +17,6 @@ wpscan --url {url sin el fichero wp.login.php} --password /usr/share/wordlists/r
 #u usuarios
 #vp plugings
 ```
+
+
+fichero al que se ataca XMLRPC.php

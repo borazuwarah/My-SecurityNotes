@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/CTFs/CTFs by Borazuwarah/CTF_Guadix.md",
+                "file": "Ciberseguridad/Escalada de privilegios/Escalada de privilegios en LINUX.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "wordpress",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/CTFs/CTFs by Borazuwarah/CTF_Guadix.md",
+                "file": "Ciberseguridad/Escalada de privilegios/Escalada de privilegios en LINUX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/CTFs/CTFs by Borazuwarah/CTF_Guadix.md",
+                "file": "Ciberseguridad/Escalada de privilegios/Escalada de privilegios en LINUX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/CTFs/CTFs by Borazuwarah/CTF_Guadix.md"
+                "file": "Ciberseguridad/Escalada de privilegios/Escalada de privilegios en LINUX.md"
               }
             }
           }
@@ -152,8 +152,15 @@
   },
   "active": "d22fcd38bff59c8f",
   "lastOpenFiles": [
-    "Ciberseguridad/Reconocimiento de la red.md",
+    "Ciberseguridad/Herramientas - Tools/WPScan (wordpress).md",
+    "Ciberseguridad/Escalada de privilegios",
+    "Ciberseguridad/Esca.md",
+    "Ciberseguridad/Puertos y Servicios/Puerto 80 Web/Drupal.md",
+    "Ciberseguridad/Herramientas - Tools/Nc Netcat.md",
+    "Ciberseguridad/Herramientas - Tools/NMAP.md",
+    "Ciberseguridad/Herramientas - Tools/MSFVENOM.md",
     "Ciberseguridad/CTFs/CTFs by Borazuwarah/CTF_Guadix.md",
+    "Ciberseguridad/Reconocimiento de la red.md",
     "Ciberseguridad/CTFs/CTFs by Borazuwarah/GGDDXX.md",
     "Linux/Apropos.md",
     "Linux/Chmod.md",
@@ -161,7 +168,7 @@
     "Ciberseguridad/CTFs/CTF Template {platform - Machine name} {Status}.md",
     "Ciberseguridad/CTFs/Vulnyx/Vulnyx - Real (easy) completed.md",
     "Ciberseguridad/CTFs/Vulnyx/Vulnyx - Doctor (low) completed.md",
-    "Ciberseguridad/Escalada de privilegios en LINUX.md",
+    "Ciberseguridad/Escalada de privilegios/Escalada de privilegios en LINUX.md",
     "Ciberseguridad/METADATA.md",
     "Ciberseguridad/Tratamiento de la TTY.md",
     "Linux/Imagenes/Comando - Cat a fichero.png",
@@ -171,12 +178,6 @@
     "Linux/Linux Basico.md",
     "Linux/Grep.md",
     "Linux/Find.md",
-    "Linux/Editor y creador de fichoers.md",
-    "Linux/Comprimir y Descomprimir.md",
-    "Ciberseguridad/Herramientas - Tools/Ping.md",
-    "Ciberseguridad/Herramientas - Tools/Onesixtyone (UDP).md",
-    "Ciberseguridad/Herramientas - Tools/NMAP.md",
-    "Ciberseguridad/Herramientas - Tools/Nc Netcat.md",
-    "Personal Projects/Personal EDR.md"
+    "Linux/Editor y creador de fichoers.md"
   ]
 }
