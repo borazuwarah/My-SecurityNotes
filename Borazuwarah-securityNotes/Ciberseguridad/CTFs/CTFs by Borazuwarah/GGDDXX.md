@@ -9,7 +9,9 @@ sudo apt install php libapache2-mod-php php-mysql
 --crear BD en mysql
 
 
-CREATE DATABASE ctf_db; USE ctf_db; CREATE TABLE users ( user VARCHAR(50), password VARCHAR(255) ); 
+CREATE DATABASE CTF_GUADIX_DB; 
+USE CTF_GUADIX_DB;
+CREATE TABLE users ( user VARCHAR(50), password VARCHAR(255) ); 
 
 INSERT INTO users (user, password) VALUES ('user1', MD5('password1'));
 INSERT INTO users (user, password) VALUES ('user2', MD5('password12'));
@@ -18,11 +20,11 @@ INSERT INTO users (user, password) VALUES ('user4', MD5('password1234'));
 
 
 
-CREATE USER 'nuevo_usuario'@'localhost' IDENTIFIED BY 'contraseña';
+CREATE USER 'GuadixUser'@'localhost' IDENTIFIED BY 'Accitano';
 GRANT ALL PRIVILEGES ON * . * TO 'nuevo_usuario'@'localhost';
 FLUSH PRIVILEGES;
 
-
+sudo apt install php-mysqli
 
 
 ------
@@ -196,3 +198,6 @@ $files = array_diff(scandir($uploadDir), array('.', '..'));
 ```
 
 //agregar reverse shell a un fichero imagen:
+
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
