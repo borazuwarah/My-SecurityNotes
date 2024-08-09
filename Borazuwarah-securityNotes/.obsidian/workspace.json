@@ -11,14 +11,11 @@
             "id": "d22fcd38bff59c8f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/PIVOTING/Mapa de Red.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 221.2172080489532,
-                  "zoom": -0.5
-                }
+                "file": "Ciberseguridad/PIVOTING/Pivoting Windows/Pivoting en una maquina Windows.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/PIVOTING/Mapa de Red.canvas",
+                "file": "Ciberseguridad/PIVOTING/Pivoting Windows/Pivoting en una maquina Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/PIVOTING/Mapa de Red.canvas",
+                "file": "Ciberseguridad/PIVOTING/Pivoting Windows/Pivoting en una maquina Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/PIVOTING/Mapa de Red.canvas"
+                "file": "Ciberseguridad/PIVOTING/Pivoting Windows/Pivoting en una maquina Windows.md"
               }
             }
           }
@@ -155,7 +152,10 @@
   },
   "active": "d22fcd38bff59c8f",
   "lastOpenFiles": [
-    "Ciberseguridad/PIVOTING/Presentacion de la red.md",
+    "Ciberseguridad/Webs Interesantes.md",
+    "Ciberseguridad/PIVOTING/Pivoting Windows/Pivoting en una maquina Windows.md",
+    "Ciberseguridad/PIVOTING/Pivoting Windows",
+    "Ciberseguridad/PIVOTING/Representación de la red.md",
     "Ciberseguridad/PIVOTING/Mapa de Red.canvas",
     "Ciberseguridad/Escalada de privilegios/windows/Enumeración de usuarios.md",
     "Ciberseguridad/PIVOTING",
@@ -182,7 +182,6 @@
     "Ciberseguridad/Tratamiento de la TTY.md",
     "Linux/Imagenes/Comando - Cat a fichero.png",
     "Ciberseguridad/Wireless.md",
-    "Ciberseguridad/Webs Interesantes.md",
     "Linux/Grupos User.md",
     "Linux/Linux Basico.md"
   ]
