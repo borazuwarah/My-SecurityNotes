@@ -45,3 +45,16 @@ set rhost ip maquina victima
 run
 y listado de puertos abiertos
 
+para acceder al puerto 80 por ejemplo
+metasploit
+use/windows/manage/portproxy
+show options
+connect addres --> ip maquina victima
+connect port ip que queremos acceder
+local addres ponemos 0.0.0.0
+se local_port 5000 //port forwarding
+
+lo que hay en el puerto 80 va a entrar en el puerto 5000 de la maquina locl
+
+run
+entramos en el navegador ponemos la IP de la maquina donde se hace el pivoting (windows): 5000 -->
