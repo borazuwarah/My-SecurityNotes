@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"16846ca2396a522c","x":-520,"y":-320,"width":680,"height":580,"type":"group","label":"Red 192.168.1.0/24"},
+		{"id":"f8a864d0ec152c89","x":-200,"y":120,"width":770,"height":270,"type":"group","label":"Red 10.10.10.0/24"},
+		{"id":"c9c583efea6865a1","type":"text","text":"Kali Atacante\n192.168.1.20","x":-480,"y":0,"width":160,"height":140,"color":"6"},
+		{"id":"4de26786d8a24dbb","type":"text","text":"Linux Maquina 4\n192.168.1.34\n10.10.10.25","x":-180,"y":140,"width":250,"height":100,"color":"4"},
+		{"id":"f5424218b01f1896","type":"text","text":"Linux Maquina 6\n10.10.10.30","x":300,"y":310,"width":250,"height":60,"color":"5"},
+		{"id":"44319c4d3a2ae439","type":"text","text":"Linux Maquina 5\n10.10.10.31","x":300,"y":210,"width":250,"height":60,"color":"5"},
+		{"id":"83ab759d7c511bc7","type":"text","text":"Linux Maquina 1\n192.168.1.30","x":-180,"y":-220,"width":250,"height":60,"color":"4"},
+		{"id":"68b7a7fb8bf24e15","type":"text","text":"Linux Maquina 2\n192.168.1.31","x":-180,"y":-120,"width":250,"height":60,"color":"4"},
+		{"id":"870df297f9832766","type":"text","text":"Linux Maquina 3\n192.168.1.33","x":-180,"y":-30,"width":250,"height":60,"color":"4"}
+	],
+	"edges":[
+		{"id":"584a6125fbbd8873","fromNode":"c9c583efea6865a1","fromSide":"right","toNode":"83ab759d7c511bc7","toSide":"left"},
+		{"id":"63f4c472374eba88","fromNode":"c9c583efea6865a1","fromSide":"right","toNode":"68b7a7fb8bf24e15","toSide":"left"},
+		{"id":"e16b2298156c537c","fromNode":"c9c583efea6865a1","fromSide":"right","toNode":"870df297f9832766","toSide":"left"},
+		{"id":"b9d4140226b58aa3","fromNode":"c9c583efea6865a1","fromSide":"right","toNode":"4de26786d8a24dbb","toSide":"left"},
+		{"id":"7b649d3c23218dcc","fromNode":"4de26786d8a24dbb","fromSide":"right","toNode":"44319c4d3a2ae439","toSide":"left"},
+		{"id":"3e5267f860c1c20e","fromNode":"4de26786d8a24dbb","fromSide":"right","toNode":"f5424218b01f1896","toSide":"left"}
+	]
+}
