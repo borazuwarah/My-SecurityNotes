@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "b85fce2869bb54b3",
+    "id": "1b0fae5ce02b552a",
     "type": "split",
     "children": [
       {
-        "id": "9618edd70353db63",
+        "id": "ba456594e50b5777",
         "type": "tabs",
         "children": [
           {
-            "id": "d22fcd38bff59c8f",
+            "id": "955454a129269faa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Imagenes y contenedores (en Docker).md",
+                "file": "Ciberseguridad/CTFs/Dockerlabs.es/FirstHacking (muy facil) completed.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "adfb21087bea0655",
+    "id": "f9af36aae66a1339",
     "type": "split",
     "children": [
       {
-        "id": "97997bcff31b112b",
+        "id": "4d76eedb3da2eefb",
         "type": "tabs",
         "children": [
           {
-            "id": "9c1d809fb11d0ac2",
+            "id": "42a674e86f0fead0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +43,12 @@
             }
           },
           {
-            "id": "a3ca4eed9e14fe24",
+            "id": "216b3bda4314e7e0",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "enumeracion de usuarios",
+                "query": "nc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "3728582bbd9c1fc3",
+            "id": "bf5445688e43881d",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 327.5
   },
   "right": {
-    "id": "325cc5529e6cbb6a",
+    "id": "d8630568840c80cb",
     "type": "split",
     "children": [
       {
-        "id": "c80633956cafd4c6",
+        "id": "d62a759847ddd559",
         "type": "tabs",
         "children": [
           {
-            "id": "ee777ae560b3dff3",
+            "id": "9b2cffce1984df07",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Imagenes y contenedores (en Docker).md",
+                "file": "Ciberseguridad/CTFs/Dockerlabs.es/FirstHacking (muy facil) completed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "0d903626249147ae",
+            "id": "5bd5bf27b94f27e0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Imagenes y contenedores (en Docker).md",
+                "file": "Ciberseguridad/CTFs/Dockerlabs.es/FirstHacking (muy facil) completed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "42287682d2274037",
+            "id": "7db08586e70e09ea",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +120,12 @@
             }
           },
           {
-            "id": "adb1b70a9e3ae4d3",
+            "id": "bd6f29d8425239c2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Imagenes y contenedores (en Docker).md"
+                "file": "Ciberseguridad/CTFs/Dockerlabs.es/FirstHacking (muy facil) completed.md"
               }
             }
           }
@@ -150,41 +150,42 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "d22fcd38bff59c8f",
+  "active": "955454a129269faa",
   "lastOpenFiles": [
-    "Ciberseguridad/Puertos y Servicios/Puerto 80 Web/Prestashop.md",
-    "Ciberseguridad/Herramientas - Tools/Steghide.md",
-    "Ciberseguridad/Tratamiento de la TTY.md",
-    "Ciberseguridad/Webs Interesantes.md",
-    "Otros/Curriculum/Curriculum.md",
-    "Ciberseguridad/Herramientas - Tools/Herramientas profesionales SOC/EDR.md",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Borazuwarah - CTF1 (muy facil) completed.md",
+    "Ciberseguridad/CTFs/Dockerlabs.es/FirstHacking (muy facil) completed.md",
+    "Ciberseguridad/CTFs/CTF Template {platform - Machine name} {Status}.md",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Vacaciones (Muy fácil) completed.md",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/FirstHacking/Dockerlabs - FirstHacking - Metaesploit configuracion de la IP del host.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/FirstHacking/Dockerlabs - FirstHacking - Firsthacking machine.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/FirstHacking/Dockerlabs - FirstHacking - Despliegue.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/FirstHacking/Dockerlabs - FirstHacking - Correr metaesploit.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/FirstHacking/Dockerlabs - FirstHacking - Ping para ver conectividad.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/FirstHacking/Dockerlabs - FirstHacking - Nmap con exploit al puerto 21.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/FirstHacking/root access.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/FirstHacking/Dockerlabs - FirstHacking - Metasploit encontrando el sploit.png",
+    "Ciberseguridad/Herramientas - Tools/Metasploit.md",
+    "Ciberseguridad/Herramientas - Tools/NMAP.md",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/FirstHacking/Dockerlabs - FirstHacking - Nmpa reconocimiento.png",
+    "Ciberseguridad/Reconocimiento de la red.md",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/FirstHacking",
     "Ciberseguridad/Intrusion/apache Tomcat.md",
-    "Linux/wget.md",
-    "Linux/Variables.md",
+    "Docker/Imagenes y contenedores (en Docker).md",
     "Ciberseguridad/PIVOTING/Pivoting Windows/Pivoting en una maquina Windows.md",
-    "Ciberseguridad/CTFs/CTFs by Borazuwarah/GDX CTF/upload.php",
-    "Ciberseguridad/CTFs/CTFs by Borazuwarah/GDX CTF",
-    "Ciberseguridad/PIVOTING/Pivoting Windows",
     "Ciberseguridad/PIVOTING/Representación de la red.md",
+    "Ciberseguridad/PIVOTING/Pivoting Windows",
     "Ciberseguridad/PIVOTING/Mapa de Red.canvas",
-    "Ciberseguridad/Escalada de privilegios/windows/Enumeración de usuarios.md",
     "Ciberseguridad/PIVOTING",
     "Ciberseguridad/Escalada de privilegios/windows/Escalada de privilegios en Windows.md",
+    "Ciberseguridad/Escalada de privilegios/windows/Enumeración de usuarios.md",
     "Ciberseguridad/Escalada de privilegios/windows",
     "Ciberseguridad/Escalada de privilegios/Escalada de privilegios en LINUX.md",
-    "Ciberseguridad/Herramientas - Tools/WPScan (wordpress).md",
     "Ciberseguridad/Escalada de privilegios",
-    "Ciberseguridad/Esca.md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 80 Web/Drupal.md",
-    "Ciberseguridad/Herramientas - Tools/Nc Netcat.md",
-    "Ciberseguridad/Herramientas - Tools/NMAP.md",
-    "Ciberseguridad/Herramientas - Tools/MSFVENOM.md",
+    "Ciberseguridad/CTFs/CTFs by Borazuwarah/CTF_Borazuwarah2 (Docker).md",
     "Ciberseguridad/CTFs/CTFs by Borazuwarah/CTF_Guadix.md",
-    "Ciberseguridad/Reconocimiento de la red.md",
     "Ciberseguridad/CTFs/CTFs by Borazuwarah/GGDDXX.md",
-    "Linux/Apropos.md",
-    "Linux/Chmod.md",
     "Ciberseguridad/CTFs/CTFs by Borazuwarah/My CTF  -- CTFBorazuwarah1 (VM).md",
-    "Linux/Imagenes/Comando - Cat a fichero.png"
+    "Linux/Linux Basico.md",
+    "Ciberseguridad/Herramientas - Tools/SQLMAP.md"
   ]
 }
