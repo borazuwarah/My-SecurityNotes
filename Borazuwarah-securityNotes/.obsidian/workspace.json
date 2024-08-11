@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/CTFs/Dockerlabs.es/FirstHacking (muy facil) completed.md",
+                "file": "Ciberseguridad/Tratamiento de la TTY.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/CTFs/Dockerlabs.es/FirstHacking (muy facil) completed.md",
+                "file": "Ciberseguridad/Tratamiento de la TTY.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/CTFs/Dockerlabs.es/FirstHacking (muy facil) completed.md",
+                "file": "Ciberseguridad/Tratamiento de la TTY.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/CTFs/Dockerlabs.es/FirstHacking (muy facil) completed.md"
+                "file": "Ciberseguridad/Tratamiento de la TTY.md"
               }
             }
           }
@@ -150,11 +150,11 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "42a674e86f0fead0",
+  "active": "955454a129269faa",
   "lastOpenFiles": [
+    "Ciberseguridad/CTFs/Dockerlabs.es/FirstHacking (muy facil) completed.md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/FirstHacking/Dockerlabs - FirstHacking - Usuario Root.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Borazuwarah - CTF1 (muy facil) completed.md",
-    "Ciberseguridad/CTFs/Dockerlabs.es/FirstHacking (muy facil) completed.md",
     "Ciberseguridad/CTFs/CTF Template {platform - Machine name} {Status}.md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Vacaciones (Muy fácil) completed.md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/FirstHacking/Dockerlabs - FirstHacking - Metaesploit configuracion de la IP del host.png",
