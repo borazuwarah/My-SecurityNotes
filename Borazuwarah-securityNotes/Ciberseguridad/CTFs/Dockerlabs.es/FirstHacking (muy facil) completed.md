@@ -65,4 +65,4 @@ Una vez configurado el metasploit lanzamos run para lanzar el ataque
 ![[Dockerlabs - FirstHacking - Correr metaesploit.png]]
 conseguimos acceso con el usuario root:
 
-![[root access.png]]
+![[Dockerlabs - FirstHacking - Usuario Root.png]]

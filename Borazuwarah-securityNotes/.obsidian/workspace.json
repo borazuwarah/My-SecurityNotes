@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 604.5
   },
   "right": {
     "id": "d8630568840c80cb",
@@ -150,8 +150,9 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "955454a129269faa",
+  "active": "42a674e86f0fead0",
   "lastOpenFiles": [
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/FirstHacking/Dockerlabs - FirstHacking - Usuario Root.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Borazuwarah - CTF1 (muy facil) completed.md",
     "Ciberseguridad/CTFs/Dockerlabs.es/FirstHacking (muy facil) completed.md",
     "Ciberseguridad/CTFs/CTF Template {platform - Machine name} {Status}.md",
