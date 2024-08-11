@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "1b0fae5ce02b552a",
+    "id": "b85fce2869bb54b3",
     "type": "split",
     "children": [
       {
-        "id": "ba456594e50b5777",
+        "id": "9618edd70353db63",
         "type": "tabs",
         "children": [
           {
-            "id": "955454a129269faa",
+            "id": "d22fcd38bff59c8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Intrusion/apache Tomcat.md",
+                "file": "Docker/Imagenes y contenedores (en Docker).md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f9af36aae66a1339",
+    "id": "adfb21087bea0655",
     "type": "split",
     "children": [
       {
-        "id": "4d76eedb3da2eefb",
+        "id": "97997bcff31b112b",
         "type": "tabs",
         "children": [
           {
-            "id": "42a674e86f0fead0",
+            "id": "9c1d809fb11d0ac2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +43,12 @@
             }
           },
           {
-            "id": "216b3bda4314e7e0",
+            "id": "a3ca4eed9e14fe24",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "nc",
+                "query": "enumeracion de usuarios",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,35 +58,34 @@
             }
           },
           {
-            "id": "bf5445688e43881d",
+            "id": "3728582bbd9c1fc3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 416.5
+    "width": 300
   },
   "right": {
-    "id": "d8630568840c80cb",
+    "id": "325cc5529e6cbb6a",
     "type": "split",
     "children": [
       {
-        "id": "d62a759847ddd559",
+        "id": "c80633956cafd4c6",
         "type": "tabs",
         "children": [
           {
-            "id": "9b2cffce1984df07",
+            "id": "ee777ae560b3dff3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Intrusion/apache Tomcat.md",
+                "file": "Docker/Imagenes y contenedores (en Docker).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,19 +97,19 @@
             }
           },
           {
-            "id": "5bd5bf27b94f27e0",
+            "id": "0d903626249147ae",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Intrusion/apache Tomcat.md",
+                "file": "Docker/Imagenes y contenedores (en Docker).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "7db08586e70e09ea",
+            "id": "42287682d2274037",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -121,12 +120,12 @@
             }
           },
           {
-            "id": "bd6f29d8425239c2",
+            "id": "adb1b70a9e3ae4d3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Intrusion/apache Tomcat.md"
+                "file": "Docker/Imagenes y contenedores (en Docker).md"
               }
             }
           }
@@ -151,24 +150,41 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "955454a129269faa",
+  "active": "d22fcd38bff59c8f",
   "lastOpenFiles": [
+    "Ciberseguridad/Puertos y Servicios/Puerto 80 Web/Prestashop.md",
+    "Ciberseguridad/Herramientas - Tools/Steghide.md",
+    "Ciberseguridad/Tratamiento de la TTY.md",
+    "Ciberseguridad/Webs Interesantes.md",
+    "Otros/Curriculum/Curriculum.md",
+    "Ciberseguridad/Herramientas - Tools/Herramientas profesionales SOC/EDR.md",
+    "Ciberseguridad/Intrusion/apache Tomcat.md",
+    "Linux/wget.md",
+    "Linux/Variables.md",
     "Ciberseguridad/PIVOTING/Pivoting Windows/Pivoting en una maquina Windows.md",
-    "Ciberseguridad/PIVOTING/Representación de la red.md",
+    "Ciberseguridad/CTFs/CTFs by Borazuwarah/GDX CTF/upload.php",
+    "Ciberseguridad/CTFs/CTFs by Borazuwarah/GDX CTF",
     "Ciberseguridad/PIVOTING/Pivoting Windows",
+    "Ciberseguridad/PIVOTING/Representación de la red.md",
     "Ciberseguridad/PIVOTING/Mapa de Red.canvas",
+    "Ciberseguridad/Escalada de privilegios/windows/Enumeración de usuarios.md",
     "Ciberseguridad/PIVOTING",
     "Ciberseguridad/Escalada de privilegios/windows/Escalada de privilegios en Windows.md",
-    "Ciberseguridad/Escalada de privilegios/windows/Enumeración de usuarios.md",
     "Ciberseguridad/Escalada de privilegios/windows",
     "Ciberseguridad/Escalada de privilegios/Escalada de privilegios en LINUX.md",
+    "Ciberseguridad/Herramientas - Tools/WPScan (wordpress).md",
     "Ciberseguridad/Escalada de privilegios",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Vacaciones (Muy fácil) completed.md",
-    "Ciberseguridad/CTFs/CTFs by Borazuwarah/CTF_Borazuwarah2 (Docker).md",
+    "Ciberseguridad/Esca.md",
+    "Ciberseguridad/Puertos y Servicios/Puerto 80 Web/Drupal.md",
+    "Ciberseguridad/Herramientas - Tools/Nc Netcat.md",
+    "Ciberseguridad/Herramientas - Tools/NMAP.md",
+    "Ciberseguridad/Herramientas - Tools/MSFVENOM.md",
     "Ciberseguridad/CTFs/CTFs by Borazuwarah/CTF_Guadix.md",
+    "Ciberseguridad/Reconocimiento de la red.md",
     "Ciberseguridad/CTFs/CTFs by Borazuwarah/GGDDXX.md",
+    "Linux/Apropos.md",
+    "Linux/Chmod.md",
     "Ciberseguridad/CTFs/CTFs by Borazuwarah/My CTF  -- CTFBorazuwarah1 (VM).md",
-    "Linux/Linux Basico.md",
-    "Ciberseguridad/Herramientas - Tools/SQLMAP.md"
+    "Linux/Imagenes/Comando - Cat a fichero.png"
   ]
 }
