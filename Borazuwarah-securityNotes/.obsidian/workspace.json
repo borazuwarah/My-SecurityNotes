@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Imagenes y contenedores (en Docker).md",
+                "file": "Ciberseguridad/Herramientas - Tools/Gobuster.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Imagenes y contenedores (en Docker).md",
+                "file": "Ciberseguridad/Herramientas - Tools/Gobuster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Imagenes y contenedores (en Docker).md",
+                "file": "Ciberseguridad/Herramientas - Tools/Gobuster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Imagenes y contenedores (en Docker).md"
+                "file": "Ciberseguridad/Herramientas - Tools/Gobuster.md"
               }
             }
           }
@@ -152,11 +152,24 @@
   },
   "active": "d22fcd38bff59c8f",
   "lastOpenFiles": [
-    "Ciberseguridad/Puertos y Servicios/Puerto 80 Web/Prestashop.md",
+    "Ciberseguridad/Puertos y Servicios/Puerto 80 Web/CMS Hub.md",
+    "Ciberseguridad/Intrusion/Explotacion File Upload.md",
     "Ciberseguridad/Herramientas - Tools/Steghide.md",
+    "Obsidian/Obsidian ¡Markdown Sintaxis!!!!.md",
+    "Ciberseguridad/Herramientas - Tools/HashIdentifier.md",
+    "Personal Projects/Personal EDR.md",
+    "Ciberseguridad/Herramientas - Tools/Capturar la pantalla.md",
+    "Ciberseguridad/Herramientas - Tools/Exiftool.md",
+    "Ciberseguridad/METADATA.md",
+    "Ciberseguridad/Herramientas - Tools/NMAP.md",
+    "Ciberseguridad/Puertos y Servicios/Puerto 445 SMB - SAMBA.md",
+    "Obsidian/Configuracion Obsidian.md",
+    "Otros/Curriculum/Curriculum.md",
+    "Ciberseguridad/Certificaciones.md",
+    "Docker/Imagenes y contenedores (en Docker).md",
+    "Ciberseguridad/Puertos y Servicios/Puerto 80 Web/Prestashop.md",
     "Ciberseguridad/Tratamiento de la TTY.md",
     "Ciberseguridad/Webs Interesantes.md",
-    "Otros/Curriculum/Curriculum.md",
     "Ciberseguridad/Herramientas - Tools/Herramientas profesionales SOC/EDR.md",
     "Ciberseguridad/Intrusion/apache Tomcat.md",
     "Linux/wget.md",
@@ -171,20 +184,7 @@
     "Ciberseguridad/PIVOTING",
     "Ciberseguridad/Escalada de privilegios/windows/Escalada de privilegios en Windows.md",
     "Ciberseguridad/Escalada de privilegios/windows",
-    "Ciberseguridad/Escalada de privilegios/Escalada de privilegios en LINUX.md",
-    "Ciberseguridad/Herramientas - Tools/WPScan (wordpress).md",
     "Ciberseguridad/Escalada de privilegios",
-    "Ciberseguridad/Esca.md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 80 Web/Drupal.md",
-    "Ciberseguridad/Herramientas - Tools/Nc Netcat.md",
-    "Ciberseguridad/Herramientas - Tools/NMAP.md",
-    "Ciberseguridad/Herramientas - Tools/MSFVENOM.md",
-    "Ciberseguridad/CTFs/CTFs by Borazuwarah/CTF_Guadix.md",
-    "Ciberseguridad/Reconocimiento de la red.md",
-    "Ciberseguridad/CTFs/CTFs by Borazuwarah/GGDDXX.md",
-    "Linux/Apropos.md",
-    "Linux/Chmod.md",
-    "Ciberseguridad/CTFs/CTFs by Borazuwarah/My CTF  -- CTFBorazuwarah1 (VM).md",
     "Linux/Imagenes/Comando - Cat a fichero.png"
   ]
 }

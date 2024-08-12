@@ -1,4 +1,4 @@
-hashIdentifier es una herramienta que nos sirve para identificar el tipo de hash que le estamos pasando
+Herramienta que nos sirve para identificar el tipo de hash que le estamos pasando
 
 ```sh title:"HashIdentifier"
 hasidentifier {fichero con el hash}

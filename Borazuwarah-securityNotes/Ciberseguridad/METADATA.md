@@ -2,7 +2,7 @@ que son los metadatos
 como extraerlos
 
 herramientas para extraer metadatos:
-exiftool
+[[Exiftool]]
 
-## instalacion exiftool
+
 

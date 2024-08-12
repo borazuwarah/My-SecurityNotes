@@ -1,7 +1,7 @@
-Los ficheros de configuracion de Obsidian se encuentran en  la carpeta donde tenemos nuestra vóveda
+Los ficheros de configuración de Obsidian se encuentran en  la carpeta donde tenemos nuestra vóveda
 
 ## Snipets
-Fragmento de codigo pequeñito de CSS que permite cambiar la apariuencia de algo en concreto
+Fragmento de código pequeñito de CSS que permite cambiar la apariuencia de algo en concreto
 
 
 ## plugings
