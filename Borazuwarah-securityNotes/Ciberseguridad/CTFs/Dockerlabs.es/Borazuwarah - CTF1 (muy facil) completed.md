@@ -120,7 +120,7 @@ ssh borazuwarah@172.17.0.2
 ![[Dockerlabs - BorazuwarTF1 - SSH connection.png]]
 
 ## Escalada de privilegios
-sudo -l
+primero lanzamos un sudo -l 
 ```sh fold:"sudo -l para ver si se puede ejecutar algo como root"
 sudo -l
 ```

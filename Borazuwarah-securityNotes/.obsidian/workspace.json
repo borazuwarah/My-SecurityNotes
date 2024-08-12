@@ -150,8 +150,20 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "d22fcd38bff59c8f",
+  "active": "9c1d809fb11d0ac2",
   "lastOpenFiles": [
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/FirstHacking/Dockerlabs - FirstHacking - Usuario Root.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/FirstHacking/Dockerlabs - FirstHacking - Ping para ver conectividad.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/FirstHacking/Dockerlabs - FirstHacking - Nmpa reconocimiento.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/FirstHacking/Dockerlabs - FirstHacking - Nmap con exploit al puerto 21.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/FirstHacking/Dockerlabs - FirstHacking - Metasploit encontrando el sploit.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/FirstHacking/Dockerlabs - FirstHacking - Metaesploit configuracion de la IP del host.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/FirstHacking/Dockerlabs - FirstHacking - Firsthacking machine.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/FirstHacking/Dockerlabs - FirstHacking - Despliegue.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/FirstHacking/Dockerlabs - FirstHacking - Correr metaesploit.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/FirstHacking",
+    "Ciberseguridad/CTFs/Dockerlabs.es/FirstHacking (muy facil) completed.md",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Borazuwarah - CTF1 (muy facil) completed.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 80 Web/CMS Hub.md",
     "Ciberseguridad/Intrusion/Explotacion File Upload.md",
     "Ciberseguridad/Herramientas - Tools/Steghide.md",
@@ -178,11 +190,8 @@
     "Ciberseguridad/CTFs/CTFs by Borazuwarah/GDX CTF/upload.php",
     "Ciberseguridad/CTFs/CTFs by Borazuwarah/GDX CTF",
     "Ciberseguridad/PIVOTING/Pivoting Windows",
-    "Ciberseguridad/PIVOTING/Representación de la red.md",
     "Ciberseguridad/PIVOTING/Mapa de Red.canvas",
-    "Ciberseguridad/Escalada de privilegios/windows/Enumeración de usuarios.md",
     "Ciberseguridad/PIVOTING",
-    "Ciberseguridad/Escalada de privilegios/windows/Escalada de privilegios en Windows.md",
     "Ciberseguridad/Escalada de privilegios/windows",
     "Ciberseguridad/Escalada de privilegios",
     "Linux/Imagenes/Comando - Cat a fichero.png"
