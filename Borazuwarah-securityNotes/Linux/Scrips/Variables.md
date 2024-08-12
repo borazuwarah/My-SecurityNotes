@@ -1,8 +1,8 @@
-Una variable es como un cajon (un lugar donde almacenamos un dato)
-se declara poneindo su nombre y dandole un valor
+Una variable es como un cajón (un lugar donde almacenamos un dato)
+se declara poniendo su nombre y dándole un valor
 
 nombre ='Pablo'
-para hacer referencia a una variable se pone el simbolo del dolsa $
+para hacer referencia a una variable se pone el símbolo del dolar $
 echo $nombre
 ## Concatenar
 echo "Mi nombre es $nombre"

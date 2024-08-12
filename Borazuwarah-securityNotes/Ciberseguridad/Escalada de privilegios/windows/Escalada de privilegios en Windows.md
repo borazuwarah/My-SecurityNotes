@@ -1,4 +1,4 @@
-una vez que tenemos una sesión con meterpreter en la maquina windows victima
+una vez que tenemos una sesión con meterpreter en la maquina Windows victima
 
 
 ```sh fold:"msfvenom para windows"

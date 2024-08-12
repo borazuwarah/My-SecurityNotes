@@ -1,4 +1,4 @@
-.k9jCuando en una url se llama a un parametro, es facil que encontremos un LFI
+Cuando en una url se llama a un parametro, es facil que encontremos un LFI
 ../../../../../../../../../../
 intentaremos sacar el passwd (donde se encuentran los usuarios registrados del sistema)
 la ruta de passwd /etc/passwd
@@ -11,7 +11,7 @@ por tanto pondremos
 
 si encontramos algo en el passwd que contenga /home/{x} ya tenemos un nombre de usuario
 
-una vez que vemos algun usuario podemos buscar el id_rsa
+una vez que vemos algún usuario podemos buscar el id_rsa
 la ruta será 
 
 ../../../../../../../../../../home/{usuario}/.ssh/id_rsa

@@ -1,4 +1,4 @@
-## zip
+## Zip
 nos permite comprimir archivos
 ```sh fold:"comprimir todos los archivos que terminen en mp4 en la ruta en la que estoy en un fichero"
 zip -r {nombreNuevoFichero.zip} *.mp4

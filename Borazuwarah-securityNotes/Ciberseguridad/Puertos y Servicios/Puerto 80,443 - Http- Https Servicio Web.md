@@ -1,5 +1,6 @@
 #puerto80
-Protocolo de transferencia de hipertexto es el protocolo de comunicación que permiete las transferencias de información a través de archivos en la web.
+
+Protocolo de transferencia de hipertexto es el protocolo de comunicación que permite las transferencias de información a través de archivos en la web.
 
 ## Enumeraciones y herramientas
 - Whatweb
@@ -10,6 +11,7 @@ Protocolo de transferencia de hipertexto es el protocolo de comunicación que pe
 	- sitemap.xml
 	- web.config
 	- crossdomain.xml
+	- Nuclei
 - Fuerza bruta a directorios
 	- gobuster
 	- dirsearch
@@ -32,7 +34,7 @@ wpscan --url {web destino}
 
 # Nuclei
 
-Es una herramienta que no viene con Kali preinstalada, y sirve para realizar escaneo y deteccion de vulnerabilidades para aplicaciones y servicios web, con la instalacion tambien instala diccionarios y plantillas para trabajar correctamente.
+Es una herramienta que no viene con Kali preinstalada, y sirve para realizar escaneo y detección de vulnerabilidades para aplicaciones y servicios web, con la instalación también instala diccionarios y plantillas para trabajar correctamente.
 
 ## instalacion de nuclei
 

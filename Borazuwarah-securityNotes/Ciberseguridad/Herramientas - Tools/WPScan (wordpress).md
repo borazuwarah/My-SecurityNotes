@@ -1,7 +1,7 @@
 Sirve para encontrar usuarios y hacer fuerza bruta en wordpress
 
 
-## encontrar usuarios en wodpress
+## encontrar usuarios en wordpress
 
 ```sh fold:"wpscan encontrar usuarios"
 wpscan --url {url sin el fichero wp.login.php} --enumerate u,vp

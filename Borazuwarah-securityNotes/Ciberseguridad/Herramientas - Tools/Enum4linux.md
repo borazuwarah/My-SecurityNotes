@@ -11,3 +11,7 @@ sudo apt install enum4linux
 ```
 
 ## Uso
+
+```sh fold:"Uso Enum4Linux"
+sudo enum4linux -U -o {IP_Victima}
+```
