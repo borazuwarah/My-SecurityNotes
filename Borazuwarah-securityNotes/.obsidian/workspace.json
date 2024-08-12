@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/Gobuster.md",
+                "file": "Ciberseguridad/Certificaciones/Certificaciones.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/Gobuster.md",
+                "file": "Ciberseguridad/Certificaciones/Certificaciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/Gobuster.md",
+                "file": "Ciberseguridad/Certificaciones/Certificaciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/Gobuster.md"
+                "file": "Ciberseguridad/Certificaciones/Certificaciones.md"
               }
             }
           }
@@ -152,6 +152,12 @@
   },
   "active": "9c1d809fb11d0ac2",
   "lastOpenFiles": [
+    "Ciberseguridad/Certificaciones/Titulos obtenidos",
+    "Ciberseguridad/Certificaciones/Sin título.md",
+    "Ciberseguridad/Certificaciones/Certificaciones.md",
+    "Ciberseguridad/Certificaciones",
+    "Ciberseguridad/CTFs/Dockerlabs.es/FirstHacking (muy facil) completed.md",
+    "Ciberseguridad/Herramientas - Tools/Gobuster.md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/FirstHacking/Dockerlabs - FirstHacking - Usuario Root.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/FirstHacking/Dockerlabs - FirstHacking - Ping para ver conectividad.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/FirstHacking/Dockerlabs - FirstHacking - Nmpa reconocimiento.png",
@@ -162,7 +168,6 @@
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/FirstHacking/Dockerlabs - FirstHacking - Despliegue.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/FirstHacking/Dockerlabs - FirstHacking - Correr metaesploit.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/FirstHacking",
-    "Ciberseguridad/CTFs/Dockerlabs.es/FirstHacking (muy facil) completed.md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Borazuwarah - CTF1 (muy facil) completed.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 80 Web/CMS Hub.md",
     "Ciberseguridad/Intrusion/Explotacion File Upload.md",
@@ -177,7 +182,6 @@
     "Ciberseguridad/Puertos y Servicios/Puerto 445 SMB - SAMBA.md",
     "Obsidian/Configuracion Obsidian.md",
     "Otros/Curriculum/Curriculum.md",
-    "Ciberseguridad/Certificaciones.md",
     "Docker/Imagenes y contenedores (en Docker).md",
     "Ciberseguridad/Puertos y Servicios/Puerto 80 Web/Prestashop.md",
     "Ciberseguridad/Tratamiento de la TTY.md",
@@ -185,8 +189,6 @@
     "Ciberseguridad/Herramientas - Tools/Herramientas profesionales SOC/EDR.md",
     "Ciberseguridad/Intrusion/apache Tomcat.md",
     "Linux/wget.md",
-    "Linux/Variables.md",
-    "Ciberseguridad/PIVOTING/Pivoting Windows/Pivoting en una maquina Windows.md",
     "Ciberseguridad/CTFs/CTFs by Borazuwarah/GDX CTF/upload.php",
     "Ciberseguridad/CTFs/CTFs by Borazuwarah/GDX CTF",
     "Ciberseguridad/PIVOTING/Pivoting Windows",

