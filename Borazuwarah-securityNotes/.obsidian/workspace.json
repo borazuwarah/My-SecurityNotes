@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9618edd70353db63",
+        "id": "bc39b070a180655f",
         "type": "tabs",
         "children": [
           {
-            "id": "d22fcd38bff59c8f",
+            "id": "9f48f9120203ce5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Imagenes y contenedores (en Docker).md",
+                "file": "Linux/Comando Read.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Imagenes y contenedores (en Docker).md",
+                "file": "Linux/Comando Read.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Imagenes y contenedores (en Docker).md",
+                "file": "Linux/Comando Read.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Imagenes y contenedores (en Docker).md"
+                "file": "Linux/Comando Read.md"
               }
             }
           }
@@ -150,8 +150,13 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "d22fcd38bff59c8f",
+  "active": "9f48f9120203ce5f",
   "lastOpenFiles": [
+    "Linux/Comando Read.md",
+    "Ciberseguridad/Reconocimiento de la red.md",
+    "Ciberseguridad/METADATA.md",
+    "Desarrollo - Programacion/C Sharp/C Sharp.md",
+    "Docker/Imagenes y contenedores (en Docker).md",
     "Ciberseguridad/Herramientas - Tools/ARP-Scan.md",
     "Ciberseguridad/Herramientas - Tools/Steghide.md",
     "Linux/Comprimir y Descomprimir.md",
@@ -164,7 +169,6 @@
     "Linux/Scrips/Variables.md",
     "Ciberseguridad/Herramientas - Tools/Enum4linux.md",
     "Ciberseguridad/Intrusion/LFI (Local file intrusion).md",
-    "Desarrollo - Programacion/C Sharp/C Sharp.md",
     "Ciberseguridad/Herramientas - Tools/Onesixtyone (UDP).md",
     "Docker/Exportar imagenes en local extension .tar.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 80 Web/Prestashop.md",
@@ -174,10 +178,6 @@
     "Ciberseguridad/Puertos y Servicios/Puerto 53 - DNS.md",
     "Linux/Find.md",
     "Ciberseguridad/Escalada de privilegios/windows/Escalada de privilegios en Windows.md",
-    "Ciberseguridad/CTFs/Dockerlabs.es/FirstHacking (muy facil) completed.md",
-    "Linux/Procesos.md",
-    "Ciberseguridad/Herramientas - Tools/WPScan (wordpress).md",
-    "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
     "Ciberseguridad/Certificaciones/Titulos obtenidos/certificado-gestion-de-conocimiento-con-obsidian.pdf",
     "Ciberseguridad/Certificaciones/Titulos obtenidos/certificado-preparacion-para-la-certificacion-del-ejptv2.pdf",
     "Ciberseguridad/Certificaciones/Titulos obtenidos",
