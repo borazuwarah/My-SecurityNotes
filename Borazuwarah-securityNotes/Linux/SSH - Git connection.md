@@ -23,6 +23,8 @@ Servicio en windows
 Open SSH Authentication Agent
 
 
+## Git history:
+git log --pretty=oneline --graph --decorate --all
 # aprender Git:
 pagina para aprender git en español
 [Learn Git Branching](https://learngitbranching.js.org/?locale=es_ES)
