@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/SSH - Git connection.md",
+                "file": "Ciberseguridad/Herramientas - Tools/Steganografia/stegseek.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/SSH - Git connection.md",
+                "file": "Ciberseguridad/Herramientas - Tools/Steganografia/stegseek.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/SSH - Git connection.md",
+                "file": "Ciberseguridad/Herramientas - Tools/Steganografia/stegseek.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/SSH - Git connection.md"
+                "file": "Ciberseguridad/Herramientas - Tools/Steganografia/stegseek.md"
               }
             }
           }
@@ -153,13 +152,16 @@
   },
   "active": "9f48f9120203ce5f",
   "lastOpenFiles": [
+    "Ciberseguridad/Herramientas - Tools/Steganografia/Steghide.md",
+    "Ciberseguridad/Herramientas - Tools/Steganografia/stegseek.md",
+    "Linux/SSH - Git connection.md",
+    "Ciberseguridad/Herramientas - Tools/Steganografia",
     "Linux/Comando Read.md",
     "Ciberseguridad/Reconocimiento de la red.md",
     "Ciberseguridad/METADATA.md",
     "Desarrollo - Programacion/C Sharp/C Sharp.md",
     "Docker/Imagenes y contenedores (en Docker).md",
     "Ciberseguridad/Herramientas - Tools/ARP-Scan.md",
-    "Ciberseguridad/Herramientas - Tools/Steghide.md",
     "Linux/Comprimir y Descomprimir.md",
     "Obsidian/Obsidian examen imagenes.md",
     "Ciberseguridad/Tratamiento de la TTY.md",
@@ -177,8 +179,6 @@
     "Ciberseguridad/Herramientas - Tools/RPCCLIENT.md",
     "Ciberseguridad/Herramientas - Tools/Nc Netcat.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 53 - DNS.md",
-    "Linux/Find.md",
-    "Ciberseguridad/Escalada de privilegios/windows/Escalada de privilegios en Windows.md",
     "Ciberseguridad/Certificaciones/Titulos obtenidos/certificado-gestion-de-conocimiento-con-obsidian.pdf",
     "Ciberseguridad/Certificaciones/Titulos obtenidos/certificado-preparacion-para-la-certificacion-del-ejptv2.pdf",
     "Ciberseguridad/Certificaciones/Titulos obtenidos",
@@ -198,7 +198,6 @@
     "Ciberseguridad/PIVOTING/Pivoting Windows",
     "Ciberseguridad/PIVOTING/Mapa de Red.canvas",
     "Ciberseguridad/PIVOTING",
-    "Ciberseguridad/Escalada de privilegios/windows",
     "Linux/Imagenes/Comando - Cat a fichero.png"
   ]
 }
