@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1d254e980143af4a",
+        "id": "5b666907a21c8e64",
         "type": "tabs",
         "children": [
           {
-            "id": "b69893435bc5a188",
+            "id": "51a73595f9e3604b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
+                "file": "Linux/Git Conexión y trucos.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "eval",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
+                "file": "Linux/Git Conexión y trucos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
+                "file": "Linux/Git Conexión y trucos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/SQLMAP.md"
+                "file": "Linux/Git Conexión y trucos.md"
               }
             }
           }
@@ -150,8 +151,9 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "b69893435bc5a188",
+  "active": "51a73595f9e3604b",
   "lastOpenFiles": [
+    "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
     "Ciberseguridad/Herramientas - Tools/Codificaciones.md",
     "Ciberseguridad/Herramientas - Tools/Base64.md",
     "Ciberseguridad/Herramientas - Tools/Burpsuite.md",
@@ -159,7 +161,7 @@
     "Linux/Linux Basico.md",
     "Ciberseguridad/Herramientas - Tools/Steganografia/stegseek.md",
     "Ciberseguridad/Herramientas - Tools/Steganografia/Steghide.md",
-    "Linux/SSH - Git connection.md",
+    "Linux/Git Conexión y trucos.md",
     "Ciberseguridad/Herramientas - Tools/Steganografia",
     "Linux/Comando Read.md",
     "Ciberseguridad/Reconocimiento de la red.md",
@@ -178,7 +180,6 @@
     "Ciberseguridad/Herramientas - Tools/Enum4linux.md",
     "Ciberseguridad/Intrusion/LFI (Local file intrusion).md",
     "Ciberseguridad/Herramientas - Tools/Onesixtyone (UDP).md",
-    "Docker/Exportar imagenes en local extension .tar.md",
     "Ciberseguridad/Certificaciones/Titulos obtenidos/certificado-gestion-de-conocimiento-con-obsidian.pdf",
     "Ciberseguridad/Certificaciones/Titulos obtenidos/certificado-preparacion-para-la-certificacion-del-ejptv2.pdf",
     "Ciberseguridad/Certificaciones/Titulos obtenidos",
