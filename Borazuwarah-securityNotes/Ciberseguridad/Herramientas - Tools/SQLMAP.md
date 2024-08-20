@@ -65,6 +65,13 @@ Table: Users
 +----------+--------------+
 
 
+## Dump con sqlmap
+
+recomendado solo si la BD es pequeña
+```sh fold:"Haacer un DUMP de una BD con SQL MAP"
+sqlmap -u http://192.168.1.141/administrator/ --forms --dump --batch
+```
+
 
 
 

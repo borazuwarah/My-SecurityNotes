@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bc39b070a180655f",
+        "id": "1d254e980143af4a",
         "type": "tabs",
         "children": [
           {
-            "id": "9f48f9120203ce5f",
+            "id": "b69893435bc5a188",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/Steganografia/stegseek.md",
+                "file": "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/Steganografia/stegseek.md",
+                "file": "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/Steganografia/stegseek.md",
+                "file": "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/Steganografia/stegseek.md"
+                "file": "Ciberseguridad/Herramientas - Tools/SQLMAP.md"
               }
             }
           }
@@ -150,10 +150,15 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "9f48f9120203ce5f",
+  "active": "b69893435bc5a188",
   "lastOpenFiles": [
-    "Ciberseguridad/Herramientas - Tools/Steganografia/Steghide.md",
+    "Ciberseguridad/Herramientas - Tools/Codificaciones.md",
+    "Ciberseguridad/Herramientas - Tools/Base64.md",
+    "Ciberseguridad/Herramientas - Tools/Burpsuite.md",
+    "Ciberseguridad/CTFs/CTFs by Borazuwarah/CTF_Borazuwarah2 (Docker).md",
+    "Linux/Linux Basico.md",
     "Ciberseguridad/Herramientas - Tools/Steganografia/stegseek.md",
+    "Ciberseguridad/Herramientas - Tools/Steganografia/Steghide.md",
     "Linux/SSH - Git connection.md",
     "Ciberseguridad/Herramientas - Tools/Steganografia",
     "Linux/Comando Read.md",
@@ -174,11 +179,6 @@
     "Ciberseguridad/Intrusion/LFI (Local file intrusion).md",
     "Ciberseguridad/Herramientas - Tools/Onesixtyone (UDP).md",
     "Docker/Exportar imagenes en local extension .tar.md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 80 Web/Prestashop.md",
-    "Otros/Curriculum/Curriculum.md",
-    "Ciberseguridad/Herramientas - Tools/RPCCLIENT.md",
-    "Ciberseguridad/Herramientas - Tools/Nc Netcat.md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 53 - DNS.md",
     "Ciberseguridad/Certificaciones/Titulos obtenidos/certificado-gestion-de-conocimiento-con-obsidian.pdf",
     "Ciberseguridad/Certificaciones/Titulos obtenidos/certificado-preparacion-para-la-certificacion-del-ejptv2.pdf",
     "Ciberseguridad/Certificaciones/Titulos obtenidos",
