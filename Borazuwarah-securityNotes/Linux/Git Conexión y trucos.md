@@ -1,3 +1,5 @@
+Git es un sistema de control de versiones, ayuda a gestionar y hacer un seguimiento de los cambios en archivos y proyectos.
+
 ## SSH key
 crear una clave SSH
 
@@ -20,7 +22,7 @@ ssh-add ../.ssh/newid_rsa
 ```
 
 
-Servicio en windows
+Servicio en Windows
 Open SSH Authentication Agent
 
 
@@ -34,14 +36,9 @@ git log --pretty=oneline --graph --decorate --all
 git submodule update --init --recursive
 ```
 
-## actualizar un submodulo
+## actualizar un submódulo
 
 desde comandos nos vamos a la ruta local
-
-
-
-## Git fetch
-Descarga las actualizaciones sin mergear con lo que tienes en local
 hacemos una nueva rama  git checkout -b {nombre nueva rama}
 git status
 git add .
@@ -54,7 +51,11 @@ git commit -m "a"
 git push
 
 
-## git pull
+
+## Git fetch
+Descarga las actualizaciones sin mergear con lo que tienes en local
+
+## Git pull
 es una combinacion de git fetch con git merge
 esto significa que dese los cambios del repositorio  y los fusiona directamente en la rama en la que estás trabajando.
 

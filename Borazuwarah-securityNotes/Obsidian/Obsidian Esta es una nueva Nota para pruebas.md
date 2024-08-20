@@ -9,10 +9,10 @@ Como funciona Markdown dentro de obsidian
 
 www.google.es
 
-enlaces de obsidian [[[Obsidian ¡Markdown Sintaxis!!!!]]
+enlaces de Obsidian [[[Obsidian ¡Markdown Sintaxis!!!!]]
 
 
-enlace con doble corchete hace referencia a algo dentro de la voveda
+enlace con doble corchete hace referencia a algo dentro de la vóveda
 
 
 ~~tachado~~

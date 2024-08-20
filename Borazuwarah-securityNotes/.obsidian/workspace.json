@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5b666907a21c8e64",
+        "id": "43964c9a1ba0baca",
         "type": "tabs",
         "children": [
           {
-            "id": "51a73595f9e3604b",
+            "id": "f3c4ab0a2712fb37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Git Conexión y trucos.md",
+                "file": "Docker/Instalacion Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "hashi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Git Conexión y trucos.md",
+                "file": "Docker/Instalacion Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Git Conexión y trucos.md",
+                "file": "Docker/Instalacion Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Git Conexión y trucos.md"
+                "file": "Docker/Instalacion Docker.md"
               }
             }
           }
@@ -151,8 +151,21 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "51a73595f9e3604b",
+  "active": "f3c4ab0a2712fb37",
   "lastOpenFiles": [
+    "Ciberseguridad/Herramientas - Tools/Hydra, Ataques de Fuerza Bruta y John the Ripper.md",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Borazuwarah - CTF1 (muy facil) completed.md",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy) complete.md",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Vacaciones (Muy fácil) completed.md",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF RETO 1 OKLAT (easy) Complete.md",
+    "Sin título.canvas",
+    "2024-08-20.md",
+    "Obsidian/Obsidian Esta es una nueva Nota para pruebas.md",
+    "Ciberseguridad/Escalada de privilegios/windows/Enumeración de usuarios.md",
+    "Ciberseguridad/CTFs/CTF Template {platform - Machine name} {Status}.md",
+    "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy) Complete.md",
+    "Obsidian/Obsidian examen imagenes.md",
+    "Linux/Git Conexión y trucos.md",
     "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
     "Ciberseguridad/Herramientas - Tools/Codificaciones.md",
     "Ciberseguridad/Herramientas - Tools/Base64.md",
@@ -161,7 +174,6 @@
     "Linux/Linux Basico.md",
     "Ciberseguridad/Herramientas - Tools/Steganografia/stegseek.md",
     "Ciberseguridad/Herramientas - Tools/Steganografia/Steghide.md",
-    "Linux/Git Conexión y trucos.md",
     "Ciberseguridad/Herramientas - Tools/Steganografia",
     "Linux/Comando Read.md",
     "Ciberseguridad/Reconocimiento de la red.md",
@@ -169,17 +181,6 @@
     "Desarrollo - Programacion/C Sharp/C Sharp.md",
     "Docker/Imagenes y contenedores (en Docker).md",
     "Ciberseguridad/Herramientas - Tools/ARP-Scan.md",
-    "Linux/Comprimir y Descomprimir.md",
-    "Obsidian/Obsidian examen imagenes.md",
-    "Ciberseguridad/Tratamiento de la TTY.md",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy) complete.md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 80,443 - Http- Https Servicio Web.md",
-    "Ciberseguridad/Escalada de privilegios/windows/Enumeración de usuarios.md",
-    "Ciberseguridad/Herramientas - Tools/Wget.md",
-    "Linux/Scrips/Variables.md",
-    "Ciberseguridad/Herramientas - Tools/Enum4linux.md",
-    "Ciberseguridad/Intrusion/LFI (Local file intrusion).md",
-    "Ciberseguridad/Herramientas - Tools/Onesixtyone (UDP).md",
     "Ciberseguridad/Certificaciones/Titulos obtenidos/certificado-gestion-de-conocimiento-con-obsidian.pdf",
     "Ciberseguridad/Certificaciones/Titulos obtenidos/certificado-preparacion-para-la-certificacion-del-ejptv2.pdf",
     "Ciberseguridad/Certificaciones/Titulos obtenidos",

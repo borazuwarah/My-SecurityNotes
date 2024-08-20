@@ -171,5 +171,6 @@ jhon --format =Raw-MD5 --wordlist=/usr/share/wordlists/rockyou.txt hash
 # md5
 # sha1
 # ...
+[[HashIdentifier]]
 ```
 

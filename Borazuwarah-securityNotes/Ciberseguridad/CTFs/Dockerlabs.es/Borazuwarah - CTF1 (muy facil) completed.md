@@ -5,6 +5,16 @@ Dificultad: Muy fácil
 Formato: Docker
 Autor: Borazuwarah
 
+Herramientas Usadas:
+- [[NMAP]]
+- [[Ping]]
+- [[Ciberseguridad/Herramientas - Tools/Wget|Wget]]
+- [[Gobuster]]
+- [[Hydra, Ataques de Fuerza Bruta y John the Ripper]]
+
+Puertos:
+- [[Puerto 22 SSH - SFTP]]
+- [[Puerto 80,443 - Http- Https Servicio Web]]
 
 Descargamos y descomprimimos la máquina
 
