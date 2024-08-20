@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Wifi Wireless/Airgeddon.md",
+                "file": "Linux/Git Conexión y trucos.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hashi",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Wifi Wireless/Airgeddon.md",
+                "file": "Linux/Git Conexión y trucos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Wifi Wireless/Airgeddon.md",
+                "file": "Linux/Git Conexión y trucos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Wifi Wireless/Airgeddon.md"
+                "file": "Linux/Git Conexión y trucos.md"
               }
             }
           }
@@ -152,8 +153,8 @@
   },
   "active": "f3c4ab0a2712fb37",
   "lastOpenFiles": [
-    "Ciberseguridad/Wifi Wireless/Wifite.md",
     "Ciberseguridad/Wifi Wireless/Airgeddon.md",
+    "Ciberseguridad/Wifi Wireless/Wifite.md",
     "Ciberseguridad/Wifi Wireless",
     "Docker/Instalacion Docker.md",
     "Ciberseguridad/Herramientas - Tools/Hydra, Ataques de Fuerza Bruta y John the Ripper.md",
