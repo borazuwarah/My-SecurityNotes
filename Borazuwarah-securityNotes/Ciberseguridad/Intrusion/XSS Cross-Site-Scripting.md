@@ -7,3 +7,5 @@ paylod para comprobar si el formulario es sensible a XSS
 ```sh fold:"Payload para detectar XSS"
 	<img src="X" onerror="alert('XSS encontrado');">
 ```
+
+## Explotación

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "43964c9a1ba0baca",
+        "id": "a393731de2ded9f5",
         "type": "tabs",
         "children": [
           {
-            "id": "f3c4ab0a2712fb37",
+            "id": "e6f846153862669f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git",
+                "query": "xss",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -150,10 +151,11 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "f3c4ab0a2712fb37",
+  "active": "e6f846153862669f",
   "lastOpenFiles": [
-    "Ciberseguridad/Intrusion/Webshell.md",
+    "Ciberseguridad/Webs Interesantes.md",
     "Ciberseguridad/Intrusion/XSS Cross-Site-Scripting.md",
+    "Ciberseguridad/Intrusion/Webshell.md",
     "2024-08-21.md",
     "Linux/Git Conexión y trucos.md",
     "Ciberseguridad/Wifi Wireless/Airgeddon.md",
@@ -179,7 +181,6 @@
     "Ciberseguridad/CTFs/CTFs by Borazuwarah/CTF_Borazuwarah2 (Docker).md",
     "Linux/Linux Basico.md",
     "Ciberseguridad/Herramientas - Tools/Steganografia/stegseek.md",
-    "Ciberseguridad/Herramientas - Tools/Steganografia/Steghide.md",
     "Ciberseguridad/Herramientas - Tools/Steganografia",
     "Ciberseguridad/Certificaciones/Titulos obtenidos/certificado-gestion-de-conocimiento-con-obsidian.pdf",
     "Ciberseguridad/Certificaciones/Titulos obtenidos/certificado-preparacion-para-la-certificacion-del-ejptv2.pdf",
