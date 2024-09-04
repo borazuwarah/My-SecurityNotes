@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a393731de2ded9f5",
+        "id": "6b3f8752e27046be",
         "type": "tabs",
         "children": [
           {
-            "id": "e6f846153862669f",
+            "id": "21b4d3d2cfbcd02c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Wifi Wireless/Wifite.md",
+                "file": "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Wifi Wireless/Wifite.md",
+                "file": "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Wifi Wireless/Wifite.md",
+                "file": "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Wifi Wireless/Wifite.md"
+                "file": "Ciberseguridad/Herramientas - Tools/SQLMAP.md"
               }
             }
           }
@@ -150,8 +150,27 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "9c1d809fb11d0ac2",
+  "active": "21b4d3d2cfbcd02c",
   "lastOpenFiles": [
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - SQL Injection manual.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - Codigo consulta sin validar.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Injection (Muy fácil) Completada.md",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - Whatweb.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - Escalada de privilegiso.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - gtfobbins env.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - Suid.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - sudo-l.png",
+    "Ciberseguridad/Escalada de privilegios/Escalada de privilegios en LINUX.md",
+    "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - SSH dylan user.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - User access.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - Web.png",
+    "Ciberseguridad/Herramientas - Tools/Metasploit.md",
+    "Ciberseguridad/CTFs/Dockerlabs.es/FirstHacking (muy facil) completed.md",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Vacaciones (Muy fácil) completed.md",
+    "Ciberseguridad/Wifi Wireless/Wifite.md",
+    "2024-08-21.md",
     "Ciberseguridad/Wifi Wireless/Airgeddon.md",
     "Ciberseguridad/CTFs/CTFs by Borazuwarah/Central Nuclear.md",
     "Linux/Grupos User.md",
@@ -167,38 +186,18 @@
     "Ciberseguridad/Intrusion/XSS Cross-Site-Scripting.md",
     "Ciberseguridad/Webs Interesantes.md",
     "Ciberseguridad/Intrusion/Webshell.md",
-    "2024-08-21.md",
     "Linux/Git Conexión y trucos.md",
-    "Ciberseguridad/Wifi Wireless/Wifite.md",
     "Ciberseguridad/Wifi Wireless",
     "Docker/Instalacion Docker.md",
-    "Ciberseguridad/Herramientas - Tools/Hydra, Ataques de Fuerza Bruta y John the Ripper.md",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Borazuwarah - CTF1 (muy facil) completed.md",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy) complete.md",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Vacaciones (Muy fácil) completed.md",
     "Sin título.canvas",
-    "2024-08-20.md",
-    "Obsidian/Obsidian Esta es una nueva Nota para pruebas.md",
-    "Ciberseguridad/Escalada de privilegios/windows/Enumeración de usuarios.md",
     "Ciberseguridad/Herramientas - Tools/Steganografia",
     "Ciberseguridad/Certificaciones/Titulos obtenidos/certificado-gestion-de-conocimiento-con-obsidian.pdf",
     "Ciberseguridad/Certificaciones/Titulos obtenidos/certificado-preparacion-para-la-certificacion-del-ejptv2.pdf",
     "Ciberseguridad/Certificaciones/Titulos obtenidos",
     "Ciberseguridad/Certificaciones",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/FirstHacking/Dockerlabs - FirstHacking - Usuario Root.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/FirstHacking/Dockerlabs - FirstHacking - Ping para ver conectividad.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/FirstHacking/Dockerlabs - FirstHacking - Nmpa reconocimiento.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/FirstHacking/Dockerlabs - FirstHacking - Nmap con exploit al puerto 21.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/FirstHacking/Dockerlabs - FirstHacking - Metasploit encontrando el sploit.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/FirstHacking/Dockerlabs - FirstHacking - Metaesploit configuracion de la IP del host.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/FirstHacking/Dockerlabs - FirstHacking - Firsthacking machine.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/FirstHacking/Dockerlabs - FirstHacking - Despliegue.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/FirstHacking/Dockerlabs - FirstHacking - Correr metaesploit.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/FirstHacking",
     "Ciberseguridad/CTFs/CTFs by Borazuwarah/GDX CTF/upload.php",
     "Ciberseguridad/CTFs/CTFs by Borazuwarah/GDX CTF",
-    "Ciberseguridad/PIVOTING/Pivoting Windows",
-    "Ciberseguridad/PIVOTING/Mapa de Red.canvas",
-    "Linux/Imagenes/Comando - Cat a fichero.png"
+    "Ciberseguridad/PIVOTING/Mapa de Red.canvas"
   ]
 }
