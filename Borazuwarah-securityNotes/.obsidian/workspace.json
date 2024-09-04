@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Intrusion/XSS Cross-Site-Scripting.md",
+                "file": "Ciberseguridad/Wifi Wireless/Wifite.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Intrusion/XSS Cross-Site-Scripting.md",
+                "file": "Ciberseguridad/Wifi Wireless/Wifite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Intrusion/XSS Cross-Site-Scripting.md",
+                "file": "Ciberseguridad/Wifi Wireless/Wifite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Intrusion/XSS Cross-Site-Scripting.md"
+                "file": "Ciberseguridad/Wifi Wireless/Wifite.md"
               }
             }
           }
@@ -150,14 +150,25 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "e6f846153862669f",
+  "active": "9c1d809fb11d0ac2",
   "lastOpenFiles": [
-    "Ciberseguridad/Webs Interesantes.md",
+    "Ciberseguridad/Wifi Wireless/Airgeddon.md",
+    "Ciberseguridad/CTFs/CTFs by Borazuwarah/Central Nuclear.md",
+    "Linux/Grupos User.md",
+    "Ciberseguridad/CTFs/CTFs by Borazuwarah/My CTF  -- CTFBorazuwarah1 (VM).md",
+    "Linux/Comando Read.md",
+    "Ciberseguridad/CTFs/CTFs by Borazuwarah/GGDDXX.md",
+    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF RETO 1 OKLAT (easy) Complete.md",
+    "Docker/Contenedores.md",
+    "Ciberseguridad/Herramientas - Tools/Curl.md",
+    "Otros/Curriculum/Curriculum.md",
+    "Obsidian/Configuracion Obsidian.md",
+    "Ciberseguridad/Puertos y Servicios/Puerto 80 Web/Drupal.md",
     "Ciberseguridad/Intrusion/XSS Cross-Site-Scripting.md",
+    "Ciberseguridad/Webs Interesantes.md",
     "Ciberseguridad/Intrusion/Webshell.md",
     "2024-08-21.md",
     "Linux/Git Conexión y trucos.md",
-    "Ciberseguridad/Wifi Wireless/Airgeddon.md",
     "Ciberseguridad/Wifi Wireless/Wifite.md",
     "Ciberseguridad/Wifi Wireless",
     "Docker/Instalacion Docker.md",
@@ -165,21 +176,10 @@
     "Ciberseguridad/CTFs/Dockerlabs.es/Borazuwarah - CTF1 (muy facil) completed.md",
     "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF Reto 2 PEPE FROG (easy) complete.md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Vacaciones (Muy fácil) completed.md",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF RETO 1 OKLAT (easy) Complete.md",
     "Sin título.canvas",
     "2024-08-20.md",
     "Obsidian/Obsidian Esta es una nueva Nota para pruebas.md",
     "Ciberseguridad/Escalada de privilegios/windows/Enumeración de usuarios.md",
-    "Ciberseguridad/CTFs/CTF Template {platform - Machine name} {Status}.md",
-    "Ciberseguridad/CTFs/VULNHUB/Vulhub - colddbox (easy) Complete.md",
-    "Obsidian/Obsidian examen imagenes.md",
-    "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
-    "Ciberseguridad/Herramientas - Tools/Codificaciones.md",
-    "Ciberseguridad/Herramientas - Tools/Base64.md",
-    "Ciberseguridad/Herramientas - Tools/Burpsuite.md",
-    "Ciberseguridad/CTFs/CTFs by Borazuwarah/CTF_Borazuwarah2 (Docker).md",
-    "Linux/Linux Basico.md",
-    "Ciberseguridad/Herramientas - Tools/Steganografia/stegseek.md",
     "Ciberseguridad/Herramientas - Tools/Steganografia",
     "Ciberseguridad/Certificaciones/Titulos obtenidos/certificado-gestion-de-conocimiento-con-obsidian.pdf",
     "Ciberseguridad/Certificaciones/Titulos obtenidos/certificado-preparacion-para-la-certificacion-del-ejptv2.pdf",

@@ -1,6 +1,6 @@
-Drupal revisar si con el nmap conseguimos la version de drupal
+Drupal revisar si con el nmap conseguimos la versión de drupal
 
-en la pantalla de inicio viendo el codigo fuente podemoss encontrar la version 
+en la pantalla de inicio viendo el código fuente podemos encontrar la versión. 
 
 atacamos con metasploit msfconsole
 

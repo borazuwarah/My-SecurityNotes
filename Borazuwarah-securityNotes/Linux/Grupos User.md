@@ -23,7 +23,7 @@ sudo getent group {nombre del grupo}
 sudo usermod -aG {nombregrupo} {nombreusuario}
 ```
 
-chown
+## chown
 cambiar  el propietario del grupo a un archivo
 ```sh fold:"Listar los grupos creados en el sistema"
 sudo chowns {propietario archivo:grupo} {archivo a cambiar el propietario del grupo}

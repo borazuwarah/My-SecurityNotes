@@ -1,4 +1,4 @@
-machine: [Challenges : - Web CTF de la Comunidad de Hacking Ético (comunidadhackingetico.es)](https://ctf.comunidadhackingetico.es/challenges)
+máquina: [Challenges : - Web CTF de la Comunidad de Hacking Ético (comunidadhackingetico.es)](https://ctf.comunidadhackingetico.es/challenges)
 Herramientas utilizadas:
 [[ARP-Scan]]
 [[Ping]]

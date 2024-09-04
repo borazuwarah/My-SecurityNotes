@@ -52,7 +52,6 @@ docker restart {identificador  del contenedor}
 
 # Eliminar contenedor
 ```sh fold:"docker, eliminar contendodr"
-
 docker rm {identificador  del contenedor}
 ```
 
