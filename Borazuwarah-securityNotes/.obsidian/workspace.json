@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "xss",
+                "query": "cursos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -152,8 +153,9 @@
   },
   "active": "21b4d3d2cfbcd02c",
   "lastOpenFiles": [
-    "Ciberseguridad/Herramientas - Tools/Capturar la pantalla.md",
+    "Desarrollo - Programacion/Python/Formación.md",
     "Ciberseguridad/Webs Interesantes.md",
+    "Ciberseguridad/Herramientas - Tools/Capturar la pantalla.md",
     "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - SQL Injection manual.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - Codigo consulta sin validar.png",
@@ -189,7 +191,6 @@
     "Ciberseguridad/Intrusion/Webshell.md",
     "Linux/Git Conexión y trucos.md",
     "Ciberseguridad/Wifi Wireless",
-    "Docker/Instalacion Docker.md",
     "Sin título.canvas",
     "Ciberseguridad/Herramientas - Tools/Steganografia",
     "Ciberseguridad/Certificaciones/Titulos obtenidos/certificado-gestion-de-conocimiento-con-obsidian.pdf",

@@ -36,6 +36,7 @@ thehackerway --> pago
 elrincondelhacker.es --> pago
 https://rinku.tech/curso-kali-linux/ -->  de KALI
 [Just a moment... (hack4u.io)](https://hack4u.io/) --> Savitar academy
+[Cursos – CyberLand (cyberlandsec.com)](https://cyberlandsec.com/resumen-cursos/) ---> investigando
 
 
 
