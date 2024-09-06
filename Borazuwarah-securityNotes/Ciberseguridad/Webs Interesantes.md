@@ -16,8 +16,9 @@ Test Linux Distro online in your browser:
 
 # Web dedicada al hacking ético:
 https://rinku.tech/ --> web de rinku
-https://j4ckie0x17.gitbook.io/notes-pentesting/ La web de Jackie
-[Índice | Securiters Wiki](https://wiki.securiters.com/securiters-wiki) wiki de securiters
+https://j4ckie0x17.gitbook.io/notes-pentesting/ --> La web de Jackie
+[Bienvenidos al Book | H4ckdotCL](https://book.h4ck.cl/) --> Web de HackdotCl
+[Índice | Securiters Wiki](https://wiki.securiters.com/securiters-wiki) --> wiki de securiters
 
 | https://rinku.tech/                                                                 | Web de Rinku       |
 | ----------------------------------------------------------------------------------- | ------------------ |
@@ -68,5 +69,5 @@ https://www.base64decode.org/
 
 
 
-# WriteUps
+# WriteUps hechos
 [Machines - Search engine (infosecmachines.io)](https://infosecmachines.io/)

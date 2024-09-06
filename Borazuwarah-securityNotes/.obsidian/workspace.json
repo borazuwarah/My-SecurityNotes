@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
+                "file": "Ciberseguridad/Herramientas - Tools/Capturar la pantalla.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
+                "file": "Ciberseguridad/Herramientas - Tools/Capturar la pantalla.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
+                "file": "Ciberseguridad/Herramientas - Tools/Capturar la pantalla.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/SQLMAP.md"
+                "file": "Ciberseguridad/Herramientas - Tools/Capturar la pantalla.md"
               }
             }
           }
@@ -152,6 +152,8 @@
   },
   "active": "21b4d3d2cfbcd02c",
   "lastOpenFiles": [
+    "Ciberseguridad/Webs Interesantes.md",
+    "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - SQL Injection manual.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - Codigo consulta sin validar.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Injection (Muy fácil) Completada.md",
@@ -162,7 +164,6 @@
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - Suid.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - sudo-l.png",
     "Ciberseguridad/Escalada de privilegios/Escalada de privilegios en LINUX.md",
-    "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - SSH dylan user.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - User access.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - Web.png",
@@ -184,7 +185,6 @@
     "Obsidian/Configuracion Obsidian.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 80 Web/Drupal.md",
     "Ciberseguridad/Intrusion/XSS Cross-Site-Scripting.md",
-    "Ciberseguridad/Webs Interesantes.md",
     "Ciberseguridad/Intrusion/Webshell.md",
     "Linux/Git Conexión y trucos.md",
     "Ciberseguridad/Wifi Wireless",
