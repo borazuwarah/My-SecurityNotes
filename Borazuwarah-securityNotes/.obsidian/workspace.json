@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/Capturar la pantalla.md",
+                "file": "Ciberseguridad/Webs Interesantes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/Capturar la pantalla.md",
+                "file": "Ciberseguridad/Webs Interesantes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/Capturar la pantalla.md",
+                "file": "Ciberseguridad/Webs Interesantes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/Capturar la pantalla.md"
+                "file": "Ciberseguridad/Webs Interesantes.md"
               }
             }
           }
@@ -152,6 +152,7 @@
   },
   "active": "21b4d3d2cfbcd02c",
   "lastOpenFiles": [
+    "Ciberseguridad/Herramientas - Tools/Capturar la pantalla.md",
     "Ciberseguridad/Webs Interesantes.md",
     "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - SQL Injection manual.png",
