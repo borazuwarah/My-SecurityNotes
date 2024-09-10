@@ -133,3 +133,22 @@ Set-Cookie: Establece la cookie en el navegador
 
 Es el contenido que estamos buscando de la web
 
+## HTTPS
+HTTPS es de Security, los datos van cifrados y aunque se  capturen los datos no se podrán descifrar
+
+Un servidor puede trabajar con un certificado SSL y por tanto usar el protocolo HTTPS
+
+## Cookies HTTP
+Las cookies son pequeños fragmentos de datos que nos envía el servidor web a nuestro navegador para que lo almcenemos de forma temporal o permanente
+
+Usos:
+- Autenticación --> encargadas de giestionar las sesiones del usuario 
+- Seguimiento / Personalización --> personalización de la web
+- cookies de carritos de compra --> Guarda los articulos de una compra
+-
+
+Existen diferentes  tipos de cookies:
+- Cookies de Sesion --> almacenan en el navegador y a la hora de cerrar el navegador se cierran
+- Cookies persistentes --> Permanecen en el dispositivo hasta que manualmente se eliminan
+- Cookies de terceros --> Sirven para rastrear tu perfil
+
