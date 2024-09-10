@@ -58,3 +58,78 @@ nmap -p80 --scrip hhtp-wordpress-enum --script-args hht-wordpress-enum.rot='{pat
 ```sh fold:"Enumerar los plugings isntalados  en wordpress con nmap"
 gobuster dir -u {url} -w /usr/share/seclists/Discovery/web-content/CMS/wp-plugings.fuzz.txt
 ```
+
+
+# Métodos Http
+
+	Listar usamos  --> Get
+	Enviar Datos --> POST
+	Modifucar datos -->PUT
+	Borrar datos --> Delete
+## Metodos especiales
+
+Metodos Options  Sirve para saber con que metodos puedes pedir recursos
+Metodo Head Lee las cabeceras de respuesta
+
+
+## Cabeceras en solicitudes HTTP
+
+Las cabeceras que incluimos en las request para hacer peticiones al servidor
+Host: indica el host al que conectamos
+User-Agent: Especifica al servidor desde que dispositivo se conecta al servidor
+Accept: que tipo de contenido aceptamos en el servidor
+Content-Type: especificamos el tipo de dato que estamo enviando
+Authority: Credenciales encodeadas (Permisos)
+Cookie: Cookie, indica al servidor donde está almacenada la info del usuario con el que estas conectado
+
+## Body
+
+Datos que mandamos o recibimos del servidor
+
+## Códigos de estado HTTP (Respuesta)
+
+- 100  --> COntinue
+- 101  --> switching protocols
+- 102  --> processing
+- 103  --> Early hints
+- 200  --> OK (respuesta exitosa)
+- 201  --> OK Created
+- 202  --> OK Accepted
+- 204  --> OK NOn authoratative information
+- 204  --> OK N content
+- 205  --> OK Reset content
+- 206  --> OK Partial content
+- 300  --> Redirection Multiple choices
+- 301  --> Redirection Moved permanetly
+- 302  --> Temporarily moved 
+- 303  --> See other
+- 304  --> Not modified
+- 307  --> Temporary Redirect
+- 308  --> Permanet redirect
+- 400  --> Bad request
+- 401  --> Unauthorized
+- 402  --> Payment required
+- 403  --> Forbiden
+- 404  --> Not found
+- 414  --> Request URL too long
+- 429  --> Too many requests
+- 500  --> Internal Server Error
+- 501  -->  Not implemented
+- 502  --> Bad Gateway
+- 503  --> Service Unavailable
+- 504  --> Gateway Timeout
+- 505 --> HTTP Version not supported
+- 511  --> Network Authentication required
+
+## Cabecera de la respuesta
+
+Server: ver que tipo de servidor está funcionando (incluido versión)
+X-Power-By: version de lenguaje del server
+Location:  si hay un redirect (destino)
+Content-Type: El tipo de contenido que te devuelve
+Set-Cookie: Establece la cookie en el navegador
+
+## Body response
+
+Es el contenido que estamos buscando de la web
+
