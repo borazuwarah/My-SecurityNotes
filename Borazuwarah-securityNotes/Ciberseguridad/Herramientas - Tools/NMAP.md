@@ -22,24 +22,30 @@ sudo  nmap 192.168.1.X
 ## Parámetros
 
 Información de algunos parámetros:
-- **-p-** –> Busqueda de puertos abiertos
+- **-p-** –> Busqueda de puertos abiertos (engloba todos los puertos)
 - **–open** –> Enumera los puertos abiertos
 - **-sS** –> Es un modo de escaneo rápido
 - **-sC** –> Que use un conjunto de scripts de reconocimiento
 - **-sV** –> Que encuentre la versión del servicio abierto
 - **–min-rate=5000** –> Hace que el reconocimiento aun vaya más rápido mandando no menos de 5000 paquetes
-- **-n** –> No hace resolución DNS
+- **-n** –> No hace resolución DNS (va más rapido)
 - **-Pn** –> No hace ping
+- -sU -> Escaneo por UDP
+- -sn hace un ping a toda la red para descubrir maquinas activas
+- -sT -> realizará un escaneo TCP de conexión completao TCP Connect Scan.
 - **-vvv** –> Muestra en pantalla a medida que encuentra puertos (Verbose)
 - -p  --> "puerto1,puerto2,puerto3,..." "dirección_IP" # escaneo de puertos seleccionados
 -  -O --> Obtención del sistema operativo
-	-  **Ajustes de tiempos**
+- 
+**Ajustes de tiempos**
 	-  -T0 <dirección_IP> # Paranoid (Paranoico, más lento) 
 	- -T1 <dirección_IP> # Sneaky (Sigiloso) 
 	- -T2 <dirección_IP> # Polite (Cortés) 
 	- -T3 <dirección_IP> # Normal (Normal) 
 	- -T4 <dirección_IP> # Aggressive (Agresivo)  
 	- -T5 <dirección_IP> # Insane (Insano, más rápido)
+
+
 ### -p-
 mirará todos los puertos que pueda tener  esa maquina 
 
