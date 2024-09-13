@@ -88,7 +88,7 @@ Datos que mandamos o recibimos del servidor
 
 ## Códigos de estado HTTP (Respuesta)
 
-- 100  --> COntinue
+- 100  --> Continue
 - 101  --> switching protocols
 - 102  --> processing
 - 103  --> Early hints

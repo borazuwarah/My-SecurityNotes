@@ -13,7 +13,7 @@ Herramientas Usadas:
 - [[Hydra, Ataques de Fuerza Bruta y John the Ripper]]
 
 Puertos:
-- [[Puerto 22 SSH - SFTP]]
+- [[Puerto 22 SSH - SFTP (TCP)]]
 - [[Puerto 80,443 - Http- Https Servicio Web]]
 
 Descargamos y descomprimimos la máquina

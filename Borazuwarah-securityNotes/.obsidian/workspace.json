@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Puertos y Servicios/Puerto 80 Web/Puerto 80,443 - Http- Https Servicio Web.md",
+                "file": "Redes/Subnetting.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Puertos y Servicios/Puerto 80 Web/Puerto 80,443 - Http- Https Servicio Web.md",
+                "file": "Redes/Subnetting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Puertos y Servicios/Puerto 80 Web/Puerto 80,443 - Http- Https Servicio Web.md",
+                "file": "Redes/Subnetting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Puertos y Servicios/Puerto 80 Web/Puerto 80,443 - Http- Https Servicio Web.md"
+                "file": "Redes/Subnetting.md"
               }
             }
           }
@@ -152,7 +152,18 @@
   },
   "active": "21b4d3d2cfbcd02c",
   "lastOpenFiles": [
+    "Redes/Direccioines MAC.md",
+    "Redes/Modelo OSI.md",
+    "Redes/Subnetting.md",
+    "Ciberseguridad/Puertos y Servicios/Puerto 3306  - Mysql (TCP).md",
+    "Redes",
+    "Ciberseguridad/Puertos y Servicios/Puerto 53 - DNS (TCP).md",
+    "Ciberseguridad/Puertos y Servicios/Puerto 21 - FTP (TCP).md",
+    "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP (TCP).md",
+    "Ciberseguridad/Puertos y Servicios/Puerto 23 - TELNET   (TCP).md",
     "Linux/Git Conexión y trucos.md",
+    "Ciberseguridad/Intrusion/CSRF Cross-Site Request Forgery.md",
+    "Ciberseguridad/Puertos y Servicios/Puerto 80 (TCP) Web/Puerto 80,443 - Http- Https Servicio Web.md",
     "Ciberseguridad/Webs Interesantes.md",
     "Desarrollo - Programacion/Python/Formación.md",
     "Ciberseguridad/Herramientas - Tools/Capturar la pantalla.md",
@@ -179,16 +190,6 @@
     "Ciberseguridad/CTFs/CTFs by Borazuwarah/Central Nuclear.md",
     "Linux/Grupos User.md",
     "Ciberseguridad/CTFs/CTFs by Borazuwarah/My CTF  -- CTFBorazuwarah1 (VM).md",
-    "Linux/Comando Read.md",
-    "Ciberseguridad/CTFs/CTFs by Borazuwarah/GGDDXX.md",
-    "Ciberseguridad/CTFs/CHE (Comunidad hacking etico)/CTF RETO 1 OKLAT (easy) Complete.md",
-    "Docker/Contenedores.md",
-    "Ciberseguridad/Herramientas - Tools/Curl.md",
-    "Otros/Curriculum/Curriculum.md",
-    "Obsidian/Configuracion Obsidian.md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 80 Web/Drupal.md",
-    "Ciberseguridad/Intrusion/XSS Cross-Site-Scripting.md",
-    "Ciberseguridad/Intrusion/Webshell.md",
     "Ciberseguridad/Wifi Wireless",
     "Sin título.canvas",
     "Ciberseguridad/Herramientas - Tools/Steganografia",
@@ -198,7 +199,6 @@
     "Ciberseguridad/Certificaciones",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/FirstHacking",
     "Ciberseguridad/CTFs/CTFs by Borazuwarah/GDX CTF/upload.php",
-    "Ciberseguridad/CTFs/CTFs by Borazuwarah/GDX CTF",
     "Ciberseguridad/PIVOTING/Mapa de Red.canvas"
   ]
 }
