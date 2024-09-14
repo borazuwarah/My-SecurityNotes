@@ -24,11 +24,20 @@ sudo  nmap 192.168.1.X
 Información de algunos parámetros:
 - **-p-** –> Busqueda de puertos abiertos (engloba todos los puertos)
 - **–open** –> Enumera los puertos abiertos
-- **-sS** –> Es un modo de escaneo rápido
-- -->envias un SYN
+- **-sS** –> Es un modo de escaneo rápido no devuelv es ACK sino RST cuando hay un SYN/ACK, para cerrar la conexion más rapido
+	- -->envias un SYN
+	- <-- recibes un SRT en caso de cerrado (closed)
+	- <--SYN/ACK en caso de abierto
+	- --> envio un ACK --> envio de RST
 - **-sC** –> Que use un conjunto de scripts de reconocimiento
+	- --script="vuln and save" --> se va a pedir el scripts que contemplen las categorias vuln y safe para el puerto seleccionado
+	- --script="vuln or save" --> se va a pedir el scripts que contemplen las categorias vuln o safe para el puerto seleccionado
+	- --script http-enum --> hace foozing sobre el puerto indicado 
+- --> ser podrían crear Scrips en LUA personalizados
 - **-sV** –> Que encuentre la versión del servicio abierto
+- -scV --> es compactar los parametros en uno solo parametros compactados:  -sC y -sV
 - **–min-rate=5000** –> Hace que el reconocimiento aun vaya más rápido mandando no menos de 5000 paquetes
+- -max-rate={total d epaquetesma} --> maximo de paquetes que se trasmitan por segundo
 - **-n** –> No hace resolución DNS (va más rapido)
 - **-Pn** –> No hace ping
 - -sU -> Escaneo por UDP

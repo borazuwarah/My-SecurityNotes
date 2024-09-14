@@ -90,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,12 +177,13 @@
   },
   "active": "140d425a503ca84d",
   "lastOpenFiles": [
+    "Linux/Lsoft port tester.md",
+    "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP (TCP).md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Borazuwarah - CTF1 (muy facil) completed.md",
+    "Ciberseguridad/Herramientas - Tools/NMAP.md",
     "Ciberseguridad/Herramientas - Tools/Macchanger.md",
     "Linux/SCP.md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP (TCP).md",
     "Linux/Git Conexión y trucos.md",
-    "Ciberseguridad/Herramientas - Tools/NMAP.md",
     "Desarrollo - Programacion/C Sharp/C Sharp.md",
     "Ciberseguridad/Reconocimiento de la red.md",
     "Redes/Subnetting.md",
@@ -215,7 +215,6 @@
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - Web.png",
     "Ciberseguridad/Herramientas - Tools/Metasploit.md",
     "Ciberseguridad/CTFs/Dockerlabs.es/FirstHacking (muy facil) completed.md",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Vacaciones (Muy fácil) completed.md",
     "Ciberseguridad/Wifi Wireless",
     "Sin título.canvas",
     "Ciberseguridad/Herramientas - Tools/Steganografia",
