@@ -9,3 +9,25 @@ ssh {Usuario}@{ip destino} [-p {puerto}]
 ## Fuerza bruta
 
 Versiones anteriores a 7.7 son vulnerables a enumeración de usuarios
+
+
+## Transferencia de ficheros entre Local y Servidor mediante [[SCP]]
+
+**SUBIR FICHEROS **
+
+```sh fold:"scp para subir un fichero al servidor"
+scp {nombre archivo} usuario@ip:/{ubicacion}
+
+# rejemplo real
+scp secreto.txt root@192.168.140.21:/home/root/Escritorio
+```
+
+***DESCARGAR FICHERO DESDE SERVIDOR **
+
+```sh fold:"scp para descargar archivo desde el servidor"
+scp {uisuario}@{ip}:{rutal al fichero} {nombreresultantefichero}
+
+# rejemplo real
+scp root@192.168.140.21:/home/root/Escritorio/secreto.txt descargado.txt
+```
+
