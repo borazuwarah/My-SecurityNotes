@@ -25,6 +25,7 @@ Información de algunos parámetros:
 - **-p-** –> Busqueda de puertos abiertos (engloba todos los puertos)
 - **–open** –> Enumera los puertos abiertos
 - **-sS** –> Es un modo de escaneo rápido
+- -->envias un SYN
 - **-sC** –> Que use un conjunto de scripts de reconocimiento
 - **-sV** –> Que encuentre la versión del servicio abierto
 - **–min-rate=5000** –> Hace que el reconocimiento aun vaya más rápido mandando no menos de 5000 paquetes
@@ -36,6 +37,14 @@ Información de algunos parámetros:
 - **-vvv** –> Muestra en pantalla a medida que encuentra puertos (Verbose)
 - -p  --> "puerto1,puerto2,puerto3,..." "dirección_IP" # escaneo de puertos seleccionados
 -  -O --> Obtención del sistema operativo
+
+***Eludir firewall***
+- -f --> fragmentar paquetes
+- --mtu {multiplo de 8} -->es el tamaño del MTU
+- -D {ip- inventada} --> camufla los paquetes desde la IP inventada 
+- --source-port {puerto} --> settea el puerto de Origen al indicado y no el que te coja el sistema operativo por defecto
+- --data-length {valor Numérico} --> ya que todos los paquetes por defecto es de 58 y es posible que un firewall lo bloquee por tamaño de paquete, de esta forma el length del paquete será 58 + el valor Numerico indicado
+- --spoof-mac {DELL / mac/Vmware} --> ya que es posible que nuestra mac esté bloqueada, de esta forma hacemos un cambio de nuestra mac
 - 
 **Ajustes de tiempos**
 	-  -T0 <dirección_IP> # Paranoid (Paranoico, más lento) 
