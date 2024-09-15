@@ -108,3 +108,10 @@ Desde burpsuite también se puede hacer fuzz para localizar y/o encontrar recurs
 Puedes ver como se envian las solicitudes, cambiar registos y hacer peticiones diferentes
 
 
+Agregar el addons FoxiProxy 
+se agrega uno
+nuevo:
+tipo http
+escucha en la IP local
+puerto 8080
+y Guardar
