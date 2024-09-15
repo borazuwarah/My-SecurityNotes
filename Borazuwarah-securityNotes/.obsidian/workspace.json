@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "21b4d3d2cfbcd02c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP (TCP).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6d7a4c4905a7ba4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciberseguridad/CTFs/Dockerlabs.es/Borazuwarah - CTF1 (muy facil) completed.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "140d425a503ca84d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/NMAP.md",
+                "file": "Ciberseguridad/Reconocimiento/Credenciales y Brechas de seguridad.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "325cc5529e6cbb6a",
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/NMAP.md",
+                "file": "Ciberseguridad/Reconocimiento/Credenciales y Brechas de seguridad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/NMAP.md",
+                "file": "Ciberseguridad/Reconocimiento/Credenciales y Brechas de seguridad.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/NMAP.md"
+                "file": "Ciberseguridad/Reconocimiento/Credenciales y Brechas de seguridad.md"
               }
             }
           }
@@ -177,44 +152,45 @@
   },
   "active": "140d425a503ca84d",
   "lastOpenFiles": [
-    "Linux/Lsoft port tester.md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP (TCP).md",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Borazuwarah - CTF1 (muy facil) completed.md",
-    "Ciberseguridad/Herramientas - Tools/NMAP.md",
-    "Ciberseguridad/Herramientas - Tools/Macchanger.md",
-    "Linux/SCP.md",
-    "Linux/Git Conexión y trucos.md",
-    "Desarrollo - Programacion/C Sharp/C Sharp.md",
-    "Ciberseguridad/Reconocimiento de la red.md",
-    "Redes/Subnetting.md",
+    "Ciberseguridad/Webs Interesantes.md",
+    "Ciberseguridad/Reconocimiento/Credenciales y Brechas de seguridad.md",
+    "Ciberseguridad/Reconocimiento/Reconocimiento de Subdominios.md",
+    "Ciberseguridad/Reconocimiento/Correo Electrónico.md",
+    "Ciberseguridad/Herramientas - Tools/Hydra, Ataques de Fuerza Bruta y John the Ripper.md",
+    "Ciberseguridad/Herramientas - Tools/Exiftool.md",
+    "Obsidian/Configuracion Obsidian.md",
     "Redes/Direccioines MAC.md",
     "Redes/Modelo OSI.md",
+    "Ciberseguridad/Reconocimiento/METADATA.md",
+    "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP (TCP).md",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Borazuwarah - CTF1 (muy facil) completed.md",
+    "Ciberseguridad/Reconocimiento/Reconocimiento de la red.md",
+    "Ciberseguridad/Reconocimiento/Reconocimiento de imágenes.md",
+    "Ciberseguridad/Reconocimiento",
+    "Linux/Git Conexión y trucos.md",
+    "Ciberseguridad/Herramientas - Tools/Crear Diccionarios.md",
+    "Ciberseguridad/Herramientas - Tools/NMAP.md",
+    "Linux/Lsoft port tester.md",
+    "Ciberseguridad/Herramientas - Tools/Macchanger.md",
+    "Linux/SCP.md",
+    "Desarrollo - Programacion/C Sharp/C Sharp.md",
+    "Redes/Subnetting.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 3306  - Mysql (TCP).md",
     "Redes",
     "Ciberseguridad/Puertos y Servicios/Puerto 53 - DNS (TCP).md",
     "Ciberseguridad/Puertos y Servicios/Puerto 21 - FTP (TCP).md",
     "Ciberseguridad/Puertos y Servicios/Puerto 23 - TELNET   (TCP).md",
-    "Ciberseguridad/Intrusion/CSRF Cross-Site Request Forgery.md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 80 (TCP) Web/Puerto 80,443 - Http- Https Servicio Web.md",
-    "Ciberseguridad/Webs Interesantes.md",
-    "Desarrollo - Programacion/Python/Formación.md",
-    "Ciberseguridad/Herramientas - Tools/Capturar la pantalla.md",
-    "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - SQL Injection manual.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - Codigo consulta sin validar.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Injection (Muy fácil) Completada.md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - Whatweb.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - Escalada de privilegiso.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - gtfobbins env.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - Suid.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - sudo-l.png",
-    "Ciberseguridad/Escalada de privilegios/Escalada de privilegios en LINUX.md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - SSH dylan user.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - User access.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - Web.png",
-    "Ciberseguridad/Herramientas - Tools/Metasploit.md",
-    "Ciberseguridad/CTFs/Dockerlabs.es/FirstHacking (muy facil) completed.md",
     "Ciberseguridad/Wifi Wireless",
     "Sin título.canvas",
     "Ciberseguridad/Herramientas - Tools/Steganografia",
@@ -223,7 +199,6 @@
     "Ciberseguridad/Certificaciones/Titulos obtenidos",
     "Ciberseguridad/Certificaciones",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/FirstHacking",
-    "Ciberseguridad/CTFs/CTFs by Borazuwarah/GDX CTF/upload.php",
     "Ciberseguridad/PIVOTING/Mapa de Red.canvas"
   ]
 }

@@ -12,9 +12,10 @@ ifconfig
 ```
 
 `arp-scan -I {interfaz de red} --localnet` {eth0}
->  `arp-scan -I etho --localnet` 
+>  `arp-scan -I eth0 --localnet` 
 >  ![[arp-scan.png]]
 
+- --ignoredups --> eliminar duplicados
 ## nediscover
 primero debemos conocer la IP local con ifconfig
 ```sh fold:"Netdiscover"
@@ -41,7 +42,9 @@ para exportar la salida a un fichero
 
 Las Direcciones MAC que empiezan por :00:XXXX ..... --> es una maquina virtual
 > ![[maquina virtual en reconocimiento.png]]
-
+# masscan
+otra herramienta para revisar la red de equipos conectados:
+masscan -p21,22,139,445 -Pn 192.168.0.0/16 --rate=10000
 # reconocer el Sistema Operativo
 ping -c1  IP
 
