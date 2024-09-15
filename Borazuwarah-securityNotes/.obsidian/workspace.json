@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Reconocimiento/Fuzzing y enumeracion de archivos en un servidor web.md",
+                "file": "Ciberseguridad/Reconocimiento/Google Dorks.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Reconocimiento/Fuzzing y enumeracion de archivos en un servidor web.md",
+                "file": "Ciberseguridad/Reconocimiento/Google Dorks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Reconocimiento/Fuzzing y enumeracion de archivos en un servidor web.md",
+                "file": "Ciberseguridad/Reconocimiento/Google Dorks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Reconocimiento/Fuzzing y enumeracion de archivos en un servidor web.md"
+                "file": "Ciberseguridad/Reconocimiento/Google Dorks.md"
               }
             }
           }
@@ -164,8 +164,9 @@
   },
   "active": "140d425a503ca84d",
   "lastOpenFiles": [
-    "Ciberseguridad/Herramientas - Tools/Herramientas profesionales SOC/wfuzz.md",
     "Ciberseguridad/Reconocimiento/Fuzzing y enumeracion de archivos en un servidor web.md",
+    "Ciberseguridad/Reconocimiento/Google Dorks.md",
+    "Ciberseguridad/Herramientas - Tools/Herramientas profesionales SOC/wfuzz.md",
     "Ciberseguridad/Reconocimiento/Reconocimiento de la red.md",
     "Ciberseguridad/Reconocimiento/Identificación de tecnologías en una página web.md",
     "Ciberseguridad/Herramientas - Tools/WhatWeb.md",
@@ -190,7 +191,6 @@
     "Ciberseguridad/Herramientas - Tools/Crear Diccionarios.md",
     "Ciberseguridad/Herramientas - Tools/NMAP.md",
     "Linux/Lsoft port tester.md",
-    "Ciberseguridad/Herramientas - Tools/Macchanger.md",
     "Redes",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - SQL Injection manual.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - Codigo consulta sin validar.png",

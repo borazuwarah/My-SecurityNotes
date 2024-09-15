@@ -115,3 +115,10 @@ tipo http
 escucha en la IP local
 puerto 8080
 y Guardar
+
+Target / sitemap podras ver todas las request
+
+navegando por la web, a traés de burpsuite nos sirve como FUZZING para ver recursos de la web
+
+### Descargar certificado de burpsuite e instalarlo en el navegador
+
