@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Reconocimiento/Credenciales y Brechas de seguridad.md",
+                "file": "Ciberseguridad/Reconocimiento/Fuzzing y enumeracion de archivos en un servidor web.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e51e25536d403686",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciberseguridad/Herramientas - Tools/Herramientas profesionales SOC/wfuzz.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Reconocimiento/Credenciales y Brechas de seguridad.md",
+                "file": "Ciberseguridad/Reconocimiento/Fuzzing y enumeracion de archivos en un servidor web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Reconocimiento/Credenciales y Brechas de seguridad.md",
+                "file": "Ciberseguridad/Reconocimiento/Fuzzing y enumeracion de archivos en un servidor web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Reconocimiento/Credenciales y Brechas de seguridad.md"
+                "file": "Ciberseguridad/Reconocimiento/Fuzzing y enumeracion de archivos en un servidor web.md"
               }
             }
           }
@@ -152,8 +164,16 @@
   },
   "active": "140d425a503ca84d",
   "lastOpenFiles": [
-    "Ciberseguridad/Webs Interesantes.md",
+    "Ciberseguridad/Herramientas - Tools/Herramientas profesionales SOC/wfuzz.md",
+    "Ciberseguridad/Reconocimiento/Fuzzing y enumeracion de archivos en un servidor web.md",
+    "Ciberseguridad/Reconocimiento/Reconocimiento de la red.md",
+    "Ciberseguridad/Reconocimiento/Identificación de tecnologías en una página web.md",
+    "Ciberseguridad/Herramientas - Tools/WhatWeb.md",
+    "Ciberseguridad/Herramientas - Tools/Wireshark.md",
+    "Ciberseguridad/Herramientas - Tools/WPScan (wordpress).md",
+    "Ciberseguridad/Puertos y Servicios/Puerto 80 (TCP) Web/Joomla.md",
     "Ciberseguridad/Reconocimiento/Credenciales y Brechas de seguridad.md",
+    "Ciberseguridad/Webs Interesantes.md",
     "Ciberseguridad/Reconocimiento/Reconocimiento de Subdominios.md",
     "Ciberseguridad/Reconocimiento/Correo Electrónico.md",
     "Ciberseguridad/Herramientas - Tools/Hydra, Ataques de Fuerza Bruta y John the Ripper.md",
@@ -164,7 +184,6 @@
     "Ciberseguridad/Reconocimiento/METADATA.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP (TCP).md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Borazuwarah - CTF1 (muy facil) completed.md",
-    "Ciberseguridad/Reconocimiento/Reconocimiento de la red.md",
     "Ciberseguridad/Reconocimiento/Reconocimiento de imágenes.md",
     "Ciberseguridad/Reconocimiento",
     "Linux/Git Conexión y trucos.md",
@@ -172,14 +191,7 @@
     "Ciberseguridad/Herramientas - Tools/NMAP.md",
     "Linux/Lsoft port tester.md",
     "Ciberseguridad/Herramientas - Tools/Macchanger.md",
-    "Linux/SCP.md",
-    "Desarrollo - Programacion/C Sharp/C Sharp.md",
-    "Redes/Subnetting.md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 3306  - Mysql (TCP).md",
     "Redes",
-    "Ciberseguridad/Puertos y Servicios/Puerto 53 - DNS (TCP).md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 21 - FTP (TCP).md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 23 - TELNET   (TCP).md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - SQL Injection manual.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - Codigo consulta sin validar.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - Whatweb.png",
