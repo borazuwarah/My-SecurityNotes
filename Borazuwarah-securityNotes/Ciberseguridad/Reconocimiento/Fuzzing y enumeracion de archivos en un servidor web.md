@@ -6,7 +6,7 @@ herramientas 
 
 
 ## Gobuster
-con esta herramienta ademas de reconocimiento de dominios tambien podemos hacer un reconocimiento de recursos web:
+con esta herramienta además de reconocimiento de dominios también podemos hacer un reconocimiento de recursos web:
 
 ```sh fold:"gobuster para reconocimiento de recursos web"
 gobuster dir  -u {dominio} -w /usr/share/SecLists/Discovery/Web-Content/directory-list-2.3-medium.txt -t 200
@@ -100,12 +100,12 @@ fuzz -c -t 200 -w /usr/share/SecLists/Discovery/Web-Content/directory-list-2.3-m
 
 ## Phonebook.cz
 herramienta web para listar subdominios de forma pasiva
-marcando urls tambien podemos enontrar rutas o recursos, ficheros
+marcando urls también podemos encontrar rutas o recursos, ficheros
 
 ## Burpsuite
 Desde burpsuite también se puede hacer fuzz para localizar y/o encontrar recursos o rutas
 
-Puedes ver como se envian las solicitudes, cambiar registos y hacer peticiones diferentes
+Puedes ver como se envian las solicitudes, cambiar registros y hacer peticiones diferentes
 
 
 Agregar el addons FoxiProxy 
@@ -116,9 +116,9 @@ escucha en la IP local
 puerto 8080
 y Guardar
 
-Target / sitemap podras ver todas las request
+Target / sitemap podrás ver todas las request
 
-navegando por la web, a traés de burpsuite nos sirve como FUZZING para ver recursos de la web
+navegando por la web, a través de burpsuite nos sirve como FUZZING para ver recursos de la web
 
 ### Descargar certificado de burpsuite e instalarlo en el navegador
 

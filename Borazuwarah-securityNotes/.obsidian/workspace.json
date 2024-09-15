@@ -13,7 +13,43 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Reconocimiento/Fuzzing y enumeracion de archivos en un servidor web.md",
+                "file": "Docker/Contenedores.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b4b4bbb02d5fa185",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/Docker file.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "712260228c4a0c3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/Imagenes  Docker.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50589c328efc7283",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Docker/Docker file.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,8 +101,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Reconocimiento/Fuzzing y enumeracion de archivos en un servidor web.md",
+                "file": "Docker/Contenedores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Reconocimiento/Fuzzing y enumeracion de archivos en un servidor web.md",
+                "file": "Docker/Contenedores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Reconocimiento/Fuzzing y enumeracion de archivos en un servidor web.md"
+                "file": "Docker/Contenedores.md"
               }
             }
           }
@@ -153,8 +188,14 @@
   },
   "active": "21b4d3d2cfbcd02c",
   "lastOpenFiles": [
-    "Ciberseguridad/Herramientas - Tools/NMAP.md",
+    "Docker/Docker file.md",
+    "Docker/Imagenes  Docker.md",
+    "Docker/Contenedores.md",
+    "Docker/Docker.md",
+    "Docker/Imagenes y contenedores (en Docker).md",
+    "Docker/Instalacion Docker.md",
     "Ciberseguridad/Reconocimiento/Fuzzing y enumeracion de archivos en un servidor web.md",
+    "Ciberseguridad/Herramientas - Tools/NMAP.md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Borazuwarah - CTF1 (muy facil) completed.md",
     "Ciberseguridad/Reconocimiento/Google Dorks.md",
     "Ciberseguridad/Reconocimiento/Reconocimiento de la red.md",
@@ -174,13 +215,7 @@
     "Ciberseguridad/Puertos y Servicios/Puerto 80 (TCP) Web",
     "Redes/Subnetting.md",
     "Redes/Modelo OSI.md",
-    "Redes/Direccioines MAC.md",
     "Redes",
-    "Linux/SCP.md",
-    "Linux/Lsoft port tester.md",
-    "Ciberseguridad/Reconocimiento/Reconocimiento de Subdominios.md",
-    "Ciberseguridad/Reconocimiento/Credenciales y Brechas de seguridad.md",
-    "Ciberseguridad/Reconocimiento/Correo Electrónico.md",
     "Ciberseguridad/Reconocimiento",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - SQL Injection manual.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - Codigo consulta sin validar.png",

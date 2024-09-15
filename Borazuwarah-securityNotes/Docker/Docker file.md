@@ -1,6 +1,6 @@
-Docker file es un fichero que nos permite crear nuestras propias imagenes docker
+Docker file es un fichero que nos permite crear nuestras propias imágenes docker
 
-Docker va a  constuir la imagen ejecutando lina por linea todo los que hay en el fichero Dockerfile
+Docker va a  construir la imagen ejecutando linea por linea todo los que hay en el fichero Dockerfile
 
 Nombre del archivo:Dockerfile
 
@@ -22,7 +22,23 @@ CMD python3
 # CMD python3 ejecuta python al levantar la imagen
 ```
 
-# construrir la imagen de docker
+
+otro docker file
+```sh fold:"Dockerfile Ubuntu"
+
+FROM ubuntu:latest
+
+MAINTAINER: Pablo Ramirez "Borazuwarah"
+#Maintainer es opcional
+
+RUN apt update && apt install -y net-tools \ iputils-ping \
+curl \
+git \
+nano
+```
+
+
+# construir la imagen de docker
 
 Construir la imagen docker nos servirá para desplegarla 
 
