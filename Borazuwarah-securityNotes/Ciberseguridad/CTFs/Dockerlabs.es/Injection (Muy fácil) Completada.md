@@ -7,7 +7,7 @@ Herramientas:
 [[NMAP]]
 [[WhatWeb]]
 [[SQLMAP]]
-[[Puerto 22 SSH - SFTP]]
+[[Puerto 22 SSH - SFTP (TCP)]]
 
 
 

@@ -56,7 +56,7 @@ git push
 Descarga las actualizaciones sin mergear con lo que tienes en local
 
 ## Git pull
-es una combinacion de git fetch con git merge
+es una combinación de git fetch con git merge
 esto significa que dese los cambios del repositorio  y los fusiona directamente en la rama en la que estás trabajando.
 
 ## mergear 2 ramas (branch)

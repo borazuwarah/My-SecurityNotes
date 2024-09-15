@@ -16,8 +16,9 @@ Test Linux Distro online in your browser:
 
 # Web dedicada al hacking ético:
 https://rinku.tech/ --> web de rinku
-https://j4ckie0x17.gitbook.io/notes-pentesting/ La web de Jackie
-[Índice | Securiters Wiki](https://wiki.securiters.com/securiters-wiki) wiki de securiters
+https://j4ckie0x17.gitbook.io/notes-pentesting/ --> La web de Jackie
+[Bienvenidos al Book | H4ckdotCL](https://book.h4ck.cl/) --> Web de HackdotCl
+[Índice | Securiters Wiki](https://wiki.securiters.com/securiters-wiki) --> wiki de securiters
 
 | https://rinku.tech/                                                                 | Web de Rinku       |
 | ----------------------------------------------------------------------------------- | ------------------ |
@@ -35,6 +36,7 @@ thehackerway --> pago
 elrincondelhacker.es --> pago
 https://rinku.tech/curso-kali-linux/ -->  de KALI
 [Just a moment... (hack4u.io)](https://hack4u.io/) --> Savitar academy
+[Cursos – CyberLand (cyberlandsec.com)](https://cyberlandsec.com/resumen-cursos/) ---> investigando
 
 
 
@@ -43,6 +45,9 @@ https://rinku.tech/curso-kali-linux/ -->  de KALI
 # WEBS para hacer CTFs
 Next CTF--> Ready : Vulnyx
 Next CTF --> UserSearch DockerLabs
+Next CTF --> Candy (Dockerlabs)
+
+
 [Home : - Web CTF de la Comunidad de Hacking Ético (comunidadhackingetico.es)](https://ctf.comunidadhackingetico.es/home)
 https://vulnyx.com/ 
 [TryHackMe | Cyber Security Training](https://tryhackme.com/) --> plataforma recomendada para cuando sea más pro
@@ -68,5 +73,5 @@ https://www.base64decode.org/
 
 
 
-# WriteUps
+# WriteUps hechos
 [Machines - Search engine (infosecmachines.io)](https://infosecmachines.io/)

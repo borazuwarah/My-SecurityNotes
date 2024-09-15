@@ -22,24 +22,48 @@ sudo  nmap 192.168.1.X
 ## Parámetros
 
 Información de algunos parámetros:
-- **-p-** –> Busqueda de puertos abiertos
+- **-p-** –> Busqueda de puertos abiertos (engloba todos los puertos)
 - **–open** –> Enumera los puertos abiertos
-- **-sS** –> Es un modo de escaneo rápido
+- **-sS** –> Es un modo de escaneo rápido no devuelv es ACK sino RST cuando hay un SYN/ACK, para cerrar la conexion más rapido
+	- -->envias un SYN
+	- <-- recibes un SRT en caso de cerrado (closed)
+	- <--SYN/ACK en caso de abierto
+	- --> envio un ACK --> envio de RST
 - **-sC** –> Que use un conjunto de scripts de reconocimiento
+	- --script="vuln and save" --> se va a pedir el scripts que contemplen las categorias vuln y safe para el puerto seleccionado
+	- --script="vuln or save" --> se va a pedir el scripts que contemplen las categorias vuln o safe para el puerto seleccionado
+	- --script http-enum --> hace foozing sobre el puerto indicado 
+- --> ser podrían crear Scrips en LUA personalizados
 - **-sV** –> Que encuentre la versión del servicio abierto
+- -scV --> es compactar los parametros en uno solo parametros compactados:  -sC y -sV
 - **–min-rate=5000** –> Hace que el reconocimiento aun vaya más rápido mandando no menos de 5000 paquetes
-- **-n** –> No hace resolución DNS
+- -max-rate={total d epaquetesma} --> maximo de paquetes que se trasmitan por segundo
+- **-n** –> No hace resolución DNS (va más rapido)
 - **-Pn** –> No hace ping
+- -sU -> Escaneo por UDP
+- -sn hace un ping a toda la red para descubrir maquinas activas
+- -sT -> realizará un escaneo TCP de conexión completao TCP Connect Scan.
 - **-vvv** –> Muestra en pantalla a medida que encuentra puertos (Verbose)
 - -p  --> "puerto1,puerto2,puerto3,..." "dirección_IP" # escaneo de puertos seleccionados
 -  -O --> Obtención del sistema operativo
-	-  **Ajustes de tiempos**
+
+***Eludir firewall***
+- -f --> fragmentar paquetes
+- --mtu {multiplo de 8} -->es el tamaño del MTU
+- -D {ip- inventada} --> camufla los paquetes desde la IP inventada 
+- --source-port {puerto} --> settea el puerto de Origen al indicado y no el que te coja el sistema operativo por defecto
+- --data-length {valor Numérico} --> ya que todos los paquetes por defecto es de 58 y es posible que un firewall lo bloquee por tamaño de paquete, de esta forma el length del paquete será 58 + el valor Numerico indicado
+- --spoof-mac {DELL / mac/Vmware} --> ya que es posible que nuestra mac esté bloqueada, de esta forma hacemos un cambio de nuestra mac
+- 
+**Ajustes de tiempos**
 	-  -T0 <dirección_IP> # Paranoid (Paranoico, más lento) 
 	- -T1 <dirección_IP> # Sneaky (Sigiloso) 
 	- -T2 <dirección_IP> # Polite (Cortés) 
 	- -T3 <dirección_IP> # Normal (Normal) 
 	- -T4 <dirección_IP> # Aggressive (Agresivo)  
 	- -T5 <dirección_IP> # Insane (Insano, más rápido)
+
+
 ### -p-
 mirará todos los puertos que pueda tener  esa maquina 
 
