@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Certificaciones/Certificaciones.md",
+                "file": "Docker/Docker Port Forwarding.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Certificaciones/Certificaciones.md",
+                "file": "Docker/Docker Port Forwarding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Certificaciones/Certificaciones.md",
+                "file": "Docker/Docker Port Forwarding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Certificaciones/Certificaciones.md"
+                "file": "Docker/Docker Port Forwarding.md"
               }
             }
           }
@@ -189,6 +189,9 @@
   },
   "active": "712260228c4a0c3c",
   "lastOpenFiles": [
+    "Docker/Exportar imagenes en local extension .tar.md",
+    "Docker/Docker Port Forwarding.md",
+    "Ciberseguridad/Certificaciones/Certificaciones.md",
     "Docker/Imagenes y contenedores (en Docker).md",
     "Docker/Contenedores.md",
     "Docker/Imagenes  Docker.md",
@@ -212,10 +215,7 @@
     "Ciberseguridad/Puertos y Servicios/Puerto 80 (TCP) Web/Prestashop.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 80 (TCP) Web/Joomla.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 80 (TCP) Web/Drupal.md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 80 (TCP) Web/CMS Hub.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 80 (TCP) Web",
-    "Redes/Subnetting.md",
-    "Redes/Modelo OSI.md",
     "Redes",
     "Ciberseguridad/Reconocimiento",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - SQL Injection manual.png",
