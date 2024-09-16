@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Imagenes y contenedores (en Docker).md",
+                "file": "Ciberseguridad/Certificaciones/Certificaciones.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,8 +102,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Imagenes y contenedores (en Docker).md",
+                "file": "Ciberseguridad/Certificaciones/Certificaciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Imagenes y contenedores (en Docker).md",
+                "file": "Ciberseguridad/Certificaciones/Certificaciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Imagenes y contenedores (en Docker).md"
+                "file": "Ciberseguridad/Certificaciones/Certificaciones.md"
               }
             }
           }
@@ -190,11 +189,11 @@
   },
   "active": "712260228c4a0c3c",
   "lastOpenFiles": [
+    "Docker/Imagenes y contenedores (en Docker).md",
     "Docker/Contenedores.md",
     "Docker/Imagenes  Docker.md",
     "Docker/Docker file.md",
     "Docker/Docker.md",
-    "Docker/Imagenes y contenedores (en Docker).md",
     "Docker/Instalacion Docker.md",
     "Ciberseguridad/Reconocimiento/Fuzzing y enumeracion de archivos en un servidor web.md",
     "Ciberseguridad/Herramientas - Tools/NMAP.md",
