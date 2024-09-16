@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "21b4d3d2cfbcd02c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/Instalacion Docker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b4b4bbb02d5fa185",
             "type": "leaf",
             "state": {
@@ -49,13 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Docker file.md",
+                "file": "Ciberseguridad/Puertos y Servicios/Puerto 21 - FTP (TCP).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "TTL",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Instalacion Docker.md",
+                "file": "Ciberseguridad/Puertos y Servicios/Puerto 21 - FTP (TCP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Instalacion Docker.md",
+                "file": "Ciberseguridad/Puertos y Servicios/Puerto 21 - FTP (TCP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Instalacion Docker.md"
+                "file": "Ciberseguridad/Puertos y Servicios/Puerto 21 - FTP (TCP).md"
               }
             }
           }
@@ -186,18 +175,25 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "21b4d3d2cfbcd02c",
+  "active": "50589c328efc7283",
   "lastOpenFiles": [
+    "Docker/Docker file.md",
+    "Docker/Imagenes  Docker.md",
+    "Ciberseguridad/Pantallazos/FTP",
+    "Ciberseguridad/Pantallazos/FTP.md",
+    "Ciberseguridad/Puertos y Servicios/Puerto 21 - FTP (TCP).md",
+    "Ciberseguridad/Pantallazos/FTP/FTP Anonimous connection.png",
+    "Ciberseguridad/Pantallazos/FTP/FTP Anom.png",
+    "FTP Anonimous.png",
+    "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP (TCP).md",
+    "Docker/Contenedores.md",
     "Docker/Docker Port Forwarding.md",
-    "Docker/Imagenes y contenedores (en Docker).md",
     "Docker/Docker.md",
+    "Docker/Instalacion Docker.md",
+    "Docker/Imagenes y contenedores (en Docker).md",
     "Docker/Exportar imagenes Docker en local extension .tar.md",
     "Obsidian/Configuracion Obsidian.md",
     "Linux/Procesos.md",
-    "Docker/Contenedores.md",
-    "Docker/Docker file.md",
-    "Docker/Imagenes  Docker.md",
-    "Docker/Instalacion Docker.md",
     "Ciberseguridad/Reconocimiento/Fuzzing y enumeracion de archivos en un servidor web.md",
     "Ciberseguridad/Herramientas - Tools/NMAP.md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Borazuwarah - CTF1 (muy facil) completed.md",
@@ -207,13 +203,9 @@
     "Ciberseguridad/Reconocimiento/METADATA.md",
     "Ciberseguridad/Reconocimiento/Identificación de tecnologías en una página web.md",
     "Linux/Git Conexión y trucos.md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 21 - FTP (TCP).md",
     "Ciberseguridad/Puertos y Servicios/Puerto 3306  - Mysql (TCP).md",
     "Ciberseguridad/Puertos y Servicios/Puerto 53 - DNS (TCP).md",
     "Ciberseguridad/Puertos y Servicios/Puerto 80 (TCP) Web/Wordpress.md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 80 (TCP) Web/Puerto 80,443 - Http- Https Servicio Web.md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 80 (TCP) Web/Prestashop.md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 80 (TCP) Web/Joomla.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 80 (TCP) Web",
     "Redes",
     "Ciberseguridad/Reconocimiento",
@@ -225,16 +217,12 @@
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - gtfobbins env.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - Suid.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - sudo-l.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - SSH dylan user.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - User access.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - Web.png",
     "Ciberseguridad/Wifi Wireless",
     "Sin título.canvas",
     "Ciberseguridad/Herramientas - Tools/Steganografia",
     "Ciberseguridad/Certificaciones/Titulos obtenidos/certificado-gestion-de-conocimiento-con-obsidian.pdf",
     "Ciberseguridad/Certificaciones/Titulos obtenidos/certificado-preparacion-para-la-certificacion-del-ejptv2.pdf",
     "Ciberseguridad/Certificaciones/Titulos obtenidos",
-    "Ciberseguridad/Certificaciones",
     "Ciberseguridad/PIVOTING/Mapa de Red.canvas"
   ]
 }
