@@ -53,5 +53,9 @@ docker image prune --all --force
 para borrar uno a uno sería con el rm y el identificador de la image.
 
 ```sh fold:"Docker - Eliminar una imagen"
-docker rm {imageId}
+docker rmi {imageId}
+
+
+# eliminar todas las imagenes
+docker rm $(docker images -q)
 ```
