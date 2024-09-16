@@ -57,6 +57,13 @@ docker restart {identificador  del contenedor}
 # Eliminar contenedor
 ```sh fold:"docker, eliminar contendodr"
 docker rm {identificador  del contenedor}
+# solo se pueden eliminar los que están parados o poner el --force para obligarlo a que lo elimine
+
+
+# eliminar todos los contenedores anidadndo comandos de docker
+docker rm  $(docker ps -a -q)
+# con el -q  se queda con el identificador del contenedor
+docker rm  $(docker ps -a -q) --force # para forzar a eliminarlos aunk estén correindo
 ```
 
 ## Entrar en un contenedor
