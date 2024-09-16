@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Contenedores.md",
+                "file": "Docker/Instalacion Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Contenedores.md",
+                "file": "Docker/Instalacion Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Contenedores.md",
+                "file": "Docker/Instalacion Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Contenedores.md"
+                "file": "Docker/Instalacion Docker.md"
               }
             }
           }
@@ -188,11 +188,14 @@
   },
   "active": "21b4d3d2cfbcd02c",
   "lastOpenFiles": [
+    "Docker/Imagenes y contenedores (en Docker).md",
+    "Docker/Docker.md",
+    "Docker/Exportar imagenes Docker en local extension .tar.md",
+    "Obsidian/Configuracion Obsidian.md",
+    "Linux/Procesos.md",
+    "Docker/Contenedores.md",
     "Docker/Docker file.md",
     "Docker/Imagenes  Docker.md",
-    "Docker/Contenedores.md",
-    "Docker/Docker.md",
-    "Docker/Imagenes y contenedores (en Docker).md",
     "Docker/Instalacion Docker.md",
     "Ciberseguridad/Reconocimiento/Fuzzing y enumeracion de archivos en un servidor web.md",
     "Ciberseguridad/Herramientas - Tools/NMAP.md",
@@ -211,10 +214,7 @@
     "Ciberseguridad/Puertos y Servicios/Puerto 80 (TCP) Web/Prestashop.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 80 (TCP) Web/Joomla.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 80 (TCP) Web/Drupal.md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 80 (TCP) Web/CMS Hub.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 80 (TCP) Web",
-    "Redes/Subnetting.md",
-    "Redes/Modelo OSI.md",
     "Redes",
     "Ciberseguridad/Reconocimiento",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - SQL Injection manual.png",
