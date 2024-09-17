@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Contenedores.md",
+                "file": "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP (TCP).md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Docker file.md",
+                "file": "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP (TCP).md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docker/Docker file.md",
+                "file": "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP (TCP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docker/Docker file.md",
+                "file": "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP (TCP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docker/Docker file.md"
+                "file": "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP (TCP).md"
               }
             }
           }
@@ -175,8 +174,16 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "b4b4bbb02d5fa185",
+  "active": "9c1d809fb11d0ac2",
   "lastOpenFiles": [
+    "Ciberseguridad/Pantallazos/SSH/SSH - launchpad reconocimiento systema operativo.png",
+    "Ciberseguridad/Pantallazos/SSH/SSH- reconocimiento launchpad.png",
+    "Ciberseguridad/Pantallazos/SSH/SSH - aplicando nmap para reconocimiento.png",
+    "Pasted image 20240917113533.png",
+    "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP (TCP).md",
+    "Ciberseguridad/Pantallazos/SSH",
+    "Docker/Contenedores.md",
+    "Docker/Docker file.md",
     "Docker/Exportar imagenes Docker en local extension .tar.md",
     "Ciberseguridad/Pantallazos/FTP/FTP Anonimous connection.png",
     "Ciberseguridad/Pantallazos/FTP/FTP Anom.png",
@@ -188,9 +195,7 @@
     "Docker/Exportar imagenes en local extension .tar.md",
     "Ciberseguridad/Certificaciones/Certificaciones.md",
     "Docker/Imagenes y contenedores (en Docker).md",
-    "Docker/Contenedores.md",
     "Docker/Imagenes  Docker.md",
-    "Docker/Docker file.md",
     "Docker/Docker.md",
     "Docker/Instalacion Docker.md",
     "Ciberseguridad/Reconocimiento/Fuzzing y enumeracion de archivos en un servidor web.md",
@@ -204,8 +209,6 @@
     "Linux/Git Conexión y trucos.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 21 - FTP (TCP).md",
     "Ciberseguridad/Puertos y Servicios/Puerto 3306  - Mysql (TCP).md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 53 - DNS (TCP).md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 80 (TCP) Web/Wordpress.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 80 (TCP) Web",
     "Redes",
     "Ciberseguridad/Reconocimiento",
@@ -215,15 +218,11 @@
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - Escalada de privilegiso.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - gtfobbins env.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - Suid.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - sudo-l.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - SSH dylan user.png",
     "Ciberseguridad/Wifi Wireless",
     "Sin título.canvas",
     "Ciberseguridad/Herramientas - Tools/Steganografia",
     "Ciberseguridad/Certificaciones/Titulos obtenidos/certificado-gestion-de-conocimiento-con-obsidian.pdf",
     "Ciberseguridad/Certificaciones/Titulos obtenidos/certificado-preparacion-para-la-certificacion-del-ejptv2.pdf",
-    "Ciberseguridad/Certificaciones/Titulos obtenidos",
     "Ciberseguridad/PIVOTING/Mapa de Red.canvas"
   ]
 }
