@@ -1,4 +1,4 @@
-**Docker** es una plataforma de **contenedores** de software que permite crear, distribuir y ejecutar aplicaciones en entornos aislados. Esto significa que se pueden empaquetar las aplicaciones con todas sus dependencias y configuraciones en un contenedor que se puede mover fácilmente de una máquina a otra, independientemente de la configuración del sistema operativo o del hardware.
+**Docker** es una plataforma de **contenedores** de software escrita en go (Golang) que permite crear, distribuir y ejecutar aplicaciones en entornos aislados. Esto significa que se pueden empaquetar las aplicaciones con todas sus dependencias y configuraciones en un contenedor que se puede mover fácilmente de una máquina a otra, independientemente de la configuración del sistema operativo o del hardware.
 
 Algunas de las ventajas que se presentan a la hora de practicar hacking usando Docker son:
 
@@ -9,3 +9,4 @@ Algunas de las ventajas que se presentan a la hora de practicar hacking usando D
 Instalación de Docker [[Instalacion Docker]]
 Archivo Docker File [[Docker file]]
 Creación y construcción de Imágenes [[Imagenes  Docker]]
+Exportar imagenes Docker [[Exportar imagenes Docker en local extension .tar]]

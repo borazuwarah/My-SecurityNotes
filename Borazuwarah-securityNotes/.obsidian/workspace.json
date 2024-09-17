@@ -177,6 +177,10 @@
   },
   "active": "b4b4bbb02d5fa185",
   "lastOpenFiles": [
+    "Docker/Exportar imagenes Docker en local extension .tar.md",
+    "Ciberseguridad/Pantallazos/FTP/FTP Anonimous connection.png",
+    "Ciberseguridad/Pantallazos/FTP/FTP Anom.png",
+    "Ciberseguridad/Pantallazos/FTP",
     "Docker/Docker compose.md",
     "Ciberseguridad/Tratamiento de la TTY.md",
     "Ciberseguridad/Webs Interesantes.md",
@@ -202,7 +206,6 @@
     "Ciberseguridad/Puertos y Servicios/Puerto 3306  - Mysql (TCP).md",
     "Ciberseguridad/Puertos y Servicios/Puerto 53 - DNS (TCP).md",
     "Ciberseguridad/Puertos y Servicios/Puerto 80 (TCP) Web/Wordpress.md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 80 (TCP) Web/Puerto 80,443 - Http- Https Servicio Web.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 80 (TCP) Web",
     "Redes",
     "Ciberseguridad/Reconocimiento",
@@ -215,15 +218,12 @@
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - Suid.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - sudo-l.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - SSH dylan user.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - User access.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - Web.png",
     "Ciberseguridad/Wifi Wireless",
     "Sin título.canvas",
     "Ciberseguridad/Herramientas - Tools/Steganografia",
     "Ciberseguridad/Certificaciones/Titulos obtenidos/certificado-gestion-de-conocimiento-con-obsidian.pdf",
     "Ciberseguridad/Certificaciones/Titulos obtenidos/certificado-preparacion-para-la-certificacion-del-ejptv2.pdf",
     "Ciberseguridad/Certificaciones/Titulos obtenidos",
-    "Ciberseguridad/Certificaciones",
     "Ciberseguridad/PIVOTING/Mapa de Red.canvas"
   ]
 }
