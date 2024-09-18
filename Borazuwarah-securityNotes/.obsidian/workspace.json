@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP (TCP).md",
+                "file": "Ciberseguridad/Puertos y Servicios/Puerto 80 (TCP) Web/Puerto 80,443 - Http- Https Servicio Web.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP (TCP).md",
+                "file": "Ciberseguridad/Puertos y Servicios/Puerto 80 (TCP) Web/Puerto 80,443 - Http- Https Servicio Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP (TCP).md",
+                "file": "Ciberseguridad/Puertos y Servicios/Puerto 80 (TCP) Web/Puerto 80,443 - Http- Https Servicio Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP (TCP).md"
+                "file": "Ciberseguridad/Puertos y Servicios/Puerto 80 (TCP) Web/Puerto 80,443 - Http- Https Servicio Web.md"
               }
             }
           }
@@ -174,13 +174,13 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "9c1d809fb11d0ac2",
+  "active": "21b4d3d2cfbcd02c",
   "lastOpenFiles": [
+    "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP (TCP).md",
     "Ciberseguridad/Pantallazos/SSH/SSH - launchpad reconocimiento systema operativo.png",
     "Ciberseguridad/Pantallazos/SSH/SSH- reconocimiento launchpad.png",
     "Ciberseguridad/Pantallazos/SSH/SSH - aplicando nmap para reconocimiento.png",
     "Pasted image 20240917113533.png",
-    "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP (TCP).md",
     "Ciberseguridad/Pantallazos/SSH",
     "Docker/Contenedores.md",
     "Docker/Docker file.md",
@@ -217,7 +217,6 @@
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - Whatweb.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - Escalada de privilegiso.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - gtfobbins env.png",
     "Ciberseguridad/Wifi Wireless",
     "Sin título.canvas",
     "Ciberseguridad/Herramientas - Tools/Steganografia",
