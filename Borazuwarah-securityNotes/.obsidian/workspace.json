@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Puertos y Servicios/Puerto 80 (TCP) Web/Puerto 80,443 - Http- Https Servicio Web.md",
+                "file": "Ciberseguridad/CTFs/CTFs by Borazuwarah/My CTF  -- CTFBorazuwarah1 (VM).md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "eliminar imag",
+                "query": "pyt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Puertos y Servicios/Puerto 80 (TCP) Web/Puerto 80,443 - Http- Https Servicio Web.md",
+                "file": "Ciberseguridad/CTFs/CTFs by Borazuwarah/My CTF  -- CTFBorazuwarah1 (VM).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Puertos y Servicios/Puerto 80 (TCP) Web/Puerto 80,443 - Http- Https Servicio Web.md",
+                "file": "Ciberseguridad/CTFs/CTFs by Borazuwarah/My CTF  -- CTFBorazuwarah1 (VM).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Puertos y Servicios/Puerto 80 (TCP) Web/Puerto 80,443 - Http- Https Servicio Web.md"
+                "file": "Ciberseguridad/CTFs/CTFs by Borazuwarah/My CTF  -- CTFBorazuwarah1 (VM).md"
               }
             }
           }
@@ -176,6 +177,7 @@
   },
   "active": "21b4d3d2cfbcd02c",
   "lastOpenFiles": [
+    "Ciberseguridad/Puertos y Servicios/Puerto 80 (TCP) Web/Puerto 80,443 - Http- Https Servicio Web.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP (TCP).md",
     "Ciberseguridad/Pantallazos/SSH/SSH - launchpad reconocimiento systema operativo.png",
     "Ciberseguridad/Pantallazos/SSH/SSH- reconocimiento launchpad.png",
