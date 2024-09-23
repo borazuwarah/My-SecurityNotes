@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/CTFs/CTFs by Borazuwarah/My CTF  -- CTFBorazuwarah1 (VM).md",
+                "file": "Otros/Curriculum/Curriculum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d64c7076c06c675c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciberseguridad/Herramientas - Tools/SMBCLIENT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20788e4a9dd212a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ciberseguridad/Herramientas - Tools/SMBMAP.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pyt",
+                "query": "Crackmapexec",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +113,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/CTFs/CTFs by Borazuwarah/My CTF  -- CTFBorazuwarah1 (VM).md",
+                "file": "Otros/Curriculum/Curriculum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/CTFs/CTFs by Borazuwarah/My CTF  -- CTFBorazuwarah1 (VM).md",
+                "file": "Otros/Curriculum/Curriculum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/CTFs/CTFs by Borazuwarah/My CTF  -- CTFBorazuwarah1 (VM).md"
+                "file": "Otros/Curriculum/Curriculum.md"
               }
             }
           }
@@ -177,7 +200,14 @@
   },
   "active": "21b4d3d2cfbcd02c",
   "lastOpenFiles": [
-    "Ciberseguridad/Puertos y Servicios/Puerto 80 (TCP) Web/Puerto 80,443 - Http- Https Servicio Web.md",
+    "Ciberseguridad/Herramientas - Tools/SMBMAP.md",
+    "Ciberseguridad/Puertos y Servicios/Puerto 445 SMB - SAMBA.md",
+    "Ciberseguridad/Herramientas - Tools/SMBCLIENT.md",
+    "Ciberseguridad/Herramientas - Tools/Crackmapexec.md",
+    "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Puerto 443 Https.md",
+    "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Puerto 80,443 - Http- Https Servicio Web.md",
+    "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Magento.md",
+    "Ciberseguridad/CTFs/CTFs by Borazuwarah/My CTF  -- CTFBorazuwarah1 (VM).md",
     "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP (TCP).md",
     "Ciberseguridad/Pantallazos/SSH/SSH - launchpad reconocimiento systema operativo.png",
     "Ciberseguridad/Pantallazos/SSH/SSH- reconocimiento launchpad.png",
@@ -204,14 +234,7 @@
     "Ciberseguridad/Herramientas - Tools/NMAP.md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Borazuwarah - CTF1 (muy facil) completed.md",
     "Ciberseguridad/Reconocimiento/Google Dorks.md",
-    "Ciberseguridad/Reconocimiento/Reconocimiento de la red.md",
-    "Ciberseguridad/Reconocimiento/Reconocimiento de imágenes.md",
-    "Ciberseguridad/Reconocimiento/METADATA.md",
-    "Ciberseguridad/Reconocimiento/Identificación de tecnologías en una página web.md",
-    "Linux/Git Conexión y trucos.md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 21 - FTP (TCP).md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 3306  - Mysql (TCP).md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 80 (TCP) Web",
+    "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web",
     "Redes",
     "Ciberseguridad/Reconocimiento",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - SQL Injection manual.png",
