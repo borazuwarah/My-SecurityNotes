@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/WPScan (wordpress).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20788e4a9dd212a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/SMBMAP.md",
+                "file": "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Wordpress.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/WPScan (wordpress).md",
+                "file": "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Wordpress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/WPScan (wordpress).md",
+                "file": "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Wordpress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/WPScan (wordpress).md"
+                "file": "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Wordpress.md"
               }
             }
           }
@@ -186,17 +174,19 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "9c1d809fb11d0ac2",
+  "active": "d64c7076c06c675c",
   "lastOpenFiles": [
+    "Ciberseguridad/Herramientas - Tools/SMBMAP.md",
+    "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Wordpress.md",
+    "Ciberseguridad/Herramientas - Tools/Enum4linux.md",
+    "Ciberseguridad/Herramientas - Tools/Curl.md",
+    "Ciberseguridad/Herramientas - Tools/WPScan (wordpress).md",
     "Ciberseguridad/Pantallazos/WPScann",
     "Ciberseguridad/Pantallazos/WPScann/WP-Scann API KEY.png",
-    "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Wordpress.md",
     "Ciberseguridad/Herramientas - Tools/WPSeku (Wordpress).md",
     "Ciberseguridad/Herramientas - Tools/Wordpresscan (Wordpress).md",
-    "Ciberseguridad/Herramientas - Tools/WPScan (wordpress).md",
     "Ciberseguridad/Herramientas - Tools/SMBCLIENT.md",
     "Ciberseguridad/Herramientas - Tools/DVWP (Wordpress).md",
-    "Ciberseguridad/Herramientas - Tools/SMBMAP.md",
     "Otros/Curriculum/Curriculum.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 445 SMB - SAMBA.md",
     "Ciberseguridad/Herramientas - Tools/Crackmapexec.md",
@@ -222,7 +212,6 @@
     "Docker/Docker Port Forwarding.md",
     "Docker/Exportar imagenes en local extension .tar.md",
     "Ciberseguridad/Certificaciones/Certificaciones.md",
-    "Docker/Imagenes y contenedores (en Docker).md",
     "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web",
     "Redes",
     "Ciberseguridad/Reconocimiento",
@@ -234,7 +223,6 @@
     "Sin título.canvas",
     "Ciberseguridad/Herramientas - Tools/Steganografia",
     "Ciberseguridad/Certificaciones/Titulos obtenidos/certificado-gestion-de-conocimiento-con-obsidian.pdf",
-    "Ciberseguridad/Certificaciones/Titulos obtenidos/certificado-preparacion-para-la-certificacion-del-ejptv2.pdf",
     "Ciberseguridad/PIVOTING/Mapa de Red.canvas"
   ]
 }
