@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "21b4d3d2cfbcd02c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Otros/Curriculum/Curriculum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "d64c7076c06c675c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Herramientas - Tools/SMBCLIENT.md",
+                "file": "Ciberseguridad/Herramientas - Tools/WPScan (wordpress).md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Otros/Curriculum/Curriculum.md",
+                "file": "Ciberseguridad/Herramientas - Tools/WPScan (wordpress).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Otros/Curriculum/Curriculum.md",
+                "file": "Ciberseguridad/Herramientas - Tools/WPScan (wordpress).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Otros/Curriculum/Curriculum.md"
+                "file": "Ciberseguridad/Herramientas - Tools/WPScan (wordpress).md"
               }
             }
           }
@@ -198,11 +186,19 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "21b4d3d2cfbcd02c",
+  "active": "9c1d809fb11d0ac2",
   "lastOpenFiles": [
-    "Ciberseguridad/Herramientas - Tools/SMBMAP.md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 445 SMB - SAMBA.md",
+    "Ciberseguridad/Pantallazos/WPScann",
+    "Ciberseguridad/Pantallazos/WPScann/WP-Scann API KEY.png",
+    "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Wordpress.md",
+    "Ciberseguridad/Herramientas - Tools/WPSeku (Wordpress).md",
+    "Ciberseguridad/Herramientas - Tools/Wordpresscan (Wordpress).md",
+    "Ciberseguridad/Herramientas - Tools/WPScan (wordpress).md",
     "Ciberseguridad/Herramientas - Tools/SMBCLIENT.md",
+    "Ciberseguridad/Herramientas - Tools/DVWP (Wordpress).md",
+    "Ciberseguridad/Herramientas - Tools/SMBMAP.md",
+    "Otros/Curriculum/Curriculum.md",
+    "Ciberseguridad/Puertos y Servicios/Puerto 445 SMB - SAMBA.md",
     "Ciberseguridad/Herramientas - Tools/Crackmapexec.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Puerto 443 Https.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Puerto 80,443 - Http- Https Servicio Web.md",
@@ -227,13 +223,6 @@
     "Docker/Exportar imagenes en local extension .tar.md",
     "Ciberseguridad/Certificaciones/Certificaciones.md",
     "Docker/Imagenes y contenedores (en Docker).md",
-    "Docker/Imagenes  Docker.md",
-    "Docker/Docker.md",
-    "Docker/Instalacion Docker.md",
-    "Ciberseguridad/Reconocimiento/Fuzzing y enumeracion de archivos en un servidor web.md",
-    "Ciberseguridad/Herramientas - Tools/NMAP.md",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Borazuwarah - CTF1 (muy facil) completed.md",
-    "Ciberseguridad/Reconocimiento/Google Dorks.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web",
     "Redes",
     "Ciberseguridad/Reconocimiento",
@@ -241,7 +230,6 @@
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - Codigo consulta sin validar.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - Whatweb.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - Escalada de privilegiso.png",
     "Ciberseguridad/Wifi Wireless",
     "Sin título.canvas",
     "Ciberseguridad/Herramientas - Tools/Steganografia",
