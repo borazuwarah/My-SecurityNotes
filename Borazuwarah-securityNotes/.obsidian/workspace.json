@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Puertos y Servicios/Puerto 21 - FTP (TCP).md",
+                "file": "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP (TCP).md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ssh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Puertos y Servicios/Puerto 21 - FTP (TCP).md",
+                "file": "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP (TCP).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Puertos y Servicios/Puerto 21 - FTP (TCP).md",
+                "file": "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP (TCP).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Puertos y Servicios/Puerto 21 - FTP (TCP).md"
+                "file": "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP (TCP).md"
               }
             }
           }
@@ -175,17 +175,19 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "50589c328efc7283",
+  "active": "9c1d809fb11d0ac2",
   "lastOpenFiles": [
+    "Ciberseguridad/Intrusion/LFI (Local file intrusion).md",
+    "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP (TCP).md",
+    "Linux/Git Conexión y trucos.md",
+    "Ciberseguridad/Puertos y Servicios/Puerto 21 - FTP (TCP).md",
     "Docker/Docker file.md",
     "Docker/Imagenes  Docker.md",
     "Ciberseguridad/Pantallazos/FTP",
     "Ciberseguridad/Pantallazos/FTP.md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 21 - FTP (TCP).md",
     "Ciberseguridad/Pantallazos/FTP/FTP Anonimous connection.png",
     "Ciberseguridad/Pantallazos/FTP/FTP Anom.png",
     "FTP Anonimous.png",
-    "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP (TCP).md",
     "Docker/Contenedores.md",
     "Docker/Docker Port Forwarding.md",
     "Docker/Docker.md",
@@ -202,7 +204,6 @@
     "Ciberseguridad/Reconocimiento/Reconocimiento de imágenes.md",
     "Ciberseguridad/Reconocimiento/METADATA.md",
     "Ciberseguridad/Reconocimiento/Identificación de tecnologías en una página web.md",
-    "Linux/Git Conexión y trucos.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 3306  - Mysql (TCP).md",
     "Ciberseguridad/Puertos y Servicios/Puerto 53 - DNS (TCP).md",
     "Ciberseguridad/Puertos y Servicios/Puerto 80 (TCP) Web/Wordpress.md",

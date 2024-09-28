@@ -5,6 +5,14 @@ Comando para conectar
 ssh {Usuario}@{ip destino} [-p {puerto}]
 ```
 
+## Conectar por SSH usando un id_rsa
+
+```sh fold:"Conectar por SSH con fichero RSA"
+# importante poner permisos 600 al fichero RSA
+# chmod 600 id_rsa
+ssh -i {fichero con RSA y permisos 600} {nombreDeUsuario}@IP
+```
+
 ## Usuarios comunes
 ## Fuerza bruta
 
