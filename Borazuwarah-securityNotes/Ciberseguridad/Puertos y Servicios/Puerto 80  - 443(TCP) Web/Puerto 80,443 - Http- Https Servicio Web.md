@@ -13,7 +13,7 @@ Protocolo de transferencia de hipertexto es el protocolo de comunicación que pe
 	- crossdomain.xml
 	- Nuclei
 - Fuerza bruta a directorios
-	- gobuster
+	- [[Gobuster]]
 	- dirsearch
 	- wfuzz
 	- ffuf

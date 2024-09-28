@@ -8,43 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b4b4bbb02d5fa185",
+            "id": "3f2dc320ec645b7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Docker file.md",
+                "file": "Ciberseguridad/CTFs/Dockerlabs.es/Trust (Muy facil) Completa.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "712260228c4a0c3c",
+            "id": "a944c8baf52ce393",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Imagenes  Docker.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50589c328efc7283",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP (TCP).md",
+                "file": "Ciberseguridad/Herramientas - Tools/Hydra, Ataques de Fuerza Bruta y John the Ripper.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ssh",
+                "query": "hydra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP (TCP).md",
+                "file": "Ciberseguridad/CTFs/Dockerlabs.es/Trust (Muy facil) Completa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP (TCP).md",
+                "file": "Ciberseguridad/CTFs/Dockerlabs.es/Trust (Muy facil) Completa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP (TCP).md"
+                "file": "Ciberseguridad/CTFs/Dockerlabs.es/Trust (Muy facil) Completa.md"
               }
             }
           }
@@ -177,8 +164,28 @@
   },
   "active": "9c1d809fb11d0ac2",
   "lastOpenFiles": [
-    "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Wordpress.md",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - Root.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - Gtfobbins vim.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - Escalada sudo -l.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - acceso SSH.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Trust (Muy facil) Completa.md",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - hydra al ssh resu.png",
+    "Ciberseguridad/Herramientas - Tools/Hydra, Ataques de Fuerza Bruta y John the Ripper.md",
+    "Ciberseguridad/Herramientas - Tools/Gobuster.md",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - secret.php.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - dirbuster result.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - dirbuster.png",
+    "Ciberseguridad/Herramientas - Tools/dirbuster (web).md",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - Gobuster.png",
+    "Pasted image 20240928160707.png",
     "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Puerto 80,443 - Http- Https Servicio Web.md",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - Codigo web de apache.png",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Vacaciones (Muy fácil) completed.md",
+    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust",
+    "Docker/Docker file.md",
+    "Docker/Imagenes  Docker.md",
+    "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP (TCP).md",
+    "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Wordpress.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Puerto 443 Https.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Prestashop.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Joomla.md",
@@ -186,44 +193,24 @@
     "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Drupal.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/CMS Hub.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web",
-    "Ciberseguridad/Pantallazos/WPScann/WP-Scann API KEY.png",
     "Ciberseguridad/Pantallazos/WPScann",
-    "Ciberseguridad/Pantallazos/SSH/SSH- reconocimiento launchpad.png",
-    "Ciberseguridad/Pantallazos/SSH/SSH - launchpad reconocimiento systema operativo.png",
-    "Ciberseguridad/Pantallazos/SSH/SSH - aplicando nmap para reconocimiento.png",
     "Ciberseguridad/Pantallazos/SSH",
     "Ciberseguridad/Herramientas - Tools/Wordpresscan (Wordpress).md",
     "Ciberseguridad/Herramientas - Tools/WPSeku (Wordpress).md",
     "Ciberseguridad/Herramientas - Tools/Crackmapexec.md",
     "Ciberseguridad/Intrusion/LFI (Local file intrusion).md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP (TCP).md",
     "Linux/Git Conexión y trucos.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 21 - FTP (TCP).md",
-    "Docker/Docker file.md",
-    "Docker/Imagenes  Docker.md",
     "Ciberseguridad/Pantallazos/FTP",
     "Ciberseguridad/Pantallazos/FTP.md",
-    "Ciberseguridad/Pantallazos/FTP/FTP Anonimous connection.png",
-    "Ciberseguridad/Pantallazos/FTP/FTP Anom.png",
-    "FTP Anonimous.png",
     "Docker/Contenedores.md",
     "Docker/Docker Port Forwarding.md",
-    "Docker/Docker.md",
-    "Docker/Instalacion Docker.md",
-    "Docker/Imagenes y contenedores (en Docker).md",
-    "Docker/Exportar imagenes Docker en local extension .tar.md",
-    "Obsidian/Configuracion Obsidian.md",
-    "Linux/Procesos.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 80 (TCP) Web",
     "Redes",
     "Ciberseguridad/Reconocimiento",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - SQL Injection manual.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - Codigo consulta sin validar.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection/DockerLabs - Injection - Whatweb.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection",
     "Ciberseguridad/Wifi Wireless",
     "Sin título.canvas",
-    "Ciberseguridad/Herramientas - Tools/Steganografia",
     "Ciberseguridad/PIVOTING/Mapa de Red.canvas"
   ]
 }
