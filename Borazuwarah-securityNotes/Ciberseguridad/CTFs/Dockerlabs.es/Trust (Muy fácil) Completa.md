@@ -120,3 +120,7 @@ sudo vim -c ':!/bin/sh' --> sudo vim -c ':!/bin/bash'
 
 
 ![[DockerLabs - Trust - Root.png]]
+
+
+Para finalizar hacemos CTR + C en la ventana donde está corriendo docker para cerrarlo y eliminar el laboratorio
+![[DockerLabs - Trust - Eliminar laboratorio.png]]
