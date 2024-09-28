@@ -88,7 +88,7 @@ Vemos que tenemos un usuario: Mario.
 
 Si recordamos también está el puerto 22 (ssh) abierto, y con el usuario Mario podríamos intentar fuerza bruta con hydra:
 ```sh fold:"fuerza bruta al ssh con hydra"
-hydra -l juan -P /usr/share/wordlists/rockyou.txt ssh://192.168.0.27
+hydra -l Mario -P /usr/share/wordlists/rockyou.txt ssh://172.18.0.2
 ```
 
 Cuidado aquí porque el usuario la nota estaba en mayuscula: Mario y el usuario es minuscula, 
