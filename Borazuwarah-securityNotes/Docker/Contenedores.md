@@ -67,12 +67,12 @@ docker rm  $(docker ps -a -q) --force # para forzar a eliminarlos aunk estén co
 ```
 
 ## Entrar en un contenedor
-Para entrar en un contenddor que está en estado UP (levantado)
+Para entrar en un contenedor que está en estado UP (levantado)
 ```sh fold:"docker, Entrar contendodr"
 docker attach {containerId}
 ```
 
-## Salir del contenedor (dejandolo en ejecucion
+## Salir del contenedor (dejando en ejecución)
 
 
 atajo de teclado
