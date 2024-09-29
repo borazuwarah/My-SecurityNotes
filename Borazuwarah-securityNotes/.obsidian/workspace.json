@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/CTFs/Dockerlabs.es/Trust (Muy fácil) Completa.md",
+                "file": "Ciberseguridad/Reconocimiento/Fuzzing y enumeracion de archivos en un servidor web.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hydra",
+                "query": "hc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/CTFs/Dockerlabs.es/Trust (Muy fácil) Completa.md",
+                "file": "Ciberseguridad/Reconocimiento/Fuzzing y enumeracion de archivos en un servidor web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/CTFs/Dockerlabs.es/Trust (Muy fácil) Completa.md",
+                "file": "Ciberseguridad/Reconocimiento/Fuzzing y enumeracion de archivos en un servidor web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/CTFs/Dockerlabs.es/Trust (Muy fácil) Completa.md"
+                "file": "Ciberseguridad/Reconocimiento/Fuzzing y enumeracion de archivos en un servidor web.md"
               }
             }
           }
@@ -162,14 +163,14 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "9c1d809fb11d0ac2",
+  "active": "3f2dc320ec645b7e",
   "lastOpenFiles": [
+    "Ciberseguridad/CTFs/Dockerlabs.es/Trust (Muy fácil) Completa.md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - Eliminar laboratorio.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - Root.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - Gtfobbins vim.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - Escalada sudo -l.png",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - acceso SSH.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Trust (Muy fácil) Completa.md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - hydra al ssh resu.png",
     "Ciberseguridad/Herramientas - Tools/Hydra, Ataques de Fuerza Bruta y John the Ripper.md",
     "Ciberseguridad/Herramientas - Tools/Gobuster.md",
@@ -178,7 +179,6 @@
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - dirbuster.png",
     "Ciberseguridad/Herramientas - Tools/dirbuster (web).md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - Gobuster.png",
-    "Pasted image 20240928160707.png",
     "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Puerto 80,443 - Http- Https Servicio Web.md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Vacaciones (Muy fácil) completed.md",
     "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust",
