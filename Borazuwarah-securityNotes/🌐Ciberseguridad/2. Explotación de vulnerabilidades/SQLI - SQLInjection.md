@@ -1,6 +1,8 @@
 Consiste en modificar la entrada dela consulta SQL a la BD para obtener datos diferentes y de esta forma poder extraer información de la BD la cual no se mostraría de forma normal.
 
 
+formación:
+- **sqlinjection-training-app**: [https://github.com/appsecco/sqlinjection-training-app](https://github.com/appsecco/sqlinjection-training-app)
 
 Como comprobar si una entrada de datos es vulnerable a SQL -Injection
 

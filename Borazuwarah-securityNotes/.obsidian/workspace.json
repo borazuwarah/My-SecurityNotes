@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌐Ciberseguridad/2. Explotación de vulnerabilidades/Payloads.md",
+                "file": "🌐Ciberseguridad/2. Explotación de vulnerabilidades/SQLI - SQLInjection.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌐Ciberseguridad/2. Explotación de vulnerabilidades/Payloads.md",
+                "file": "🌐Ciberseguridad/2. Explotación de vulnerabilidades/SQLI - SQLInjection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌐Ciberseguridad/2. Explotación de vulnerabilidades/Payloads.md",
+                "file": "🌐Ciberseguridad/2. Explotación de vulnerabilidades/SQLI - SQLInjection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌐Ciberseguridad/2. Explotación de vulnerabilidades/Payloads.md"
+                "file": "🌐Ciberseguridad/2. Explotación de vulnerabilidades/SQLI - SQLInjection.md"
               }
             }
           }
@@ -152,8 +152,9 @@
   },
   "active": "49f33feca8349414",
   "lastOpenFiles": [
-    "🌐Ciberseguridad/2. Explotación de vulnerabilidades/apache Tomcat.md",
+    "🌐Ciberseguridad/2. Explotación de vulnerabilidades/Tipos de explotación.md",
     "🌐Ciberseguridad/2. Explotación de vulnerabilidades/Payloads.md",
+    "🌐Ciberseguridad/2. Explotación de vulnerabilidades/apache Tomcat.md",
     "🌐Ciberseguridad/1. Reconocimiento/Fuzzing y enumeracion de archivos en un servidor web.md",
     "Linux/Editor y creador de fichoers.md",
     "Linux/Herramientas/Pipe.md",
@@ -171,14 +172,13 @@
     "🌐Ciberseguridad/Herramientas - Tools/Bash (reverse shell).md",
     "🌐Ciberseguridad/Herramientas - Tools/Wifite Wifi.md",
     "🌐Ciberseguridad/2. Explotación de vulnerabilidades/Explotacion File Upload.md",
-    "🌐Ciberseguridad/2. Explotación de vulnerabilidades/Explotacion SQL - Injection.md",
+    "🌐Ciberseguridad/2. Explotación de vulnerabilidades/SQLI - SQLInjection.md",
     "🌐Ciberseguridad/2. Explotación de vulnerabilidades/LFI (Local file intrusion).md",
     "🌐Ciberseguridad/2. Explotación de vulnerabilidades/Webshell.md",
     "🌐Ciberseguridad/2. Explotación de vulnerabilidades/XSS Cross-Site-Scripting.md",
     "🌐Ciberseguridad/Herramientas - Tools/Herramientas profesionales SOC/EDR.md",
     "Linux/Lsoft port tester.md",
     "🌐Ciberseguridad/Herramientas - Tools/Airgeddon wireless.md",
-    "🌐Ciberseguridad/Wifi Wireless/Wireless.md",
     "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - secret.php.png",
     "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - nmap.png",
     "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - Web por defecto.png",
