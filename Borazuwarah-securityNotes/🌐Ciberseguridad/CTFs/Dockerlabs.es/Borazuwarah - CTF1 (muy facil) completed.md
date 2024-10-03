@@ -8,7 +8,7 @@ Autor: Borazuwarah
 Herramientas Usadas:
 - [[NMAP]]
 - [[Ping]]
-- [[Ciberseguridad/Herramientas - Tools/Wget|Wget]]
+- [[🌐Ciberseguridad/Herramientas - Tools/Wget|Wget]]
 - [[Gobuster]]
 - [[Hydra, Ataques de Fuerza Bruta y John the Ripper]]
 

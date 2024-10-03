@@ -1,4 +1,5 @@
 #puerto80
+[[Puerto 443 Https]]
 
 Protocolo de transferencia de hipertexto es el protocolo de comunicación que permite las transferencias de información a través de archivos en la web.
 
@@ -14,12 +15,12 @@ Protocolo de transferencia de hipertexto es el protocolo de comunicación que pe
 	- Nuclei
 - Fuerza bruta a directorios
 	- [[Gobuster]]
-	- dirsearch
-	- wfuzz
+	- [[dirsearch]]
+	-  [[wfuzz]]
 	- ffuf
 	- Nikto
 - Woredpress
-	- wpscan
+	- [[WPScan (wordpress)]]
 
 
 
@@ -34,9 +35,9 @@ wpscan --url {web destino}
 
 # Nuclei
 
-Es una herramienta que no viene con Kali preinstalada, y sirve para realizar escaneo y detección de vulnerabilidades para aplicaciones y servicios web, con la instalación también instala diccionarios y plantillas para trabajar correctamente.
+Es una herramienta que no viene con Kali pre instalada, y sirve para realizar escaneo y detección de vulnerabilidades para aplicaciones y servicios web, con la instalación también instala diccionarios y plantillas para trabajar correctamente.
 
-## instalacion de nuclei
+## instalación de nuclei
 
 ```sh fold:"instalacion de nuclei"
 sudo apt install nuclei
@@ -66,7 +67,7 @@ gobuster dir -u {url} -w /usr/share/seclists/Discovery/web-content/CMS/wp-plugin
 	Enviar Datos --> POST
 	Modifucar datos -->PUT
 	Borrar datos --> Delete
-## Metodos especiales
+## Métodos especiales
 
 Metodos Options  Sirve para saber con que metodos puedes pedir recursos
 Metodo Head Lee las cabeceras de respuesta
@@ -151,4 +152,11 @@ Existen diferentes  tipos de cookies:
 - Cookies de Sesion --> almacenan en el navegador y a la hora de cerrar el navegador se cierran
 - Cookies persistentes --> Permanecen en el dispositivo hasta que manualmente se eliminan
 - Cookies de terceros --> Sirven para rastrear tu perfil
+
+
+
+
+
+
+
 

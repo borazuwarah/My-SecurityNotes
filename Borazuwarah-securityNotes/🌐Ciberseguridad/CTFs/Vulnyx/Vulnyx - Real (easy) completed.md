@@ -6,7 +6,7 @@
 #escaladaPrivilegios
 
 Herramients
-[[ping]]
+[[Ping]]
 [[NMAP]]
 [[Gobuster]]
 [[Tratamiento de la TTY]]

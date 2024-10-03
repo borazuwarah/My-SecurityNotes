@@ -9,7 +9,7 @@ Herramientas usadas:
 - [[Gobuster]]
 - [[Base64]]
 - [[Steghide]]
-- [[wget]]
+- [[Linux/wget]]
 ## Reconocimiento
 
 Descubrimos la IP: 192.168.1.143:

@@ -13,31 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Drupal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4b4bbb02d5fa185",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP (TCP).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "50589c328efc7283",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Docker/Docker file.md",
+                "file": "Obsidian/Pantallazosn de  Obsidian/Tareas.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Drupal.md",
+                "file": "Obsidian/Pantallazosn de  Obsidian/Tareas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Drupal.md",
+                "file": "Obsidian/Pantallazosn de  Obsidian/Tareas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Drupal.md"
+                "file": "Obsidian/Pantallazosn de  Obsidian/Tareas.md"
               }
             }
           }
@@ -176,53 +152,53 @@
   },
   "active": "d64c7076c06c675c",
   "lastOpenFiles": [
-    "Ciberseguridad/Herramientas - Tools/Droopescan (Drupal).md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Drupal.md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Joomla.md",
-    "Ciberseguridad/Herramientas - Tools/JoomScan (joomla scanner).md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP (TCP).md",
-    "Ciberseguridad/Herramientas - Tools/Nc Netcat.md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Wordpress.md",
-    "Ciberseguridad/Herramientas - Tools/dirbuster (web).md",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Trust (Muy fácil) Completa.md",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - secret.php.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - nmap.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - Web por defecto.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - Root.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - Ping.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - Gtfobbins vim.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - hydra al ssh resu.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - Gobuster.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - Eliminar laboratorio.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - Escalada sudo -l.png",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust",
-    "Ciberseguridad/Herramientas - Tools/SMBMAP.md",
-    "Ciberseguridad/Herramientas - Tools/Enum4linux.md",
-    "Ciberseguridad/Herramientas - Tools/Curl.md",
-    "Ciberseguridad/Herramientas - Tools/WPScan (wordpress).md",
-    "Ciberseguridad/Pantallazos/WPScann",
-    "Ciberseguridad/Herramientas - Tools/WPSeku (Wordpress).md",
-    "Ciberseguridad/Herramientas - Tools/Wordpresscan (Wordpress).md",
-    "Ciberseguridad/Herramientas - Tools/SMBCLIENT.md",
+    "🌐Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Puerto 80,443 - Http- Https Servicio Web.md",
+    "Obsidian/Pantallazosn de  Obsidian/Tareas.md",
+    "dirsearch.md",
+    "🌐Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Puerto 443 Https.md",
+    "🌐Ciberseguridad/Herramientas - Tools/Magescan (magento).md",
+    "🌐Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Magento.md",
+    "Docker/Docker file.md",
+    "🌐Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Drupal.md",
+    "🌐Ciberseguridad/Herramientas - Tools/Droopescan (Drupal).md",
+    "🌐Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Joomla.md",
+    "🌐Ciberseguridad/Herramientas - Tools/JoomScan (joomla scanner).md",
+    "🌐Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP (TCP).md",
+    "🌐Ciberseguridad/Herramientas - Tools/Nc Netcat.md",
+    "🌐Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Wordpress.md",
+    "🌐Ciberseguridad/Herramientas - Tools/dirbuster (web).md",
+    "🌐Ciberseguridad/CTFs/Dockerlabs.es/Trust (Muy fácil) Completa.md",
+    "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - secret.php.png",
+    "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - nmap.png",
+    "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - Web por defecto.png",
+    "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - Root.png",
+    "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - Ping.png",
+    "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - Gtfobbins vim.png",
+    "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - hydra al ssh resu.png",
+    "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - Gobuster.png",
+    "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - Eliminar laboratorio.png",
+    "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - Escalada sudo -l.png",
+    "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust",
+    "🌐Ciberseguridad/Herramientas - Tools/SMBMAP.md",
+    "🌐Ciberseguridad/Herramientas - Tools/Enum4linux.md",
+    "🌐Ciberseguridad/Herramientas - Tools/Curl.md",
+    "🌐Ciberseguridad/Herramientas - Tools/WPScan (wordpress).md",
+    "🌐Ciberseguridad/Pantallazos/WPScann",
+    "🌐Ciberseguridad/Herramientas - Tools/WPSeku (Wordpress).md",
+    "🌐Ciberseguridad/Herramientas - Tools/Wordpresscan (Wordpress).md",
+    "🌐Ciberseguridad/Herramientas - Tools/SMBCLIENT.md",
     "Ciberseguridad/Herramientas - Tools/DVWP (Wordpress).md",
     "Otros/Curriculum/Curriculum.md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 445 SMB - SAMBA.md",
-    "Ciberseguridad/Herramientas - Tools/Crackmapexec.md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Puerto 443 Https.md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Puerto 80,443 - Http- Https Servicio Web.md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Magento.md",
-    "Ciberseguridad/CTFs/CTFs by Borazuwarah/My CTF  -- CTFBorazuwarah1 (VM).md",
-    "Ciberseguridad/Pantallazos/SSH",
-    "Docker/Contenedores.md",
-    "Docker/Docker file.md",
-    "Ciberseguridad/Pantallazos/FTP",
-    "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web",
+    "🌐Ciberseguridad/Puertos y Servicios/Puerto 445 SMB - SAMBA.md",
+    "🌐Ciberseguridad/Pantallazos/SSH",
+    "🌐Ciberseguridad/Pantallazos/FTP",
+    "🌐Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web",
     "Redes",
-    "Ciberseguridad/Reconocimiento",
-    "Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection",
-    "Ciberseguridad/Wifi Wireless",
+    "🌐Ciberseguridad/Reconocimiento",
+    "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection",
+    "🌐Ciberseguridad/Wifi Wireless",
     "Sin título.canvas",
-    "Ciberseguridad/Herramientas - Tools/Steganografia",
-    "Ciberseguridad/PIVOTING/Mapa de Red.canvas"
+    "🌐Ciberseguridad/Herramientas - Tools/Steganografia",
+    "🌐Ciberseguridad/PIVOTING/Mapa de Red.canvas"
   ]
 }
