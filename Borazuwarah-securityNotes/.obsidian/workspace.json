@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d64c7076c06c675c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🌐Ciberseguridad/Herramientas - Tools/Wifite Wifi.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "49f33feca8349414",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌐Ciberseguridad/Herramientas - Tools/Nc Netcat.md",
+                "file": "Linux/Editor y creador de fichoers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wirekess",
+                "query": "tag:#edicion",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌐Ciberseguridad/Herramientas - Tools/Nc Netcat.md",
+                "file": "Linux/Editor y creador de fichoers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌐Ciberseguridad/Herramientas - Tools/Nc Netcat.md",
+                "file": "Linux/Editor y creador de fichoers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌐Ciberseguridad/Herramientas - Tools/Nc Netcat.md"
+                "file": "Linux/Editor y creador de fichoers.md"
               }
             }
           }
@@ -163,8 +151,20 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "49f33feca8349414",
+  "active": "a3ca4eed9e14fe24",
   "lastOpenFiles": [
+    "Linux/Editor y creador de fichoers.md",
+    "Linux/Herramientas/Pipe.md",
+    "Linux/Herramientas/Edit.md",
+    "Linux/Herramientas/Touch.md",
+    "Linux/Herramientas/Vi, Vim.md",
+    "Linux/Herramientas/Nano.md",
+    "Linux/Herramientas",
+    "🌐Ciberseguridad/Herramientas - Tools/Wireshark.md",
+    "🌐Ciberseguridad/Herramientas - Tools/Crear Diccionarios.md",
+    "🌐Ciberseguridad/Herramientas - Tools/Capturar la pantalla.md",
+    "🌐Ciberseguridad/1. Reconocimiento/Google Dorks.md",
+    "🌐Ciberseguridad/Herramientas - Tools/Nc Netcat.md",
     "🌐Ciberseguridad/2. Explotación de vulnerabilidades/Reverse Shells, Bind Shells y Forward Shells.md",
     "🌐Ciberseguridad/Herramientas - Tools/Bash (reverse shell).md",
     "🌐Ciberseguridad/Herramientas - Tools/Wifite Wifi.md",
@@ -180,17 +180,6 @@
     "🌐Ciberseguridad/Herramientas - Tools/JoomScan (joomla scanner).md",
     "🌐Ciberseguridad/Herramientas - Tools/Macchanger.md",
     "Obsidian/Pantallazosn de  Obsidian/Tareas.md",
-    "🌐Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Puerto 80,443 - Http- Https Servicio Web.md",
-    "dirsearch.md",
-    "🌐Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Puerto 443 Https.md",
-    "🌐Ciberseguridad/Herramientas - Tools/Magescan (magento).md",
-    "🌐Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Magento.md",
-    "Docker/Docker file.md",
-    "🌐Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Drupal.md",
-    "🌐Ciberseguridad/Herramientas - Tools/Droopescan (Drupal).md",
-    "🌐Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Joomla.md",
-    "🌐Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP (TCP).md",
-    "🌐Ciberseguridad/Herramientas - Tools/Nc Netcat.md",
     "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - secret.php.png",
     "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - nmap.png",
     "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - Web por defecto.png",
@@ -211,7 +200,6 @@
     "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection",
     "🌐Ciberseguridad/Wifi Wireless",
     "Sin título.canvas",
-    "🌐Ciberseguridad/Herramientas - Tools/Steganografia",
     "🌐Ciberseguridad/PIVOTING/Mapa de Red.canvas"
   ]
 }

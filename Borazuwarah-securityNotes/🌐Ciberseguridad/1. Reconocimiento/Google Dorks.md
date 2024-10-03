@@ -1,12 +1,12 @@
-Filtros que permiten realizar  Busquedas avanzadas
+Filtros que permiten realizar  Búsquedas avanzadas
 
 Herramienta para Dorks de google: https://pentest-tools.com/ para generar Dorks de forma automática
-almacen de vulnerabilidades: https://www.exploit-db.com/
+almacén de vulnerabilidades: https://www.exploit-db.com/
 
 La herramienta searchExploit (de consola) usa esta web como fuente de datos
 
 
-aqui meustra algunos
+aquí se  muestran algunos
 ```sh fold:"Fijar la busqueda en una web"
 site:{dominio}
 
