@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌐Ciberseguridad/2. Explotación de vulnerabilidades/Reverse Shells, Bind Shells y Forward Shells.md",
+                "file": "🌐Ciberseguridad/Herramientas - Tools/Nc Netcat.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌐Ciberseguridad/2. Explotación de vulnerabilidades/Reverse Shells, Bind Shells y Forward Shells.md",
+                "file": "🌐Ciberseguridad/Herramientas - Tools/Nc Netcat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌐Ciberseguridad/2. Explotación de vulnerabilidades/Reverse Shells, Bind Shells y Forward Shells.md",
+                "file": "🌐Ciberseguridad/Herramientas - Tools/Nc Netcat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌐Ciberseguridad/2. Explotación de vulnerabilidades/Reverse Shells, Bind Shells y Forward Shells.md"
+                "file": "🌐Ciberseguridad/Herramientas - Tools/Nc Netcat.md"
               }
             }
           }
@@ -165,9 +165,9 @@
   },
   "active": "49f33feca8349414",
   "lastOpenFiles": [
+    "🌐Ciberseguridad/2. Explotación de vulnerabilidades/Reverse Shells, Bind Shells y Forward Shells.md",
     "🌐Ciberseguridad/Herramientas - Tools/Bash (reverse shell).md",
     "🌐Ciberseguridad/Herramientas - Tools/Wifite Wifi.md",
-    "🌐Ciberseguridad/2. Explotación de vulnerabilidades/Reverse Shells, Bind Shells y Forward Shells.md",
     "🌐Ciberseguridad/2. Explotación de vulnerabilidades/Explotacion File Upload.md",
     "🌐Ciberseguridad/2. Explotación de vulnerabilidades/Explotacion SQL - Injection.md",
     "🌐Ciberseguridad/2. Explotación de vulnerabilidades/LFI (Local file intrusion).md",
