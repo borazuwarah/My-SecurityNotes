@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Editor y creador de fichoers.md",
+                "file": "🌐Ciberseguridad/2. Explotación de vulnerabilidades/Payloads.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#edicion",
+                "query": "payload",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Editor y creador de fichoers.md",
+                "file": "🌐Ciberseguridad/2. Explotación de vulnerabilidades/Payloads.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Editor y creador de fichoers.md",
+                "file": "🌐Ciberseguridad/2. Explotación de vulnerabilidades/Payloads.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Editor y creador de fichoers.md"
+                "file": "🌐Ciberseguridad/2. Explotación de vulnerabilidades/Payloads.md"
               }
             }
           }
@@ -151,8 +150,11 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "a3ca4eed9e14fe24",
+  "active": "49f33feca8349414",
   "lastOpenFiles": [
+    "🌐Ciberseguridad/2. Explotación de vulnerabilidades/apache Tomcat.md",
+    "🌐Ciberseguridad/2. Explotación de vulnerabilidades/Payloads.md",
+    "🌐Ciberseguridad/1. Reconocimiento/Fuzzing y enumeracion de archivos en un servidor web.md",
     "Linux/Editor y creador de fichoers.md",
     "Linux/Herramientas/Pipe.md",
     "Linux/Herramientas/Edit.md",
@@ -177,9 +179,6 @@
     "Linux/Lsoft port tester.md",
     "🌐Ciberseguridad/Herramientas - Tools/Airgeddon wireless.md",
     "🌐Ciberseguridad/Wifi Wireless/Wireless.md",
-    "🌐Ciberseguridad/Herramientas - Tools/JoomScan (joomla scanner).md",
-    "🌐Ciberseguridad/Herramientas - Tools/Macchanger.md",
-    "Obsidian/Pantallazosn de  Obsidian/Tareas.md",
     "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - secret.php.png",
     "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - nmap.png",
     "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - Web por defecto.png",
