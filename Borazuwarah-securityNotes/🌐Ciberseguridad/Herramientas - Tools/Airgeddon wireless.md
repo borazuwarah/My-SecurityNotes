@@ -1,4 +1,9 @@
 
+
+
+----
+- Tags: #wifi #wireless 
+----
 Mirror: [v1s1t0r1sh3r3/airgeddon: This is a multi-use bash script for Linux systems to audit wireless networks. (github.com)](https://github.com/v1s1t0r1sh3r3/airgeddon)
 Atacar capturando el Handshake
 

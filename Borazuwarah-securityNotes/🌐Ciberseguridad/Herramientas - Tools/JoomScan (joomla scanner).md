@@ -1,8 +1,11 @@
 
+----
+- Tags: #Joomla #Scanner #CMS #web
+----
 donwload: [https://github.com/OWASP/joomscan](https://github.com/OWASP/joomscan)
 
 Reporte de vulnerabilidades
-forma de uso:````
+forma de uso:
 ```sh fold:"Forma de uso de joomscan"
 perl joomscan.pl -u <URL>
 ```

@@ -1,4 +1,9 @@
 
+
+----
+- Tags: #network #mac 
+-----
+
 [macchanger | Kali Linux Tools](https://www.kali.org/tools/macchanger/)
 
 Herramienta en Linux que se utiliza para cambiar o **"falsificar"** la dirección MAC (Media Access Control) de una interfaz de red. Esto puede ser útil para mantener la privacidad, evitar restricciones de red basadas en la dirección MAC, o simplemente para probar el comportamiento de redes o dispositivos con diferentes direcciones MAC.
