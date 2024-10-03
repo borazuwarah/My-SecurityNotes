@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌐Ciberseguridad/Intrusion/XSS Cross-Site-Scripting.md",
+                "file": "🌐Ciberseguridad/2. Explotación de vulnerabilidades/Reverse Shells, Bind Shells y Forward Shells.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌐Ciberseguridad/Intrusion/XSS Cross-Site-Scripting.md",
+                "file": "🌐Ciberseguridad/2. Explotación de vulnerabilidades/Reverse Shells, Bind Shells y Forward Shells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌐Ciberseguridad/Intrusion/XSS Cross-Site-Scripting.md",
+                "file": "🌐Ciberseguridad/2. Explotación de vulnerabilidades/Reverse Shells, Bind Shells y Forward Shells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌐Ciberseguridad/Intrusion/XSS Cross-Site-Scripting.md"
+                "file": "🌐Ciberseguridad/2. Explotación de vulnerabilidades/Reverse Shells, Bind Shells y Forward Shells.md"
               }
             }
           }
@@ -165,10 +165,17 @@
   },
   "active": "49f33feca8349414",
   "lastOpenFiles": [
+    "🌐Ciberseguridad/Herramientas - Tools/Bash (reverse shell).md",
+    "🌐Ciberseguridad/Herramientas - Tools/Wifite Wifi.md",
+    "🌐Ciberseguridad/2. Explotación de vulnerabilidades/Reverse Shells, Bind Shells y Forward Shells.md",
+    "🌐Ciberseguridad/2. Explotación de vulnerabilidades/Explotacion File Upload.md",
+    "🌐Ciberseguridad/2. Explotación de vulnerabilidades/Explotacion SQL - Injection.md",
+    "🌐Ciberseguridad/2. Explotación de vulnerabilidades/LFI (Local file intrusion).md",
+    "🌐Ciberseguridad/2. Explotación de vulnerabilidades/Webshell.md",
+    "🌐Ciberseguridad/2. Explotación de vulnerabilidades/XSS Cross-Site-Scripting.md",
     "🌐Ciberseguridad/Herramientas - Tools/Herramientas profesionales SOC/EDR.md",
     "Linux/Lsoft port tester.md",
     "🌐Ciberseguridad/Herramientas - Tools/Airgeddon wireless.md",
-    "🌐Ciberseguridad/Herramientas - Tools/Wifite Wifi.md",
     "🌐Ciberseguridad/Wifi Wireless/Wireless.md",
     "🌐Ciberseguridad/Herramientas - Tools/JoomScan (joomla scanner).md",
     "🌐Ciberseguridad/Herramientas - Tools/Macchanger.md",
@@ -184,9 +191,6 @@
     "🌐Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Joomla.md",
     "🌐Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP (TCP).md",
     "🌐Ciberseguridad/Herramientas - Tools/Nc Netcat.md",
-    "🌐Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Wordpress.md",
-    "🌐Ciberseguridad/Herramientas - Tools/dirbuster (web).md",
-    "🌐Ciberseguridad/CTFs/Dockerlabs.es/Trust (Muy fácil) Completa.md",
     "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - secret.php.png",
     "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - nmap.png",
     "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - Web por defecto.png",
@@ -198,16 +202,12 @@
     "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - Eliminar laboratorio.png",
     "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - Escalada sudo -l.png",
     "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust",
-    "🌐Ciberseguridad/Herramientas - Tools/SMBMAP.md",
-    "🌐Ciberseguridad/Herramientas - Tools/Enum4linux.md",
-    "🌐Ciberseguridad/Herramientas - Tools/Curl.md",
-    "🌐Ciberseguridad/Herramientas - Tools/WPScan (wordpress).md",
     "🌐Ciberseguridad/Pantallazos/WPScann",
     "🌐Ciberseguridad/Pantallazos/SSH",
     "🌐Ciberseguridad/Pantallazos/FTP",
     "🌐Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web",
     "Redes",
-    "🌐Ciberseguridad/Reconocimiento",
+    "🌐Ciberseguridad/1. Reconocimiento",
     "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection",
     "🌐Ciberseguridad/Wifi Wireless",
     "Sin título.canvas",
