@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Drupal.md",
+                "file": "Linux/Linux Basico.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Crackmapexec",
+                "query": "sqli",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Drupal.md",
+                "file": "Linux/Linux Basico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Drupal.md",
+                "file": "Linux/Linux Basico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Drupal.md"
+                "file": "Linux/Linux Basico.md"
               }
             }
           }
@@ -176,8 +176,12 @@
   },
   "active": "d64c7076c06c675c",
   "lastOpenFiles": [
-    "Ciberseguridad/Herramientas - Tools/Droopescan (Drupal).md",
+    "Ciberseguridad/Herramientas - Tools/SQLMAP.md",
+    "Ciberseguridad/Intrusion/Explotacion SQL - Injection.md",
+    "Ciberseguridad/CTFs/CTFs by Borazuwarah/GGDDXX.md",
+    "Ciberseguridad/CTFs/CTFs by Borazuwarah/CTF_Guadix.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Drupal.md",
+    "Ciberseguridad/Herramientas - Tools/Droopescan (Drupal).md",
     "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Joomla.md",
     "Ciberseguridad/Herramientas - Tools/JoomScan (joomla scanner).md",
     "Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP (TCP).md",
@@ -210,11 +214,7 @@
     "Ciberseguridad/Herramientas - Tools/Crackmapexec.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Puerto 443 Https.md",
     "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Puerto 80,443 - Http- Https Servicio Web.md",
-    "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Magento.md",
-    "Ciberseguridad/CTFs/CTFs by Borazuwarah/My CTF  -- CTFBorazuwarah1 (VM).md",
     "Ciberseguridad/Pantallazos/SSH",
-    "Docker/Contenedores.md",
-    "Docker/Docker file.md",
     "Ciberseguridad/Pantallazos/FTP",
     "Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web",
     "Redes",
