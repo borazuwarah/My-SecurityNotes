@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌐Ciberseguridad/Herramientas - Tools/Burpsuite.md",
+                "file": "🌐Ciberseguridad/Herramientas - Tools/Lazagne.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌐Ciberseguridad/Herramientas - Tools/Burpsuite.md",
+                "file": "🌐Ciberseguridad/Herramientas - Tools/Lazagne.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌐Ciberseguridad/Herramientas - Tools/Burpsuite.md",
+                "file": "🌐Ciberseguridad/Herramientas - Tools/Lazagne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌐Ciberseguridad/Herramientas - Tools/Burpsuite.md"
+                "file": "🌐Ciberseguridad/Herramientas - Tools/Lazagne.md"
               }
             }
           }
@@ -150,8 +150,10 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "9c1d809fb11d0ac2",
+  "active": "49f33feca8349414",
   "lastOpenFiles": [
+    "🌐Ciberseguridad/Herramientas - Tools/Burpsuite.md",
+    "🌐Ciberseguridad/Herramientas - Tools/Lazagne.md",
     "🌐Ciberseguridad/2. Explotación de vulnerabilidades/Enumeración - Reconocimiento del sistema.md",
     "🌐Ciberseguridad/2. Explotación de vulnerabilidades/SQLI - SQLInjection.md",
     "🌐Ciberseguridad/2. Explotación de vulnerabilidades/Tipos de explotación.md",
@@ -177,8 +179,6 @@
     "🌐Ciberseguridad/2. Explotación de vulnerabilidades/LFI (Local file intrusion).md",
     "🌐Ciberseguridad/2. Explotación de vulnerabilidades/Webshell.md",
     "🌐Ciberseguridad/2. Explotación de vulnerabilidades/XSS Cross-Site-Scripting.md",
-    "🌐Ciberseguridad/Herramientas - Tools/Herramientas profesionales SOC/EDR.md",
-    "Linux/Lsoft port tester.md",
     "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - secret.php.png",
     "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - nmap.png",
     "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust/DockerLabs - Trust - Web por defecto.png",
