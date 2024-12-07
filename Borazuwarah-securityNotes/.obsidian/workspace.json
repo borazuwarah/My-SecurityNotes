@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Linux Basico.md",
+                "file": "🌐Ciberseguridad/CTFs/Dockerlabs.es/HedgeHog (Muy facil) Incompleto.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "50589c328efc7283",
+            "id": "ac2ad145eb413137",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docker/Docker file.md",
+                "file": "🌐Ciberseguridad/CTFs/Dockerlabs.es/Injection (Muy fácil) Completada.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Linux Basico.md",
+                "file": "🌐Ciberseguridad/CTFs/Dockerlabs.es/HedgeHog (Muy facil) Incompleto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Linux Basico.md",
+                "file": "🌐Ciberseguridad/CTFs/Dockerlabs.es/HedgeHog (Muy facil) Incompleto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Linux Basico.md"
+                "file": "🌐Ciberseguridad/CTFs/Dockerlabs.es/HedgeHog (Muy facil) Incompleto.md"
               }
             }
           }
@@ -162,8 +162,15 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "d64c7076c06c675c",
+  "active": "9c1d809fb11d0ac2",
   "lastOpenFiles": [
+    "Dockerlabs - HedgeHog - nmap result.png",
+    "🌐Ciberseguridad/CTFs/Dockerlabs.es/Injection (Muy fácil) Completada.md",
+    "🌐Ciberseguridad/CTFs/Dockerlabs.es/HedgeHog (Muy facil) Incompleto.md",
+    "Dockerlabs - JedgeHog - Ping.png",
+    "Dockerlabs - HedgeHog - Reconocimiento.png",
+    "Docker/Docker file.md",
+    "Linux/Linux Basico.md",
     "🌐Ciberseguridad/Wifi Wireless/Wireless.md",
     "🌐Ciberseguridad/Wifi Wireless",
     "🌐Ciberseguridad/Certificaciones/Titulos obtenidos/certificado-preparacion-para-la-certificacion-del-ejptv2.pdf",
@@ -203,14 +210,7 @@
     "🌐Ciberseguridad/Pantallazos/Tomcat/Tomcat - WAR file to deploy.png",
     "🌐Ciberseguridad/Pantallazos/Tomcat/Tomcat - payloads generate.png",
     "🌐Ciberseguridad/Pantallazos/Tomcat/Tomcat - pagina cancel default credentials.png",
-    "🌐Ciberseguridad/Pantallazos/Tomcat/Tomcat - Conexion.png",
-    "🌐Ciberseguridad/Pantallazos/Tomcat/Tomcat - Files uploaded.png",
     "🌐Ciberseguridad/Pantallazos/WPScann",
-    "🌐Ciberseguridad/Herramientas - Tools/Steganografia/stegseek.md",
-    "🌐Ciberseguridad/Herramientas - Tools/Steganografia/Steghide.md",
-    "🌐Ciberseguridad/Herramientas - Tools/Herramientas profesionales SOC/wfuzz.md",
-    "🌐Ciberseguridad/Herramientas - Tools/Herramientas profesionales SOC/EDR.md",
-    "🌐Ciberseguridad/Herramientas - Tools/WPSeku (Wordpress).md",
     "Sin título.canvas",
     "Ciberseguridad/PIVOTING/Mapa de Red.canvas"
   ]
