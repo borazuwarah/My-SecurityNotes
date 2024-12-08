@@ -49,6 +49,8 @@ Puertos abiertos
 entramos en el navegador con el puerto 80 y vemos si encontramos alguna web interesante:
 ![[Dockerlabs -HedgeHog - WebSite.png]]
 
+solo encontramos una palabra, que puede ser **nombre de usuario**
+
 revisamos el código fuente por si encontramos algo:
 ![[Dockerlabs - hedgeHog - Web codigo fuente.png]]
 Pero no damos con nada interesante
@@ -67,7 +69,7 @@ hydra -l tails -P /usr/share/wordlists/rockyou.txt ssh://172.17.0.2
 
 ![[Dockerlabs - HedgeHog -Rockyou normal.png]]
 pero no encontramos nada, al ver el nombre del usuario tails: se nos ocurre invertir el rockyou
-que básicamente consiste en poner el rockyou al reves y eliminar los espacios
+que básicamente consiste en poner el rockyou al revés y eliminar los espacios
 comandos para invertir el rockyou:
 
 ```sh fold:"Invertir el rockyou"
