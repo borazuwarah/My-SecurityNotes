@@ -3,7 +3,7 @@
 ### Movernos entre directorios
 `cd {nombre carpeta}` nos movemos a la carpeta
 `cd ..` Nos movemos a la carpeta anterior
-### Limpiar temirnal
+### Limpiar teminal
 `Clear`
 ### donde estamos
 `pwd`
