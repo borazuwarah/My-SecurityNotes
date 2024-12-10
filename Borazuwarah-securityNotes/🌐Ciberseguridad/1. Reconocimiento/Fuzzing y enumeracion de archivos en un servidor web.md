@@ -105,10 +105,10 @@ marcando urls también podemos encontrar rutas o recursos, ficheros
 ## Burpsuite
 Desde burpsuite también se puede hacer fuzz para localizar y/o encontrar recursos o rutas
 
-Puedes ver como se envian las solicitudes, cambiar registros y hacer peticiones diferentes
+Puedes ver como se envían las solicitudes, cambiar registros y hacer peticiones diferentes
 
 
-Agregar el addons FoxiProxy 
+Agregar el addons FoxiProxy  --> foxiproxy
 se agrega uno
 nuevo:
 tipo http

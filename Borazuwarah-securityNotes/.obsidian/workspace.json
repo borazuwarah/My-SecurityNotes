@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Overthewire/Bandit.md",
+                "file": "🌐Ciberseguridad/1. Reconocimiento/Fuzzing y enumeracion de archivos en un servidor web.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bandit"
+              "title": "Fuzzing y enumeracion de archivos en un servidor web"
             }
           },
           {
@@ -95,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ssh",
+                "query": "proxy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -212,9 +212,9 @@
   },
   "active": "32c29d58c402c464",
   "lastOpenFiles": [
+    "Linux/Overthewire/Bandit.md",
     "🌐Ciberseguridad/CTFs/Dockerlabs.es/Borazuwarah - CTF1 (muy facil) completed.md",
     "🌐Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP (TCP).md",
-    "Linux/Overthewire/Bandit.md",
     "Linux/SORT, HEAD, TAIL, TAC, TR, WC y UNIQ.md",
     "Linux/Grep.md",
     "Linux/Tuberias Pipe.md",
