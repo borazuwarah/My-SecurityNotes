@@ -19,7 +19,7 @@ cat escritorio.txt | wc -l | grep saludo
 # sobre la salida del cat se ejecuta wc, sobre la salida del wc se ejecuta el grep
 ```
 
-Ejemplo util:
+Ejemplo útil:
 
 ```sh fold:"ejemplo para eliminar lineas repetidas uxando pipe "
 cat  text.txt | sort | uniq

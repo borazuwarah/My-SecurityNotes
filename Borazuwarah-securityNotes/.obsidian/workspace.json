@@ -41,12 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Aprendizaje.md",
+                "file": "Linux/Overthewire/Bandit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aprendizaje"
+              "title": "Bandit"
+            }
+          },
+          {
+            "id": "118cbf1dab207328",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linux/Find.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Find"
             }
           }
         ],
@@ -81,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cp",
+                "query": "ssh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +116,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -197,6 +212,15 @@
   },
   "active": "32c29d58c402c464",
   "lastOpenFiles": [
+    "🌐Ciberseguridad/CTFs/Dockerlabs.es/Borazuwarah - CTF1 (muy facil) completed.md",
+    "🌐Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP (TCP).md",
+    "Linux/Overthewire/Bandit.md",
+    "Linux/SORT, HEAD, TAIL, TAC, TR, WC y UNIQ.md",
+    "Linux/Grep.md",
+    "Linux/Tuberias Pipe.md",
+    "Linux/Find.md",
+    "Linux/Aprendizaje.md",
+    "Linux/Overthewire",
     "🌐Ciberseguridad/dirsearch.md",
     "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/HedgeHog/Dockerlabs -HedgeHog - WebSite.png",
     "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/HedgeHog/Dockerlabs -HedgeHog -  Mirror image.png",
@@ -210,7 +234,6 @@
     "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/HedgeHog/Dockerlabs - HedgeHog - Ping.png",
     "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/HedgeHog",
     "🌐Ciberseguridad/CTFs/Dockerlabs.es/HedgeHog (Muy facil) completed.md",
-    "Linux/Aprendizaje.md",
     "🌐Ciberseguridad/Herramientas - Tools/Burpsuite.md",
     "🌐Ciberseguridad/Herramientas - Tools/Lazagne (Conseguir contraseñas de los navegadores).md",
     "🌐Ciberseguridad/2. Explotación de vulnerabilidades/Enumeración - Reconocimiento del sistema.md",
@@ -228,13 +251,6 @@
     "Linux/Herramientas",
     "🌐Ciberseguridad/Herramientas - Tools/Wireshark.md",
     "🌐Ciberseguridad/Herramientas - Tools/Crear Diccionarios.md",
-    "🌐Ciberseguridad/Herramientas - Tools/Capturar la pantalla.md",
-    "🌐Ciberseguridad/1. Reconocimiento/Google Dorks.md",
-    "🌐Ciberseguridad/Herramientas - Tools/Nc Netcat.md",
-    "🌐Ciberseguridad/2. Explotación de vulnerabilidades/Reverse Shells, Bind Shells y Forward Shells.md",
-    "🌐Ciberseguridad/Herramientas - Tools/Bash (reverse shell).md",
-    "🌐Ciberseguridad/Herramientas - Tools/Wifite Wifi.md",
-    "🌐Ciberseguridad/2. Explotación de vulnerabilidades/Explotacion File Upload.md",
     "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust",
     "🌐Ciberseguridad/Pantallazos/WPScann",
     "🌐Ciberseguridad/Pantallazos/SSH",
@@ -242,7 +258,6 @@
     "🌐Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web",
     "Redes",
     "🌐Ciberseguridad/1. Reconocimiento",
-    "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Injection",
     "Sin título.canvas",
     "🌐Ciberseguridad/PIVOTING/Mapa de Red.canvas"
   ]

@@ -69,7 +69,7 @@ cat {nombre del fichoer} | wc -l
 
 contar palabras
 ```sh fold:"cuenta palabras"
-cat {nombre del fichoer} | wc -w
+cat {nombre del fichero} | wc -w
 ```
 
 contar caracteres
@@ -81,7 +81,7 @@ cat {nombre del fichoer} | wc -c
 Sirve para eliminar salidas repetidas.
 Elimina salidas repetidas.
 ```sh fold:"Eliminar lineas repetidas"
-cat {nombre del fichoer} | uniq
+cat {nombre del fichero} | uniq
 ```
 
 Elimina linea respetidas y ordena la informacion

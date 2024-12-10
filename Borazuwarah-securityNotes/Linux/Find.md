@@ -32,3 +32,14 @@ find . -type f
 find . -type d
 ```
 
+Buscar por un peso especifico: en bytes y de tiopo fichero.
+
+```sh fold:"buscar por peso especifico y de tipo fichero"
+find / -type f -size 33c 
+```
+
+Buscar por el propietario usuario y un grupo especifico:
+```sh fold:"Buscar por el propietario usuario y un grupo especifico"
+find / -type f -size 33c -user bandit7 -group bandit6 2>/dev/null
+```
+ 
