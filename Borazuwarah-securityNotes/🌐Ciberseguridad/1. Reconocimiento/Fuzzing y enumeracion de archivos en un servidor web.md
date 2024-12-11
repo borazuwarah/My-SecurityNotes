@@ -37,6 +37,7 @@ gobuster dir  -u {dominio} -w /usr/share/SecLists/Discovery/Web-Content/director
 
 
 ## Wfuzz
+Herramienta para reconocimiento de recursos web
 
 ```sh fold:"wfuzz para reconocimiento de recursos web"
 
