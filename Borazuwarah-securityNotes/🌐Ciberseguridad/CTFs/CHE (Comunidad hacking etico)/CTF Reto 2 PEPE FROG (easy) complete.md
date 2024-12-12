@@ -4,12 +4,12 @@ Autor:
 
 Herramientas usadas: 
 - [[ARP-Scan]]
-- [[Linux/wget|wget]]
+- [[Sistemas Operativos/Linux/wget|wget]]
 - [[NMAP]]
 - [[Gobuster]]
 - [[Base64]]
 - [[Steghide]]
-- [[Linux/wget]]
+- [[Sistemas Operativos/Linux/wget]]
 ## Reconocimiento
 
 Descubrimos la IP: 192.168.1.143:
