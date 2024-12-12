@@ -5,11 +5,11 @@
 
 Hay múltiples herramientas de gestión de ficheros
 algunas herramientas:
-- [[touch]]
+- [[Touch]]
 - [[Nano]]
 - [[Vi, Vim]]
-- [[pipe]]
-- [[edit]]
+- [[Pipe]]
+- [[Edit]]
 
 
 Cambien se puede enviar la salida de un comando a un fichero con >

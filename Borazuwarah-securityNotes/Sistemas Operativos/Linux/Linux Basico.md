@@ -33,7 +33,7 @@
 
 ### copiar ficheros
 `cp fichero nuevarutaFichero`
-`cp fichero nuevoNombre` tambien se le puede cambiar el nombre
+`cp fichero nuevoNombre` también se le puede cambiar el nombre
 
 
 
@@ -44,7 +44,7 @@
 `apt install {nombre de apliacion}`
 > ejemplo instalación audacity  --> `apt install audacity`
 
-## Instalar aplicacion que no está en los repos:
+## Instalar aplicación que no está en los repos:
 Descargamos  el fichero  .deb
 una vez descargado
 Instalacion
