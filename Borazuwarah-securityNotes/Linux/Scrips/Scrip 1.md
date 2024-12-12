@@ -1,4 +1,4 @@
-Este escrip va a mostrar mensaje por pantalla esperando entre lso mensajes varios segundos
+Este escript va a mostrar mensaje por pantalla esperando entre lso mensajes varios segundos
 
 
 ```sh fold:"script1.sh"
