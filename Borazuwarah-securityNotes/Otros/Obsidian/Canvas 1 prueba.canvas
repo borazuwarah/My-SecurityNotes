@@ -3,7 +3,7 @@
 		{"id":"f8fa9d24b1a5e6d0","type":"group","x":-340,"y":-340,"width":305,"height":340,"color":"1","label":"Grupo de elementos"},
 		{"id":"66b74a3a1e7358ab","type":"text","text":"esto es una relacion a una nota ","x":300,"y":-480,"width":250,"height":60},
 		{"id":"998cfeb1cf2919e2","type":"file","file":"Obsidian Esta es una nueva Nota para pruebas.md","x":225,"y":0,"width":400,"height":421,"color":"3"},
-		{"id":"6796686f4a2de3dc","type":"file","file":"Obsidian/Pantallazosn de  Obsidian/Obsi configuration.png","x":-240,"y":280,"width":293,"height":161},
+		{"id":"6796686f4a2de3dc","type":"file","file":"Otros/Obsidian/Pantallazosn de  Obsidian/Obsi configuration.png","x":-240,"y":280,"width":293,"height":161},
 		{"id":"f477accfe9f461b9","type":"text","text":"etiqueta","x":-305,"y":-320,"width":250,"height":60},
 		{"id":"64d3c09b4fb4d571","type":"text","text":"etiqueta 2","x":-320,"y":-80,"width":250,"height":60,"color":"5"}
 	],
