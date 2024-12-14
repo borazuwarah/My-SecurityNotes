@@ -1,75 +1,41 @@
 {
   "main": {
-    "id": "b85fce2869bb54b3",
+    "id": "7e68227cd1f876e0",
     "type": "split",
     "children": [
       {
-        "id": "6b3f8752e27046be",
+        "id": "9f687505d0a4ae98",
         "type": "tabs",
         "children": [
           {
-            "id": "49f33feca8349414",
+            "id": "f4823c4d1435d561",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌐Ciberseguridad/Herramientas - Tools/Lazagne (Conseguir contraseñas de los navegadores).md",
+                "file": "Desarrollo - Programacion/HTML.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lazagne (Conseguir contraseñas de los navegadores)"
+              "title": "HTML"
             }
-<<<<<<< HEAD
           }
         ]
-=======
-          },
-          {
-            "id": "93a82c0af254d416",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemas Operativos/Linux/Tuberias Pipe.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Tuberias Pipe"
-            }
-          },
-          {
-            "id": "118cbf1dab207328",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux/Find.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Find"
-            }
-          }
-        ],
-        "currentTab": 1
->>>>>>> 9ad79e727c857fb9db4617ee3727aeabbb806d32
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "adfb21087bea0655",
+    "id": "6f4e008e3a6f883d",
     "type": "split",
     "children": [
       {
-        "id": "97997bcff31b112b",
+        "id": "d7c01242df428623",
         "type": "tabs",
         "children": [
           {
-            "id": "9c1d809fb11d0ac2",
+            "id": "48c2f37da5946328",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -81,12 +47,12 @@
             }
           },
           {
-            "id": "a3ca4eed9e14fe24",
+            "id": "922321fe18a94877",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "snmp",
+                "query": "intrud",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +64,7 @@
             }
           },
           {
-            "id": "3728582bbd9c1fc3",
+            "id": "284c47d266df2302",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -114,20 +80,20 @@
     "width": 300
   },
   "right": {
-    "id": "325cc5529e6cbb6a",
+    "id": "4ebd111c84f06639",
     "type": "split",
     "children": [
       {
-        "id": "c80633956cafd4c6",
+        "id": "fcc09c53af1e43eb",
         "type": "tabs",
         "children": [
           {
-            "id": "ee777ae560b3dff3",
+            "id": "72e34af7da9d8681",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Linux Basico.md",
+                "file": "Desarrollo - Programacion/HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,25 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Linux Basico"
+              "title": "Enlaces entrantes de HTML"
             }
           },
           {
-            "id": "0d903626249147ae",
+            "id": "f1f38619afe8b677",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Linux Basico.md",
+                "file": "Desarrollo - Programacion/HTML.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Linux Basico"
+              "title": "Enlaces salientes de HTML"
             }
           },
           {
-            "id": "42287682d2274037",
+            "id": "69324a33e66da23d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -168,15 +134,15 @@
             }
           },
           {
-            "id": "adb1b70a9e3ae4d3",
+            "id": "611b28feb7f2c55a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Linux Basico.md"
+                "file": "Desarrollo - Programacion/HTML.md"
               },
               "icon": "lucide-list",
-              "title": "Esquema de Linux Basico"
+              "title": "Esquema de HTML"
             }
           }
         ]
@@ -200,87 +166,11 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-<<<<<<< HEAD
-  "active": "49f33feca8349414",
+  "active": "f4823c4d1435d561",
   "lastOpenFiles": [
-    "Linux/Linux Basico.md",
-    "Linux/Find.md",
-    "🌐Ciberseguridad/1. Reconocimiento/Fuzzing y enumeracion de archivos en un servidor web.md",
-    "Linux/Overthewire/Bandit.md",
-    "🌐Ciberseguridad/CTFs/Dockerlabs.es/Borazuwarah - CTF1 (muy facil) completed.md",
-    "🌐Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP (TCP).md",
-    "Linux/SORT, HEAD, TAIL, TAC, TR, WC y UNIQ.md",
-    "Linux/Grep.md",
-    "Linux/Tuberias Pipe.md",
-    "Linux/Aprendizaje.md",
-    "Linux/Overthewire",
-    "🌐Ciberseguridad/dirsearch.md",
-=======
-  "active": "93a82c0af254d416",
-  "lastOpenFiles": [
-    "🌐Ciberseguridad/Herramientas - Tools/Onesixtyone (UDP).md",
-    "🌐Ciberseguridad/Puertos y Servicios/puerto 161 - SNMP (UDP).md",
-    "🌐Ciberseguridad/Puertos y Servicios/Puerto 53 - DNS (TCP).md",
-    "🌐Ciberseguridad/CTFs/CTF Template {platform - Machine name} {Status}.md",
-    "Sistemas Operativos/Windows/CertUtil.md",
-    "Sistemas Operativos",
-    "Sistemas Operativos/Windows",
-    "Sistemas Operativos/Linux/Linux Basico.md",
-    "Sistemas Operativos/Linux/Aprendizaje.md",
-    "🌐Ciberseguridad/Tratamiento de la TTY.md",
-    "🌐Ciberseguridad/dirsearch.md",
-    "Sistemas Operativos/Linux/Scrips/Scrip 1.md",
-    "Personal Projects/Proyectos personales.md",
-    "Personal Projects/Freezer manager (gestion del congelador).md",
-    "Personal Projects/Extension de navegador para generar contraseñas Aleatorias.md",
-    "🌐Ciberseguridad/2. Explotación de vulnerabilidades/SQLI - SQLInjection.md",
-    "🌐Ciberseguridad/1. Reconocimiento/Fuzzing y enumeracion de archivos en un servidor web.md",
-    "Sistemas Operativos/Linux/Overthewire/Bandit.md",
-    "🌐Ciberseguridad/CTFs/Dockerlabs.es/Borazuwarah - CTF1 (muy facil) completed.md",
-    "🌐Ciberseguridad/Puertos y Servicios/Puerto 22 SSH - SFTP (TCP).md",
-    "Sistemas Operativos/Linux/SORT, HEAD, TAIL, TAC, TR, WC y UNIQ.md",
-    "Sistemas Operativos/Linux/Grep.md",
-    "Sistemas Operativos/Linux/Tuberias Pipe.md",
-    "Sistemas Operativos/Linux/Find.md",
-    "Sistemas Operativos/Linux/Overthewire",
->>>>>>> 9ad79e727c857fb9db4617ee3727aeabbb806d32
-    "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/HedgeHog/Dockerlabs -HedgeHog - WebSite.png",
-    "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/HedgeHog/Dockerlabs -HedgeHog -  Mirror image.png",
-    "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/HedgeHog/Dockerlabs - HedgeHog -whoami - sudo -l.png",
-    "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/HedgeHog/Dockerlabs - HedgeHog -User pivoting - sonic.png",
-    "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/HedgeHog/Dockerlabs - HedgeHog -User pivoting - root.png",
-    "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/HedgeHog/Dockerlabs - HedgeHog -Rockyou normal.png",
-    "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/HedgeHog/Dockerlabs - hedgeHog - Web codigo fuente.png",
-    "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/HedgeHog/Dockerlabs - HedgeHog - SSH connection.png",
-    "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/HedgeHog/Dockerlabs - HedgeHog - Reconocimiento.png",
-    "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/HedgeHog/Dockerlabs - HedgeHog - Ping.png",
-    "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/HedgeHog",
-    "🌐Ciberseguridad/CTFs/Dockerlabs.es/HedgeHog (Muy facil) completed.md",
-    "🌐Ciberseguridad/Herramientas - Tools/Burpsuite.md",
-    "🌐Ciberseguridad/Herramientas - Tools/Lazagne (Conseguir contraseñas de los navegadores).md",
-    "🌐Ciberseguridad/2. Explotación de vulnerabilidades/Enumeración - Reconocimiento del sistema.md",
-<<<<<<< HEAD
-    "🌐Ciberseguridad/2. Explotación de vulnerabilidades/SQLI - SQLInjection.md",
-    "🌐Ciberseguridad/2. Explotación de vulnerabilidades/Tipos de explotación.md",
-    "🌐Ciberseguridad/2. Explotación de vulnerabilidades/Payloads.md",
-    "🌐Ciberseguridad/2. Explotación de vulnerabilidades/apache Tomcat.md",
-    "Linux/Editor y creador de fichoers.md",
-    "Linux/Herramientas/Pipe.md",
-    "Linux/Herramientas/Edit.md",
-    "Linux/Herramientas/Touch.md",
-    "Linux/Herramientas/Vi, Vim.md",
-    "Linux/Herramientas/Nano.md",
-    "Linux/Herramientas",
-    "🌐Ciberseguridad/Herramientas - Tools/Wireshark.md",
-=======
-    "Sistemas Operativos/Linux/Herramientas",
->>>>>>> 9ad79e727c857fb9db4617ee3727aeabbb806d32
-    "🌐Ciberseguridad/CTFs/Dockerlabs.es/Pantallazos/Trust",
-    "🌐Ciberseguridad/Pantallazos/WPScann",
-    "🌐Ciberseguridad/Pantallazos/SSH",
-    "🌐Ciberseguridad/Pantallazos/FTP",
-    "🌐Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web",
-    "Sin título.canvas",
-    "🌐Ciberseguridad/PIVOTING/Mapa de Red.canvas"
+    "🌐Ciberseguridad/Herramientas - Tools/Wifite Wifi.md",
+    "🌐Ciberseguridad/Wifi Wireless/Wireless.md",
+    "Desarrollo - Programacion/HTML.md",
+    "🌐Ciberseguridad/Herramientas - Tools/Burpsuite.md"
   ]
 }

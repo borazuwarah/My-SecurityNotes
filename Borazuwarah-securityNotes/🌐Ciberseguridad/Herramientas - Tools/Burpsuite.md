@@ -9,6 +9,27 @@ Permite a los profesionales de la seguridad y a los desarrolladores identificar 
 - **Escaneo automatizado**: Detecta automáticamente vulnerabilidades comunes.
 - **Fuzzing**: Envia una gran cantidad de datos de prueba para encontrar fallos en la aplicación.
 - **Análisis de respuesta**: Inspecciona las respuestas del servidor para encontrar información sensible.
+## Burpsuite certificado SSL
+Para webs con certificado SSL (HTTPS) se puede exportar el certificado  e importarlo en el navegador para evitar que burpsuite nos esté preguntando constantemente por aceptar o no el certificado
+Vamos a proxy settings /  button Import/export certifiate
+DFe esta manera exportamos el certificado de burpsuite
+Export --> Certificate in DER format
+descargamos el certificado en un fichero 
+
+Ahora vamos al navegador  / settings
+certificates import--> Agremagos el certificado  descargado de burpsuite
+
+## Scope en burpsuite
+Para evitar ruido/problemas y que burpsuite pare solo las peticiones del dominio/IP que deseeamos se puede agregar un scope a burpsuite
+
+para hacerlo en la peticion que queremos marcamos con el derecho / Add to scope por tanto todas las peticiones que estén fuera del scope no van a ser interceptadas
+
+
+
+
+
+
+
 
 ## Burpsuite repeater
 permite enviar manualmente solicitudes HTTP específicas y analizar las respuestas del servidor. Es especialmente útil para:
@@ -39,3 +60,15 @@ Las principales herramientas que componen BurpSuite son las siguientes:
 Se trata de una herramienta extremadamente potente, la cual puede ser utilizada para identificar una amplia variedad de vulnerabilidades de seguridad en aplicaciones web. Al utilizar las diferentes herramientas que componen BurpSuite, los usuarios pueden identificar vulnerabilidades de forma automatizada o manual, según sus necesidades. Esto permite a los usuarios encontrar vulnerabilidades y corregirlas antes de que sean explotadas por un atacante.
 
 En resumen, Burp Suite es una herramienta imprescindible para cualquier profesional de seguridad informática que busque asegurar la seguridad de aplicaciones web. En la siguiente sección, tendremos la oportunidad de utilizar BurpSuite en detalle y sacarle el máximo provecho a esta herramienta.
+
+## Burpsuite comparer 
+Comparer sirve para comparar respuestas del lado del servidor y ver las diferencias
+vamos a una  respuesta del servidor y la copiamos (Pretty) y la pegamos en comparer
+Copiamos otra respuesta (diferente a la anterior) del servidor y la copiamos (Pretty) y la pegamos en comparer
+marcamos por qué la queremos comparar  (caracteres/ palabras...) y mostrará un resultado comparatiorio de las respeustas
+
+## Burpsuite doceder
+es una herramienta dentro del burpsuite que sireve para encodeear strings
+tambien sirve para decodear codigos
+
+base64 / urlncode entre otros tipos de ncodeado disponible en esta herramienta
