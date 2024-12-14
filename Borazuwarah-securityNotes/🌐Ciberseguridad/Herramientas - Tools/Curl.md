@@ -1,5 +1,9 @@
+commando para hacer peticiones a un servidor
 
-## Listar plugings en wordpress
+
+cheat sheet
+![[curl-command-cheatshee.pdf]]
+## Listar plugings en wordpress con curl
 
 ```sh fold:"Listar plugings en wordpress"
 curl -s -X GET {dominio principal} | grep plugins
