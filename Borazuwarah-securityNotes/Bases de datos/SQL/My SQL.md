@@ -15,7 +15,6 @@ sudo mysql --> conexion local
 create database nombre;
 
 ## Listar bases de datis
-
 show databases;
 
 ## Borrar base de datos
@@ -47,12 +46,12 @@ Update basedatos columnaquequiero set nuevovalor
 ejemplos
 update user set password="NuevaContraseña"
 
-## borrar eliminar datos (delete)
+## Borrar o eliminar datos (delete)
 delete
 ejemplos
 delete from user where Apellido ="Fajardo";
 
-## filtrar consultas (where)
+## Filtrar consultas (where)
 where
 ejemplos
 select * from user where password="viejoFraile";

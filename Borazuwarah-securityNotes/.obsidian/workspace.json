@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bases de datos/SQL/My SQL.md",
+                "file": "Desarrollo - Programacion/C Sharp/C Sharp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "My SQL"
+              "title": "C Sharp"
             }
           }
         ]
@@ -168,6 +168,11 @@
   },
   "active": "c4664de971123eeb",
   "lastOpenFiles": [
+    "Desarrollo - Programacion/Recursos/La Biblia de CSharp - Anaya.pdf",
+    "Desarrollo - Programacion/Python/Python.md",
+    "Desarrollo - Programacion/Recursos/python-language-es.8.pdf",
+    "Desarrollo - Programacion/C Sharp/C Sharp.md",
+    "Desarrollo - Programacion/Recursos",
     "Bases de datos/SQL/My SQL.md",
     "Bases de datos/SQL",
     "Bases de datos"
