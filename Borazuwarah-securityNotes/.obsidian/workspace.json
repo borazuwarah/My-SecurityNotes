@@ -1,118 +1,41 @@
 {
   "main": {
-<<<<<<< HEAD
-    "id": "9041cf63406f8569",
+    "id": "62cbda1c3e7d7f12",
     "type": "split",
     "children": [
       {
-        "id": "1d8d4f097a46088d",
+        "id": "7fe2db5e1dd6f91d",
         "type": "tabs",
         "children": [
           {
-            "id": "ddb8f1e05e9bd0be",
-=======
-    "id": "7e68227cd1f876e0",
-    "type": "split",
-    "children": [
-      {
-        "id": "c5cf2ad5d68764f8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9f5b52aacf800abf",
->>>>>>> f4ae008962648768db20ad7d6c8e4735e6dba5b2
+            "id": "c4664de971123eeb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "🌐Ciberseguridad/Puertos y Servicios/Puerto 445 SMB - SAMBA.md",
-=======
-                "file": "🌐Ciberseguridad/CTFs/Vulnyx/Vulnyx - Doctor (low) completed.md",
->>>>>>> f4ae008962648768db20ad7d6c8e4735e6dba5b2
+                "file": "Bases de datos/SQL/My SQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "Puerto 445 SMB - SAMBA"
-            }
-          },
-          {
-            "id": "38e205d1ee15a8d1",
-=======
-              "title": "Vulnyx - Doctor (low) completed"
-            }
-          },
-          {
-            "id": "154ada59073e88d7",
->>>>>>> f4ae008962648768db20ad7d6c8e4735e6dba5b2
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "🌐Ciberseguridad/Herramientas - Tools/RPCCLIENT.md",
-=======
-                "file": "🌐Ciberseguridad/CTFs/Vulnyx/Vulnyx - Doctor (low) completed.md",
->>>>>>> f4ae008962648768db20ad7d6c8e4735e6dba5b2
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "RPCCLIENT"
+              "title": "My SQL"
             }
           }
-        ],
-        "currentTab": 1
-=======
-              "title": "Vulnyx - Doctor (low) completed"
-            }
-          },
-          {
-            "id": "f53160cbfb91f507",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🌐Ciberseguridad/Herramientas - Tools/Curl.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Curl"
-            }
-          }
-        ],
-        "currentTab": 2
->>>>>>> f4ae008962648768db20ad7d6c8e4735e6dba5b2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-<<<<<<< HEAD
-    "id": "e41f1593f3347839",
+    "id": "b50f11d394589759",
     "type": "split",
     "children": [
       {
-        "id": "21695bf3f3373ff4",
+        "id": "0abd6ad567634496",
         "type": "tabs",
         "children": [
           {
-            "id": "48cddb88f2e480bf",
-=======
-    "id": "6f4e008e3a6f883d",
-    "type": "split",
-    "children": [
-      {
-        "id": "d7c01242df428623",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "48c2f37da5946328",
->>>>>>> f4ae008962648768db20ad7d6c8e4735e6dba5b2
+            "id": "51e2b4df54b91265",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -124,20 +47,12 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "0ec638136b42e64f",
-=======
-            "id": "922321fe18a94877",
->>>>>>> f4ae008962648768db20ad7d6c8e4735e6dba5b2
+            "id": "fab6b1e7aefcf5e2",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-<<<<<<< HEAD
-                "query": "rpc",
-=======
-                "query": "curl",
->>>>>>> f4ae008962648768db20ad7d6c8e4735e6dba5b2
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,11 +64,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "282622716e17cf07",
-=======
-            "id": "284c47d266df2302",
->>>>>>> f4ae008962648768db20ad7d6c8e4735e6dba5b2
+            "id": "27c5a9add4e594bf",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -162,44 +73,27 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-<<<<<<< HEAD
-    "id": "c6d56d17acef6c46",
+    "id": "88e1282745c90d60",
     "type": "split",
     "children": [
       {
-        "id": "92fbd86b99daaf95",
+        "id": "ea79d4db7fa23d8e",
         "type": "tabs",
         "children": [
           {
-            "id": "12f00560388db1ef",
-=======
-    "id": "4ebd111c84f06639",
-    "type": "split",
-    "children": [
-      {
-        "id": "fcc09c53af1e43eb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "72e34af7da9d8681",
->>>>>>> f4ae008962648768db20ad7d6c8e4735e6dba5b2
+            "id": "33dc4d263912d409",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "🌐Ciberseguridad/Herramientas - Tools/RPCCLIENT.md",
-=======
-                "file": "🌐Ciberseguridad/Herramientas - Tools/Curl.md",
->>>>>>> f4ae008962648768db20ad7d6c8e4735e6dba5b2
+                "file": "Bases de datos/SQL/My SQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,45 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-<<<<<<< HEAD
-              "title": "Enlaces entrantes de RPCCLIENT"
+              "title": "Enlaces entrantes de My SQL"
             }
           },
           {
-            "id": "d7c2e5ce9f4846f7",
-=======
-              "title": "Enlaces entrantes de Curl"
-            }
-          },
-          {
-            "id": "f1f38619afe8b677",
->>>>>>> f4ae008962648768db20ad7d6c8e4735e6dba5b2
+            "id": "e3523af53ccf17a2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "🌐Ciberseguridad/Herramientas - Tools/RPCCLIENT.md",
-=======
-                "file": "🌐Ciberseguridad/Herramientas - Tools/Curl.md",
->>>>>>> f4ae008962648768db20ad7d6c8e4735e6dba5b2
+                "file": "Bases de datos/SQL/My SQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-<<<<<<< HEAD
-              "title": "Enlaces salientes de RPCCLIENT"
+              "title": "Enlaces salientes de My SQL"
             }
           },
           {
-            "id": "48bf444ba5050ac7",
-=======
-              "title": "Enlaces salientes de Curl"
-            }
-          },
-          {
-            "id": "69324a33e66da23d",
->>>>>>> f4ae008962648768db20ad7d6c8e4735e6dba5b2
+            "id": "48abef0a0f5051d2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -260,26 +134,15 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "7619aefdc881e00c",
-=======
-            "id": "611b28feb7f2c55a",
->>>>>>> f4ae008962648768db20ad7d6c8e4735e6dba5b2
+            "id": "df9071123f0e5673",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "🌐Ciberseguridad/Herramientas - Tools/RPCCLIENT.md"
+                "file": "Bases de datos/SQL/My SQL.md"
               },
               "icon": "lucide-list",
-              "title": "Esquema de RPCCLIENT"
-=======
-                "file": "🌐Ciberseguridad/Herramientas - Tools/Curl.md"
-              },
-              "icon": "lucide-list",
-              "title": "Esquema de Curl"
->>>>>>> f4ae008962648768db20ad7d6c8e4735e6dba5b2
+              "title": "Esquema de My SQL"
             }
           }
         ]
@@ -303,27 +166,10 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-<<<<<<< HEAD
-  "active": "38e205d1ee15a8d1",
+  "active": "c4664de971123eeb",
   "lastOpenFiles": [
-    "🌐Ciberseguridad/Puertos y Servicios/Puerto 445 SMB - SAMBA.md"
-=======
-  "active": "48c2f37da5946328",
-  "lastOpenFiles": [
-    "🌐Ciberseguridad/Herramientas - Tools/Contenido extra",
-    "Recursos/curl-command-cheatsheet.pdf",
-    "🌐Ciberseguridad/Herramientas - Tools/Curl.md",
-    "🌐Ciberseguridad/Herramientas - Tools/Contenido extra/curl-command-cheatshee.pdf",
-    "🌐Ciberseguridad/CTFs/Vulnyx/Vulnyx - Doctor (low) completed.md",
-    "Recursos",
-    "🌐Ciberseguridad/Certificaciones/Titulos obtenidos/certificado-gestion-de-conocimiento-con-obsidian.pdf",
-    "🌐Ciberseguridad/Certificaciones/Titulos obtenidos/PabloR-Preparacion-para-la-Certificacion-del-eJPTv2-Certificado-de-Finalizacion-Mario-El-Rincon-del-Hacker.pdf",
-    "🌐Ciberseguridad/Certificaciones/Titulos obtenidos/certificado-preparacion-para-la-certificacion-del-ejptv2.pdf",
-    "Desarrollo - Programacion/HTML.md",
-    "Otros/Splunk",
-    "🌐Ciberseguridad/Herramientas - Tools/Wifite Wifi.md",
-    "🌐Ciberseguridad/Wifi Wireless/Wireless.md",
-    "🌐Ciberseguridad/Herramientas - Tools/Burpsuite.md"
->>>>>>> f4ae008962648768db20ad7d6c8e4735e6dba5b2
+    "Bases de datos/SQL/My SQL.md",
+    "Bases de datos/SQL",
+    "Bases de datos"
   ]
 }
