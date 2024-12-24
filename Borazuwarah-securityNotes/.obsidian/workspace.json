@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌐Ciberseguridad/Herramientas - Tools/Curl.md",
+                "file": "🌐Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Puerto 80,443 - Http- Https Servicio Web.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Curl"
+              "title": "Puerto 80,443 - Http- Https Servicio Web"
             }
           }
         ],
@@ -81,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "curl",
+                "query": "hash",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,8 @@
               "title": "Marcadores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌐Ciberseguridad/Herramientas - Tools/Curl.md",
+                "file": "🌐Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Puerto 80,443 - Http- Https Servicio Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Curl"
+              "title": "Enlaces entrantes de Puerto 80,443 - Http- Https Servicio Web"
             }
           },
           {
@@ -141,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌐Ciberseguridad/Herramientas - Tools/Curl.md",
+                "file": "🌐Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Puerto 80,443 - Http- Https Servicio Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Curl"
+              "title": "Enlaces salientes de Puerto 80,443 - Http- Https Servicio Web"
             }
           },
           {
@@ -168,10 +169,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌐Ciberseguridad/Herramientas - Tools/Curl.md"
+                "file": "🌐Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Puerto 80,443 - Http- Https Servicio Web.md"
               },
               "icon": "lucide-list",
-              "title": "Esquema de Curl"
+              "title": "Esquema de Puerto 80,443 - Http- Https Servicio Web"
             }
           }
         ]
@@ -195,11 +196,12 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "48c2f37da5946328",
+  "active": "922321fe18a94877",
   "lastOpenFiles": [
+    "Otros/Splunk/Splunk software.md",
+    "🌐Ciberseguridad/Herramientas - Tools/Curl.md",
     "🌐Ciberseguridad/Herramientas - Tools/Contenido extra",
     "Recursos/curl-command-cheatsheet.pdf",
-    "🌐Ciberseguridad/Herramientas - Tools/Curl.md",
     "🌐Ciberseguridad/Herramientas - Tools/Contenido extra/curl-command-cheatshee.pdf",
     "🌐Ciberseguridad/CTFs/Vulnyx/Vulnyx - Doctor (low) completed.md",
     "Recursos",

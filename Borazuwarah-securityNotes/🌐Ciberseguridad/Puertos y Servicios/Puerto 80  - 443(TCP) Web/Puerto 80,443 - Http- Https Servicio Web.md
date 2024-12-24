@@ -20,7 +20,12 @@ Protocolo de transferencia de hipertexto es el protocolo de comunicación que pe
 	- ffuf
 	- Nikto
 - Woredpress
-	- [[WPScan (wordpress)]]
+	- [[WPScan (wordpress]]
+- Dominios, IP y DNS
+
+	- [SecurityTrails: Data Security, Threat Hunting, and Attack Surface Management Solutions for Security Teams](https://securitytrails.com/)
+	- AssetFinder (Obtener subdominios)
+	- Subfinder (Obtener subdominios)
 
 
 
