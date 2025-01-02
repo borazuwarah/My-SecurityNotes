@@ -69,15 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🌐Ciberseguridad/Herramientas - Tools/dirbuster (web).md",
+                "file": "🌐Ciberseguridad/Herramientas - Tools/Dirbuster (web).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "dirbuster (web)"
+              "title": "Dirbuster (web)"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -222,15 +223,16 @@
       "workspaces:Gestionar disposiciones de espacio de trabajo": false
     }
   },
-  "active": "f53160cbfb91f507",
+  "active": "94df9ae05ef8d1b5",
   "lastOpenFiles": [
+    "🌐Ciberseguridad/Webs Interesantes.md",
     "🌐Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Metodologia pentesting Web.md",
     "🌐Ciberseguridad/Herramientas - Tools/WFUZZ.md",
     "🌐Ciberseguridad/Herramientas - Tools/Herramientas profesionales SOC/Splunk.md",
     "🌐Ciberseguridad/Herramientas - Tools/Herramientas profesionales SOC/Qradar.md",
     "🌐Ciberseguridad/Herramientas - Tools/Gobuster.md",
     "🌐Ciberseguridad/CTFs/Vulnyx/Vulnyx - Doctor (low) completed.md",
-    "🌐Ciberseguridad/Herramientas - Tools/dirbuster (web).md",
+    "🌐Ciberseguridad/Herramientas - Tools/Dirbuster (web).md",
     "🌐Ciberseguridad/Puertos y Servicios/Puerto 80  - 443(TCP) Web/Puerto 80,443 - Http- Https Servicio Web.md",
     "Desarrollo - Programacion/Recursos/python-language-es.8.pdf",
     "Desarrollo - Programacion/Recursos/La Biblia de CSharp - Anaya.pdf",

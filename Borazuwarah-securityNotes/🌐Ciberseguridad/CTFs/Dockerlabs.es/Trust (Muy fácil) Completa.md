@@ -8,7 +8,7 @@ Herramientas:
 [[Ping]]
 [[NMAP]]
 [[Gobuster]]
-[[dirbuster (web)]]
+[[Dirbuster (web)]]
 [[Hydra, Ataques de Fuerza Bruta y John the Ripper]]
 [[Puerto 22 SSH - SFTP (TCP)]]
 [[Escalada de privilegios en LINUX]]

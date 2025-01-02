@@ -75,5 +75,3 @@ https://www.base64decode.org/
 
 
 
-# WriteUps hechos
-[Machines - Search engine (infosecmachines.io)](https://infosecmachines.io/)
