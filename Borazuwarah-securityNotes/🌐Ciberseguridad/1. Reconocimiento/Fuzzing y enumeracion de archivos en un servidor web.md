@@ -1,7 +1,7 @@
 herramientas 
 
 - [[Gobuster]] 
-- [[wfuzz]]
+- [[WFUZZ]]
 - [[Burpsuite]]
 
 

@@ -16,7 +16,7 @@ Protocolo de transferencia de hipertexto es el protocolo de comunicación que pe
 - Fuerza bruta a directorios
 	- [[Gobuster]]
 	- [[dirsearch]]
-	-  [[wfuzz]]
+	-  [[WFUZZ]]
 	- ffuf
 	- Nikto
 - Woredpress
@@ -28,6 +28,8 @@ Protocolo de transferencia de hipertexto es el protocolo de comunicación que pe
 	- Subfinder (Obtener subdominios)
 
 
+# Metodologia pentesting web
+[[Metodologia pentesting Web]]
 
 # WPScan
 

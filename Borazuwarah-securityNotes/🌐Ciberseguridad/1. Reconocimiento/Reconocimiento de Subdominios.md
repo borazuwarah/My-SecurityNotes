@@ -29,7 +29,7 @@ gbuster vhost -u https:77tinder.com -w /usr/sgare/SecList/Discovery/DNS/subdomai
 # /usr/sgare/SecList/Discovery/DNS/subdomains-top1million-110000.txt
 ```
 
-## Wfuzz [[wfuzz]]
+## Wfuzz [[WFUZZ]]
 nos permite descubrir subdominios
 
 ```sh title:"reconocimiento de subdominiso con wfuzz"
