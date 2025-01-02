@@ -20,6 +20,7 @@ https://j4ckie0x17.gitbook.io/notes-pentesting/ --> La web de Jackie
 [Bienvenidos al Book | H4ckdotCL](https://book.h4ck.cl/) --> Web de HackdotCl
 [Índice | Securiters Wiki](https://wiki.securiters.com/securiters-wiki) --> wiki de securiters
 
+
 | https://rinku.tech/                                                                 | Web de Rinku       |
 | ----------------------------------------------------------------------------------- | ------------------ |
 | [whoami \| J4ckie0x17 (gitbook.io)](https://j4ckie0x17.gitbook.io/notes-pentesting) | La web de Jackie   |
@@ -53,6 +54,7 @@ https://vulnyx.com/
 [TryHackMe | Cyber Security Training](https://tryhackme.com/) --> plataforma recomendada para cuando sea más pro
 [Vulnerable By Design ~ VulnHub](https://www.vulnhub.com/)  --> plataforma con muchas maquinas pero hace tiempo que no suben maquinas nuevas
 [hackthebox](hackthebox.com)
+[Bug Bounty Labs](https://bugbountylabs.com/) --> centrado en hacking web
 [The Hackers Labs](https://thehackerslabs.com/) --> diferentes maquinas con diferentes niveles
 [Dockerlabs](https://dockerlabs.es/#/) --> Webs enfocada a maquinas de seguridad en Docker
 https://hackmyvm.eu/ --> maquinas virtuales gratuitas
